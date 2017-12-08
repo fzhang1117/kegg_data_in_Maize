@@ -1,0 +1,35 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00033	Acetate; Acetic acid; Ethanoic acid	C2H4O2	60.0211	60.052
+C00048	Glyoxylate; Glyoxalate; Glyoxylic acid	C2H2O3	74.0004	74.0355
+C00100	Propanoyl-CoA; Propionyl-CoA; Propionyl coenzyme A	C24H40N7O17P3S	823.1414	823.5974
+C00109	2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	C4H6O3	102.0317	102.0886
+C00417	cis-Aconitate; cis-Aconitic acid	C6H6O6	174.0164	174.1082
+C00490	Itaconate; Itaconic acid; Methylenesuccinic acid	C5H6O4	130.0266	130.0987
+C00531	Itaconyl-CoA	C26H40N7O19P3S	879.1313	879.6176
+C00651	4-Methylene-L-glutamate	C6H9NO4	159.0532	159.14
+C00810	(R)-Acetoin; (R)-2-Acetoin; (R)-3-Hydroxy-2-butanone; (R)-Dimethylketol; (R)-3-Hydroxybutan-2-one	C4H8O2	88.0524	88.1051
+C01011	(3S)-Citramalyl-CoA; L-Citramalyl-CoA; (S)-Citramalyl-CoA; (3S)-3-Carboxy-3-hydroxybutanoyl-CoA	C26H42N7O20P3S	897.1418	897.6329
+C01109	4-Methylene-L-glutamine	C6H10N2O3	158.0691	158.1552
+C01732	Mesaconate; 2-Methylfumarate; Mesaconic acid; Methylfumaric acid; (E)-2-Methyl-2-butenedioic acid	C5H6O4	130.0266	130.0987
+C02226	2-Methylmaleate; Citraconate; Citraconic acid; Methylmaleic acid	C5H6O4	130.0266	130.0987
+C02341	trans-Aconitate; trans-Aconitic acid	C6H6O6	174.0164	174.1082
+C02612	(R)-2-Methylmalate; (R)-2-Methylmalic acid; (R)-Citramalate; (R)-Citramalic acid; (R)-alpha-Hydroxypyrotartaric acid; D-Citramalate; D-Citramalic acid; D-alpha-Hydroxypyrotartaric acid; (2R)-2-Hydroxy-2-methylbutanedioate	C5H8O5	148.0372	148.114
+C02614	(S)-2-Methylmalate; (S)-2-Methylmalic acid; (S)-Citramalate; (S)-Citramalic acid; (S)-alpha-Hydroxypyrotartaric acid; L-Citramalate; L-Citramalic acid; L-alpha-Hydroxypyrotartaric acid; (2S)-2-Hydroxy-2-methylbutanedioate; (S)-2-Hydroxy-2-methylsuccinic acid	C5H8O5	148.0372	148.114
+C02630	2-Hydroxyglutarate; alpha-Hydroxyglutarate	C5H8O5	148.0372	148.114
+C02876	Propanoyl phosphate; Propionyl phosphate	C3H7O5P	154.0031	154.0584
+C03618	L-threo-3-Methylaspartate; (2S,3S)-3-Methylaspartate	C5H9NO4	147.0532	147.1293
+C06010	(S)-2-Acetolactate; (S)-2-Hydroxy-2-methyl-3-oxobutanoate; (2S)-2-Hydroxy-2-methyl-3-oxobutanoate	C5H8O4	132.0423	132.1146
+C06027	L-erythro-3-Methylmalyl-CoA; beta-Methylmalyl-CoA; (2R,3S)-2-Methylmalyl-CoA; L-erythro-beta-Methylmalyl-CoA; (2R,3S)-2-Methyl-3-carboxy-3-hydroxypropanoyl-CoA	C26H42N7O20P3S	897.1418	897.6329
+C06028	2-Methylfumaryl-CoA; Mesaconyl-CoA; Mesaconyl-C1-CoA; (E)-3-Carboxy-2-methylprop-2-enoyl-CoA	C26H40N7O19P3S	879.1313	879.6176
+C06029	L-threo-3-Methylmalate	C5H8O5	148.0372	148.114
+C06030	Methyloxaloacetate	C5H6O5	146.0215	146.0981
+C06031	D-threo-3-Methylmalate	C5H8O5	148.0372	148.114
+C06032	D-erythro-3-Methylmalate; (2R,3S)-3-Methylmalate	C5H8O5	148.0372	148.114
+C06033	Parapyruvate; 4-Hydroxy-4-methyl-2-oxoglutarate	C6H8O6	176.0321	176.1241
+C06034	4-Hydroxy-4-methylglutamate	C6H11NO5	177.0637	177.1552
+C06035	4-Methylene-2-oxoglutarate; 2-Methylidene-4-oxopentanedioic acid; 4-Carboxy-2-oxo-4-pentenoate	C6H6O5	158.0215	158.1088
+C06234	4-Methyl-L-glutamate	C6H11NO4	161.0688	161.1558
+C21632	2-Hydroxyparaconate	C5H6O5	146.0215	146.0981

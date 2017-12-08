@@ -1,0 +1,28 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100383334	GRMZM2G029632	Zm00001d005497	K03857	EC2.4.1.198	UDP-Glycosyltransferase superfamily protein
+103633205	GRMZM2G022310	Zm00001d021570	K03857	EC2.4.1.198	phosphatidylinositol N-acetylglucosaminyltransferase subunit A
+100278194	GRMZM2G047815	Zm00001d039727	K03858	-	uncharacterized LOC100278194
+100304325	GRMZM5G809361	Zm00001d009824	K03858	-	OSJNBa0059D20.8-like protein
+100273079	GRMZM2G162670	Zm00001d051136	K03859	-	phosphatidylinositolglycan synthase family protein
+100279447	GRMZM2G070898	Zm00001d012034	K03860	-	N-acetylglucosaminyl transferase component family protein / Gpi1 family protein
+103647350	GRMZM2G090105	Zm00001d005550	K03861	-	phosphatidylinositol N-acetylglucosaminyltransferase subunit P-like
+100381427	GRMZM2G084938	Zm00001d001819	K03434	EC3.5.1.89	N-acetylglucosaminylphosphatidylinositol de-N-acetylase family protein
+100283695	GRMZM2G142743	Zm00001d026629	K03434	EC3.5.1.89	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+100216561	GRMZM5G815369	Zm00001d029333	K05283	EC2.3.-.-	uncharacterized LOC100216561
+100273831	GRMZM2G098079	Zm00001d047181	K05283	EC2.3.-.-	transferase transferring acyl groups
+100193858	GRMZM2G048762	Zm00001d005370	K05284	EC2.4.1.-	PNT1
+100275459	GRMZM2G167728	Zm00001d030954	K07541	-	PIG-X/PBN1 family protein
+103649516	GRMZM2G018923	Zm00001d000085	K07542	EC2.4.1.-	GPI mannosyltransferase 2-like
+103651634	GRMZM2G021422	Zm00001d044554	K07542	EC2.4.1.-	GPI mannosyltransferase 2
+103627347	GRMZM5G884270	Zm00001d016990	K05285	EC2.7.-.-	GPI ethanolamine phosphate transferase 1
+100192477	GRMZM2G000937	Zm00001d014968	K05286	EC2.4.1.-	Alg9-like mannosyltransferase family
+103626518	GRMZM2G164175	Zm00001d014973	K05286	EC2.4.1.-	GPI mannosyltransferase 3-like
+100280817	-	Zm00001d027485	K05287	EC2.7.-.-	Phosphatidylinositol-glycan biosynthesis class F protein
+100192727	-	Zm00001d048450	K05287	EC2.7.-.-	Phosphatidylinositol-glycan biosynthesis class F protein
+103649951	GRMZM2G314563	Zm00001d040268	K05288	-	GPI ethanolamine phosphate transferase 3
+100275097	GRMZM2G054470	Zm00001d043842	K05289	-	GPI transamidase component family protein / Gaa1-like family protein
+100273218	-	Zm00001d053627	K05290	EC2.6.-.-	Peptidase C13 family
+100383527	GRMZM2G088828	Zm00001d012118	K05291	-	GPI transamidase component PIG-S-related
+103629437	GRMZM2G178602	Zm00001d036055	K05292	-	GPI transamidase component PIG-T
+100282184	GRMZM5G891295	Zm00001d017654	K05293	-	GPI transamidase subunit PIG-U family protein
+103627820	GRMZM2G124377	Zm00001d018289	K05310	EC2.7.-.-	GPI ethanolamine phosphate transferase 2

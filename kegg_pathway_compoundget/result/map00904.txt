@@ -1,0 +1,104 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00353	Geranylgeranyl diphosphate; Geranylgeranyl pyrophosphate; all-trans-Geranylgeranyl diphosphate; all-trans-Geranylgeranyl pyrophosphate; (2E,6E,10E)-3,7,11,15-Tetramethylhexadeca-2,6,10,14-tetraen-1-yl diphosphate	C20H36O7P2	450.1936	450.4432
+C00859	Gibberellin A1; Gibberellin 1	C19H24O6	348.1573	348.3903
+C01414	Casbene	C20H32	272.2504	272.4681
+C01699	Gibberellin A3; Gibberellic acid; Gibberellin	C19H22O6	346.1416	346.3744
+C02034	Gibberellin A19; Gibberellin 19	C20H26O6	362.1729	362.4168
+C02035	Gibberellin A20; Gibberellin 20	C19H24O5	332.1624	332.3909
+C03579	Gibberellin A8; 2beta-Hydroxygibberellin 1	C19H24O7	364.1522	364.3897
+C06086	Pimaradiene; Pimara-8(14),15-diene	C20H32	272.2504	272.4681
+C06087	Abietate; Abietic acid	C20H30O2	302.2246	302.451
+C06088	Aphidicolin	C20H34O4	338.2457	338.4816
+C06089	ent-Copalyl diphosphate; (-)-Copalyl diphosphate	C20H36O7P2	450.1936	450.4432
+C06090	ent-Kaurene; ent-Kaur-16-ene	C20H32	272.2504	272.4681
+C06091	Aconitine	C34H47NO11	645.3149	645.7371
+C06092	Veatchine	C22H33NO2	343.2511	343.5029
+C06093	Gibberellin A12 aldehyde	C20H28O3	316.2038	316.4345
+C06094	Gibberellin A53	C20H28O5	348.1937	348.4333
+C06095	Gibberellin A44 diacid; Gibberellin A44 open lactone	C20H28O6	364.1886	364.4327
+C06096	Gibberellin A29	C19H24O6	348.1573	348.3903
+C07394	Paclitaxel	C47H51NO14	853.331	853.9061
+C09092	Ferruginol; Abieta-8,11,13-trien-12-ol	C20H30O	286.2297	286.4516
+C09094	Geranylgeraniol; 2,6,10,14-Hexadecatetraen-1-ol, 3,7,11,15-tetramethyl-	C20H34O	290.261	290.4834
+C09118	Isopimaric acid	C20H30O2	302.2246	302.451
+C09183	Sclareol; (13R)-Labd-14-ene-8alpha,13-diol	C20H36O2	308.2715	308.4986
+C11700	10-Deacetylbaccatin III	C29H36O10	544.2308	544.5901
+C11853	Gibberellin A14 aldehyde	C20H28O4	332.1988	332.4339
+C11854	Gibberellin A51-catabolite	C19H22O5	330.1467	330.375
+C11855	Gibberellin A29-catabolite	C19H22O6	346.1416	346.3744
+C11857	Gibberellin A12	C20H28O4	332.1988	332.4339
+C11858	Gibberellin A14	C20H28O5	348.1937	348.4333
+C11859	Gibberellin A37 open lactone	C20H28O6	364.1886	364.4327
+C11860	Gibberellin A15 open lactone	C20H28O5	348.1937	348.4333
+C11861	Gibberellin A24	C20H26O5	346.178	346.4174
+C11862	Gibberellin A36	C20H26O6	362.1729	362.4168
+C11863	Gibberellin A9	C19H24O4	316.1675	316.3915
+C11864	Gibberellin A4	C19H24O5	332.1624	332.3909
+C11865	Gibberellin A51	C19H24O5	332.1624	332.3909
+C11866	2,3-Dehydro-gibberellin A9; 2,3-Didehydro-gibberellin A9	C19H22O4	314.1518	314.3756
+C11867	Gibberellin A7	C19H22O5	330.1467	330.375
+C11868	Gibberellin A34	C19H24O6	348.1573	348.3903
+C11869	Gibberellin A34-catabolite	C19H22O6	346.1416	346.3744
+C11870	Gibberellin A8-catabolite	C19H22O7	362.1366	362.3738
+C11871	Gibberellin A5	C19H22O5	330.1467	330.375
+C11872	Kaur-16-en-18-ol; (-)-Kaur-16-en-18-ol; Kaurenol; ent-Kaur-16-en-19-ol	C20H32O	288.2453	288.4675
+C11873	Kaur-16-en-18-al; (-)-Kaur-16-en-18-al; 4alpha-Kaur-16-en-18-al; Kaurenal; ent-Kaurenal; ent-Kaur-16-en-19-al	C20H30O	286.2297	286.4516
+C11874	Kaur-16-en-18-oic acid; (-)-Kaur-16-en-19-oic acid; Kaurenic acid; Kaurenoic acid; ent-Kaur-16(17)-en-19-oic acid; ent-Kaurenoic acid; ent-Kaur-16-en-19-oic acid; ent-Kaur-16-en-19-oate	C20H30O2	302.2246	302.451
+C11875	ent-7alpha-Hydroxykaur-16-en-19-oic acid; (-)-Kaur-16-en-7beta-ol-19-oic acid; ent-7alpha-Hydroxykaur-16-en-19-oate	C20H30O3	318.2195	318.4504
+C11876	6beta,7beta-Dihydroxykaurenoic acid; ent-6alpha,7alpha-Dihydroxykaur-16-en-19-oic acid	C20H30O4	334.2144	334.4498
+C11877	(+)-Sandaracopimaradiene; ent-Sandaracopimara-8(14),15-diene; ent-Sandaracopimaradiene; ent-13alpha-Pimara-8(14),15-diene	C20H32	272.2504	272.4681
+C11878	(-)-Abietadiene; Abietadiene	C20H32	272.2504	272.4681
+C11879	Levopimaradiene; Abieta-8(14),12-diene	C20H32	272.2504	272.4681
+C11880	Neoabietadiene	C20H32	272.2504	272.4681
+C11881	Palustradiene	C20H32	272.2504	272.4681
+C11882	Abietinol; Abietol	C20H32O	288.2453	288.4675
+C11883	Levopimarinol	C20H32O	288.2453	288.4675
+C11884	Neoabietinol; Neoabietol	C20H32O	288.2453	288.4675
+C11885	Neoabietal; Neoabietinal	C20H30O	286.2297	286.4516
+C11886	Levopimarinal	C20H30O	286.2297	286.4516
+C11887	Abietal; Abietaldehyde; Abietinal	C20H30O	286.2297	286.4516
+C11888	Levopimaric acid; L-Pimaric acid	C20H30O2	302.2246	302.451
+C11889	Neoabietic acid	C20H30O2	302.2246	302.451
+C11890	Aphidicolan-16beta-ol	C20H34O	290.261	290.4834
+C11893	Cembrene; Thunbergen; (+)-Thunbergen; (+)-Cembrene	C20H32	272.2504	272.4681
+C11894	Taxa-4(5),11(12)-diene; Taxa-4,11-diene	C20H32	272.2504	272.4681
+C11895	Taxa-4(20),11(12)-dien-5alpha-ol; Taxa-4(20),11-dien-5alpha-ol	C20H32O	288.2453	288.4675
+C11896	Taxa-4(20),11(12)-dien-5alpha-yl acetate	C22H34O2	330.2559	330.5042
+C11897	Taxa-4(20),11(12)-dien-5alpha,13alpha-diol	C20H32O2	304.2402	304.4669
+C11898	Taxa-4(20),11(12)-dien-5alpha-acetoxy-10beta-ol; 10beta-Hydroxytaxa-4(20),11-dien-5alpha-yl acetate; 5alpha-Acetoxytaxa-4(20),11(12)-dien-10beta-ol	C22H34O3	346.2508	346.5036
+C11899	10-Deacetyl-2-debenzoylbaccatin III	C22H32O9	440.2046	440.4841
+C11900	Baccatin III	C31H38O11	586.2414	586.6268
+C11901	Copalyl diphosphate; (+)-Copalyl diphosphate; Labdadienyl diphosphate	C20H36O7P2	450.1936	450.4432
+C11902	9alpha-Copalyl diphosphate; syn-Copalyl diphosphate	C20H36O7P2	450.1936	450.4432
+C11905	Gibberellin A53 aldehyde	C20H28O4	332.1988	332.4339
+C12077	Palustric acid; NSC 148945; 8,13-Abietadien-18-oic acid	C20H30O2	302.2246	302.451
+C13273	Plaunotol; 18-Hydroxygeranylgeraniol	C20H34O2	306.2559	306.4828
+C16523	3'-N-Debenzoyl-2'-deoxytaxol; beta-Phenylalanoyl baccatin III; 13-O-beta-Phenylalanoylbaccatin III	C40H47NO12	733.3098	733.8007
+C16524	3'-N-Debenzoyltaxol; 13-O-3-Phenylisoserinoyl baccatin III	C40H47NO13	749.3047	749.8001
+C18015	Momilactone A	C20H26O3	314.1882	314.4186
+C18016	3beta-Hydroxy-9beta-pimara-7,15-diene-19,6beta-olide	C20H28O3	316.2038	316.4345
+C18211	Isopimara-7,15-diene	C20H32	272.2504	272.4681
+C18219	Palustradienol	C20H32O	288.2453	288.4675
+C18220	Palustradienal	C20H30O	286.2297	286.4516
+C18221	Isopimaradienol	C20H32O	288.2453	288.4675
+C18222	Isopimaradienal	C20H30O	286.2297	286.4516
+C18223	Stemar-13-ene	C20H32	272.2504	272.4681
+C18224	Stemod-13(17)-ene	C20H32	272.2504	272.4681
+C18225	9beta-Pimara-7,15-diene	C20H32	272.2504	272.4681
+C18226	ent-Cassa-12,15-diene	C20H32	272.2504	272.4681
+C18228	ent-Pimara-8(14),15-diene	C20H32	272.2504	272.4681
+C18229	Fusicocca-2,10(14)-diene	C20H32	272.2504	272.4681
+C19817	Phyllocladan-16alpha-ol	C20H34O	290.261	290.4834
+C20145	ent-Isokaurene; Kaur-15-ene; Kryptomeren	C20H32	272.2504	272.4681
+C20146	ent-2alpha-Hydroxyisokaurene	C20H32O	288.2453	288.4675
+C20149	9beta-Pimara-7,15-dien-19-oate	C20H30O2	302.2246	302.451
+C20150	ent-11beta-Hydroxycassa-12,15-diene	C20H32O	288.2453	288.4675
+C20151	10beta,14beta-Dihydroxytaxa-4(20),11-dien-5alpha-yl acetate; 5alpha-Acetoxy-10beta,14beta-dihydroxytaxadiene	C22H34O4	362.2457	362.503
+C20158	(13E)-Labda-7,13-dien-15-ol	C20H34O	290.261	290.4834
+C20185	(12E)-9alpha-Labda-8(17),12,14-triene; syn-Labda-8(17),12E,14-triene; (4aS,5R,8aS)-1,1,4a-Trimethyl-6-methylidene-5-[(2E)-3-methylpenta-2,4-dien-1-yl]decahydronaphthalene	C20H32	272.2504	272.4681
+C20208	syn-Stemoden-19-oate	C20H30O2	302.2246	302.451
+C20270	Copal-8-ol diphosphate; (13E)-8alpha-Hydroxylabd-13-en-15-yl diphosphate	C20H38O8P2	468.2042	468.4584
+C20481	cis-Abienol; (12Z)-Labda-12,14-dien-8alpha-ol	C20H34O	290.261	290.4834
+C20681	(E,E)-Geranyllinalool	C20H34O	290.261	290.4834
+C20700	(E,E)-4,8,12-Trimethyltrideca-1,3,7,11-tetraene; TMTT	C16H26	218.2035	218.3776
+C20711	Miltiradiene	C20H32	272.2504	272.4681

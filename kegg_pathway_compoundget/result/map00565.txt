@@ -1,0 +1,26 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00670	sn-Glycero-3-phosphocholine; Glycerophosphocholine	C8H21NO6P	258.1106	258.2292
+C00958	Plasmenylcholine; Choline plasmalogen; 1-Alkenyl-2-acylglycerophosphocholine; 2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphocholine	C11H21NO7PR2	258.1106	258.2292
+C01233	sn-Glycero-3-phosphoethanolamine; Glycerophosphoethanolamine	C5H14NO6P	215.0559	215.1415
+C01264	2-Acetyl-1-alkyl-sn-glycero-3-phosphate	C5H10O7PR	215.0559	215.1415
+C02773	1-Alkyl-sn-glycerol; 1-O-Alkyl-sn-glycerol	C3H7O3R	215.0559	215.1415
+C03201	1-Alkyl-2-acylglycerol; 2-Acyl-1-alkyl-sn-glycerol	C4H6O4R2	215.0559	215.1415
+C03372	Acylglycerone phosphate; Dihydroxyacetone phosphate acyl ester; 1-Acyl-glycerone 3-phosphate	C4H6O7PR	215.0559	215.1415
+C03454	1-Alkenyl-2-acylglycerol	C6H8O4R2	215.0559	215.1415
+C03715	O-Alkylglycerone phosphate; Alkyl-glycerone 3-phosphate; Dihydroxyacetone phosphate alkyl ether	C3H6O6PR	215.0559	215.1415
+C03820	1-Alkyl-2-acetyl-sn-glycerol; 2-Acetyl-1-alkyl-sn-glycerol; 1-O-Alkyl-2-acetyl-sn-glycerol	C5H9O4R	215.0559	215.1415
+C03968	1-Alkyl-sn-glycero-3-phosphate; 1-Alkyl-sn-glycerol 3-phosphate; 1-O-Alkyl-sn-glycerol 3-phosphate	C3H8O6PR	215.0559	215.1415
+C04317	1-Organyl-2-lyso-sn-glycero-3-phosphocholine; 1-Radyl-2-lyso-sn-glycero-3-phosphocholine; 1-Alkyl-2-lyso-sn-glycero-3-phosphocholine; 1-Alkyl-sn-glycero-3-phosphocholine	C8H20NO6PR	215.0559	215.1415
+C04361	1-O-Alkyl-2-acetyl-3-acyl-sn-glycerol; 2-Acetyl-1-O-alkyl-3-acyl-sn-glycerol	C6H8O5R2	215.0559	215.1415
+C04475	1-Alkyl-2-acylglycerophosphoethanolamine; 1-Radyl-2-acyl-sn-glycero-3-phosphoethanolamine; 1-Organyl-2-acyl-sn-glycero-3-phosphoethanolamine; O-1-Alkyl-2-acyl-sn-glycero-3-phosphoethanolamine; 2-Acyl-1-alkyl-sn-glycero-3-phosphoethanolamine	C6H12NO7PR2	215.0559	215.1415
+C04517	1-(1-Alkenyl)-sn-glycero-3-phosphocholine; 1-Alkenyl-sn-glycero-3-phosphocholine; 1-Alkenylglycerophosphocholine; 1-O-Alk-1-enyl-glycero-3-phosphocholine	C10H22NO6PR	215.0559	215.1415
+C04598	2-Acetyl-1-alkyl-sn-glycero-3-phosphocholine; Platelet-activating factor; PAF	C10H22NO7PR	215.0559	215.1415
+C04635	1-(1-Alkenyl)-sn-glycero-3-phosphoethanolamine; 1-Alkenylglycerophosphoethanolamine	C7H15NO6PR	215.0559	215.1415
+C04756	O-1-Alk-1-enyl-2-acyl-sn-glycero-3-phosphoethanolamine; Phosphatidalethanolamine; Plasmenylethanolamine; Ethanolamineplasmalogen; 2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphoethanolamine; 1-Alkenyl-2-acylglycerophosphoethanolamine	C8H14NO7PR2	215.0559	215.1415
+C05212	1-Radyl-2-acyl-sn-glycero-3-phosphocholine; 1-Organyl-2-acyl-sn-glycero-3-phosphocholine; 2-Acyl-1-alkyl-sn-glycero-3-phosphocholine	C9H19NO7PR2	215.0559	215.1415
+C05977	2-Acyl-1-alkyl-sn-glycero-3-phosphate	C4H7O7PR2	215.0559	215.1415
+C15645	1-(1-Alkenyl)-sn-glycerol	C5H9O3R	215.0559	215.1415
+C15646	1-(1-Alkenyl)-sn-glycero-3-phosphate	C5H10O6PR	215.0559	215.1415
+C15647	2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphate	C6H9O7PR2	215.0559	215.1415
+C20825	Seminolipid; 3-Sulfogalactosyl-1-alkyl-2-acylglycerol; 3-Sulfogalactosyl-2-acyl-1-alkyl-sn-glycerol; 1-O-Alkyl-2-O-acyl-3-beta-(3'-sulfogalactosyl)-sn-glycerol	C10H16O12SR2	215.0559	215.1415
+C20859	Galactosyl-1-alkyl-2-acylglycerol; Galactosyl-2-acyl-1-alkyl-sn-glycerol; 1-O-Alkyl-2-O-acyl-3-beta-galactosyl-sn-glycerol	C10H16O9R2	215.0559	215.1415

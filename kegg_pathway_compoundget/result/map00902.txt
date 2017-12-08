@@ -1,0 +1,56 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00341	Geranyl diphosphate	C10H20O7P2	314.0684	314.2091
+C00400	(-)-Menthol; L-Menthol	C10H20O	156.1514	156.2652
+C00521	(-)-Limonene; (-)-(S)-Limonene; (-)-(4S)-Limonene	C10H16	136.1252	136.234
+C00553	(+)-Neomenthol	C10H20O	156.1514	156.2652
+C00808	(+)-Camphor; d-Camphor	C10H16O	152.1201	152.2334
+C00843	(-)-Menthone; l-Menthone; p-Menthan-3-one	C10H18O	154.1358	154.2493
+C00848	6-Oxocineole; (1R,4S)-1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octan-6-one; 2-Oxo-1,8-cineole	C10H16O2	168.115	168.2328
+C00964	(-)-trans-Carveol	C10H16O	152.1201	152.2334
+C01123	(-)-trans-Isopiperitenol	C10H16O	152.1201	152.2334
+C01433	Loganin	C17H26O10	390.1526	390.3823
+C01500	Geraniol	C10H18O	154.1358	154.2493
+C01512	Loganate; Loganic acid	C16H24O10	376.1369	376.3558
+C01765	(+)-Borneol; d-Borneol; Borneocamphor; endo-2-Bornanol; Sumatra camphor; (1R,2S,4R)-(+)-Borneol	C10H18O	154.1358	154.2493
+C01767	(-)-Carvone; (4R)-Carvone	C10H14O	150.1045	150.2176
+C01852	Secologanin; (-)-Secologanin	C17H24O10	388.1369	388.3665
+C01957	Secologanate	C16H22O10	374.1213	374.3399
+C02344	(-)-endo-Fenchol; (-)-alpha-Fenchyl alcohol	C10H18O	154.1358	154.2493
+C02452	Perillyl alcohol; (-)-Perillyl alcohol; p-Mentha-1,8-dien-7-ol; (-)-Perillylalcohol	C10H16O	152.1201	152.2334
+C02462	Sabinene hydrate	C10H18O	154.1358	154.2493
+C02485	(-)-Isopiperitenone; (-)-(4R)-Isopiperitenone	C10H14O	150.1045	150.2176
+C03092	6-endo-Hydroxycineole; 2-endo-Hydroxy-1,8-cineole	C10H18O2	170.1307	170.2487
+C03190	(+)-Bornyl diphosphate	C10H20O7P2	314.0684	314.2091
+C04433	(E)-3,7-Dimethylocta-1,6-diene-3,8-diol; (6E)-8-Hydroxylinalool	C10H18O2	170.1307	170.2487
+C04718	1,6,6-Trimethyl-2,7-dioxabicyclo[3.2.2]nonan-3-one	C10H16O3	184.1099	184.2322
+C06066	4,5-Dihydro-5,5-dimethyl-4-(3-oxobutyl)furan-2(3H)-one	C10H16O3	184.1099	184.2322
+C06069	Iridodial; cis-trans-Iridodial	C10H16O2	168.115	168.2328
+C06070	Iridotrial; (1S,2R,3S)-2-Formyl-alpha-(hydroxymethylene)-3-methylcyclopentaneacetaldehyde	C10H14O3	182.0943	182.2164
+C06071	Deoxyloganin; 7-Deoxyloganin	C17H26O9	374.1577	374.3829
+C06074	Myrcene; beta-Myrcene	C10H16	136.1252	136.234
+C06099	d-Limonene; (+)-Limonene; (+)-(R)-Limonene; (+)-(4R)-Limonene	C10H16	136.1252	136.234
+C06304	(+)-Camphene; (+)-Comphene	C10H16	136.1252	136.234
+C06305	(-)-Camphene; (-)-Comphene	C10H16	136.1252	136.234
+C06307	(-)-beta-Pinene; (1S,5S)-6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptane	C10H16	136.1252	136.234
+C06308	(-)-alpha-Pinene; (1S,5S)-2,6,6-Trimethylbicyclo[3.1.1]hept-2-ene	C10H16	136.1252	136.234
+C09769	Asperuloside	C18H22O11	414.1162	414.3607
+C09844	1,8-Cineole; 1,8-Cineol; Eucalyptol	C10H18O	154.1358	154.2493
+C09893	Pulegone; (+)-Pulegone	C10H16O	152.1201	152.2334
+C11383	(+)-(S)-Carvone; Carvol; (+)-Carvone; Carvone	C10H14O	150.1045	150.2176
+C11388	(-)-Linalool; (R)-(-)-Linalool; (3R)-Linalool	C10H18O	154.1358	154.2493
+C11389	(+)-Linalool; (S)-(+)-Linalool; (3S)-Linalool	C10H18O	154.1358	154.2493
+C11393	(-)-alpha-Terpineol; (L)-alpha-Terpineol	C10H18O	154.1358	154.2493
+C11409	(+)-trans-Carveol; (4S,6R)-trans-Carveol	C10H16O	152.1201	152.2334
+C11636	7-Deoxyloganate	C16H24O9	360.142	360.3564
+C11672	10-Deoxygeniposidic acid	C16H22O9	358.1264	358.3405
+C11673	Geniposidic acid	C16H22O10	374.1213	374.3399
+C11951	(+)-cis-Isopulegone	C10H16O	152.1201	152.2334
+C11952	(+)-Isomenthone	C10H18O	154.1358	154.2493
+C17621	(6E)-8-Hydroxygeraniol; 10-Hydroxygeraniol; 8-Hydroxygeraniol	C10H18O2	170.1307	170.2487
+C17622	(6E)-8-Oxogeranial; 10-Oxogeranial; 8-Oxogeranial	C10H14O2	166.0994	166.217
+C18025	(+)-Menthofuran; (R)-Menthofuran	C10H14O	150.1045	150.2176
+C18027	(4R,7S)-7-Isopropyl-4-methyloxepan-2-one; (4R,7S)-4-Methyl-7-(1-methylethyl)-2-Oxepanone; Mentholactone	C10H18O2	170.1307	170.2487
+C20221	(6E)-8-Oxolinalool; trans-8-Oxolinalool	C10H16O2	168.115	168.2328
+C20943	(R)-Ipsdienol; (4R)-2-Methyl-6-methyleneocta-2,7-dien-4-ol	C10H16O	152.1201	152.2334
+C20944	Ipsdienone; 2-Methyl-6-methyleneocta-2,7-dien-4-one	C10H14O	150.1045	150.2176
+C21203	Geranyl phosphate	C10H19O4P	234.1021	234.2292

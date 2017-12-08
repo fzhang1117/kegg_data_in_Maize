@@ -1,0 +1,67 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100282138	GRMZM2G329033	Zm00001d037807	K03122	-	Transcription factor IIA alpha/beta subunit
+100282260	GRMZM2G132633	Zm00001d009878	K03122	-	transcription factor/ transcription initiation factor
+100286346	GRMZM2G470513	Zm00001d011092	K03123	-	Transcription initiation factor IIA subunit 2
+109944853	-	Zm00001d041969	K03123	-	transcription initiation factor IIA subunit 2-like
+100283348	GRMZM2G002828	Zm00001d006220	K03124	-	transcription initiation factor IIB
+103645624	GRMZM2G159715	-	K03124	-	transcription initiation factor IIB
+100501659	GRMZM2G476357	Zm00001d038887	K03124	-	Plant-specific TFIIB-related protein 2
+100193219	GRMZM2G091586	Zm00001d021309	K03124	-	uncharacterized LOC100193219
+103651317	-	-	K03124	-	transcription initiation factor IIB-like
+542022	GRMZM2G017831	Zm00001d048180	K03124	-	uncharacterized LOC542022
+103651828	-	-	K03124	-	transcription initiation factor IIB-like
+103630681	GRMZM2G361986	Zm00001d038889	K03124	-	transcription initiation factor IIB
+109945333	-	Zm00001d043792	K03124	-	transcription initiation factor IIB-like
+109945335	-	Zm00001d043793	K03124	-	transcription initiation factor IIB-like
+103644863	-	-	K03124	-	plant-specific TFIIB-related protein 1-like
+103649002	-	-	K03124	-	plant-specific TFIIB-related protein 1-like
+103631568	GRMZM2G092916	-	K03120	-	TATA-box-binding protein 1-like
+542240	GRMZM2G149238	Zm00001d033472	K03120	-	TATA-binding protein 1
+542241	GRMZM2G161418	Zm00001d013631	K03120	-	TATA-binding protein 2
+103626103	GRMZM2G466938	Zm00001d013856	K03120	-	TATA-box-binding protein 1-like
+103638720	GRMZM2G042231	Zm00001d046579	K03125	-	transcription initiation factor TFIID subunit 1
+103634102	GRMZM2G353885	-	K03128	-	transcription initiation factor TFIID subunit 2
+103645861	-	Zm00001d002110	K03132	-	transcription initiation factor TFIID subunit 7-like
+103644121	GRMZM2G454830	Zm00001d034314	K03132	-	transcription initiation factor TFIID subunit 7
+100193879	GRMZM2G147614	Zm00001d015415	K03132	-	Transcription initiation factor TFIID subunit 7
+103627946	-	Zm00001d012941	K03132	-	transcription initiation factor TFIID subunit 7-like
+103640335	GRMZM2G029038	Zm00001d047596	K03132	-	transcription initiation factor TFIID subunit 7-like
+100277408	GRMZM2G125259	Zm00001d000165	K14649	-	uncharacterized LOC100277408
+103650604	GRMZM2G308219	Zm00001d041766	K14649	-	transcription initiation factor TFIID subunit 8
+109944834	GRMZM2G151717	Zm00001d041530	K14649	-	transcription initiation factor TFIID subunit 8-like
+100281967	GRMZM2G120942	Zm00001d020571	K03134	-	transcription initiation factor TFIID subunit 10
+100501797	GRMZM2G135300	Zm00001d046810	K03130	-	uncharacterized LOC100501797
+103642689	-	Zm00001d025112	K03130	-	transcription initiation factor TFIID subunit 5-like
+100274161	GRMZM2G005278	Zm00001d036723	K03130	-	transcription initiation factor TFIID subunit 5
+103630828	GRMZM2G376959	-	K03130	-	transcription initiation factor TFIID subunit 5
+100278950	GRMZM2G385050	Zm00001d029598	K03129	-	transcription initiation factor TFIID subunit 4b
+100384748	GRMZM2G333623	Zm00001d039729	K03129	-	uncharacterized LOC100384748
+100383633	GRMZM2G002276	Zm00001d042879	K03126	-	transcription associated factor1
+103650984	GRMZM2G015596	Zm00001d042792	K03126	-	transcription initiation factor TFIID subunit 12
+100217288	GRMZM2G013908	Zm00001d047898	K03131	-	Transcription initiation factor TFIID subunit 6
+103649496	GRMZM2G398124	-	K03133	-	transcription initiation factor TFIID subunit 9
+100191949	GRMZM2G110076	Zm00001d029473	K03133	-	transcription initiation factor TFIID subunit 9B
+109941492	-	Zm00001d008371	K03133	-	transcription initiation factor TFIID subunit 9-like
+100193677	GRMZM2G114312	Zm00001d047265	K03133	-	Transcription initiation factor TFIID subunit 9
+100286233	GRMZM2G022052	-	K03135	-	transcription initiation factor TFIID subunit 11
+100285251	GRMZM2G093908	Zm00001d011605	K03135	-	transcription initiation factor TFIID subunit 11
+100282526	GRMZM2G081012	Zm00001d040757	K03127	-	Transcription initiation factor IID, 18kD subunit family protein
+100273074	GRMZM2G045668	Zm00001d030572	K03136	-	uncharacterized LOC100273074
+100273603	GRMZM2G064390	Zm00001d014255	K03136	-	Transcription factor TFIIE alpha subunit
+100192795	GRMZM2G177263	Zm00001d002366	K03137	-	Transcription initiation factor TFIIE beta subunit
+100282440	GRMZM2G014180	Zm00001d014337	K03138	-	Transcription initiation factor IIF, alpha subunit
+103639350	GRMZM2G145085	Zm00001d047909	K03138	-	transcription initiation factor IIF subunit alpha
+100283439	GRMZM2G049091	Zm00001d000240	K03139	EC3.6.4.12	uncharacterized LOC100283439
+100216909	GRMZM2G060284	Zm00001d010711	K03139	EC3.6.4.12	Transcription initiation factor IIF beta subunit
+100193949	GRMZM5G870572	Zm00001d049563	K03141	-	BSD domain containing protein
+100274342	GRMZM2G173309	Zm00001d003076	K03142	-	General transcription factor IIH subunit 2
+100192494	GRMZM2G027209	Zm00001d053954	K03143	-	RNA polymerase II transcription factor B subunit 4
+103645755	GRMZM2G147854	Zm00001d001809	K03144	-	RNA polymerase II transcription factor B subunit 2
+103651319	GRMZM2G055807	-	K10843	EC3.6.4.12	DNA repair helicase XPB1
+100285960	GRMZM2G097605	Zm00001d024819	K10844	EC3.6.4.12	DNA repair helicase UVH6
+100281631	GRMZM2G176455	Zm00001d035693	K10845	-	REX1 DNA Repair family protein
+100272776	GRMZM2G149286	Zm00001d010476	K02202	EC2.7.11.23 2.7.11.22	hypothetical protein
+100273893	GRMZM2G145879	Zm00001d038109	K02202	EC2.7.11.23 2.7.11.22	Putative cyclin-dependent kinase family protein
+100284506	GRMZM2G147814	Zm00001d013304	K10842	-	CDK-activating kinase assembly factor MAT1 family protein
+103638012	GRMZM2G398736	Zm00001d045180	K10842	-	RNA polymerase II transcription factor B subunit 3-like
+100283483	GRMZM2G361662	Zm00001d033928	K06634	-	uncharacterized LOC100283483

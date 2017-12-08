@@ -1,0 +1,50 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00389	Quercetin; 3,3',4,5,7-Pentahydroxyflavone; 3,5,7,3',4'-Pentahydroxyflavone	C15H10O7	302.0427	302.2357
+C00616	Quercetin 3-sulfate	C15H10O10S	381.9995	382.2989
+C01155	Quercetin 3,3'-bissulfate	C15H10O13S2	461.9563	462.3621
+C01156	Quercetin 3,4'-bissulfate	C15H10O13S2	461.9563	462.3621
+C01265	3,7-Di-O-methylquercetin; 3',4',5-Trihydroxy-3,7-dimethoxyflavone	C17H14O7	330.074	330.2889
+C01460	Vitexin; Apigenin 8-C-glucoside	C21H20O10	432.1056	432.3775
+C01470	Acacetin; 5,7-Dihydroxy-4'-methoxyflavone; 4'-Methoxy-5,7-dihydroxyflavone	C16H12O5	284.0685	284.2635
+C01477	Apigenin; 4',5,7-Trihydroxyflavone; 5,7,4'-Trihydroxyflavone	C15H10O5	270.0528	270.2369
+C01514	Luteolin; 3',4',5,7-Tetrahydroxyflavone; 5,7,3',4'-Tetrahydroxyflavone	C15H10O6	286.0477	286.2363
+C01714	Isovitexin; Saponaretin; Apigenin-6-C-glucoside; 6-C-Glucosylapigenin; Apigenin 6-C-glucoside	C21H20O10	432.1056	432.3775
+C01750	Quercitrin; Quercetin 3-L-rhamnoside; Quercetin 3-O-alpha-L-rhamnopyranoside	C21H20O11	448.1006	448.3769
+C03515	Luteolin 7-O-glucuronide; Luteolin 7-O-beta-D-glucuronide	C21H18O12	462.0798	462.3604
+C03897	Quercetin 3,3',7-trissulfate	C15H10O16S3	541.9131	542.4253
+C03898	Quercetin 3,4',7-trissulfate	C15H10O16S3	541.9131	542.4253
+C03951	Luteolin 7-O-beta-D-glucoside; Luteolin 7-O-glucoside; 7-O-beta-D-Glucosyl-5,7,3',4'-tetrahydroxyflavone	C21H20O11	448.1006	448.3769
+C04024	Vitexin 2''-O-beta-D-glucoside; Flavosativaside; 2''-O-Glucosylvitexin	C27H30O15	594.1585	594.5181
+C04199	Isovitexin 2''-O-beta-D-glucoside	C27H30O15	594.1585	594.5181
+C04293	Chrysoeriol; 5,7,4'-Trihydroxy-3'-methoxyflavone; 3'-O-Methylluteolin	C16H12O6	300.0634	300.2629
+C04443	3-O-Methylquercetin; 3',4',5,7-Tetrahydroxy-3-methoxyflavone; 3-Methoxy-5,7,3',4'-tetrahydroxyflavone	C16H12O7	316.0583	316.2623
+C04444	3,7,4'-Tri-O-methylquercetin; 3',5-Dihydroxy-3,4',7-trimethoxyflavone	C18H16O7	344.0896	344.3154
+C04608	Apigenin 7-O-beta-D-glucoside; 7-O-beta-D-Glucosyl-5,7,4'-trihydroxyflavone; Apigenin 7-O-glucoside; Apigetrin; 7-(beta-D-Glucopyranosyloxy)-5-hydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one; Cosmetin; Cosmosiin	C21H20O10	432.1056	432.3775
+C04858	Apigenin 7-O-[beta-D-apiosyl-(1->2)-beta-D-glucoside]; 7-O-(beta-D-Apiofuranosyl-1,2-beta-D-glucosyl)-5,7,4'-trihydroxyflavone; Apiin; 7-[(2-O-D-Apio-beta-D-furanosyl-beta-D-glucopyranosyl)oxy]-5-hydroxy-2-(4-hydroxy-phenyl)-4H-1-benzopyran-4-one; Apioside	C26H28O14	564.1479	564.4921
+C04900	Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]-4'-O-beta-D-glucuronide	C33H34O24	814.144	814.6087
+C05622	Malonylapiin; Apigenin 7-O-[beta-D-apiosyl-(1->2)-(6-malonyl-beta-D-glucoside)]	C29H30O17	650.1483	650.5383
+C05623	Quercetin 3-O-glucoside; Isoquercitrin; 2-(3,4-Dihidroxyphenyl)-3-(beta-D-glucofuranosyloxy)-5,7-dihydroxy-4H-1-benzopyran-4-one; Isotrifoliin	C21H20O12	464.0955	464.3763
+C05625	Rutin; 3-[[6-O-(6-Deoxy-alpha-L-mannopyranosyl)-beta-D-glucopyranosyl]oxy]-2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4H-1-benzopyran-4-one; Quercetin 3-rutinoside; Rutoside; Phytomelin	C27H30O16	610.1534	610.5175
+C05903	Kaempferol; 3,4',5,7-Tetrahydroxyflavone; 3,5,7-Trihydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one; 5,7,4'-Trihydroxyflavonol; C.I. 75640; Indigo yellow; Kaempherol; Kempferol; Nimbecetin; Pelargidenolon; Populnetin; Rhamnolutein; Rhamnolutin; Robigenin; Swartziol; Trifolitin	C15H10O6	286.0477	286.2363
+C10098	Kaempferide; Kempferide; Kaempferol 4'-methyl ether	C16H12O6	300.0634	300.2629
+C10107	Myricetin; 3,5,7,3',4',5'-Hexahydroxyflavone	C15H10O8	318.0376	318.2351
+C10175	Quercetin 3-(2G-xylosylrutinoside)	C32H38O20	742.1956	742.6321
+C11620	Syringetin; 3',5'-O-Dimethylmyricetin; 3,5,7,4'-Tetrahydroxy-3',5'-dimethoxyflavone	C17H14O8	346.0689	346.2883
+C12249	Kaempferol 3-O-glucoside; Kaempferol 3-O-beta-D-glucoside; Astragalin	C21H20O11	448.1006	448.3769
+C12626	Kaempferol-3-O-galactoside; Kaempferol 3-O-beta-D-galactoside; Trifolin	C21H20O11	448.1006	448.3769
+C12627	Apigenin 7-O-neohesperidoside; Rhoifolin; Rhoifoloside	C27H30O14	578.1636	578.5187
+C12628	Vitexin 2''-O-beta-L-rhamnoside; 2''-O-Rhamnosylvitexin; Vitexin 2''-rhamnoside	C27H30O14	578.1636	578.5187
+C12629	Isoswertisin 2''-rhamnoside; 7-O-Methylvitexin 2''-O-beta-L-rhamnoside; 2''-O-Rhamnosylisoswertisin	C28H32O14	592.1792	592.5453
+C12630	Scolymoside; Luteolin 7-O-neohesperidoside; Veronicastroside	C27H30O15	594.1585	594.5181
+C12632	Luteolin 7-O-[beta-D-glucuronosyl-(1->2)-beta-D-glucuronide]; Luteolin 7-O-beta-D-diglucuronide	C27H26O18	638.1119	638.4845
+C12633	Laricitrin; 3'-O-Methylmyricetin	C16H12O8	332.0532	332.2617
+C12634	Kaempferol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside; Kaempferol 3-O-beta-D-sophoroside; Sophoraflavonoloside	C27H30O16	610.1534	610.5175
+C12635	Kaempferol 3-sophorotrioside; Kaempferol 3-O-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside	C33H40O21	772.2062	772.6581
+C12636	Kaempferol 3-O-[6-(4-coumaroyl)-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside]	C42H46O23	918.243	918.8008
+C12637	Quercetin 3-O-[beta-D-xylosyl-(1->2)-beta-D-glucoside]	C26H28O16	596.1377	596.4909
+C12638	Quercetin 3-O-(6-O-malonyl-beta-D-glucoside); Quercetin 3-O-malonylglucoside; Quercetin-3-O-(6''-malonylglucoside)	C24H22O15	550.0959	550.4225
+C12667	Quercetin 3-O-beta-D-glucosyl-(1->2)-beta-D-glucoside; Baimaside; Quercetin 3-beta-D-sophoroside; Quercetin 3-O-sophoroside; QUOSP	C27H30O17	626.1483	626.5169
+C12668	Quercetin 3-O-beta-D-glucosyl-(1->2)-beta-D-glucosyl-(1->2)-beta-D-glucoside; Quercetin 3-sophorotrioside	C33H40O22	788.2011	788.6575
+C16490	Kaempferol 3-O-beta-D-glucosylgalactoside	C27H30O16	610.1534	610.5175
+C16911	Afzelin; Kaempferin; Kaempferol 3-O-alpha-L-rhamnoside	C21H20O10	432.1056	432.3775
+C19796	Quercetin 3-O-rhamnoside 7-O-glucoside	C27H30O16	610.1534	610.5175

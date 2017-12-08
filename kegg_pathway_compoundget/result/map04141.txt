@@ -1,0 +1,2 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00076	Calcium cation; Ca2+; Calcium(2+); Calcium ion	Ca	39.9626	40.078

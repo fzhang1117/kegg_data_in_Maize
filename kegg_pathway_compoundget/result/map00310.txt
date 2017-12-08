@@ -1,0 +1,53 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00047	L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid	C6H14N2O2	146.1055	146.1876
+C00136	Butanoyl-CoA; Butyryl-CoA	C25H42N7O17P3S	837.1571	837.624
+C00164	Acetoacetate; 3-Oxobutanoic acid; beta-Ketobutyric acid; Acetoacetic acid	C4H6O3	102.0317	102.0886
+C00322	2-Oxoadipate; 2-Oxoadipic acid	C6H8O5	160.0372	160.1247
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00408	L-Pipecolate; Pipecolinic acid; Pipecolic acid; 2-Piperidinecarboxylic acid; (S)-Piperidine-2-carboxylic acid	C6H11NO2	129.079	129.157
+C00431	5-Aminopentanoate; 5-Aminopentanoic acid; 5-Aminovaleric acid	C5H11NO2	117.079	117.1463
+C00449	N6-(L-1,3-Dicarboxypropyl)-L-lysine; Saccharopine; L-Saccharopine; N-[(S)-5-Amino-5-carboxypentyl]-L-glutamic acid	C11H20N2O6	276.1321	276.2863
+C00450	(S)-2,3,4,5-Tetrahydropyridine-2-carboxylate; Delta1-Piperideine-6-L-carboxylate	C6H9NO2	127.0633	127.1412
+C00487	Carnitine; gamma-Trimethyl-hydroxybutyrobetaine; 3-Hydroxy-4-trimethylammoniobutanoate	C7H16NO3	162.113	162.2068
+C00489	Glutarate; Glutaric acid; Pentanedioic acid; 1,3-Propanedicarboxylic acid	C5H8O4	132.0423	132.1146
+C00527	Glutaryl-CoA	C26H42N7O19P3S	881.1469	881.6335
+C00739	D-Lysine; D-2,6-Diaminohexanoic acid	C6H14N2O2	146.1055	146.1876
+C00877	Crotonoyl-CoA; Crotonyl-CoA; 2-Butenoyl-CoA; trans-But-2-enoyl-CoA; But-2-enoyl-CoA; (E)-But-2-enoyl-CoA	C25H40N7O17P3S	835.1414	835.6081
+C00956	L-2-Aminoadipate; L-alpha-Aminoadipate; L-alpha-Aminoadipic acid; L-2-Aminoadipic acid; L-2-Aminohexanedioate	C6H11NO4	161.0688	161.1558
+C00990	5-Aminopentanamide	C5H12N2O	116.095	116.1616
+C01028	N6-Hydroxy-L-lysine	C6H14N2O3	162.1004	162.187
+C01142	(3S)-3,6-Diaminohexanoate; L-beta-Lysine	C6H14N2O2	146.1055	146.1876
+C01144	(S)-3-Hydroxybutanoyl-CoA; (S)-3-Hydroxybutyryl-CoA	C25H42N7O18P3S	853.152	853.6234
+C01149	4-Trimethylammoniobutanal	C7H16NO	130.1232	130.208
+C01181	4-Trimethylammoniobutanoate; Butyro-betaine; gamma-Butyrobetaine	C7H16NO2	146.1181	146.2074
+C01186	(3S,5S)-3,5-Diaminohexanoate; L-erythro-3,5-Diaminohexanoate; (3S,5S)-3,5-Diaminocaproate; L-erythro-3,5-Diaminocaproate	C6H14N2O2	146.1055	146.1876
+C01211	Procollagen 5-hydroxy-L-lysine; Procollagen L-erythro-5-hydroxylysine; [Procollagen]-(2S,5R)-5-hydroxy-L-lysine	C7H13N3O3R2	146.1055	146.1876
+C01259	3-Hydroxy-N6,N6,N6-trimethyl-L-lysine	C9H21N2O3	205.1552	205.2746
+C01672	Cadaverine; 1,5-Pentanediamine; 1,5-Diaminopentane; Pentamethylenediamine	C5H14N2	102.1157	102.1781
+C02188	Protein lysine; Peptidyl-L-lysine; [Protein]-L-lysine	C7H13N3O2R2	102.1157	102.1781
+C02727	N6-Acetyl-L-lysine	C8H16N2O3	188.1161	188.2242
+C03087	5-Acetamidopentanoate	C7H13NO3	159.0895	159.183
+C03239	6-Amino-2-oxohexanoate; 2-Oxo-6-aminocaproate	C6H11NO3	145.0739	145.1564
+C03273	5-Oxopentanoate; Glutarate semialdehyde	C5H8O3	116.0473	116.1152
+C03366	5-Phosphooxy-L-lysine; (5R)-5-Phosphooxy-L-lysine; 5-Phosphonooxy-L-lysine; O-Phosphohydroxy-L-lysine; (5R)-5-Phosphonooxy-L-lysine	C6H15N2O6P	242.0668	242.1669
+C03656	(S)-5-Amino-3-oxohexanoic acid; (S)-5-Amino-3-oxohexanoate	C6H11NO3	145.0739	145.1564
+C03793	N6,N6,N6-Trimethyl-L-lysine	C9H20N2O2	188.1525	188.2673
+C03955	N6-Acetyl-N6-hydroxy-L-lysine; N6-Acetyl-N6-hydroxylysine	C8H16N2O4	204.111	204.2236
+C04020	D-Lysopine; N2-(D-1-Carboxyethyl)-L-lysine; Lysopine	C9H18N2O4	218.1267	218.2502
+C04076	L-2-Aminoadipate 6-semialdehyde; 2-Aminoadipate 6-semialdehyde; L-Allysine; Allysine; (S)-2-Amino-6-oxohexanoate	C6H11NO3	145.0739	145.1564
+C04092	Delta1-Piperideine-2-carboxylate; 1,2-Didehydropiperidine-2-carboxylate; 1-Piperideine-2-carboxylate	C6H9NO2	127.0633	127.1412
+C04487	5-(D-Galactosyloxy)-L-lysine-procollagen; Procollagen 5-(D-galactosyl)-L-lysine; Procollagen 5-(D-galactosyloxy)-L-lysine; Procollagen beta-D-galactosyl-L-hydroxylysine	C13H23N3O8R2	127.0633	127.1412
+C05161	(2R,5S)-2,5-Diaminohexanoate	C6H14N2O2	146.1055	146.1876
+C05231	L-3-Aminobutyryl-CoA; L-3-Aminobutanoyl-CoA	C25H43N8O17P3S	852.168	852.6386
+C05544	Protein N6-methyl-L-lysine	C8H15N3O2R2	852.168	852.6386
+C05545	Protein N6,N6-dimethyl-L-lysine	C9H17N3O2R2	852.168	852.6386
+C05546	Protein N6,N6,N6-trimethyl-L-lysine	C10H20N3O2R2	852.168	852.6386
+C05548	6-Acetamido-2-oxohexanoate; 2-Oxo-6-acetamidocaproate	C8H13NO4	187.0845	187.1931
+C05554	Aerobactin	C22H36N4O13	564.2279	564.5402
+C05825	2-Amino-5-oxohexanoate	C6H11NO3	145.0739	145.1564
+C06157	[Dihydrolipoyllysine-residue succinyltransferase] S-glutaryldihydrolipoyllysine; S-Glutaryldihydrolipoamide-E	C13H22NO4S2R	145.0739	145.1564
+C06181	Piperideine; 1-Piperideine	C5H9N	83.0735	83.1317
+C16741	L-Hydroxylysine; 5-Hydroxy-L-lysine; L-erythro-5-Hydroxylysine; (5R)-5-Hydroxy-L-lysine	C6H14N2O3	162.1004	162.187
+C20333	N2-Citryl-N6-acetyl-N6-hydroxy-L-lysine; N2-Citryl-N6-acetyl-N6-hydroxylysine	C14H22N2O10	378.1274	378.3319

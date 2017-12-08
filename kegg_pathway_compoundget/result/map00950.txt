@@ -1,0 +1,123 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00355	3,4-Dihydroxy-L-phenylalanine; L-Dopa; 3-Hydroxy-L-tyrosine; L-beta-(3,4-Dihydroxyphenyl)alanine; Levodopa; Dihydroxy-L-phenylalanine	C9H11NO4	197.0688	197.1879
+C00483	Tyramine; 2-(p-Hydroxyphenyl)ethylamine	C8H11NO	137.0841	137.179
+C00757	Berberine; Umbellatine	C20H18NO4	336.1236	336.3612
+C00811	4-Coumarate; p-Coumaric acid; trans-4-Hydroxycinnamate; trans-p-Hydroxycinnamate; 4-Hydroxycinnamic acid; 4-Hydroxycinnamate	C9H8O3	164.0473	164.158
+C01179	3-(4-Hydroxyphenyl)pyruvate; 4-Hydroxyphenylpyruvate; p-Hydroxyphenylpyruvic acid	C9H8O4	180.0423	180.1574
+C01516	Morphine	C17H19NO3	285.1365	285.3377
+C01735	Morphinone	C17H17NO3	283.1208	283.3218
+C01795	Columbamine	C20H20NO4	338.1392	338.3771
+C01852	Secologanin; (-)-Secologanin	C17H24O10	388.1369	388.3665
+C02105	(S)-Reticuline; (+)-Reticuline	C19H23NO4	329.1627	329.3902
+C02106	(S)-Scoulerine; (13aS)-5,8,13,13a-Tetrahydro-3,10-dimethoxy-6H-dibenzo[a,g]quinolizine-2,9-diol	C19H21NO4	327.1471	327.3743
+C02134	Allocryptopine	C21H23NO5	369.1576	369.411
+C02890	Tetrahydropalmatine; (S)-Tetrahydropalmatine	C21H25NO4	355.1784	355.4275
+C02915	(S)-cis-N-Methylcanadine	C21H24NO4	354.1705	354.4196
+C02916	(S)-Norlaudanosoline; (S)-Tetrahydropapaveroline	C16H17NO4	287.1158	287.3105
+C03329	(S)-Canadine; (S)-Tetrahydroberberine; (13aS)-5,8,13,13a-Tetrahydro-9,10-dimethoxy-6H-benzo[g]-1,3-benzodioxolo[5,6-a]quinolizine; (-)-Canadine	C20H21NO4	339.1471	339.385
+C03758	Dopamine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 3,4-Dihydroxyphenethylamine; 2-(3,4-Dihydroxyphenyl)ethylamine	C8H11NO2	153.079	153.1784
+C03765	4-Hydroxyphenylacetaldehyde; 2-(4-Hydroxyphenyl)acetaldehyde	C8H8O2	136.0524	136.1479
+C04043	3,4-Dihydroxyphenylacetaldehyde; Protocatechuatealdehyde	C8H8O3	152.0473	152.1473
+C04118	Isocorypalmine; 5,8,13,13a-Tetrahydrocolumbamine; (S)-Tetrahydrocolumbamine; (13aS)-5,8,13,13a-Tetrahydro-3,9,10-trimethoxy-6H-dibenzo[a,g]quinolizin-2-ol	C20H23NO4	341.1627	341.4009
+C05174	(S)-Cheilanthifoline; (6aS)-6,6a,11,14-Tetrahydro-8-methoxy-12H-benzo[a]-1,3-benzodioxolo[4,5-g]quinolizim-9-ol	C19H19NO4	325.1314	325.3585
+C05175	Stylopine; (S)-Stylopine; l-Tetrahydrocoptisine; 6,7,12b,13e-Tetrahydro-4H-bis[1,3]benzodioxolo[5,6-a:4',5'-g]quinolizine	C19H17NO4	323.1158	323.3426
+C05176	(S)-N-Methylcoclaurine; (S)-1,2,3,4-Tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2-methyl-7-isoquinolinol	C18H21NO3	299.1521	299.3642
+C05177	Berbamunine; (1S)-1,2,3,4-Tetrahydro-1-[[4-[2-hydroxy-5-[[(1R)-1,2,3,4-tetrahydro-7-hydroxy-6-methoxy-2-methyl-1-isoquinolinyl]methyl]phenoxy]phenyl]methyl]-6-methoxy-2-methyl-7-isoquinolinol	C36H40N2O6	596.2886	596.7126
+C05178	(R)-Reticuline; (1R)-1,2,3,4-Tetrahydro-1-[(3-hydroxy-4-methoxyphenyl)methyl]-6-methoxy-2-methyl-7-isoquinolinol	C19H23NO4	329.1627	329.3902
+C05179	Salutaridine; Sinoacutine; 5,6,8,14-Tetradehydro-4-hydroxy-3,6-dimethoxy-17-methyl-morphinan-7-one	C19H21NO4	327.1471	327.3743
+C05189	Protopine	C20H19NO5	353.1263	353.3686
+C05190	6-Hydroxyprotopine	C20H19NO6	369.1212	369.368
+C05191	Dihydrosanguinarine; 13,14-Dihydro-13-methyl-[1,3]benzodioxolo[5,6-c]-1,3-dioxolo[4,5-i]phenanthridine	C20H15NO4	333.1001	333.3374
+C05193	12-Hydroxydihydrochelirubine; 12-Hydroxychelirubine	C21H17NO6	379.1056	379.3628
+C05194	Dihydrochelirubine; 13,14-Dihydro-5-methoxy-13-methyl-[1,3]benzodioxolo[5,6-c]-1,3-dioxolo[4,5-i]phenanthridine	C21H17NO5	363.1107	363.3634
+C05202	3'-Hydroxy-N-methyl-(S)-coclaurine; (S)-3'-Hydroxy-N-methylcoclaurine	C18H21NO4	315.1471	315.3636
+C05220	Salutaridinol; 5,6,8,14-Tetradehydro-3,6-dimethoxy-17-methyl-morphinan-4,7-diol	C19H23NO4	329.1627	329.3902
+C05243	(R)-N-Methylcoclaurine; (R)-1,2,3,4-Tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2-methyl-7-isoquinolinol	C18H21NO3	299.1521	299.3642
+C05247	10-Hydroxydihydrosanguinarine	C20H15NO5	349.095	349.3368
+C05315	Palmatine; 5,6-Dihydro-2,3,9,10-tetramethoxydibenzo[a,g]quinolizinium	C21H22NO4	352.1549	352.4037
+C05316	Dihydromacarpine; 13,14-Dihydro-5,7-dimethoxy-13-methyl-[1,3]benzodioxolo[5,6-c]-1,3-dioxolo[4,5-i]phenanthridine	C22H19NO6	393.1212	393.3894
+C05322	7-O-Acetylsalutaridinol; Salutaridinol acetate	C21H25NO5	371.1733	371.4269
+C06160	(S)-Norcoclaurine; 6,7-Dihydroxy-(1S)-[(4-hydroxyphenyl)methyl]-1,2,3,4-tetrahydroisoquinoline	C16H17NO3	271.1208	271.3111
+C06161	(S)-Coclaurine; Coclaurine; (S)-1,2,3,4-Tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-7-isoquinolinol; 1-(p-Hydroxybenzyl)-6-methoxy-7-hydroxy-1,2,3,4-tetrahydroisoquinoline	C17H19NO3	285.1365	285.3377
+C06162	Sanguinarine	C20H14NO4	332.0923	332.3295
+C06163	(S)-cis-N-Methylstylopine	C20H20NO4	338.1392	338.3771
+C06165	Macarpine	C22H18NO6	392.1134	392.3814
+C06167	1,2-Dehydroreticuline; 1,2-Dehydroreticulinium; 3,4-Dihydro-7-hydroxy-1-[(3-hydroxy-4-methoxyphenyl)methyl]-6-methoxy-2-(methyl-14C)-isoquinolinium	C19H22NO4	328.1549	328.3823
+C06171	Codeinone; (5alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-one	C18H19NO3	297.1365	297.3484
+C06172	Neopinone	C18H19NO3	297.1365	297.3484
+C06173	Thebaine	C19H21NO3	311.1521	311.3749
+C06174	Codeine; (5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol	C18H21NO3	299.1521	299.3642
+C06175	Oripavine	C18H19NO3	297.1365	297.3484
+C06327	Chelirubine	C21H16NO5	362.1028	362.3554
+C06511	Guattegaumerine; N,N'-Dimethyllindoldhamine	C36H40N2O6	596.2886	596.7126
+C06512	2'-Norberbamunine	C35H38N2O6	582.273	582.686
+C06516	(R)-Norreticuline; N-Norreticuline	C18H21NO4	315.1471	315.3636
+C06517	(S)-6-O-Methylnorlaudanosoline; (S)-3'-Hydroxycoclaurine	C17H19NO4	301.1314	301.3371
+C06518	(S)-Nororientaline	C18H21NO4	315.1471	315.3636
+C06520	(S)-Norreticuline	C18H21NO4	315.1471	315.3636
+C06533	Papaverine	C20H21NO4	339.1471	339.385
+C07304	Deacetylisoipecoside	C25H33NO11	523.2054	523.5296
+C07307	Deacetylipecoside	C25H33NO11	523.2054	523.5296
+C07592	Colchicine	C22H25NO6	399.1682	399.437
+C08521	Caranine	C16H17NO3	271.1208	271.3111
+C08526	Galanthamine; Galantamine	C17H21NO3	287.1521	287.3535
+C08527	Haemanthamine; Hemanthamine; (3beta,5alpha,11R,13beta,19alpha)-1,2-Didehydro-3-methoxycrinan-11-ol; (+)-Haemanthamine	C17H19NO4	301.1314	301.3371
+C08532	Lycorine	C16H17NO4	287.1158	287.3105
+C09248	Tubulosine	C29H37N3O3	475.2835	475.6224
+C09328	Alangimarckine	C29H37N3O3	475.2835	475.6224
+C09330	Alangiside	C25H31NO10	505.1948	505.5143
+C09337	Ankorine	C19H29NO4	335.2097	335.4379
+C09390	Cephaeline	C28H38N2O4	466.2832	466.6123
+C09421	Emetine	C29H40N2O4	480.2988	480.6389
+C09581	Magnoflorine; (S)-Magnoflorine	C20H24NO4	342.1705	342.4089
+C09592	alpha-Narcotine; Noscapine	C22H23NO7	413.1475	413.4205
+C09593	Narcotoline	C21H21NO7	399.1318	399.3939
+C11250	Demecolcine; Colcemid	C21H25NO5	371.1733	371.4269
+C11813	Demethylalangiside	C24H29NO10	491.1791	491.4878
+C11814	Demethylisoalangiside	C24H29NO10	491.1791	491.4878
+C11815	Isoalangiside	C25H31NO10	505.1948	505.5143
+C11816	Protoemetine	C19H27NO3	317.1991	317.4226
+C11817	Deoxytubulosine	C29H37N3O2	459.2886	459.623
+C11818	(R)-Canadine	C20H21NO4	339.1471	339.385
+C12162	Crinine	C16H17NO3	271.1208	271.3111
+C12173	Norgalanthamine; N-Demethylgalanthamine	C16H19NO3	273.1365	273.327
+C12180	(-)-8-Demethylmaritidine; Normaritidine	C16H19NO3	273.1365	273.327
+C12193	Vittatine; (3beta,5alpha,13beta,19alpha)-1,2-Didehydro-crinan-3-ol	C16H17NO3	271.1208	271.3111
+C15530	Corydaline; (+)-Corydaline	C22H27NO4	369.194	369.4541
+C16700	3,4-Dihydroxybenzaldehyde; Protocatechualdehyde	C7H6O3	138.0317	138.1207
+C16701	Norbelladine	C15H17NO3	259.1208	259.3004
+C16702	4'-O-Methylnorbelladine	C16H19NO3	273.1365	273.327
+C16703	N-Demethylnarwedine	C16H17NO3	271.1208	271.3111
+C16706	4-Hydroxydihydrocinnamaldehyde; 3-(p-Hydroxyphenyl)propanal	C9H10O2	150.0681	150.1745
+C16707	(S)-Autumnaline; Autumnaline	C21H27NO5	373.1889	373.4428
+C16708	Isoandrocymbine	C21H25NO5	371.1733	371.4269
+C16709	O-Methylandrocymbine	C22H27NO5	385.1889	385.4535
+C16710	N-Formyldemecolcine	C22H25NO6	399.1682	399.437
+C16712	Deacetylcolchicine; Trimethylcolchicinic acid methyl ether	C20H23NO5	357.1576	357.4003
+C16713	Floramultine	C21H25NO5	371.1733	371.4269
+C16714	Kreysigine	C22H27NO5	385.1889	385.4535
+C17591	(S)-Corytuberine	C19H21NO4	327.1471	327.3743
+C17592	Laudanine	C20H25NO4	343.1784	343.4168
+C20297	Narcotine hemiacetal	C22H25NO7	415.1631	415.4364
+C20299	Papaveroxine	C22H25NO7	415.1631	415.4364
+C21405	(4aS,10bR)-Noroxomaritidine	C16H17NO3	271.1208	271.3111
+C21406	(4aR,10bS)-Noroxomaritidine	C16H17NO3	271.1208	271.3111
+C21566	6-O-Methyldeacetylisoipecoside; 6-O-Methyl-N-deacetylisoipecoside	C26H35NO11	537.221	537.5562
+C21583	6-O-Methyl-N-deacetylisoipecoside aglycon	C20H25NO6	375.1682	375.4156
+C21584	7'-O-Dmethylcephaeline	C27H36N2O4	452.2675	452.5857
+C21586	(S)-1-Hydroxy-N-methylcanadine	C21H24NO5	370.1654	370.419
+C21587	(13S,14R)-1,13-Dihydroxy-N-methylcanadine	C21H24NO6	386.1604	386.4184
+C21588	(13S,14R)-1-Hydroxy-13-O-acetyl-N-methylcanadine	C23H26NO7	428.1709	428.455
+C21589	(13S,14R)-1,8-Dihydroxy-13-O-acetyl-N-methylcanadine	C23H26NO8	444.1658	444.4544
+C21590	4'-O-Desmethyl-3-O-acetylpapaveroxine	C23H25NO8	443.158	443.4465
+C21591	3-O-Acetylpapaveroxine	C24H27NO8	457.1737	457.4731
+C21599	4'-O-Desmethylpapaveroxine	C21H23NO7	401.1475	401.4098
+C21600	Narcotoline hemiacetal	C21H23NO7	401.1475	401.4098
+C21630	(S)-Norlaudanine	C19H23NO4	329.1627	329.3902
+C21631	(S)-Tetrahydropapaverine	C20H25NO4	343.1784	343.4168
+C21633	Noroxopluviine	C16H17NO3	271.1208	271.3111
+C21634	Norcraugsodine	C15H15NO3	257.1052	257.2845
+C21635	(4aR,10bS)-Normaritidine; Macowine	C16H19NO3	273.1365	273.327
+C21637	Elwesine	C16H21NO3	275.1521	275.3428
+C21639	Maritinamine	C16H21NO3	275.1521	275.3428

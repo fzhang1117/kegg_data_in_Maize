@@ -1,0 +1,1101 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00002	ATP; Adenosine 5'-triphosphate	C10H16N5O13P3	506.9957	507.181
+C00007	Oxygen; O2	O2	31.9898	31.9988
+C00008	ADP; Adenosine 5'-diphosphate	C10H15N5O10P2	427.0294	427.2011
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00016	FAD; Flavin adenine dinucleotide	C27H33N9O15P2	785.1571	785.5497
+C00019	S-Adenosyl-L-methionine; S-Adenosylmethionine; AdoMet; SAM	C15H22N6O5S	398.1372	398.4374
+C00020	AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	C10H14N5O7P	347.0631	347.2212
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00027	Hydrogen peroxide; H2O2; Oxydol	H2O2	34.0055	34.0147
+C00031	D-Glucose; Grape sugar; Dextrose; Glucose; D-Glucopyranose	C6H12O6	180.0634	180.1559
+C00032	Heme; Haem; Protoheme; Heme B; Protoheme IX	C34H32FeN4O4	616.1773	616.4873
+C00033	Acetate; Acetic acid; Ethanoic acid	C2H4O2	60.0211	60.052
+C00036	Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	C4H4O5	132.0059	132.0716
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00044	GTP; Guanosine 5'-triphosphate	C10H16N5O14P3	522.9907	523.1804
+C00047	L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid	C6H14N2O2	146.1055	146.1876
+C00048	Glyoxylate; Glyoxalate; Glyoxylic acid	C2H2O3	74.0004	74.0355
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00061	FMN; Riboflavin-5-phosphate; Flavin mononucleotide	C17H21N4O9P	456.1046	456.3438
+C00062	L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	C6H14N4O2	174.1117	174.201
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00072	Ascorbate; Ascorbic acid; L-Ascorbate; L-Ascorbic acid; Vitamin C	C6H8O6	176.0321	176.1241
+C00073	L-Methionine; Methionine; L-2-Amino-4methylthiobutyric acid	C5H11NO2S	149.051	149.2113
+C00074	Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	C3H5O6P	167.9824	168.042
+C00077	L-Ornithine; (S)-2,5-Diaminovaleric acid; (S)-2,5-Diaminopentanoic acid; (S)-2,5-Diaminopentanoate	C5H12N2O2	132.0899	132.161
+C00078	L-Tryptophan; Tryptophan; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid	C11H12N2O2	204.0899	204.2252
+C00079	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00083	Malonyl-CoA; Malonyl coenzyme A	C24H38N7O19P3S	853.1156	853.5803
+C00084	Acetaldehyde; Ethanal	C2H4O	44.0262	44.0526
+C00091	Succinyl-CoA; Succinyl coenzyme A	C25H40N7O19P3S	867.1313	867.6069
+C00093	sn-Glycerol 3-phosphate; Glycerophosphoric acid; D-Glycerol 1-phosphate	C3H9O6P	172.0137	172.0737
+C00096	GDP-mannose; GDP-D-mannose; GDP-alpha-D-mannose	C16H25N5O16P2	605.0772	605.3411
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00099	beta-Alanine; 3-Aminopropionic acid; 3-Aminopropanoate	C3H7NO2	89.0477	89.0932
+C00103	D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	C6H13O9P	260.0297	260.1358
+C00108	Anthranilate; Anthranilic acid; o-Aminobenzoic acid; Vitamin L1; 2-Aminobenzoate	C7H7NO2	137.0477	137.136
+C00109	2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	C4H6O3	102.0317	102.0886
+C00111	Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	C3H7O6P	169.998	170.0578
+C00117	D-Ribose 5-phosphate; Ribose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00118	D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	C3H7O6P	169.998	170.0578
+C00119	5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	C5H13O14P3	389.9518	390.0696
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00123	L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	C6H13NO2	131.0946	131.1729
+C00129	Isopentenyl diphosphate; Delta3-Isopentenyl diphosphate; Delta3-Methyl-3-butenyl diphosphate	C5H12O7P2	246.0058	246.0921
+C00130	IMP; Inosinic acid; Inosine monophosphate; Inosine 5'-monophosphate; Inosine 5'-phosphate; 5'-Inosinate; 5'-Inosinic acid; 5'-Inosine monophosphate; 5'-IMP	C10H13N4O8P	348.0471	348.206
+C00134	Putrescine; 1,4-Butanediamine; 1,4-Diaminobutane; Tetramethylenediamine; Butane-1,4-diamine	C4H12N2	88.1	88.1515
+C00135	L-Histidine; (S)-alpha-Amino-1H-imidazole-4-propionic acid	C6H9N3O2	155.0695	155.1546
+C00141	3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	C5H8O3	116.0473	116.1152
+C00148	L-Proline; 2-Pyrrolidinecarboxylic acid	C5H9NO2	115.0633	115.1305
+C00149	(S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid	C4H6O5	134.0215	134.0874
+C00152	L-Asparagine; 2-Aminosuccinamic acid	C4H8N2O3	132.0535	132.1179
+C00155	L-Homocysteine; L-2-Amino-4-mercaptobutyric acid; Homocysteine	C4H9NO2S	135.0354	135.1848
+C00156	4-Hydroxybenzoate; Hydroxybenzoic acid; 4-Hydroxybenzoic acid; Hydroxybenzenecarboxylic acid	C7H6O3	138.0317	138.1207
+C00157	Phosphatidylcholine; Lecithin; Phosphatidyl-N-trimethylethanolamine; 1,2-Diacyl-sn-glycero-3-phosphocholine; Choline phosphatide; 3-sn-Phosphatidylcholine	C10H18NO8PR2	138.0317	138.1207
+C00158	Citrate; Citric acid; 2-Hydroxy-1,2,3-propanetricarboxylic acid; 2-Hydroxytricarballylic acid	C6H8O7	192.027	192.1235
+C00160	Glycolate; Glycolic acid; Hydroxyacetic acid	C2H4O3	76.016	76.0514
+C00166	Phenylpyruvate; Phenylpyruvic acid; alpha-Ketohydrocinnamic acid; keto-Phenylpyruvate; 3-Phenyl-2-oxopropanoate; 2-Oxo-3-phenylpropanoate	C9H8O3	164.0473	164.158
+C00168	Hydroxypyruvate; Hydroxypyruvic acid; 3-Hydroxypyruvate; 3-Hydroxypyruvic acid	C3H4O4	104.011	104.0615
+C00180	Benzoate; Benzoic acid; Benzenecarboxylic acid; Phenylformic acid; Dracylic acid	C7H6O2	122.0368	122.1213
+C00183	L-Valine; 2-Amino-3-methylbutyric acid	C5H11NO2	117.079	117.1463
+C00186	(S)-Lactate; L-Lactate; L-Lactic acid	C3H6O3	90.0317	90.0779
+C00188	L-Threonine; 2-Amino-3-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00196	2,3-Dihydroxybenzoate; 2,3-Dihydroxybenzoic acid	C7H6O4	154.0266	154.1201
+C00197	3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	C3H7O7P	185.9929	186.0572
+C00198	D-Glucono-1,5-lactone; Gluconic lactone; Gluconic acid lactone; 1,5-Gluconolactone; delta-Gluconolactone; D-Gluconolactone; Gluconolactone	C6H10O6	178.0477	178.14
+C00199	D-Ribulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00221	beta-D-Glucose	C6H12O6	180.0634	180.1559
+C00223	p-Coumaroyl-CoA; 4-Coumaroyl-CoA; 4-Hydroxycinnamoyl-CoA	C30H42N7O18P3S	913.152	913.6769
+C00230	3,4-Dihydroxybenzoate; 3,4-Dihydroxybenzoic acid; Protocatechuate; Protocatechuic acid	C7H6O4	154.0266	154.1201
+C00231	D-Xylulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00233	4-Methyl-2-oxopentanoate; 2-Oxoisocaproate	C6H10O3	130.063	130.1418
+C00235	Dimethylallyl diphosphate; 2-Isopentenyl diphosphate; Delta2-Isopentenyl diphosphate; Dimethylallyl pyrophosphate; DMAPP; Monoprenyl diphosphate; Prenyl diphosphate	C5H12O7P2	246.0058	246.0921
+C00236	3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	C3H8O10P2	265.9593	266.0371
+C00251	Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	C10H10O6	226.0477	226.1828
+C00253	Nicotinate; Nicotinic acid; Niacin; 3-Pyridinecarboxylic acid	C6H5NO2	123.032	123.1094
+C00254	Prephenate; Prephenic acid	C10H10O6	226.0477	226.1828
+C00255	Riboflavin; Lactoflavin; 7,8-Dimethyl-10-ribitylisoalloxazine; Vitamin B2	C17H20N4O6	376.1383	376.3639
+C00257	D-Gluconic acid; D-Gluconate; D-gluco-Hexonic acid	C6H12O7	196.0583	196.1553
+C00258	D-Glycerate; Glycerate; (R)-Glycerate; Glyceric acid	C3H6O4	106.0266	106.0773
+C00263	L-Homoserine; 2-Amino-4-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00267	alpha-D-Glucose	C6H12O6	180.0634	180.1559
+C00269	CDP-diacylglycerol; CDP-1,2-diacylglycerol; 1,2-Diacyl-sn-glycero-3-cytidine-5'-diphosphate	C14H19N3O15P2R2	180.0634	180.1559
+C00275	D-Mannose 6-phosphate	C6H13O9P	260.0297	260.1358
+C00279	D-Erythrose 4-phosphate	C4H9O7P	200.0086	200.0838
+C00311	Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid	C6H8O7	192.027	192.1235
+C00323	Caffeoyl-CoA; (2E)-3-(3,4-Dihydroxyphenyl)prop-2-enoyl-CoA	C30H42N7O19P3S	929.1469	929.6763
+C00327	L-Citrulline; 2-Amino-5-ureidovaleric acid; Citrulline	C6H13N3O3	175.0957	175.1857
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00341	Geranyl diphosphate	C10H20O7P2	314.0684	314.2091
+C00345	6-Phospho-D-gluconate	C6H13O10P	276.0246	276.1352
+C00350	Phosphatidylethanolamine; (3-Phosphatidyl)ethanolamine; (3-Phosphatidyl)-ethanolamine; Cephalin; O-(1-beta-Acyl-2-acyl-sn-glycero-3-phospho)ethanolamine; 1-Acyl-2-acyl-sn-glycero-3-phosphoethanolamine; L-1-Phosphatidylethanolamine	C7H12NO8PR2	276.0246	276.1352
+C00353	Geranylgeranyl diphosphate; Geranylgeranyl pyrophosphate; all-trans-Geranylgeranyl diphosphate; all-trans-Geranylgeranyl pyrophosphate; (2E,6E,10E)-3,7,11,15-Tetramethylhexadeca-2,6,10,14-tetraen-1-yl diphosphate	C20H36O7P2	450.1936	450.4432
+C00354	D-Fructose 1,6-bisphosphate	C6H14O12P2	339.996	340.1157
+C00355	3,4-Dihydroxy-L-phenylalanine; L-Dopa; 3-Hydroxy-L-tyrosine; L-beta-(3,4-Dihydroxyphenyl)alanine; Levodopa; Dihydroxy-L-phenylalanine	C9H11NO4	197.0688	197.1879
+C00356	(S)-3-Hydroxy-3-methylglutaryl-CoA; Hydroxymethylglutaryl-CoA; Hydroxymethylglutaroyl coenzyme A; HMG-CoA; 3-Hydroxy-3-methylglutaryl-CoA	C27H44N7O20P3S	911.1575	911.6594
+C00369	Starch; Glycogen	(C12H20O10)n	911.1575	911.6594
+C00371	Zeatin; N6-(4-Hydroxyisopentenyl)adenine; (E)-2-Methyl-4-(1H-purin-6-ylamino)but-2-en-1-ol; trans-Zeatin	C10H13N5O	219.112	219.2431
+C00385	Xanthine	C5H4N4O2	152.0334	152.1109
+C00388	Histamine; 1H-Imidazole-4-ethanamine; 2-(4-Imidazolyl)ethylamine	C5H9N3	111.0796	111.1451
+C00389	Quercetin; 3,3',4,5,7-Pentahydroxyflavone; 3,5,7,3',4'-Pentahydroxyflavone	C15H10O7	302.0427	302.2357
+C00398	Tryptamine; 3-(2-Aminoethyl)indole	C10H12N2	160.1	160.2157
+C00399	Ubiquinone; Coenzyme Q; CoQ; Q	C14H18O4(C5H8)n	160.1	160.2157
+C00400	(-)-Menthol; L-Menthol	C10H20O	156.1514	156.2652
+C00406	Feruloyl-CoA; trans-Feruloyl-CoA	C31H44N7O19P3S	943.1626	943.7028
+C00407	L-Isoleucine; 2-Amino-3-methylvaleric acid	C6H13NO2	131.0946	131.1729
+C00408	L-Pipecolate; Pipecolinic acid; Pipecolic acid; 2-Piperidinecarboxylic acid; (S)-Piperidine-2-carboxylic acid	C6H11NO2	129.079	129.157
+C00411	Sinapoyl-CoA	C32H46N7O20P3S	973.1731	973.7288
+C00416	Phosphatidate; Phosphatidic acid; 1,2-Diacyl-sn-glycerol 3-phosphate; 3-sn-Phosphatidate	C5H7O8PR2	973.1731	973.7288
+C00417	cis-Aconitate; cis-Aconitic acid	C6H6O6	174.0164	174.1082
+C00418	(R)-Mevalonate; Mevalonic acid; 3,5-Dihydroxy-3-methylvaleric acid	C6H12O4	148.0736	148.1571
+C00423	trans-Cinnamate; trans-Cinnamic acid; (E)-Cinnamate; (2E)-3-Phenylprop-2-enoate	C9H8O2	148.0524	148.1586
+C00430	5-Aminolevulinate; 5-Amino-4-oxopentanoate; 5-Amino-4-oxovaleric acid	C5H9NO3	131.0582	131.1299
+C00437	N-Acetylornithine; N2-Acetyl-L-ornithine	C7H14N2O3	174.1004	174.1977
+C00441	L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	C4H7NO3	117.0426	117.1033
+C00448	trans,trans-Farnesyl diphosphate; Farnesyl diphosphate; Farnesyl pyrophosphate; 2-trans,6-trans-Farnesyl diphosphate; (2E,6E)-Farnesyl diphosphate	C15H28O7P2	382.131	382.3261
+C00449	N6-(L-1,3-Dicarboxypropyl)-L-lysine; Saccharopine; L-Saccharopine; N-[(S)-5-Amino-5-carboxypentyl]-L-glutamic acid	C11H20N2O6	276.1321	276.2863
+C00450	(S)-2,3,4,5-Tetrahydropyridine-2-carboxylate; Delta1-Piperideine-6-L-carboxylate	C6H9NO2	127.0633	127.1412
+C00463	Indole; 2,3-Benzopyrrole	C8H7N	117.0578	117.1479
+C00469	Ethanol; Ethyl alcohol; Methylcarbinol	C2H6O	46.0419	46.0684
+C00482	Sinapate; Sinapic acid; 3,5-Dimethoxy-4-hydroxycinnamic acid	C11H12O5	224.0685	224.21
+C00483	Tyramine; 2-(p-Hydroxyphenyl)ethylamine	C8H11NO	137.0841	137.179
+C00486	Bilirubin	C33H36N4O6	584.2635	584.6621
+C00493	Shikimate; Shikimic acid; 3,4,5-Trihydroxy-1-cyclohexenecarboxylic acid	C7H10O5	174.0528	174.1513
+C00498	ADP-glucose; ADP-alpha-D-glucose; Adenosine diphosphoglucose	C16H25N5O15P2	589.0822	589.3417
+C00500	Biliverdin; Biliverdin IX alpha	C33H34N4O6	582.2478	582.6463
+C00509	Naringenin; 4',5,7-Trihydroxyflavanone; (2S)-Naringenin; (-)-(2S)-Naringenin	C15H12O5	272.0685	272.2528
+C00521	(-)-Limonene; (-)-(S)-Limonene; (-)-(4S)-Limonene	C10H16	136.1252	136.234
+C00522	(R)-Pantoate; Pantoate; Pantoic acid	C6H12O4	148.0736	148.1571
+C00540	Cinnamoyl-CoA; S-(Cinnamoyl) coenzyme A	C30H42N7O17P3S	897.1571	897.6775
+C00553	(+)-Neomenthol	C10H20O	156.1514	156.2652
+C00561	Mandelonitrile; Benzaldehyde cyanohydrin; (R)-Mandelonitrile	C8H7NO	133.0528	133.1473
+C00590	Coniferyl alcohol; Coniferol; 4-(3-Hydroxy-1-propenyl)-2-methoxyphenol; trans-Coniferyl alcohol	C10H12O3	180.0786	180.2005
+C00609	Long-chain aldehyde	C3H5OR	180.0786	180.2005
+C00621	Dolichyl diphosphate; Dolichol diphosphate	C20H38O7P2(C5H8)n	180.0786	180.2005
+C00624	N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	C7H11NO5	189.0637	189.1659
+C00630	2-Methylpropanoyl-CoA; 2-Methylpropionyl-CoA; Isobutyryl-CoA	C25H42N7O17P3S	837.1571	837.624
+C00631	2-Phospho-D-glycerate; D-Glycerate 2-phosphate; 2-Phospho-(R)-glycerate	C3H7O7P	185.9929	186.0572
+C00636	D-Mannose 1-phosphate; alpha-D-Mannose 1-phosphate	C6H13O9P	260.0297	260.1358
+C00638	Long-chain fatty acid; Higher fatty acid	C3H5O2R	260.0297	260.1358
+C00641	1,2-Diacyl-sn-glycerol; 1,2-Diacylglycerol; L-1,2-Diacylglycerol	C5H6O5R2	260.0297	260.1358
+C00655	Xanthosine 5'-phosphate; Xanthylic acid; XMP; (9-D-Ribosylxanthine)-5'-phosphate	C10H13N4O9P	364.042	364.2054
+C00666	LL-2,6-Diaminoheptanedioate; LL-2,6-Diaminopimelate; LL-2,6-Diaminopimelic acid	C7H14N2O4	190.0954	190.1971
+C00668	alpha-D-Glucose 6-phosphate	C6H13O9P	260.0297	260.1358
+C00671	(S)-3-Methyl-2-oxopentanoic acid; (S)-3-Methyl-2-oxopentanoate; (3S)-3-Methyl-2-oxopentanoic acid; (3S)-3-Methyl-2-oxopentanoate	C6H10O3	130.063	130.1418
+C00680	meso-2,6-Diaminoheptanedioate; meso-2,6-Diaminopimelate; meso-2,6-Diaminopimelic acid; meso-Diaminoheptanedioate	C7H14N2O4	190.0954	190.1971
+C00681	1-Acyl-sn-glycerol 3-phosphate; 2-Lysophosphatidate; Lysophosphatidate; Lysophosphatidic acid	C4H8O7PR	190.0954	190.1971
+C00718	Amylose; Amylose chain; (1,4-alpha-D-Glucosyl)n; (1,4-alpha-D-Glucosyl)n+1; (1,4-alpha-D-Glucosyl)n-1; 4-{(1,4)-alpha-D-Glucosyl}(n-1)-D-glucose; 1,4-alpha-D-Glucan	(C6H10O5)n	190.0954	190.1971
+C00729	Tropine; 3alpha-Tropanol	C8H15NO	141.1154	141.2108
+C00745	Nicotine; (S)-3-(1-Methylpyrrolidin-2-yl)pyridine; (S)-Nicotine	C10H14N2	162.1157	162.2316
+C00748	Siroheme	C42H44FeN4O16	916.2102	916.661
+C00751	Squalene; Spinacene; Supraene	C30H50	410.3913	410.718
+C00755	4-Hydroxy-3-methoxy-benzaldehyde; Vanillin; Vanillaldehyde; 4-Hydroxy-3-methoxybenzaldehyde	C8H8O3	152.0473	152.1473
+C00757	Berberine; Umbellatine	C20H18NO4	336.1236	336.3612
+C00783	Tropinone; 3-Tropanone	C8H13NO	139.0997	139.1949
+C00786	(-)-Vestitone; Vestitone	C16H14O5	286.0841	286.2794
+C00805	Salicylate; o-Hydroxybenzoic acid; Salicylic acid	C7H6O3	138.0317	138.1207
+C00808	(+)-Camphor; d-Camphor	C10H16O	152.1201	152.2334
+C00811	4-Coumarate; p-Coumaric acid; trans-4-Hydroxycinnamate; trans-p-Hydroxycinnamate; 4-Hydroxycinnamic acid; 4-Hydroxycinnamate	C9H8O3	164.0473	164.158
+C00814	Biochanin A	C16H12O5	284.0685	284.2635
+C00826	L-Arogenate; L-Arogenic acid; Pretyrosine	C10H13NO5	227.0794	227.2139
+C00828	Menaquinone; Vitamin K2	C16H16O2(C5H8)n	227.0794	227.2139
+C00843	(-)-Menthone; l-Menthone; p-Menthan-3-one	C10H18O	154.1358	154.2493
+C00844	Prunasin; (R)-Prunasin	C14H17NO6	295.1056	295.2879
+C00848	6-Oxocineole; (1R,4S)-1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octan-6-one; 2-Oxo-1,8-cineole	C10H16O2	168.115	168.2328
+C00852	Chlorogenate; Chlorogenic acid; Caffeoyl quinic acid; trans-5-O-Caffeoyl-D-quinate	C16H18O9	354.0951	354.3087
+C00858	Formononetin	C16H12O4	268.0736	268.2641
+C00859	Gibberellin A1; Gibberellin 1	C19H24O6	348.1573	348.3903
+C00860	L-Histidinol	C6H11N3O	141.0902	141.171
+C00864	Pantothenate; Pantothenic acid; (R)-Pantothenate	C9H17NO5	219.1107	219.235
+C00885	Isochorismate; Isochorismic acid	C10H10O6	226.0477	226.1828
+C00903	Cinnamaldehyde	C9H8O	132.0575	132.1592
+C00931	Porphobilinogen	C10H14N2O4	226.0954	226.2292
+C00944	3-Dehydroquinate; 3-Dehydroquinic acid; 5-Dehydroquinate; 5-Dehydroquinic acid	C7H10O6	190.0477	190.1507
+C00956	L-2-Aminoadipate; L-alpha-Aminoadipate; L-alpha-Aminoadipic acid; L-2-Aminoadipic acid; L-2-Aminohexanedioate	C6H11NO4	161.0688	161.1558
+C00964	(-)-trans-Carveol	C10H16O	152.1201	152.2334
+C00966	2-Dehydropantoate	C6H10O4	146.0579	146.1412
+C00974	Dihydrokaempferol; Aromadendrin; (+)-Dihydrokaempferol; (+)-Aromadendrin	C15H12O6	288.0634	288.2522
+C00979	O-Acetyl-L-serine; O3-Acetyl-L-serine	C5H9NO4	147.0532	147.1293
+C00988	2-Phosphoglycolate; Phosphoglycolic acid	C2H5O6P	155.9824	156.0313
+C01024	Hydroxymethylbilane	C40H46N4O17	854.2858	854.8098
+C01051	Uroporphyrinogen III	C40H44N4O16	836.2752	836.7946
+C01054	(S)-2,3-Epoxysqualene; Squalene 2,3-epoxide; Squalene 2,3-oxide; (S)-Squalene-2,3-epoxide; 2,3-Oxidosqualene; (3S)-2,3-Epoxy-2,3-dihydrosqualene	C30H50O	426.3862	426.7174
+C01069	Desulfoglucotropeolin	C14H19NO6S	329.0933	329.3688
+C01079	Protoporphyrinogen IX	C34H40N4O4	568.305	568.7058
+C01083	alpha,alpha-Trehalose; alpha,alpha'-Trehalose; Trehalose	C12H22O11	342.1162	342.2965
+C01100	L-Histidinol phosphate	C6H12N3O4P	221.0565	221.1509
+C01102	O-Phospho-L-homoserine	C4H10NO6P	199.0246	199.0991
+C01107	(R)-5-Phosphomevalonate; (R)-5-Phosphomevaloonic acid; (R)-Mevalonic acid 5-phosphate	C6H13O7P	228.0399	228.137
+C01115	L-Galactono-1,4-lactone	C6H10O6	178.0477	178.14
+C01118	O-Succinyl-L-homoserine; O4-Succinyl-L-homoserine; O-Succinylhomoserine	C8H13NO6	219.0743	219.1919
+C01123	(-)-trans-Isopiperitenol	C10H16O	152.1201	152.2334
+C01126	(2E,6E)-Farnesol; 2-trans,6-trans-Farnesol; trans-Farnesol	C15H26O	222.1984	222.3663
+C01143	(R)-5-Diphosphomevalonate	C6H14O10P2	308.0062	308.1169
+C01165	L-Glutamate 5-semialdehyde; L-Glutamate gamma-semialdehyde	C5H9NO3	131.0582	131.1299
+C01172	beta-D-Glucose 6-phosphate	C6H13O9P	260.0297	260.1358
+C01179	3-(4-Hydroxyphenyl)pyruvate; 4-Hydroxyphenylpyruvate; p-Hydroxyphenylpyruvic acid	C9H8O4	180.0423	180.1574
+C01180	4-Methylthio-2-oxobutanoic acid; 4-Methylthio-2-oxobutanoate; 2-Keto-4-methylthiobutyric acid; 2-Oxo-4-methylthiobutanoate; 2-Oxo-4-methylthiobutanoic acid	C5H8O3S	148.0194	148.1802
+C01182	D-Ribulose 1,5-bisphosphate	C5H12O11P2	309.9855	310.0897
+C01197	Caffeate; Caffeic acid; 3,4-Dihydroxy-trans-cinnamate; trans-Caffeate; (2E)-3-(3,4-Dihydroxyphenyl)prop-2-enoate	C9H8O4	180.0423	180.1574
+C01226	12-OPDA; (15Z)-12-Oxophyto-10,15-dienoate; (15Z)-12-Oxophyto-10,15-dienoic acid; 9(S),13(S)-12-Oxo-PDA; 12-Oxo-10,15(Z)-phytodienoic acid	C18H28O3	292.2038	292.4131
+C01230	all-trans-Hexaprenyl diphosphate	C30H52O7P2	586.3188	586.6772
+C01234	1-Aminocyclopropane-1-carboxylate; 1-Aminocyclopropane-1-carboxylic acid	C4H7NO2	101.0477	101.1039
+C01236	D-Glucono-1,5-lactone 6-phosphate; 6-Phospho-D-glucono-1,5-lactone	C6H11O9P	258.0141	258.1199
+C01241	Phosphatidyl-N-methylethanolamine	C8H14NO8PR2	258.0141	258.1199
+C01250	N-Acetyl-L-glutamate 5-semialdehyde; 2-Acetamido-5-oxopentanoate	C7H11NO4	173.0688	173.1665
+C01267	3-(Imidazol-4-yl)-2-oxopropyl phosphate; Imidazole-acetol phosphate	C6H9N2O5P	220.0249	220.1198
+C01268	5-Amino-6-(5'-phosphoribosylamino)uracil; 5-Amino-6-(ribosylamino)-2,4-(1H,3H)-pyrimidinedione 5'-phosphate; 5-Amino-6-(5-phosphoribosylamino)uracil	C9H15N4O9P	354.0577	354.2106
+C01269	5-O-(1-Carboxyvinyl)-3-phosphoshikimate; O5-(1-Carboxyvinyl)-3-phosphoshikimate	C10H13O10P	324.0246	324.178
+C01302	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	C12H16NO9P	349.0563	349.2305
+C01304	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one; 2,5-Diamino-6-(1-D-ribosylamino)pyrimidin-4(3H)-one 5'-phosphate	C9H16N5O8P	353.0736	353.2258
+C01326	Hydrogen cyanide; HCN; Cyanide	CHN	27.0109	27.0253
+C01371	Alkane; RH	HR	27.0109	27.0253
+C01414	Casbene	C20H32	272.2504	272.4681
+C01416	Cocaine; l-Cocain; beta-Cocain	C17H21NO4	303.1471	303.3529
+C01433	Loganin	C17H26O10	390.1526	390.3823
+C01450	Ketone; R-CO-R'	COR2	390.1526	390.3823
+C01456	Tropate; Tropic acid; alpha-(Hydroxymethyl)phenylacetic acid	C9H10O3	166.063	166.1739
+C01477	Apigenin; 4',5,7-Trihydroxyflavone; 5,7,4'-Trihydroxyflavone	C15H10O5	270.0528	270.2369
+C01479	Atropine; dl-Hyoscyamine	C17H23NO3	289.1678	289.3694
+C01494	Ferulate; Ferulic acid; 4-Hydroxy-3-methoxycinnamic acid; 3-Methoxy-4-hydroxy-trans-cinnamate; 4-Hydroxy-3-methoxycinnamate	C10H10O4	194.0579	194.184
+C01499	Geranial; trans-Citral	C10H16O	152.1201	152.2334
+C01500	Geraniol	C10H18O	154.1358	154.2493
+C01512	Loganate; Loganic acid	C16H24O10	376.1369	376.3558
+C01513	Lupinate; Lupinic acid; 3-[N6-(4-Hydroxyisopentenyl)adeninyl]-L-alanine; (S)-2-Amino-3-{[(E)-4-hydroxy-3-methylbut-2-enylamino]purin-9-yl}propanoic acid	C13H18N6O3	306.144	306.3204
+C01514	Luteolin; 3',4',5,7-Tetrahydroxyflavone; 5,7,3',4'-Tetrahydroxyflavone	C15H10O6	286.0477	286.2363
+C01516	Morphine	C17H19NO3	285.1365	285.3377
+C01527	Scopolin	C16H18O9	354.0951	354.3087
+C01557	Bergapten; 5-Methoxypsoralen; O-Methylbergaptol; 5-Methoxyfuranocoumarin	C12H8O4	216.0423	216.1895
+C01562	Calycosin	C16H12O5	284.0685	284.2635
+C01594	Linamarin; Phaseolunatin	C10H17NO6	247.1056	247.2451
+C01612	Secondary alcohol; R-CHOH-R'	CH2OR2	247.1056	247.2451
+C01617	Taxifolin; Dihydroquercetin; (+)-Dihydroquercetin; (+)-Taxifolin; trans-Dihydroquercetin	C15H12O7	304.0583	304.2516
+C01672	Cadaverine; 1,5-Pentanediamine; 1,5-Diaminopentane; Pentamethylenediamine	C5H14N2	102.1157	102.1781
+C01699	Gibberellin A3; Gibberellic acid; Gibberellin	C19H22O6	346.1416	346.3744
+C01708	Hemoglobin	C19H22O6	346.1416	346.3744
+C01724	Lanosterol; 4,4',14alpha-Trimethyl-5alpha-cholesta-8,24-dien-3beta-ol	C30H50O	426.3862	426.7174
+C01735	Morphinone	C17H17NO3	283.1208	283.3218
+C01745	Pinosylvin; 3,5-Stilbenediol	C14H12O2	212.0837	212.2439
+C01752	Scopoletin	C10H8O4	192.0423	192.1681
+C01753	beta-Sitosterol; Sitosterol	C29H50O	414.3862	414.7067
+C01761	Vomilenine	C21H22N2O3	350.163	350.411
+C01762	Xanthosine	C10H12N4O6	284.0757	284.2255
+C01765	(+)-Borneol; d-Borneol; Borneocamphor; endo-2-Bornanol; Sumatra camphor; (1R,2S,4R)-(+)-Borneol	C10H18O	154.1358	154.2493
+C01767	(-)-Carvone; (4R)-Carvone	C10H14O	150.1045	150.2176
+C01772	trans-2-Hydroxycinnamate; trans-2-Hydroxycinnamic acid; 2-Hydroxycinnamate; 2-Coumaric acid; o-Coumaric acid; 2-Coumarate	C9H8O3	164.0473	164.158
+C01789	Campesterol	C28H48O	400.3705	400.6801
+C01795	Columbamine	C20H20NO4	338.1392	338.3771
+C01804	Discadenine; 3-(3-Amino-3-carboxypropyl)-N6-(Delta2-isopentenyl)-adenine	C14H20N6O2	304.1648	304.3476
+C01825	L-Galactose	C6H12O6	180.0634	180.1559
+C01851	Scopolamine; (-)-Hyoscine	C17H21NO4	303.1471	303.3529
+C01852	Secologanin; (-)-Secologanin	C17H24O10	388.1369	388.3665
+C01897	Camptothecin	C20H16N2O4	348.111	348.352
+C01902	Cycloartenol; 9beta,19-Cyclo-24-lanosten-3beta-ol	C30H50O	426.3862	426.7174
+C01929	L-Histidinal	C6H9N3O	139.0746	139.1552
+C01935	Maltodextrin; Maltodextrin(n); Maltodextrin(n-2); n+2 Maltodextrin; Linear maltodextrin; Maltooligosaccharide	H2O(C6H10O5)n	139.0746	139.1552
+C01943	Obtusifoliol; 4alpha,14alpha-Dimethyl-5alpha-ergosta-8,24(28)-dien-3beta-ol; 4alpha,14alpha-Dimethyl-24-methylene-5alpha-cholesta-8-en-3beta-ol	C30H50O	426.3862	426.7174
+C01957	Secologanate	C16H22O10	374.1213	374.3399
+C02004	Aristolochene; (+)-Aristolochene	C15H24	204.1878	204.3511
+C02029	Dihydrozeatin; 2-Methyl-4-(1H-purin-6-ylamino)butan-1-ol; N6-(4-Hydroxyisopentanyl)adenine	C10H15N5O	221.1277	221.259
+C02035	Gibberellin A20; Gibberellin 20	C19H24O5	332.1624	332.3909
+C02046	L-Hyoscyamine; L-Tropine tropate; Daturine; Duboisine	C17H23NO3	289.1678	289.3694
+C02059	Phylloquinone; Vitamin K1; Phytonadione; 2-Methyl-3-phytyl-1,4-naphthoquinone	C31H46O2	450.3498	450.6957
+C02074	Raucaffricine; Vomilenine beta-D-glucoside	C27H32N2O8	512.2159	512.5516
+C02094	beta-Carotene; all-trans-beta-Carotene	C40H56	536.4382	536.8726
+C02105	(S)-Reticuline; (+)-Reticuline	C19H23NO4	329.1627	329.3902
+C02106	(S)-Scoulerine; (13aS)-5,8,13,13a-Tetrahydro-3,10-dimethoxy-6H-dibenzo[a,g]quinolizine-2,9-diol	C19H21NO4	327.1471	327.3743
+C02139	Chlorophyllide; Chlorophyllide a	C35H34MgN4O5	614.238	614.9733
+C02141	Cycloeucalenol	C30H50O	426.3862	426.7174
+C02151	Geissoschizine	C21H24N2O3	352.1787	352.4269
+C02153	Glucotropaeolin; Glucotropeolin; Benzyl glucosinolate	C14H19NO9S2	409.0501	409.432
+C02162	Isopimpinellin; 5,8-Dimethoxypsoralen	C13H10O5	246.0528	246.2155
+C02191	Protoporphyrin; Protoporphyrin IX; Porphyrinogen IX	C34H34N4O4	562.258	562.6582
+C02280	GDP-L-galactose	C16H25N5O16P2	605.0772	605.3411
+C02291	L-Cystathionine	C7H14N2O4S	222.0674	222.2621
+C02325	Sinapyl alcohol; Sinapoyl alcohol	C11H14O4	210.0892	210.2265
+C02344	(-)-endo-Fenchol; (-)-alpha-Fenchyl alcohol	C10H18O	154.1358	154.2493
+C02394	Cinnamyl alcohol; 3-Phenyl-2-propen-1-ol; Styrylcarbinol	C9H10O	134.0732	134.1751
+C02452	Perillyl alcohol; (-)-Perillyl alcohol; p-Mentha-1,8-dien-7-ol; (-)-Perillylalcohol	C10H16O	152.1201	152.2334
+C02462	Sabinene hydrate	C10H18O	154.1358	154.2493
+C02463	Precorrin 2; Dihydrosirohydrochlorin	C42H48N4O16	864.3065	864.8477
+C02477	alpha-Tocopherol; Vitamin E	C29H50O2	430.3811	430.7061
+C02483	gamma-Tocopherol	C28H48O2	416.3654	416.6795
+C02485	(-)-Isopiperitenone; (-)-(4R)-Isopiperitenone	C10H14O	150.1045	150.2176
+C02504	alpha-Isopropylmalate; (2S)-2-Isopropylmalate; (2S)-2-Hydroxy-2-isopropylsuccinic acid; 2-Isopropylmalic acid; 3-Carboxy-3-hydroxy-4-methylpentanoate; 3-Carboxy-3-hydroxyisocaproate	C7H12O5	176.0685	176.1672
+C02512	3-Cyano-L-alanine; L-3-Cyanoalanine; L-beta-Cyanoalanine	C4H6N2O2	114.0429	114.1026
+C02631	2-Isopropylmaleate; beta-Isopropylmaleate	C7H10O4	158.0579	158.1519
+C02637	3-Dehydroshikimate	C7H8O5	172.0372	172.1354
+C02646	4-Coumaryl alcohol; 4-Hydroxycinnamyl alcohol; p-Coumaryl alcohol	C9H10O2	150.0681	150.1745
+C02659	Acetone cyanohydrin; alpha-Hydroxyisobutyronitrile; 2-Hydroxy-2-methylpropanenitrile; 2-Methyllactonitrile; Acetone cyanhydrin; 2-Hydroxyisobutyronitrile	C4H7NO	85.0528	85.1045
+C02666	Coniferyl aldehyde; Coniferaldehyde; 4-Hydroxy-3-methoxycinnamaldehyde; Ferulaldehyde	C10H10O3	178.063	178.1846
+C02723	N-Methylputrescine	C5H14N2	102.1157	102.1781
+C02730	2-Succinylbenzoate; o-Succinylbenzoate; Succinylbenzoate	C11H10O5	222.0528	222.1941
+C02737	Phosphatidylserine; Phosphatidyl-L-serine; 1,2-Diacyl-sn-glycerol 3-phospho-L-serine; 3-O-sn-Phosphatidyl-L-serine; O3-Phosphatidyl-L-serine; L-1-Phosphatidylserine	C8H12NO10PR2	222.0528	222.1941
+C02739	1-(5-Phospho-D-ribosyl)-ATP; Phosphoribosyl-ATP; N1-(5-Phospho-D-ribosyl)-ATP; 1-(5-Phosphoribosyl)-ATP; 1-(5-Phospho-beta-D-ribosyl)-ATP	C15H25N5O20P4	719.0043	719.2755
+C02741	Phosphoribosyl-AMP; N1-(5-Phospho-D-ribosyl)-AMP; 1-(5-Phosphoribosyl)-AMP; 1-(5-Phospho-beta-D-ribosyl)-AMP	C15H23N5O14P2	559.0717	559.3157
+C02843	Long-chain acyl-CoA	C23H38N7O17P3S(CH2)2n	559.0717	559.3157
+C02880	Protochlorophyllide; Protochlorophyllide a	C35H32MgN4O5	612.2223	612.9574
+C02906	Dihydromyricetin; Ampelopsin; (+)-Dihydromyricetin; (+)-Ampelopsin	C15H12O8	320.0532	320.251
+C02916	(S)-Norlaudanosoline; (S)-Tetrahydropapaveroline	C16H17NO4	287.1158	287.3105
+C02920	2'-Hydroxyformononetin; 2'-Hydroformononetin	C16H12O5	284.0685	284.2635
+C02937	Indole-3-acetaldehyde oxime; Indole-3-acetaldoxime; 3-Indoleacetaldoxime; (E)-Indol-3-ylacetaldoxime	C10H10N2O	174.0793	174.1992
+C02947	4-Coumaroylshikimate; trans-5-O-(4-Coumaroyl)shikimate	C16H16O7	320.0896	320.294
+C02949	4-Hydroxybenzoyl-CoA	C28H40N7O18P3S	887.1363	887.6396
+C02987	L-Glutamyl-tRNA(Glu)	C20H28N6O13PR(C5H8O6PR)n	887.1363	887.6396
+C03004	N-Hydroxy-L-tyrosine	C9H11NO4	197.0688	197.1879
+C03005	N-Methylanthranilate; N-Methylanthranilic acid; 2-(Methylamino)benzoic acid	C8H9NO2	151.0633	151.1626
+C03082	4-Phospho-L-aspartate; L-4-Aspartyl phosphate	C4H8NO7P	213.0038	213.0826
+C03090	5-Phosphoribosylamine; 5-Phospho-beta-D-ribosylamine; 5-Phospho-D-ribosylamine; 5-Phosphoribosyl-1-amine	C5H12NO7P	229.0351	229.125
+C03092	6-endo-Hydroxycineole; 2-endo-Hydroxy-1,8-cineole	C10H18O2	170.1307	170.2487
+C03160	2-Succinylbenzoyl-CoA; o-Succinylbenzoyl-CoA; Succinylbenzoyl-CoA; 4-(2-Carboxyphenyl)-4-oxobutanoyl-CoA	C32H44N7O20P3S	971.1575	971.7129
+C03175	Shikimate 3-phosphate; Shikimate 5-phosphate	C7H11O8P	254.0192	254.1312
+C03190	(+)-Bornyl diphosphate	C10H20O7P2	314.0684	314.2091
+C03219	(E)-2-Methylpropanal oxime; (E)-Isobutyraldehyde oxime; (E)-Isobutanal oxime	C4H9NO	87.0684	87.1204
+C03220	(2Z,6E)-Farnesol; 2-cis,6-trans-Farnesol	C15H26O	222.1984	222.3663
+C03263	Coproporphyrinogen III	C36H44N4O8	660.3159	660.7566
+C03287	L-Glutamyl 5-phosphate; L-Glutamate 5-phosphate	C5H10NO7P	227.0195	227.1092
+C03300	O-beta-D-Xylosylzeatin; O-beta-D-Xyloxylzeatin	C15H21N5O5	351.1543	351.3577
+C03309	Strictosidine aglycone	C21H24N2O4	368.1736	368.4263
+C03313	Phylloquinol; Vitamin K1 hydroquinone; Phytonadiol	C31H48O2	452.3654	452.7116
+C03325	(6S)-Hydroxyhyoscyamine; (6S)-6-Hydroxyhyoscyamine	C17H23NO4	305.1627	305.3688
+C03329	(S)-Canadine; (S)-Tetrahydroberberine; (13aS)-5,8,13,13a-Tetrahydro-9,10-dimethoxy-6H-benzo[g]-1,3-benzodioxolo[5,6-a]quinolizine; (-)-Canadine	C20H21NO4	339.1471	339.385
+C03344	2-Methylacetoacetyl-CoA; 2-Methyl-3-acetoacetyl-CoA	C26H42N7O18P3S	865.152	865.6341
+C03345	2-Methylbut-2-enoyl-CoA; trans-2-Methylbut-2-enoyl-CoA; Tiglyl-CoA; (E)-2-Methylcrotonoyl-CoA; Methylcrotonoyl-CoA; Methylcrotonyl-CoA; Tigloyl-CoA; 2-Methylcrotanoyl-CoA	C26H42N7O17P3S	849.1571	849.6347
+C03373	Aminoimidazole ribotide; AIR; 1-(5'-Phosphoribosyl)-5-aminoimidazole; 5'-Phosphoribosyl-5-aminoimidazole; 1-(5-Phospho-D-ribosyl)-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole	C8H14N3O7P	295.0569	295.1864
+C03406	N-(L-Arginino)succinate; 2-(Nomega-L-Arginino)succinate; L-Argininosuccinate; L-Argininosuccinic acid; L-Arginosuccinic acid	C10H18N4O6	290.1226	290.2731
+C03423	O-beta-D-Glucosylzeatin; O-beta-D-Glucosyl-trans-zeatin; trans-Zeatin-O-glucoside	C16H23N5O6	381.1648	381.3837
+C03427	Prephytoene diphosphate	C40H68O7P2	722.444	722.9112
+C03428	Presqualene diphosphate	C30H52O7P2	586.3188	586.6772
+C03470	3-alpha(S)-Strictosidine; Strictosidine	C27H34N2O9	530.2264	530.5669
+C03506	Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate	C11H14NO6P	287.0559	287.2057
+C03516	Magnesium protoporphyrin; Magnesium protoporphyrin IX; Mg-protoporphyrin IX	C34H32MgN4O4	584.2274	584.9473
+C03582	Resveratrol; 3,4',5-Trihydroxystilbene; trans-Resveratrol	C14H12O3	228.0786	228.2433
+C03648	cis-3,4-Leucopelargonidin	C15H14O6	290.079	290.2681
+C03657	1,4-Dihydroxy-2-naphthoate; 1,4-Dihydroxy-2-naphthoic acid	C11H8O4	204.0423	204.1788
+C03672	3-(4-Hydroxyphenyl)lactate; 4-Hydroxyphenyllactate; p-Hydroxyphenyllactate; 2-Hydroxy-3-(4-hydroxyphenyl)propanoate	C9H10O4	182.0579	182.1733
+C03677	4,21-Dehydrogeissoschizine	C21H23N2O3	351.1709	351.4189
+C03719	Phenylacetothiohydroximate	C8H9NOS	167.0405	167.2282
+C03741	(S)-4-Amino-5-oxopentanoate; L-Glutamate 1-semialdehyde	C5H9NO3	131.0582	131.1299
+C03742	(S)-4-Hydroxymandelonitrile	C8H7NO2	149.0477	149.1467
+C03758	Dopamine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 3,4-Dihydroxyphenethylamine; 2-(3,4-Dihydroxyphenyl)ethylamine	C8H11NO2	153.079	153.1784
+C03765	4-Hydroxyphenylacetaldehyde; 2-(4-Hydroxyphenyl)acetaldehyde	C8H8O2	136.0524	136.1479
+C03838	5'-Phosphoribosylglycinamide; GAR; N1-(5-Phospho-D-ribosyl)glycinamide; Glycinamide ribonucleotide	C7H15N2O8P	286.0566	286.1764
+C03871	L-2-Amino-6-oxoheptanedioate; L-2-Amino-6-oxopimelate	C7H11NO5	189.0637	189.1659
+C03885	3-Nonaprenyl-4-hydroxybenzoate; Nonaprenyl-4-hydroxybenzoate	C52H78O3	750.5951	751.1739
+C03912	(S)-1-Pyrroline-5-carboxylate; L-1-Pyrroline-5-carboxylate; 1-Pyrroline-5-carboxylate	C5H7NO2	113.0477	113.1146
+C03972	2,3,4,5-Tetrahydrodipicolinate; Delta1-Piperidine-2,6-dicarboxylate; L-2,3,4,5-Tetrahydrodipicolinate; (S)-2,3,4,5-Tetrahydropyridine-2,6-dicarboxylate	C7H9NO4	171.0532	171.1507
+C03974	2-Acyl-sn-glycerol 3-phosphate	C4H8O7PR	171.0532	171.1507
+C04043	3,4-Dihydroxyphenylacetaldehyde; Protocatechuatealdehyde	C8H8O3	152.0473	152.1473
+C04076	L-2-Aminoadipate 6-semialdehyde; 2-Aminoadipate 6-semialdehyde; L-Allysine; Allysine; (S)-2-Amino-6-oxohexanoate	C6H11NO3	145.0739	145.1564
+C04083	N6-(Delta2-Isopentenyl)-adenine; N6-(3-Methylbut-2-enyl)adenine; 6-(gamma,gamma-Dimethylallylamino)purine; N6-Dimethylallyladenine	C10H13N5	203.1171	203.2437
+C04118	Isocorypalmine; 5,8,13,13a-Tetrahydrocolumbamine; (S)-Tetrahydrocolumbamine; (13aS)-5,8,13,13a-Tetrahydro-3,9,10-trimethoxy-6H-dibenzo[a,g]quinolizin-2-ol	C20H23NO4	341.1627	341.4009
+C04133	N-Acetyl-L-glutamate 5-phosphate; N-Acetyl-L-glutamyl 5-phosphate	C7H12NO8P	269.0301	269.1458
+C04145	all-trans-Nonaprenyl diphosphate; Solanesyl pyrophosphate; Solanesyl diphosphate	C45H76O7P2	790.5066	791.0283
+C04146	all-trans-Octaprenyl diphosphate; Farnesylfarnesylgeraniol	C40H68O7P2	722.444	722.9112
+C04171	(2S,3S)-2,3-Dihydro-2,3-dihydroxybenzoate; (2S,3S)-2,3-Dihydroxy-2,3-dihydroxybenzoate	C7H8O4	156.0423	156.136
+C04181	3-Hydroxy-3-methyl-2-oxobutanoic acid; 3-Hydroxy-3-methyl-2-oxobutanoate; 2-Oxo-3-hydroxyisovalerate	C5H8O4	132.0423	132.1146
+C04216	all-trans-Heptaprenyl diphosphate	C35H60O7P2	654.3814	654.7942
+C04236	(2S)-2-Isopropyl-3-oxosuccinate; 3-Carboxy-4-methyl-2-oxopentanoate; 2-Oxo-4-methyl-3-carboxypentanoate	C7H10O5	174.0528	174.1513
+C04272	(R)-2,3-Dihydroxy-3-methylbutanoate; (R)-2,3-Dihydroxy-isovalerate; (R)-2,3-Dihydroxy-isovaleric acid; (2R)-2,3-Dihydroxy-3-methylbutanoate	C5H10O4	134.0579	134.1305
+C04302	N-(5-Phospho-D-ribosyl)anthranilate; N-(5-Phospho-beta-D-ribosyl)anthranilate; N-(5-Phosphoribosyl)anthranilic acid	C12H16NO9P	349.0563	349.2305
+C04308	Phosphatidyl-N-dimethylethanolamine	C9H16NO8PR2	349.0563	349.2305
+C04332	6,7-Dimethyl-8-(D-ribityl)lumazine	C13H18N4O6	326.1226	326.3052
+C04350	(E)-4-Hydroxyphenylacetaldehyde oxime; (E)-[4-Hydroxyphenylacetaldehyde oxime]	C8H9NO2	151.0633	151.1626
+C04376	5'-Phosphoribosyl-N-formylglycinamide; N-Formyl-GAR; N-Formylglycinamide ribonucleotide; N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide	C8H15N2O9P	314.0515	314.1865
+C04390	N6-Acetyl-LL-2,6-diaminoheptanedioate; N2-Acetyl-LL-2,6-diaminoheptanedioate; N6-Acetyl-LL-2,6-diaminopimelate; N2-Acetyl-LL-2,6-diaminopimelate; N6-Acetyl-L-2,6-diaminoheptanedioate; N6-Acetyl-L-2,6-diaminopimelate; N-Acetyl-LL-2,6-diaminoheptanedioate	C9H16N2O5	232.1059	232.2337
+C04405	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA; (S)-3-Hydroxy-2-methylbutyryl-CoA	C26H44N7O18P3S	867.1676	867.6499
+C04411	(2R,3S)-3-Isopropylmalate; 3-Isopropylmalate; 3-Carboxy-2-hydroxy-4-methylpentanoate; 2-D-threo-Hydroxy-3-carboxy-isocaproate	C7H12O5	176.0685	176.1672
+C04432	tRNA containing 6-isopentenyladenosine; N6-Dimethylallyladenine in tRNA	C15H22N5O7P(C5H8O6PR)n(C5H8O6PR)n	176.0685	176.1672
+C04433	(E)-3,7-Dimethylocta-1,6-diene-3,8-diol; (6E)-8-Hydroxylinalool	C10H18O2	170.1307	170.2487
+C04454	5-Amino-6-(5'-phospho-D-ribitylamino)uracil; 5-Amino-2,6-dioxy-4-(5'-phospho-D-ribitylamino)pyrimidine; 5-Amino-6-(5-phospho-D-ribitylamino)uracil	C9H17N4O9P	356.0733	356.2264
+C04536	Magnesium protoporphyrin monomethyl ester; Magnesium-protoporphyrin IX 13-monomethyl ester; Mg-Protoporphyrin IX 13-monomethyl ester; Magnesium protoporphyrin IX 13-methyl ester	C35H34MgN4O4	598.243	598.9739
+C04574	di-trans,poly-cis-Undecaprenyl diphosphate; Undecaprenyl diphosphate; Bactoprenyl diphosphate; ditrans,octacis-Undecaprenyl diphosphate	C55H92O7P2	926.6318	927.2623
+C04640	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine; 1-(5'-Phosphoribosyl)-N-formylglycinamidine; 5'-Phosphoribosyl-N-formylglycinamidine; 5'-Phosphoribosylformylglycinamidine; 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine	C8H16N3O8P	313.0675	313.2017
+C04666	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate; D-erythro-Imidazole-glycerol 3-phosphate; D-erythro-Imidazole-glycerol phosphate	C6H11N2O6P	238.0355	238.1351
+C04672	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid; (9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoate; (9Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoate; 12,13(S)-EOT; 12,13(S)-EOTrE	C18H28O3	292.2038	292.4131
+C04677	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide; 5'-Phosphoribosyl-5-amino-4-imidazolecarboxamide; 5'-Phospho-ribosyl-5-amino-4-imidazole carboxamide; AICAR; 5-Aminoimidazole-4-carboxamide ribotide; 5-Phosphoribosyl-4-carbamoyl-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	C9H15N4O8P	338.0628	338.2112
+C04691	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate; 3-Deoxy-D-arabino-hept-2-ulosonate 7-phosphate; 3-Deoxy-arabino-heptulonate 7-phosphate; 3-Deoxy-D-arabino-heptulosonic acid 7-phosphate; DAHP; 2-Dahp	C7H13O10P	288.0246	288.1459
+C04713	N6-(delta2-Isopentenyl)-adenosine 5'-monophosphate; N6-(Dimethylallyl)adenosine 5'-phosphate; Isopentenyl-AMP	C15H22N5O7P	415.1257	415.3382
+C04718	1,6,6-Trimethyl-2,7-dioxabicyclo[3.2.2]nonan-3-one	C10H16O3	184.1099	184.2322
+C04732	5-Amino-6-(1-D-ribitylamino)uracil; 5-Amino-6-(D-ribitylamino)uracil; 6-(1-D-Ribitylamino)-5-amino-2,4-dihydroxypyrimidine; 6-(1-D-Ribitylamino)-5-aminouracil; 4-(1-D-Ribitylamino)-5-amino-2,6-dihydroxypyrimidine	C9H16N4O6	276.107	276.2465
+C04734	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide; 5'-Phosphoribosyl-5-formamido-4-imidazolecarboxamide; 5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide; 5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide; FAICAR	C10H15N4O9P	366.0577	366.2213
+C04751	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-5-amino-4-carboxyimidazole; 5'-Phosphoribosyl-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-4-carboxy-5-aminoimidazole; 5'-Phosphoribosyl-4-carboxy-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	C9H14N3O9P	339.0468	339.1959
+C04780	8-[(1R,2R)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate; OPC-8:0	C18H30O3	294.2195	294.429
+C04785	13(S)-HPOT; (9Z,11E,15Z)-(13S)-Hydroperoxyoctadeca-9,11,15-trienoate; (9Z,11E,15Z)-(13S)-13-Hydroperoxyoctadeca-9,11,15-trienoic acid; 13(S)-HpOTrE; 13-HPOT	C18H30O4	310.2144	310.4284
+C04823	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole; 1-(5'-Phosphoribosyl)-4-(N-succinocarboxamide)-5-aminoimidazole; 5'-Phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole; (S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate; SAICAR	C13H19N4O12P	454.0737	454.2833
+C04896	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide; N-(5'-Phospho-D-ribosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide; N-(5'-Phosphoribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide; Phosphoribosyl-formimino-AICAR-phosphate; 1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide; 1-(5-Phospho-beta-D-ribosyl)-5-[(5-phospho-beta-D-ribosylamino)methylideneamino]imidazole-4-carboxamide	C15H25N5O15P2	577.0822	577.331
+C04916	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide; 5-[(5-Phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide; Phosphoribulosyl-formimino-AICAR-phosphate; 5-[(5-Phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide	C15H25N5O15P2	577.0822	577.331
+C05143	Dhurrin; (S)-4-Hydroxymandelonitrile beta-D-glucoside	C14H17NO7	311.1005	311.2873
+C05158	trans-beta-D-Glucosyl-2-hydroxycinnamate; beta-D-Glucosyl-2-coumarate	C15H18O8	326.1002	326.2986
+C05174	(S)-Cheilanthifoline; (6aS)-6,6a,11,14-Tetrahydro-8-methoxy-12H-benzo[a]-1,3-benzodioxolo[4,5-g]quinolizim-9-ol	C19H19NO4	325.1314	325.3585
+C05175	Stylopine; (S)-Stylopine; l-Tetrahydrocoptisine; 6,7,12b,13e-Tetrahydro-4H-bis[1,3]benzodioxolo[5,6-a:4',5'-g]quinolizine	C19H17NO4	323.1158	323.3426
+C05176	(S)-N-Methylcoclaurine; (S)-1,2,3,4-Tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-2-methyl-7-isoquinolinol	C18H21NO3	299.1521	299.3642
+C05178	(R)-Reticuline; (1R)-1,2,3,4-Tetrahydro-1-[(3-hydroxy-4-methoxyphenyl)methyl]-6-methoxy-2-methyl-7-isoquinolinol	C19H23NO4	329.1627	329.3902
+C05179	Salutaridine; Sinoacutine; 5,6,8,14-Tetradehydro-4-hydroxy-3,6-dimethoxy-17-methyl-morphinan-7-one	C19H21NO4	327.1471	327.3743
+C05189	Protopine	C20H19NO5	353.1263	353.3686
+C05190	6-Hydroxyprotopine	C20H19NO6	369.1212	369.368
+C05191	Dihydrosanguinarine; 13,14-Dihydro-13-methyl-[1,3]benzodioxolo[5,6-c]-1,3-dioxolo[4,5-i]phenanthridine	C20H15NO4	333.1001	333.3374
+C05193	12-Hydroxydihydrochelirubine; 12-Hydroxychelirubine	C21H17NO6	379.1056	379.3628
+C05194	Dihydrochelirubine; 13,14-Dihydro-5-methoxy-13-methyl-[1,3]benzodioxolo[5,6-c]-1,3-dioxolo[4,5-i]phenanthridine	C21H17NO5	363.1107	363.3634
+C05200	3-Hexaprenyl-4,5-dihydroxybenzoate	C37H54O4	562.4022	562.8223
+C05202	3'-Hydroxy-N-methyl-(S)-coclaurine; (S)-3'-Hydroxy-N-methylcoclaurine	C18H21NO4	315.1471	315.3636
+C05220	Salutaridinol; 5,6,8,14-Tetradehydro-3,6-dimethoxy-17-methyl-morphinan-4,7-diol	C19H23NO4	329.1627	329.3902
+C05247	10-Hydroxydihydrosanguinarine	C20H15NO5	349.095	349.3368
+C05306	Chlorophyll a	C55H72MgN4O5	892.5353	893.489
+C05307	Chlorophyll b	C55H70MgN4O6	906.5146	907.4725
+C05313	3-Hexaprenyl-4-hydroxy-5-methoxybenzoate	C38H56O4	576.4179	576.8488
+C05316	Dihydromacarpine; 13,14-Dihydro-5,7-dimethoxy-13-methyl-[1,3]benzodioxolo[5,6-c]-1,3-dioxolo[4,5-i]phenanthridine	C22H19NO6	393.1212	393.3894
+C05322	7-O-Acetylsalutaridinol; Salutaridinol acetate	C21H25NO5	371.1733	371.4269
+C05345	beta-D-Fructose 6-phosphate	C6H13O9P	260.0297	260.1358
+C05378	beta-D-Fructose 1,6-bisphosphate	C6H14O12P2	339.996	340.1157
+C05379	Oxalosuccinate; Oxalosuccinic acid	C6H6O7	190.0114	190.1076
+C05382	Sedoheptulose 7-phosphate; D-Sedoheptulose 7-phosphate; D-altro-Heptulose 7-phosphate; altro-Heptulose 7-phosphate	C7H15O10P	290.0403	290.1618
+C05414	all-trans-Phytofluene	C40H62	542.4852	542.9203
+C05421	15-cis-Phytoene; Phytoene	C40H64	544.5008	544.9362
+C05427	Phytyl diphosphate	C20H42O7P2	456.2406	456.4908
+C05430	all-trans-zeta-Carotene	C40H60	540.4695	540.9044
+C05431	all-trans-Neurosporene	C40H58	538.4539	538.8885
+C05432	Lycopene; all-trans-Lycopene	C40H56	536.4382	536.8726
+C05433	alpha-Carotene	C40H56	536.4382	536.8726
+C05435	gamma-Carotene	C40H56	536.4382	536.8726
+C05442	Stigmasterol	C29H48O	412.3705	412.6908
+C05539	N-Acetyl-L-2-amino-6-oxopimelate; L-2-Acetamido-6-oxoheptanedioate; L-2-Acetamido-6-oxopimelate	C9H13NO6	231.0743	231.2026
+C05608	4-Hydroxycinnamyl aldehyde; p-Coumaraldehyde	C9H8O2	148.0524	148.1586
+C05610	Sinapoyl aldehyde; Sinapaldehyde	C11H12O4	208.0736	208.2106
+C05619	5-Hydroxyferulic acid methyl ester	C10H10O5	210.0528	210.1834
+C05623	Quercetin 3-O-glucoside; Isoquercitrin; 2-(3,4-Dihidroxyphenyl)-3-(beta-D-glucofuranosyloxy)-5,7-dihydroxy-4H-1-benzopyran-4-one; Isotrifoliin	C21H20O12	464.0955	464.3763
+C05625	Rutin; 3-[[6-O-(6-Deoxy-alpha-L-mannopyranosyl)-beta-D-glucopyranosyl]oxy]-2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4H-1-benzopyran-4-one; Quercetin 3-rutinoside; Rutoside; Phytomelin	C27H30O16	610.1534	610.5175
+C05631	Eriodictyol	C15H12O6	288.0634	288.2522
+C05766	Uroporphyrinogen I	C40H44N4O16	836.2752	836.7946
+C05767	Uroporphyrin I	C40H38N4O16	830.2283	830.7469
+C05768	Coproporphyrinogen I	C36H44N4O8	660.3159	660.7566
+C05769	Coproporphyrin I	C36H38N4O8	654.269	654.7089
+C05770	Coproporphyrin III	C36H38N4O8	654.269	654.7089
+C05778	Sirohydrochlorin	C42H46N4O16	862.2909	862.8318
+C05781	Oxyhemoglobin	C42H46N4O16	862.2909	862.8318
+C05786	(3Z)-Phycocyanobilin	C33H38N4O6	586.2791	586.678
+C05787	Bilirubin beta-diglucuronide; Bilirubin-bisglucuronoside	C45H52N4O18	936.3277	936.9104
+C05791	D-Urobilinogen	C33H42N4O6	590.3104	590.7098
+C05795	D-Urobilin	C33H40N4O6	588.2948	588.6939
+C05802	2-Hexaprenyl-6-methoxyphenol	C37H56O2	532.428	532.8393
+C05803	2-Hexaprenyl-6-methoxy-1,4-benzoquinone	C37H54O3	546.4073	546.8229
+C05804	2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone	C38H56O3	560.4229	560.8494
+C05805	2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone	C38H56O4	576.4179	576.8488
+C05807	2-Polyprenylphenol	C11H14O(C5H8)n	576.4179	576.8488
+C05809	3-Octaprenyl-4-hydroxybenzoate; 4-Hydroxy-3-octaprenylbenzoate	C47H70O3	682.5325	683.0569
+C05810	2-Octaprenylphenol	C46H70O	638.5427	639.0474
+C05811	2-Octaprenyl-6-hydroxyphenol; 3-Octaprenylcatechol	C46H70O2	654.5376	655.0468
+C05812	2-Octaprenyl-6-methoxyphenol	C47H72O2	668.5532	669.0734
+C05813	2-Octaprenyl-6-methoxy-1,4-benzoquinone	C47H70O3	682.5325	683.0569
+C05814	2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone	C48H72O3	696.5481	697.0835
+C05815	2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone	C48H72O4	712.5431	713.0829
+C05817	(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate; (1R,6R)-2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate; SHCHC	C11H12O6	240.0634	240.2094
+C05818	2-Demethylmenaquinone	C15H14O2(C5H8)n	240.0634	240.2094
+C05819	Menaquinol; Reduced menaquinone; Vitamin K2 hydroquinone; Reduced vitamin K2	C16H18O2(C5H8)n	240.0634	240.2094
+C05821	Enterochelin; Enterobactin; Tri-(2,3-dihydroxy-N-benzoyl-L-serine)-ester; Tri-(N-(2,3-dihydroxybenzoyl)-L-serine)-ester	C30H27N3O15	669.1442	669.5465
+C05837	Glucobrassicin; Indolylmethyl glucosinolate	C16H20N2O9S2	448.061	448.468
+C05838	cis-2-Hydroxycinnamate; 2-Coumarinate	C9H8O3	164.0473	164.158
+C05839	cis-beta-D-Glucosyl-2-hydroxycinnamate; beta-D-Glucosyl-2-coumarinate	C15H18O8	326.1002	326.2986
+C05847	all-trans-Polyprenyl diphosphate; Polyisopentenylpyrophosphate; Polyisopentenyldiphosphate; trans-Polyisopentenyldiphosphate; Polyprenyl diphosphate	C5H12O7P2(C5H8)n	326.1002	326.2986
+C05848	4-Hydroxy-3-polyprenylbenzoate	C12H14O3(C5H8)n	326.1002	326.2986
+C05849	Vitamin K1 epoxide; (2,3-Epoxyphytyl)menaquinone; 2,3-Epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone; 2,3-Epoxyphylloquinone; 1a,7a-Dihydro-1a-methyl-7a-(3,7,11,15-tetramethyl-2-hexadecenyl)-naphth[2,3-b]oxirene-2,7-dione; Phylloquinone oxide; Phylloquinone epoxide; Phylloquinone-2,3-epoxide; Vitamin K1 2,3-epoxide; Vitamin K1 oxide	C31H46O3	466.3447	466.6951
+C05851	Coumarin; Coumarine; Cumarin; 2H-1-Benzopyran-2-one; 1,2-Benzopyrone; 2-Propenoic acid, 3-(2-hydroxyphenyl)-, delta-lactone; 5,6-Benzo-2-pyrone; Benzo-alpha-pyrone; cis-o-Coumarinic acid lactone; Coumarinic anhydride; o-Hydroxycinnamic acid lactone; Rattex; Tonka bean camphor	C9H6O2	146.0368	146.1427
+C05859	Dehydrodolichol diphosphate; Dehydrodolichyl diphosphate; ditrans,polycis-Polyprenyl diphosphate	C20H36O7P2(C5H8)n	146.0368	146.1427
+C05901	Piceatannol; 3,3',4'5-Tetrahydroxystilbene	C14H12O4	244.0736	244.2427
+C05903	Kaempferol; 3,4',5,7-Tetrahydroxyflavone; 3,5,7-Trihydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one; 5,7,4'-Trihydroxyflavonol; C.I. 75640; Indigo yellow; Kaempherol; Kempferol; Nimbecetin; Pelargidenolon; Populnetin; Rhamnolutein; Rhamnolutin; Robigenin; Swartziol; Trifolitin	C15H10O6	286.0477	286.2363
+C05904	Pelargonidin; 3,5,7-Trihydroxy-2-(4-hydroxyphenyl)benzopyrylium chloride; 3,4',5,7-Tetrahydroxyflavylium chloride; Pelargonidin chloride; Pelargonidol chloride	C15H11O5	271.0606	271.2448
+C05905	Cyanidin; 3,3',4',5,7-Pentahydroxyflavylium chloride; Chlorure de 3,3',4',5,7-pentahydroxyflavylium; 3,3',4',5,7-Pentahydroxyflavyliumchlorid; 2-(3,4-Dihydroxyphenyl)-3,5,7-trihydroxy-1-benzopyrylium chloride; 3,3',4',5,7-Pentahydroxy-2-phenylbenzopyrylium chloride; Cyanidin chloride; Cyanidine; Cyanidol; Cyanidol chloride; IdB 1027	C15H11O6	287.0556	287.2442
+C05906	Leucocyanidin; 2-(3,4-Dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,4,5,7-tetrol; 3,3',4,4',5,7-Flavanhexol; 3,4-Cyanidiol; Leucoanthocyanidol; Leucocianidol; Leucocyanidol; Leukocyanidine; Procyanidol; Resivit; 2,3-trans-3,4-cis-Leucocyanidin	C15H14O7	306.074	306.2675
+C05908	Delphinidin; 3,5,7-Trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyrylium chloride; Chlorure de 3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyrylium; 3,5,7-Trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyryliumchlorid; 3,3',4',5,5',7-Hexahydroxy-2-phenylbenzopyrylium chloride; 3,3',4',5,5',7-Hexahydroxyflavylium chloride; Delfinidol chloride; Delphinidin chloride; Delphinidine; Delphinidol; Ephdine; IdB 1056	C15H11O7	303.0505	303.2436
+C05909	Leucodelphinidin	C15H14O8	322.0689	322.2669
+C05911	Pentahydroxyflavanone; Dihydrotricetin	C15H12O7	304.0583	304.2516
+C05912	(3Z)-Phycoerythrobilin	C33H38N4O6	586.2791	586.678
+C05913	(3Z)-Phytochromobilin	C33H36N4O6	584.2635	584.6621
+C06006	(S)-2-Aceto-2-hydroxybutanoate; (S)-2-Hydroxy-2-ethyl-3-oxobutanoate	C6H10O4	146.0579	146.1412
+C06007	(R)-2,3-Dihydroxy-3-methylpentanoate; (R)-2,3-Dihydroxy-3-methylvalerate; (2R,3R)-2,3-Dihydroxy-3-methylpentanoate	C6H12O4	148.0736	148.1571
+C06010	(S)-2-Acetolactate; (S)-2-Hydroxy-2-methyl-3-oxobutanoate; (2S)-2-Hydroxy-2-methyl-3-oxobutanoate	C5H8O4	132.0423	132.1146
+C06066	4,5-Dihydro-5,5-dimethyl-4-(3-oxobutyl)furan-2(3H)-one	C10H16O3	184.1099	184.2322
+C06069	Iridodial; cis-trans-Iridodial	C10H16O2	168.115	168.2328
+C06070	Iridotrial; (1S,2R,3S)-2-Formyl-alpha-(hydroxymethylene)-3-methylcyclopentaneacetaldehyde	C10H14O3	182.0943	182.2164
+C06071	Deoxyloganin; 7-Deoxyloganin	C17H26O9	374.1577	374.3829
+C06074	Myrcene; beta-Myrcene	C10H16	136.1252	136.234
+C06082	Abscisate; Abscisic acid; (+)-Abscisic acid; ABA	C15H20O4	264.1362	264.3169
+C06083	Tetrahymanol	C30H52O	428.4018	428.7333
+C06086	Pimaradiene; Pimara-8(14),15-diene	C20H32	272.2504	272.4681
+C06087	Abietate; Abietic acid	C20H30O2	302.2246	302.451
+C06088	Aphidicolin	C20H34O4	338.2457	338.4816
+C06089	ent-Copalyl diphosphate; (-)-Copalyl diphosphate	C20H36O7P2	450.1936	450.4432
+C06090	ent-Kaurene; ent-Kaur-16-ene	C20H32	272.2504	272.4681
+C06093	Gibberellin A12 aldehyde	C20H28O3	316.2038	316.4345
+C06098	Zeaxanthin	C40H56O2	568.428	568.8714
+C06099	d-Limonene; (+)-Limonene; (+)-(R)-Limonene; (+)-(4R)-Limonene	C10H16	136.1252	136.234
+C06160	(S)-Norcoclaurine; 6,7-Dihydroxy-(1S)-[(4-hydroxyphenyl)methyl]-1,2,3,4-tetrahydroisoquinoline	C16H17NO3	271.1208	271.3111
+C06161	(S)-Coclaurine; Coclaurine; (S)-1,2,3,4-Tetrahydro-1-[(4-hydroxyphenyl)methyl]-6-methoxy-7-isoquinolinol; 1-(p-Hydroxybenzyl)-6-methoxy-7-hydroxy-1,2,3,4-tetrahydroisoquinoline	C17H19NO3	285.1365	285.3377
+C06163	(S)-cis-N-Methylstylopine	C20H20NO4	338.1392	338.3771
+C06165	Macarpine	C22H18NO6	392.1134	392.3814
+C06167	1,2-Dehydroreticuline; 1,2-Dehydroreticulinium; 3,4-Dihydro-7-hydroxy-1-[(3-hydroxy-4-methoxyphenyl)methyl]-6-methoxy-2-(methyl-14C)-isoquinolinium	C19H22NO4	328.1549	328.3823
+C06171	Codeinone; (5alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-one	C18H19NO3	297.1365	297.3484
+C06172	Neopinone	C18H19NO3	297.1365	297.3484
+C06173	Thebaine	C19H21NO3	311.1521	311.3749
+C06174	Codeine; (5alpha,6alpha)-7,8-Didehydro-4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol	C18H21NO3	299.1521	299.3642
+C06175	Oripavine	C18H19NO3	297.1365	297.3484
+C06176	Senecionine	C18H25NO5	335.1733	335.3948
+C06177	Retronecine	C8H13NO2	155.0946	155.1943
+C06178	1-Methylpyrrolinium; 1-Methyl-Delta(1)-pyrrolinium	C5H10N	84.0813	84.1396
+C06179	Hygrine; (+)-Hygrine	C8H15NO	141.1154	141.2108
+C06180	Anabasine	C10H14N2	162.1157	162.2316
+C06181	Piperideine; 1-Piperideine	C5H9N	83.0735	83.1317
+C06182	Pelletierine	C8H15NO	141.1154	141.2108
+C06183	L-(+)-Anaferine; Anapheline	C13H24N2O	224.1889	224.3425
+C06184	N-Methylpelletierine	C9H17NO	155.131	155.2374
+C06185	Slaframine; (-)-Slaframine	C10H18N2O2	198.1368	198.2621
+C06304	(+)-Camphene; (+)-Comphene	C10H16	136.1252	136.234
+C06307	(-)-beta-Pinene; (1S,5S)-6,6-Dimethyl-2-methylenebicyclo[3.1.1]heptane	C10H16	136.1252	136.234
+C06308	(-)-alpha-Pinene; (1S,5S)-2,6,6-Trimethylbicyclo[3.1.1]hept-2-ene	C10H16	136.1252	136.234
+C06309	Diplopterol; 22-Hopanol; Hopan-22-ol	C30H52O	428.4018	428.7333
+C06366	sym-Homospermidine; Homospermidine	C8H21N3	159.1735	159.2724
+C06394	delta-Cadinene; (+)-delta-Cadinene	C15H24	204.1878	204.3511
+C06400	1-alpha-D-[(1->4)-alpha-D-Glucosyl](n-1)-alpha-D-glucopyranoside; 4-alpha-D-(1,4-alpha-D-Glucanosyl)n trehalose; Maltooligosyltrehalose	C12H22O11(C6H10O5)n	204.1878	204.3511
+C06427	(9Z,12Z,15Z)-Octadecatrienoic acid; alpha-Linolenic acid; 9,12,15-Octadecatrienoic acid; Linolenate; alpha-Linolenate	C18H30O2	278.2246	278.4296
+C06516	(R)-Norreticuline; N-Norreticuline	C18H21NO4	315.1471	315.3636
+C06517	(S)-6-O-Methylnorlaudanosoline; (S)-3'-Hydroxycoclaurine	C17H19NO4	301.1314	301.3371
+C06520	(S)-Norreticuline	C18H21NO4	315.1471	315.3636
+C06521	Cuscohygrine; Cuskhygrine	C13H24N2O	224.1889	224.3425
+C06522	Strychnine	C21H22N2O2	334.1681	334.4116
+C06533	Papaverine	C20H21NO4	339.1471	339.385
+C06535	Physostigmine; Eserine	C15H21N3O2	275.1634	275.3461
+C06542	Ajmaline	C20H26N2O2	326.1994	326.4326
+C06547	Ethylene	C2H4	28.0313	28.0532
+C06561	Naringenin chalcone; 2',4,4',6'-Tetrahydroxychalcone; Isosalipurpol; Chalconaringenin	C15H12O5	272.0685	272.2528
+C06562	(+)-Catechin; D-Catechin; Cyanidanol; (2R-trans)-2-(3,4-Dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,5,7-triol; (2R,3S)-Catechin; (2R,3S)-(+)-Catechin; Cianidanol	C15H14O6	290.079	290.2681
+C06563	Genistein; 5,7,4'-Trihydroxyisoflavone	C15H10O5	270.0528	270.2369
+C06769	Vibriobactin	C35H39N5O11	705.2646	705.7111
+C06866	Capsaicin	C18H27NO3	305.1991	305.4119
+C07130	Theophylline; 1,3-Dimethylxanthine	C7H8N4O2	180.0647	180.164
+C07201	Vinblastine	C46H58N4O9	810.4204	810.9741
+C07204	Vincristine; 22-Oxovincaleukoblastine	C46H56N4O10	824.3996	824.9576
+C07303	4-Hydroxy-3-methoxyphenyl-beta-hydroxypropanoyl-CoA; 4-Hydroxy-3-methoxyphenyl-beta-hydroxypropionyl-CoA; 3-Hydroxy-3-(4-hydroxy-3-methoxyphenyl)propionyl-CoA	C31H46N7O20P3S	961.1731	961.7181
+C07394	Paclitaxel	C47H51NO14	853.331	853.9061
+C07474	Pilocarpine	C11H16N2O2	208.1212	208.2569
+C07475	Lobeline; (-)-Lobeline	C22H27NO2	337.2042	337.4553
+C07480	Theobromine; 3,7-Dimethylxanthine	C7H8N4O2	180.0647	180.164
+C07481	Caffeine; 1,3,7-Trimethylxanthine	C8H10N4O2	194.0804	194.1906
+C07544	Ergotamine	C33H35N5O5	581.2638	581.6615
+C07592	Colchicine	C22H25NO6	399.1682	399.437
+C07593	Rotenone	C23H22O6	394.1416	394.4172
+C07601	Ginkgolide A	C20H24O9	408.142	408.3992
+C07667	Gossypol	C30H30O8	518.1941	518.5544
+C08262	3-Methylbutanoic acid; Isovaleric acid; Isovalerate	C5H10O2	102.0681	102.1317
+C08325	Amygdalin; (R)-Amygdalin; (R)-Amygdaloside; (R)-Laenitrile	C20H27NO11	457.1584	457.4285
+C08334	Lotaustralin	C11H19NO6	261.1212	261.2717
+C08401	Glucoberteroin; 5-Methylthiopentyl glucosinolate	C13H25NO9S3	435.0691	435.5339
+C08407	Glucocochlearin; 1-Methylpropyl glucosinolate	C11H21NO9S2	375.0658	375.4157
+C08409	Glucoerucin; 4-Methylthiobutyl glucosinolate	C12H23NO9S3	421.0535	421.5073
+C08412	Glucoiberverin; 3-Methylthiopropyl glucosinolate	C11H21NO9S3	407.0378	407.4807
+C08417	Gluconasturtiin; 2-Phenylethyl glucosinolate	C15H21NO9S2	423.0658	423.4585
+C08418	Glucoputranjivin; 1-Methylethyl glucosinolate	C10H19NO9S2	361.0501	361.3892
+C08426	Sinalbin; p-Hydroxybenzyl glucosinolate	C14H19NO10S2	425.045	425.4314
+C08491	(-)-Jasmonic acid; Jasmonic acid; {(1R,2R)-3-Oxo-2-[(Z)pent-2-enyl]cyclopent-2-enyl}acetic acid; Jasmonate; (-)-Jasmonate	C12H18O3	210.1256	210.2695
+C08492	3-Hexenol; Leaf alcohol; 3-Hexen-1-ol; (3Z)-3-Hexen-1-ol; cis-3-Hexen-1-ol; (3Z)-Hex-3-en-1-ol	C6H12O	100.0888	100.1589
+C08526	Galanthamine; Galantamine	C17H21NO3	287.1521	287.3535
+C08538	Betalamic acid	C9H9NO5	211.0481	211.1715
+C08539	Betanidin; (2S)-4-[2-[(2S)-2-Carboxy-2,3-dihydro-5,6-dihydroxy-1H-indol-1-yl]ethenyl]-2,3-dihydro-2,6-pyridinedicarboxylic acid	C18H16N2O8	388.0907	388.3282
+C08540	Betanin	C24H26N2O13	550.1435	550.4688
+C08543	Dopaxanthin	C18H18N2O8	390.1063	390.3441
+C08557	Miraxanthin-V	C17H18N2O6	346.1165	346.3346
+C08565	Portulacaxanthin II	C18H18N2O7	374.1114	374.3447
+C08579	Antheraxanthin	C40H56O3	584.4229	584.8708
+C08586	delta-Carotene	C40H56	536.4382	536.8726
+C08590	Zeinoxanthin; 3-Hydroxy-alpha-carotene; (3R,6'R)-beta,epsilon-Caroten-3-ol	C40H56O	552.4331	552.872
+C08591	beta-Cryptoxanthin	C40H56O	552.4331	552.872
+C08601	Lutein; Xanthophyll	C40H56O2	568.428	568.8714
+C08606	Neoxanthin; all-trans-Neoxanthin	C40H56O4	600.4179	600.8702
+C08614	Violaxanthin; all-trans-Violaxanthin	C40H56O4	600.4179	600.8702
+C08616	beta-Amyrin; beta-Amyrenol	C30H50O	426.3862	426.7174
+C08627	Hopane-29-acetate	C32H54O2	470.4124	470.77
+C08628	Lupeol	C30H50O	426.3862	426.7174
+C08637	Taraxerol	C30H50O	426.3862	426.7174
+C08650	Isoliquiritigenin	C15H12O4	256.0736	256.2534
+C08814	Brassinolide	C28H48O6	480.3451	480.6771
+C08821	Isofucosterol; Delta5-Avenasterol	C29H48O	412.3705	412.6908
+C08830	24-Methylenecycloartanol; 9,19-Cyclolanostan-3-o1, 24-methylene-, (3beta)-	C31H52O	440.4018	440.744
+C09024	Ajmalicine; Raubasine	C21H24N2O3	352.1787	352.4269
+C09060	Angelicin; Isopsoralen	C11H6O3	186.0317	186.1635
+C09092	Ferruginol; Abieta-8,11,13-trien-12-ol	C20H30O	286.2297	286.4516
+C09094	Geranylgeraniol; 2,6,10,14-Hexadecatetraen-1-ol, 3,7,11,15-tetramethyl-	C20H34O	290.261	290.4834
+C09107	Catharanthine	C21H24N2O2	336.1838	336.4275
+C09118	Isopimaric acid	C20H30O2	302.2246	302.451
+C09183	Sclareol; (13R)-Labd-14-ene-8alpha,13-diol	C20H36O2	308.2715	308.4986
+C09189	Stevioside	C38H60O18	804.378	804.8722
+C09190	Strigol	C19H22O6	346.1416	346.3744
+C09239	Sarpagine	C19H22N2O2	310.1681	310.3902
+C09241	Serpentine; Serpentine (alkaloid)	C21H20N2O3	348.1474	348.3951
+C09244	Tabersonine	C21H24N2O2	336.1838	336.4275
+C09305	Psoralen; Ficusin	C11H6O3	186.0317	186.1635
+C09315	Umbelliferone; 7-Hydroxycoumarin	C9H6O3	162.0317	162.1421
+C09320	Afzelechin; 3,5,7,4'-Tetrahydroxyflavan	C15H14O5	274.0841	274.2687
+C09382	Costunolide; (+)-Costunolide	C15H20O2	232.1463	232.3181
+C09390	Cephaeline	C28H38N2O4	466.2832	466.6123
+C09421	Emetine	C29H40N2O4	480.2988	480.6389
+C09581	Magnoflorine; (S)-Magnoflorine	C20H24NO4	342.1705	342.4089
+C09629	beta-Caryophyllene; Caryophyllene; (-)-beta-Caryophyllene	C15H24	204.1878	204.3511
+C09665	alpha-Farnesene; (3E,6E)-alpha-Farnesene	C15H24	204.1878	204.3511
+C09723	beta-Selinene	C15H24	204.1878	204.3511
+C09727	(-)-Epicatechin	C15H14O6	290.079	290.2681
+C09737	Solavetivone	C15H22O	218.1671	218.3346
+C09762	Liquiritigenin; 7,4'-Dihydroxyflavanone	C15H12O4	256.0736	256.2534
+C09769	Asperuloside	C18H22O11	414.1162	414.3607
+C09782	Gentiopicrin; Gentiopicroside	C16H20O9	356.1107	356.3246
+C09839	Car-3-ene; (-)-3-Carene	C10H16	136.1252	136.234
+C09844	1,8-Cineole; 1,8-Cineol; Eucalyptol	C10H18O	154.1358	154.2493
+C09847	cis-Citral; Neral	C10H16O	152.1201	152.2334
+C09848	(R)-(+)-Citronellal	C10H18O	154.1358	154.2493
+C09849	beta-Citronellol; (R)-(+)-Citronellol	C10H20O	156.1514	156.2652
+C09880	alpha-Pinene	C10H16	136.1252	136.234
+C09893	Pulegone; (+)-Pulegone	C10H16O	152.1201	152.2334
+C09910	Actinidine; (-)-Actinidine	C10H13N	147.1048	147.2169
+C09987	beta-Skytanthine	C11H21N	167.1674	167.2911
+C10126	Anatabine; (-)-Anatabine	C10H12N2	160.1	160.2157
+C10157	Lobelanine	C22H25NO2	335.1885	335.4394
+C10200	Anhydroglycinol; 3,9-Dihydroxypterocarpen	C15H10O4	254.0579	254.2375
+C10205	Coumestrol	C15H8O5	268.0372	268.221
+C10208	Daidzein	C15H10O4	254.0579	254.2375
+C10434	5-O-Caffeoylshikimic acid	C16H16O8	336.0845	336.2934
+C10443	Curcumin; Kacha haldi	C21H20O6	368.126	368.3799
+C10462	[6]-Gingerol; (S)-(+)-[6]Gingerol; 6-Gingerol	C17H26O4	294.1831	294.3859
+C10503	Medicarpin; (-)-Medicarpin	C16H14O4	270.0892	270.28
+C10516	Pisatin; (+)-Pisatin	C17H14O6	314.079	314.2895
+C10522	Pseudobaptigenin	C16H10O5	282.0528	282.2476
+C10632	Acronycine; Acronine	C20H19NO3	321.1365	321.3698
+C10682	Matairesinol; (-)-Matairesinol	C20H22O6	358.1416	358.3851
+C10722	Melicopicine	C18H19NO5	329.1263	329.3472
+C10738	Rutacridone	C19H17NO3	307.1208	307.3432
+C10763	Cytisine	C11H14N2O	190.1106	190.2417
+C10773	Lupinine	C10H19NO	169.1467	169.264
+C10783	(-)-Sparteine; Sparteine	C15H26N2	234.2096	234.3803
+C10793	Geranylhydroquinone	C16H22O2	246.162	246.3447
+C10860	Littorine	C17H23NO3	289.1678	289.3694
+C10865	Pseudopelletierine	C9H15NO	153.1154	153.2215
+C10874	Podophyllotoxin	C22H22O8	414.1315	414.4053
+C10886	Steganacin; (-)-Steganacin	C24H24O9	456.142	456.442
+C10945	Caffeic aldehyde; 3,4-Dihydroxycinnamaldehyde; Caffeyl aldehyde	C9H8O3	164.0473	164.158
+C11130	3-Hydroxyindolin-2-one; 1,3-Dihydro-3-hydroxy-2H-indol-2-one; Dioxindole	C8H7NO2	149.0477	149.1467
+C11242	Bacteriochlorophyll a	C55H74MgN4O6	910.5459	911.5043
+C11250	Demecolcine; Colcemid	C21H25NO5	371.1733	371.4269
+C11359	(-)-Hygrine	C8H15NO	141.1154	141.2108
+C11383	(+)-(S)-Carvone; Carvol; (+)-Carvone; Carvone	C10H14O	150.1045	150.2176
+C11388	(-)-Linalool; (R)-(-)-Linalool; (3R)-Linalool	C10H18O	154.1358	154.2493
+C11389	(+)-Linalool; (S)-(+)-Linalool; (3S)-Linalool	C10H18O	154.1358	154.2493
+C11393	(-)-alpha-Terpineol; (L)-alpha-Terpineol	C10H18O	154.1358	154.2493
+C11409	(+)-trans-Carveol; (4S,6R)-trans-Carveol	C10H16O	152.1201	152.2334
+C11434	2-C-Methyl-D-erythritol 4-phosphate	C5H13O7P	216.0399	216.1263
+C11435	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol	C14H25N3O14P2	521.0812	521.3075
+C11436	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	C14H26N3O17P3	601.0475	601.2874
+C11437	1-Deoxy-D-xylulose 5-phosphate	C5H11O7P	214.0242	214.1104
+C11453	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate; 3-Methyl-1,2,3,4-tetrahydroxybutane-1,3-cyclic bisphosphate	C5H12O9P2	277.9957	278.0909
+C11508	4alpha-Methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol; Delta8,14 -Sterol	C29H46O	410.3549	410.6749
+C11512	Methyl jasmonate; (-)-Methyl jasmonate	C13H20O3	224.1412	224.2961
+C11522	24-Methylenelophenol; 4-alpha-Methyl-5-alpha-ergosta-7,24-dien-3-beta-ol	C29H48O	412.3705	412.6908
+C11523	24-Ethylidenelophenol; alpha1-Sitosterol; 4-alpha-Methyl-5-alpha-stigmasta-7,Z-24-dien-3-beta-ol; (Z)-24-Ethylidenelophenol	C30H50O	426.3862	426.7174
+C11630	15,16-Dihydrobiliverdin; 15,16-Dihydrobiliverdin IXalpha; 15,16-Dihydrobiliverdin ixa	C33H36N4O6	584.2635	584.6621
+C11632	Polyneuridine aldehyde	C21H22N2O3	350.163	350.411
+C11633	16-Epivellosimine	C19H20N2O	292.1576	292.3749
+C11634	Vellosimine	C19H20N2O	292.1576	292.3749
+C11635	10-Deoxysarpagine; Sarpagan-17-ol	C19H22N2O	294.1732	294.3908
+C11636	7-Deoxyloganate	C16H24O9	360.142	360.3564
+C11641	3',4'-Anhydrovinblastine	C46H56N4O8	792.4098	792.9588
+C11642	19-Hydroxytabersonine	C21H24N2O3	352.1787	352.4269
+C11672	10-Deoxygeniposidic acid	C16H22O9	358.1264	358.3405
+C11673	Geniposidic acid	C16H22O10	374.1213	374.3399
+C11676	Lochnericine	C21H24N2O3	352.1787	352.4269
+C11677	Horhammericine	C21H24N2O4	368.1736	368.4263
+C11680	Cathenamine	C21H22N2O3	350.163	350.411
+C11681	19-epi-Cathenamine	C21H22N2O3	350.163	350.411
+C11682	Tetrahydroalstonine	C21H24N2O3	352.1787	352.4269
+C11683	19-epi-Ajmalicine	C21H24N2O3	352.1787	352.4269
+C11691	Stemmadenine	C21H26N2O3	354.1943	354.4427
+C11700	10-Deacetylbaccatin III	C29H36O10	544.2308	544.5901
+C11783	Minovincinine	C21H26N2O3	354.1943	354.4427
+C11784	Echitovenine	C23H28N2O4	396.2049	396.4794
+C11807	Vinorine	C21H22N2O2	334.1681	334.4116
+C11808	1,2-Dihydrovomilenine; 2-beta-(R)-1,2-Dihydrovomilenine	C21H24N2O3	352.1787	352.4269
+C11809	17-O-Acetylnorajmaline	C21H26N2O3	354.1943	354.4427
+C11810	Norajmaline	C19H24N2O2	312.1838	312.4061
+C11811	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate; (E)-4-Hydroxy-3-methyl-but-2-enyl diphosphate; (E)-4-Hydroxy-3-methylbut-2-en-1-yl diphosphate	C5H12O8P2	262.0007	262.0915
+C11812	Lochnerinine	C22H26N2O4	382.1893	382.4528
+C11816	Protoemetine	C19H27NO3	317.1991	317.4226
+C11829	13(1)-Hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester; 13(1)-Hydroxy-Mg-protoporphyrin IX 13-monomethyl ester	C35H34MgN4O5	614.238	614.9733
+C11830	13(1)-Oxo-magnesium-protoporphyrin IX 13-monomethyl ester; 13(1)-Oxo-Mg-protoporphyrin IX 13-monomethyl ester	C35H32MgN4O5	612.2223	612.9574
+C11831	Divinylprotochlorophyllide; 2,4-Divinylprotochlorophyllide; Mg-2,4-Divinyl-phaeoporphyrin a5-monomethylester; 3,8-Divinyl protochlorophyllide a	C35H30MgN4O5	610.2067	610.9415
+C11832	Divinyl chlorophyllide a; 3,8-Divinyl chlorophyllide a	C35H32MgN4O5	612.2223	612.9574
+C11854	Gibberellin A51-catabolite	C19H22O5	330.1467	330.375
+C11857	Gibberellin A12	C20H28O4	332.1988	332.4339
+C11858	Gibberellin A14	C20H28O5	348.1937	348.4333
+C11859	Gibberellin A37 open lactone	C20H28O6	364.1886	364.4327
+C11860	Gibberellin A15 open lactone	C20H28O5	348.1937	348.4333
+C11861	Gibberellin A24	C20H26O5	346.178	346.4174
+C11862	Gibberellin A36	C20H26O6	362.1729	362.4168
+C11863	Gibberellin A9	C19H24O4	316.1675	316.3915
+C11864	Gibberellin A4	C19H24O5	332.1624	332.3909
+C11865	Gibberellin A51	C19H24O5	332.1624	332.3909
+C11866	2,3-Dehydro-gibberellin A9; 2,3-Didehydro-gibberellin A9	C19H22O4	314.1518	314.3756
+C11867	Gibberellin A7	C19H22O5	330.1467	330.375
+C11871	Gibberellin A5	C19H22O5	330.1467	330.375
+C11872	Kaur-16-en-18-ol; (-)-Kaur-16-en-18-ol; Kaurenol; ent-Kaur-16-en-19-ol	C20H32O	288.2453	288.4675
+C11873	Kaur-16-en-18-al; (-)-Kaur-16-en-18-al; 4alpha-Kaur-16-en-18-al; Kaurenal; ent-Kaurenal; ent-Kaur-16-en-19-al	C20H30O	286.2297	286.4516
+C11874	Kaur-16-en-18-oic acid; (-)-Kaur-16-en-19-oic acid; Kaurenic acid; Kaurenoic acid; ent-Kaur-16(17)-en-19-oic acid; ent-Kaurenoic acid; ent-Kaur-16-en-19-oic acid; ent-Kaur-16-en-19-oate	C20H30O2	302.2246	302.451
+C11875	ent-7alpha-Hydroxykaur-16-en-19-oic acid; (-)-Kaur-16-en-7beta-ol-19-oic acid; ent-7alpha-Hydroxykaur-16-en-19-oate	C20H30O3	318.2195	318.4504
+C11876	6beta,7beta-Dihydroxykaurenoic acid; ent-6alpha,7alpha-Dihydroxykaur-16-en-19-oic acid	C20H30O4	334.2144	334.4498
+C11877	(+)-Sandaracopimaradiene; ent-Sandaracopimara-8(14),15-diene; ent-Sandaracopimaradiene; ent-13alpha-Pimara-8(14),15-diene	C20H32	272.2504	272.4681
+C11878	(-)-Abietadiene; Abietadiene	C20H32	272.2504	272.4681
+C11879	Levopimaradiene; Abieta-8(14),12-diene	C20H32	272.2504	272.4681
+C11880	Neoabietadiene	C20H32	272.2504	272.4681
+C11881	Palustradiene	C20H32	272.2504	272.4681
+C11882	Abietinol; Abietol	C20H32O	288.2453	288.4675
+C11883	Levopimarinol	C20H32O	288.2453	288.4675
+C11884	Neoabietinol; Neoabietol	C20H32O	288.2453	288.4675
+C11885	Neoabietal; Neoabietinal	C20H30O	286.2297	286.4516
+C11886	Levopimarinal	C20H30O	286.2297	286.4516
+C11887	Abietal; Abietaldehyde; Abietinal	C20H30O	286.2297	286.4516
+C11888	Levopimaric acid; L-Pimaric acid	C20H30O2	302.2246	302.451
+C11889	Neoabietic acid	C20H30O2	302.2246	302.451
+C11890	Aphidicolan-16beta-ol	C20H34O	290.261	290.4834
+C11893	Cembrene; Thunbergen; (+)-Thunbergen; (+)-Cembrene	C20H32	272.2504	272.4681
+C11894	Taxa-4(5),11(12)-diene; Taxa-4,11-diene	C20H32	272.2504	272.4681
+C11895	Taxa-4(20),11(12)-dien-5alpha-ol; Taxa-4(20),11-dien-5alpha-ol	C20H32O	288.2453	288.4675
+C11896	Taxa-4(20),11(12)-dien-5alpha-yl acetate	C22H34O2	330.2559	330.5042
+C11897	Taxa-4(20),11(12)-dien-5alpha,13alpha-diol	C20H32O2	304.2402	304.4669
+C11898	Taxa-4(20),11(12)-dien-5alpha-acetoxy-10beta-ol; 10beta-Hydroxytaxa-4(20),11-dien-5alpha-yl acetate; 5alpha-Acetoxytaxa-4(20),11(12)-dien-10beta-ol	C22H34O3	346.2508	346.5036
+C11899	10-Deacetyl-2-debenzoylbaccatin III	C22H32O9	440.2046	440.4841
+C11900	Baccatin III	C31H38O11	586.2414	586.6268
+C11901	Copalyl diphosphate; (+)-Copalyl diphosphate; Labdadienyl diphosphate	C20H36O7P2	450.1936	450.4432
+C11902	9alpha-Copalyl diphosphate; syn-Copalyl diphosphate	C20H36O7P2	450.1936	450.4432
+C11951	(+)-cis-Isopulegone	C10H16O	152.1201	152.2334
+C11952	(+)-Isomenthone	C10H18O	154.1358	154.2493
+C12037	Pyochelin	C14H16N2O3S2	324.0602	324.4184
+C12038	Yersiniabactin	C21H27N3O4S3	481.1164	481.6518
+C12077	Palustric acid; NSC 148945; 8,13-Abietadien-18-oic acid	C20H30O2	302.2246	302.451
+C12092	N-Methylanthraniloyl-CoA	C29H43N8O17P3S	900.168	900.6814
+C12093	1,3-Dihydroxy-N-methylacridone	C14H11NO3	241.0739	241.242
+C12127	(+)-Gallocatechin; Gallocatechol	C15H14O7	306.074	306.2675
+C12128	(-)-Epiafzelechin; epi-Afzelechin	C15H14O5	274.0841	274.2687
+C12136	(-)-Epigallocatechin; Epigallocatechol	C15H14O7	306.074	306.2675
+C12137	Pelargonidin 3-O-glucoside; Pelargonidin 3-glucoside; Pelargonidin 3-O-beta-D-glucoside	C21H21O10	433.1135	433.3854
+C12142	Vetispiradiene; (-)-Vetispiradiene; (-)-Premnaspirodiene	C15H24	204.1878	204.3511
+C12162	Crinine	C16H17NO3	271.1208	271.3111
+C12173	Norgalanthamine; N-Demethylgalanthamine	C16H19NO3	273.1365	273.327
+C12203	5-Hydroxyferuloyl-CoA	C31H44N7O20P3S	959.1575	959.7022
+C12204	5-Hydroxyconiferaldehyde	C10H10O4	194.0579	194.184
+C12205	5-Hydroxyconiferyl alcohol	C10H12O4	196.0736	196.1999
+C12206	Caffeyl alcohol	C9H10O3	166.063	166.1739
+C12208	p-Coumaroyl quinic acid; trans-5-O-(4-Coumaroyl)-D-quinate	C16H18O8	338.1002	338.3093
+C12216	Mycobactin S	C44H69N5O10	827.5044	828.0462
+C12219	Corynebactin; Bacillibactin	C39H42N6O18	882.2556	882.7802
+C12249	Kaempferol 3-O-glucoside; Kaempferol 3-O-beta-D-glucoside; Astragalin	C21H20O11	448.1006	448.3769
+C12312	Indolin-2-one	C8H7NO	133.0528	133.1473
+C12440	Trachelanthamidine	C8H15NO	141.1154	141.2108
+C12448	Ecgonine methyl ester; Methyl ecgonine	C10H17NO3	199.1208	199.2469
+C12455	5-Aminopentanal	C5H11NO	101.0841	101.1469
+C12631	2-Hydroxy-2,3-dihydrogenistein	C15H12O6	288.0634	288.2522
+C13273	Plaunotol; 18-Hydroxygeranylgeraniol	C20H34O2	306.2559	306.4828
+C13309	2-Phytyl-1,4-naphthoquinone; Demethylphylloquinone	C30H44O2	436.3341	436.6692
+C13425	3-Hexaprenyl-4-hydroxybenzoate; 3-Hexaprenyl-4-hydroxybenzoic acid	C37H54O3	546.4073	546.8229
+C13431	9'-cis-Neoxanthin	C40H56O4	600.4179	600.8702
+C13433	9-cis-Violaxanthin	C40H56O4	600.4179	600.8702
+C13453	Xanthoxin; 2-cis,4-trans-Xanthoxin	C15H22O3	250.1569	250.3334
+C13455	Abscisic aldehyde	C15H20O3	248.1412	248.3175
+C13747	1,7-Dimethylxanthine; Paraxanthine	C7H8N4O2	180.0647	180.164
+C13782	Paxilline	C27H33NO4	435.241	435.5552
+C14151	delta-Tocopherol	C27H46O2	402.3498	402.6529
+C14152	beta-Tocopherol	C28H48O2	416.3654	416.6795
+C14153	alpha-Tocotrienol	C29H44O2	424.3341	424.6585
+C14154	beta-Tocotrienol	C28H42O2	410.3185	410.6319
+C14155	gamma-Tocotrienol	C28H42O2	410.3185	410.6319
+C14156	delta-Tocotrienol	C27H40O2	396.3028	396.6053
+C14314	4',6,7-Trihydroxyisoflavone; 6-Hydroxydaidzein	C15H10O5	270.0528	270.2369
+C14463	(R)-3-Hydroxy-3-methyl-2-oxopentanoate	C6H10O4	146.0579	146.1412
+C14536	Glycitein; 7,4'-Dihydroxy-6-methoxyisoflavone	C16H12O5	284.0685	284.2635
+C15503	N,N-Dihydroxy-L-tyrosine	C9H11NO5	213.0637	213.1873
+C15545	cis-Zeatin; (Z)-2-Methyl-4-(1H-purin-6-ylamino)but-2-en-1-ol	C10H13N5O	219.112	219.2431
+C15547	1,4-Dihydroxy-2-naphthoyl-CoA	C32H42N7O19P3S	953.1469	953.6977
+C15556	L-3,4-Dihydroxybutan-2-one 4-phosphate; 1-Deoxy-L-glycero-tetrulose 4-phosphate; 2-Hydroxy-3-oxobutyl phosphate	C4H9O6P	184.0137	184.0844
+C15567	2,7,4'-Trihydroxyisoflavanone	C15H12O5	272.0685	272.2528
+C15667	5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole	C9H14N3O9P	339.0468	339.1959
+C15670	Heme A	C49H56FeN4O6	852.3549	852.8371
+C15672	Heme O	C49H58FeN4O5	838.3757	838.8536
+C15769	HBOA; 2-Hydroxy-1,4-benzoxazin-3-one	C8H7NO3	165.0426	165.1461
+C15770	DIBOA; 2,4-Dihydroxy-1,4-benzoxazin-3-one; 2,4-Dihydroxy-2H-1,4-benzoxazin-3(4H)-one	C8H7NO4	181.0375	181.1455
+C15776	4alpha-Methylfecosterol	C29H48O	412.3705	412.6908
+C15777	Episterol	C28H46O	398.3549	398.6642
+C15780	5-Dehydroepisterol	C28H44O	396.3392	396.6484
+C15781	24-Methylenecholesterol	C28H46O	398.3549	398.6642
+C15782	Delta7-Avenasterol; 7-Dehydroavenasterol	C29H48O	412.3705	412.6908
+C15783	5-Dehydroavenasterol	C29H46O	410.3549	410.6749
+C15784	Campest-4-en-3beta-ol; (24R)-Ergost-4-en-3beta-ol	C28H48O	400.3705	400.6801
+C15785	Campest-4-en-3-one; (24R)-Ergost-4-en-3-one	C28H46O	398.3549	398.6642
+C15786	5alpha-Campestan-3-one; (24R)-5alpha-Ergostan-3-one	C28H48O	400.3705	400.6801
+C15787	Campestanol; 5alpha-Campestanol; (24R)-5alpha-Ergostan-3beta-ol	C28H50O	402.3862	402.696
+C15788	6alpha-Hydroxycampestanol	C28H50O2	418.3811	418.6954
+C15789	6-Oxocampestanol	C28H48O2	416.3654	416.6795
+C15790	Cathasterone	C28H48O3	432.3603	432.6789
+C15791	Teasterone	C28H48O4	448.3553	448.6783
+C15792	3-Dehydroteasterone	C28H46O4	446.3396	446.6624
+C15793	Typhasterol	C28H48O4	448.3553	448.6783
+C15794	Castasterone	C28H48O5	464.3502	464.6777
+C15795	22alpha-Hydroxy-campesterol; (22S)-22-Hydroxy-campesterol	C28H48O2	416.3654	416.6795
+C15796	22alpha-Hydroxy-campest-4-en-3-one; (22S,24R)-22-Hydroxy-ergost-4 en-3-one	C28H46O2	414.3498	414.6636
+C15797	22alpha-Hydroxy-5alpha-campestan-3-one; (22S,24R)-22-Hydroxy-5alpha-ergostan-3-one	C28H48O2	416.3654	416.6795
+C15798	6-Deoxocathasterone	C28H50O2	418.3811	418.6954
+C15799	6-Deoxoteasterone	C28H50O3	434.376	434.6948
+C15800	3-Dehydro-6-deoxoteasterone	C28H48O3	432.3603	432.6789
+C15801	6-Deoxotyphasterol	C28H50O3	434.376	434.6948
+C15802	6-Deoxocastasterone	C28H50O4	450.3709	450.6942
+C15803	6alpha-Hydroxy-castasterone	C28H50O5	466.3658	466.6936
+C15804	p-Hydroxyphenyl lignin	C28H50O5	466.3658	466.6936
+C15805	Guaiacyl lignin	C28H50O5	466.3658	466.6936
+C15806	Syringyl lignin	C28H50O5	466.3658	466.6936
+C15857	9,9'-dicis-zeta-Carotene; 9,9'-Di-cis-zeta-carotene	C40H60	540.4695	540.9044
+C15858	7,9,7',9'-tetracis-Lycopene; 7,9,7',9'-Tetra-cis-lycopene	C40H56	536.4382	536.8726
+C15882	2-Methyl-6-phytylquinol; 2-Methyl-6-phytyl-1,4-hydroquinone; 2-Methyl-6-phytylbenzene-1,4-diol; 2-Methyl-6-phytyl-1,4-benzoquinol	C27H46O2	402.3498	402.6529
+C15883	2,3-Dimethyl-5-phytylquinol; 2,3-Dimethyl-5-phytyl-1,4-hydroquinone; 2,3-Dimethyl-6-phytylbenzene-1,4-diol	C28H48O2	416.3654	416.6795
+C15926	beta-L-Galactose 1-phosphate; L-Galactose 1-phosphate	C6H13O9P	260.0297	260.1358
+C15970	Abscisic acid glucose ester; Abscisic acid-beta-D-glucopyranosyl ester; beta-D-Glucopyranosyl abscisate	C21H30O9	426.189	426.4575
+C15980	(S)-2-Methylbutanoyl-CoA	C26H44N7O17P3S	851.1727	851.6505
+C16028	Amorpha-4,11-diene	C15H24	204.1878	204.3511
+C16074	Phenylacetonitrile; Benzyl cyanide	C8H7N	117.0578	117.1479
+C16075	(Z)-Phenylacetaldehyde oxime; Z-Phenylacetaldoxime	C8H9NO	135.0684	135.1632
+C16141	(+)-Germacrene A; (+)-(R)-Germacrene A	C15H24	204.1878	204.3511
+C16143	(1E,4S,5E,7R)-Germacra-1(10),5-dien-11-ol; Germacradienol	C15H26O	222.1984	222.3663
+C16187	7,2'-Dihydroxy-4'-methoxy-isoflavanol; DMI; (3R,4R)-4'-Methoxyisoflavan-2',4,7-triol	C16H16O5	288.0998	288.2952
+C16188	7-Hydroxy-2',4',5'-trimethoxyisoflavone	C18H16O6	328.0947	328.316
+C16189	9-Demethylmunduserone	C18H16O6	328.0947	328.316
+C16226	2',7-Dihydroxy-4',5'-methylenedioxyisoflavone; DMI	C16H10O6	298.0477	298.247
+C16227	(+)-Sophorol	C16H12O6	300.0634	300.2629
+C16229	(+)-Maackiain	C16H12O5	284.0685	284.2635
+C16230	(+)-6a-Hydroxymaackiain	C16H12O6	300.0634	300.2629
+C16232	6,7,4'-Trihydroxyflavanone	C15H12O5	272.0685	272.2528
+C16233	2,6,7,4'-Tetrahydroxyisoflavanone	C15H12O6	288.0634	288.2522
+C16269	(+)-epi-Isozizaene	C15H24	204.1878	204.3511
+C16276	epsilon-Carotene	C40H56	536.4382	536.8726
+C16286	Geosmin; (-)-Geosmin; trans-1,10-Dimethyl-trans-9-decalol	C12H22O	182.1671	182.3025
+C16300	Stearidonic acid; 6,9,12,15-Octadecatetraenoic acid; (6Z,9Z,12Z,15Z)-Octadecatetraenoic acid	C18H28O2	276.2089	276.4137
+C16308	Traumatic acid; (2E)-Dodecenedioic acid; Dodec-2-enedioic acid	C12H20O4	228.1362	228.2848
+C16309	Traumatin; (10E)-12-Oxododecenoic acid	C12H20O3	212.1412	212.2854
+C16310	3-Hexenal; (3Z)-Hexenal	C6H10O	98.0732	98.143
+C16311	12-Oxo-9(Z)-dodecenoic acid	C12H20O3	212.1412	212.2854
+C16317	(+)-7-Isojasmonic acid	C12H18O3	210.1256	210.2695
+C16318	(+)-7-Isomethyljasmonate	C13H20O3	224.1412	224.2961
+C16320	Colnelenic acid; (8E)-9-[(1E,3Z,6Z)-Nona-1,3,6-trien-1-yloxy]non-8-enoate	C18H28O3	292.2038	292.4131
+C16321	9(S)-HPOT; (10E,12Z,15Z)-(9S)-9-Hydroperoxyoctadeca-10,12,15-trienoic acid; 9(S)-HpOTrE; (9S,10E,12Z,15Z)-9-Hydroperoxy-10,12,15-octadecatrienoate	C18H30O4	310.2144	310.4284
+C16322	9-Oxononanoic acid	C9H16O3	172.1099	172.2215
+C16323	3,6-Nonadienal	C9H14O	138.1045	138.2069
+C16324	9,10-EOT; 9,10-Epoxyoctadecatrienoic acid; (9S)-(10E,12Z,15Z)-9,10-Epoxyoctadecatri-10,12,15-enoic acid; 9,10-EOTrE	C18H28O3	292.2038	292.4131
+C16325	10-OPDA; 10-Oxo-11,15-phytodienoic acid; (11Z,15Z)-10-Oxo-11,15-phytodienoic acid	C18H28O3	292.2038	292.4131
+C16327	OPC8-CoA	C39H64N7O18P3S	1043.3241	1043.9478
+C16328	trans-2-Enoyl-OPC8-CoA	C39H62N7O18P3S	1041.3085	1041.932
+C16330	3-Oxo-OPC8-CoA	C39H62N7O19P3S	1057.3034	1057.9314
+C16331	OPC6-CoA	C37H60N7O18P3S	1015.2928	1015.8947
+C16332	trans-2-Enoyl-OPC6-CoA	C37H58N7O18P3S	1013.2772	1013.8788
+C16334	3-Oxo-OPC6-CoA	C37H58N7O19P3S	1029.2721	1029.8782
+C16335	OPC4-CoA	C35H56N7O18P3S	987.2615	987.8415
+C16336	trans-2-Enoyl-OPC4-CoA	C35H54N7O18P3S	985.2459	985.8256
+C16338	3-Oxo-OPC4-CoA	C35H54N7O19P3S	1001.2408	1001.825
+C16339	(+)-7-Isojasmonic acid CoA	C33H52N7O18P3S	959.2302	959.7884
+C16352	7-Methylxanthosine	C11H15N4O6	299.0992	299.26
+C16353	7-Methylxanthine	C6H6N4O2	166.0491	166.1374
+C16356	1,7-Dimethyluric acid	C7H8N4O3	196.0596	196.1634
+C16357	3-Methylxanthine	C6H6N4O2	166.0491	166.1374
+C16358	1-Methylxanthine	C6H6N4O2	166.0491	166.1374
+C16365	5-Acetylamino-6-formylamino-3-methyluracil; AFMU	C8H10N4O4	226.0702	226.1894
+C16424	Isopentenyladenosine-5'-triphosphate; Isopentenyl-ATP; N6-(Dimethylallyl)adenosine 5'-triphosphate	C15H24N5O13P3	575.0583	575.298
+C16427	Isopentenyl adenosine	C15H21N5O4	335.1594	335.3583
+C16428	trans-Zeatin riboside triphosphate	C15H24N5O14P3	591.0533	591.2974
+C16429	trans-Zeatin riboside diphosphate	C15H23N5O11P2	511.0869	511.3175
+C16430	trans-Zeatin riboside  monophosphate	C15H22N5O8P	431.1206	431.3376
+C16431	trans-Zeatin riboside	C15H21N5O5	351.1543	351.3577
+C16441	cis-Zeatin riboside monophosphate	C15H22N5O8P	431.1206	431.3376
+C16443	trans-Zeatin-7-beta-D-glucoside	C16H23N5O6	381.1648	381.3837
+C16445	Dihydrozeatin riboside monophosphate	C15H24N5O8P	433.1362	433.3535
+C16447	Dihydrozeatin riboside	C15H23N5O5	353.1699	353.3736
+C16448	Dihydrozeatin-O-glucoside	C16H25N5O6	383.1805	383.3996
+C16449	cis-Zeatin riboside	C15H21N5O5	351.1543	351.3577
+C16467	cis-Prenyl-tRNA; tRNA containing N6-(cis-hydroxy)isopentenyladenosine	C15H22N5O8P(C5H8O6PR)n(C5H8O6PR)n	351.1543	351.3577
+C16516	Indolylmethylthiohydroximate	C10H10N2OS	206.0514	206.2642
+C16517	Indolylmethyl-desulfoglucosinolate	C16H20N2O6S	368.1042	368.4048
+C16518	S-(Indolylmethylthiohydroximoyl)-L-cysteine	C13H15N3O3S	293.0834	293.3415
+C16519	2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate; 5-Enolpyruvoyl-6-hydroxy-2-succinylcyclohex-3-ene-1-carboxylate	C14H16O9	328.0794	328.2714
+C16521	Isoprene; 2-Methyl-1,3-butadiene	C5H8	68.0626	68.117
+C16523	3'-N-Debenzoyl-2'-deoxytaxol; beta-Phenylalanoyl baccatin III; 13-O-beta-Phenylalanoylbaccatin III	C40H47NO12	733.3098	733.8007
+C16524	3'-N-Debenzoyltaxol; 13-O-3-Phenylisoserinoyl baccatin III	C40H47NO13	749.3047	749.8001
+C16540	7(1)-Hydroxychlorophyllide a	C35H34MgN4O6	630.2329	630.9727
+C16541	Chlorophyllide b	C35H32MgN4O6	628.2172	628.9568
+C16666	Vanillylamine	C8H11NO2	153.079	153.1784
+C16671	3,6-Dihydronicotinic acid	C6H7NO2	125.0477	125.1253
+C16696	Dolichotheline	C10H17N3O	195.1372	195.2615
+C16697	1-Indolizidinone; 1-Ketooctahydroindolizine	C8H13NO	139.0997	139.1949
+C16701	Norbelladine	C15H17NO3	259.1208	259.3004
+C16702	4'-O-Methylnorbelladine	C16H19NO3	273.1365	273.327
+C16703	N-Demethylnarwedine	C16H17NO3	271.1208	271.3111
+C16707	(S)-Autumnaline; Autumnaline	C21H27NO5	373.1889	373.4428
+C16708	Isoandrocymbine	C21H25NO5	371.1733	371.4269
+C16709	O-Methylandrocymbine	C22H27NO5	385.1889	385.4535
+C16710	N-Formyldemecolcine	C22H25NO6	399.1682	399.437
+C16712	Deacetylcolchicine; Trimethylcolchicinic acid methyl ether	C20H23NO5	357.1576	357.4003
+C16826	2-cis,6-trans-Farnesyl diphosphate; (2Z,6E)-Farnesyl diphosphate	C15H28O7P2	382.131	382.3261
+C16829	gamma-Humulene	C15H24	204.1878	204.3511
+C16848	6-Deoxy-5-ketofructose 1-phosphate; 1-Deoxy-D-threo-hexo-2,5-diulose 6-phosphate	C6H11O8P	242.0192	242.1205
+C16850	2-Amino-3,7-dideoxy-D-threo-hept-6-ulosonic acid	C7H13NO5	191.0794	191.1818
+C16933	3,6-Dihydropyridine	C5H7N	81.0578	81.1158
+C16999	Futalosine	C19H18N4O7	414.1175	414.3688
+C17010	Dehypoxanthine futalosine	C14H16O7	296.0896	296.2726
+C17017	Cyclic dehypoxanthine futalosine	C14H14O7	294.074	294.2568
+C17018	1,4-Dihydroxy-6-naphthoate	C11H8O4	204.0423	204.1788
+C17210	2-(2'-Methylthio)ethylmalic acid; 2-(2'-Methylthio)ethylmalate	C7H12O5S	208.0405	208.2322
+C17211	2-Oxo-5-methylthiopentanoic acid; 5-(Methylthio)-2-oxo-pentanoic acid	C6H10O3S	162.0351	162.2068
+C17212	3-(2'-Methylthio)ethylmalic acid; 3-(2'-Methylthio)ethylmalate	C7H12O5S	208.0405	208.2322
+C17213	Homomethionine; L-Homomethionine	C6H13NO2S	163.0667	163.2379
+C17216	2-Oxo-6-methylthiohexanoic acid; 6-(Methylthio)-2-oxo-hexanoic acid	C7H12O3S	176.0507	176.2334
+C17220	2-Oxo-7-methylthioheptanoic acid; 7-(Methylthio)-2-oxo-heptanoic acid	C8H14O3S	190.0664	190.26
+C17224	2-Oxo-8-methylthiooctanoic acid; 8-Methylthio-2-octanoic acid	C9H16O3S	204.082	204.2865
+C17228	2-Oxo-9-methylthiononanoic acid; 9-Methylthio-2-nonanoic acid	C10H18O3S	218.0977	218.3131
+C17232	2-Oxo-10-methylthiodecanoic acid; 10-Methylthio-2-decanoic acid	C11H20O3S	232.1133	232.3397
+C17235	L-Homophenylalanine	C10H13NO2	179.0946	179.2157
+C17237	S-(Phenylacetothiohydroximoyl)-L-cysteine	C11H14N2O3S	254.0725	254.3055
+C17241	4-Methylthiobutanaldoxime; (E)-4-(Methylthio)-butanaldoxime	C5H11NOS	133.0561	133.2119
+C17242	S-(4-Methylthiobutylthiohydroximoyl)-L-cysteine	C8H16N2O3S2	252.0602	252.3542
+C17243	4-Methylthiobutylthiohydroximate	C5H11NOS2	165.0282	165.2769
+C17244	3-Methylthiopropyl-desulfoglucosinolate	C11H21NO6S2	327.081	327.4175
+C17250	Glucolesquerellin; 6-Methylthiohexyl glucosinolate	C14H27NO9S3	449.0848	449.5605
+C17252	7-Methylthioheptyl glucosinolate	C15H29NO9S3	463.1004	463.5871
+C17254	8-Methylthiooctyl glucosinolate	C16H31NO9S3	477.1161	477.6136
+C17255	3-Methylbutyraldehyde oxime	C5H11NO	101.0841	101.1469
+C17256	2-Methylpropyl glucosinolate; Isobutyl glucosinolate	C11H21NO9S2	375.0658	375.4157
+C17412	Shikonin	C16H16O5	288.0998	288.2952
+C17432	all-trans-Decaprenyl diphosphate	C50H84O7P2	858.5692	859.1453
+C17551	2-Polyprenyl-6-hydroxyphenol; 3-Polyprenylcatechol	C11H14O2(C5H8)n	858.5692	859.1453
+C17552	2-Polyprenyl-6-methoxyphenol	C12H16O2(C5H8)n	858.5692	859.1453
+C17554	3-Polyprenyl-4,5-dihydroxybenzoate; 3,4-Dihydroxy-5-polyprenylbenzoate	C12H14O4(C5H8)n	858.5692	859.1453
+C17559	3-Polyprenyl-4-hydroxy-5-methoxybenzoate	C13H16O4(C5H8)n	858.5692	859.1453
+C17560	2-Polyprenyl-6-methoxy-1,4-benzoquinone	C12H14O3(C5H8)n	858.5692	859.1453
+C17561	2-Polyprenyl-3-methyl-6-methoxy-1,4-benzoquinone	C13H16O3(C5H8)n	858.5692	859.1453
+C17562	2-Polyprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone	C13H16O4(C5H8)n	858.5692	859.1453
+C17568	Ubiquinone-6; Coenzyme Q6	C39H58O4	590.4335	590.8754
+C17569	Ubiquinone-8; Coenzyme Q8	C49H74O4	726.5587	727.1095
+C17591	(S)-Corytuberine	C19H21NO4	327.1471	327.3743
+C17621	(6E)-8-Hydroxygeraniol; 10-Hydroxygeraniol; 8-Hydroxygeraniol	C10H18O2	170.1307	170.2487
+C17622	(6E)-8-Oxogeranial; 10-Oxogeranial; 8-Oxogeranial	C10H14O2	166.0994	166.217
+C17740	p-Coumaroyl-diketide-CoA; (4-Coumaroyl)acetyl-CoA	C32H44N7O19P3S	955.1626	955.7135
+C17741	Feruloyl-diketide-CoA; Feruloylacetyl-CoA	C33H46N7O20P3S	985.1731	985.7395
+C17742	Demethoxycurcumin	C20H18O5	338.1154	338.3539
+C17743	Bisdemethoxycurcumin	C19H16O4	308.1049	308.3279
+C17744	1-(4-Hydroxyphenyl)-1-decene-3,5-dione	C16H20O3	260.1412	260.3282
+C17745	1-(3,4-Dihydroxyphenyl)-1-decene-3,5-dione	C16H20O4	276.1362	276.3276
+C17746	1-Dehydro-[6]-gingerdione	C17H22O4	290.1518	290.3542
+C17747	5-Hydroxy-1-(4-hydroxyphenyl)-3-decanone	C16H24O3	264.1725	264.36
+C17748	1-(3,4-Dihydroxyphenyl)-5-hydroxy-3-decanone	C16H24O4	280.1675	280.3594
+C17753	Dopaxanthin quinone	C18H16N2O8	388.0907	388.3282
+C18015	Momilactone A	C20H26O3	314.1882	314.4186
+C18016	3beta-Hydroxy-9beta-pimara-7,15-diene-19,6beta-olide	C20H28O3	316.2038	316.4345
+C18021	Pheophorbide a	C35H36N4O5	592.2686	592.6841
+C18022	Red chlorophyll catabolite	C35H38N4O7	626.2741	626.6988
+C18025	(+)-Menthofuran; (R)-Menthofuran	C10H14O	150.1045	150.2176
+C18027	(4R,7S)-7-Isopropyl-4-methyloxepan-2-one; (4R,7S)-4-Methyl-7-(1-methylethyl)-2-Oxepanone; Mentholactone	C10H18O2	170.1307	170.2487
+C18036	Strigolactone ABC-rings	C14H18O3	234.1256	234.2909
+C18037	5-Deoxystrigol	C19H22O5	330.1467	330.375
+C18064	Pyropheophorbide a	C33H34N4O3	534.2631	534.6481
+C18098	Primary fluorescent chlorophyll catabolite	C35H40N4O7	628.2897	628.7147
+C18131	Geranyl-hydroxybenzoate	C17H22O3	274.1569	274.3548
+C18132	3''-Hydroxy-geranylhydroquinone	C16H22O3	262.1569	262.3441
+C18133	Deoxyshikonin	C16H16O4	272.1049	272.2958
+C18151	7(1)-Hydroxychlorophyll a; 7-Hydroxymethylchlorophyll a	C55H72MgN4O6	908.5302	909.4884
+C18152	3-Vinylbacteriochlorophyllide a; 3-Deacetyl-3-vinylbacteriochlorophyllide a	C35H36MgN4O5	616.2536	616.9891
+C18153	3-Hydroxyethylbacteriochlorophyllide a; 3-Deacetyl-3-(1-hydroxyethyl)bacteriochlorophyllide a	C35H38MgN4O6	634.2642	635.0044
+C18154	3-Hydroxyethylchlorophyllide a; 3-Devinyl-3-(1-hydroxyethyl)chlorophyllide a	C35H36MgN4O6	632.2485	632.9885
+C18155	Bacteriochlorophyllide a	C35H36MgN4O6	632.2485	632.9885
+C18157	8-Ethyl-12-methyl-3-vinylbacteriochlorophyllide d	C33H32MgN4O3	556.2325	556.9372
+C18160	Bacteriochlorophyllide d	C30H26MgN4O4(R1)(R2)	556.2325	556.9372
+C18161	Bacteriochlorophyllide c	C31H28MgN4O4(R1)(R2)	556.2325	556.9372
+C18162	Bacteriochlorophyll d	C45H50MgN4O4(R1)(R2)	556.2325	556.9372
+C18163	Bacteriochlorophyll c	C46H52MgN4O4(R1)(R2)	556.2325	556.9372
+C18202	8-Methyl-6-nonenoic acid	C10H18O2	170.1307	170.2487
+C18211	Isopimara-7,15-diene	C20H32	272.2504	272.4681
+C18219	Palustradienol	C20H32O	288.2453	288.4675
+C18220	Palustradienal	C20H30O	286.2297	286.4516
+C18221	Isopimaradienol	C20H32O	288.2453	288.4675
+C18222	Isopimaradienal	C20H30O	286.2297	286.4516
+C18223	Stemar-13-ene	C20H32	272.2504	272.4681
+C18224	Stemod-13(17)-ene	C20H32	272.2504	272.4681
+C18225	9beta-Pimara-7,15-diene	C20H32	272.2504	272.4681
+C18226	ent-Cassa-12,15-diene	C20H32	272.2504	272.4681
+C18228	ent-Pimara-8(14),15-diene	C20H32	272.2504	272.4681
+C18229	Fusicocca-2,10(14)-diene	C20H32	272.2504	272.4681
+C18245	8-epi-Cedrol	C15H26O	222.1984	222.3663
+C18321	(2Z,6Z,10Z,14Z,18Z,22Z,26Z,30Z,34E)-Decaprenyl diphosphate	C50H84O7P2	858.5692	859.1453
+C18796	(2R)-2-Hydroxy-2-methylbutanenitrile; 2-Hydroxy-2-methylbutanenitrile	C5H9NO	99.0684	99.1311
+C19491	(E)-2-Methylbutanal oxime	C5H11NO	101.0841	101.1469
+C19630	Diketone	C5H11NO	101.0841	101.1469
+C19676	Germacra-1(10),4,11(13)-trien-12-ol	C15H24O	220.1827	220.3505
+C19678	Germacrene A acid; Germacra-1(10),4,11(13)-trien-12-oate	C15H22O2	234.162	234.334
+C19711	Solavetivol	C15H24O	220.1827	220.3505
+C19712	N-Hydroxy-L-phenylalanine; 2-(Hydroxyamino)-3-phenylpropanoate	C9H11NO3	181.0739	181.1885
+C19714	(E)-Phenylacetaldoxime; (E)-Phenylacetaldehyde oxime	C8H9NO	135.0684	135.1632
+C19715	N,N-Dihydroxy-L-phenylalanine	C9H11NO4	197.0688	197.1879
+C19732	24-Hydroxy-beta-amyrin; Olean-12-ene-3beta,24-diol	C30H50O2	442.3811	442.7168
+C19749	(E)-alpha-Bisabolene	C15H24	204.1878	204.3511
+C19752	(S)-beta-Macrocarpene	C15H24	204.1878	204.3511
+C19757	(Z)-3-Hexen-1-ol acetate; (3Z)-Hex-3-en-1-yl acetate; cis-3-Hexenyl acetate	C8H14O2	142.0994	142.1956
+C19759	7,9,9'-tricis-Neurosporene; 7,9,9'-tri-cis-Neurosporene	C40H58	538.4539	538.8885
+C19760	(2Z,6Z)-Farnesyl diphosphate	C15H28O7P2	382.131	382.3261
+C19764	9,15,9'-tricis-zeta-Carotene	C40H60	540.4695	540.9044
+C19765	15,9'-dicis-Phytofluene	C40H62	542.4852	542.9203
+C19817	Phyllocladan-16alpha-ol	C20H34O	290.261	290.4834
+C19819	Cucurbitadienol	C30H50O	426.3862	426.7174
+C19828	Arabidiol; (13R,14R,17E)-Malabarica-17,21-diene-3beta,14-diol	C30H52O2	444.3967	444.7327
+C19829	Dammarenediol II; (20S)-Dammar-24-ene-3beta,20-diol; Dammar-24-ene-3beta,20-diol	C30H52O2	444.3967	444.7327
+C19832	Thalianol	C30H50O	426.3862	426.7174
+C19853	trans,polycis-Polyprenyl diphosphate	C15H28O7P2(C5H8)n	426.3862	426.7174
+C20145	ent-Isokaurene; Kaur-15-ene; Kryptomeren	C20H32	272.2504	272.4681
+C20146	ent-2alpha-Hydroxyisokaurene	C20H32O	288.2453	288.4675
+C20149	9beta-Pimara-7,15-dien-19-oate	C20H30O2	302.2246	302.451
+C20150	ent-11beta-Hydroxycassa-12,15-diene	C20H32O	288.2453	288.4675
+C20151	10beta,14beta-Dihydroxytaxa-4(20),11-dien-5alpha-yl acetate; 5alpha-Acetoxy-10beta,14beta-dihydroxytaxadiene	C22H34O4	362.2457	362.503
+C20158	(13E)-Labda-7,13-dien-15-ol	C20H34O	290.261	290.4834
+C20185	(12E)-9alpha-Labda-8(17),12,14-triene; syn-Labda-8(17),12E,14-triene; (4aS,5R,8aS)-1,1,4a-Trimethyl-6-methylidene-5-[(2E)-3-methylpenta-2,4-dien-1-yl]decahydronaphthalene	C20H32	272.2504	272.4681
+C20192	Marneral	C30H50O	426.3862	426.7174
+C20208	syn-Stemoden-19-oate	C20H30O2	302.2246	302.451
+C20221	(6E)-8-Oxolinalool; trans-8-Oxolinalool	C10H16O2	168.115	168.2328
+C20258	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate; (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate; HTPA	C7H9NO5	187.0481	187.1501
+C20265	2,3-Epoxymenaquinone; Vitamin K2 2,3-epoxide	C16H16O3(C5H8)n	187.0481	187.1501
+C20270	Copal-8-ol diphosphate; (13E)-8alpha-Hydroxylabd-13-en-15-yl diphosphate	C20H38O8P2	468.2042	468.4584
+C20310	N-Hydroxy-L-isoleucine	C6H13NO3	147.0895	147.1723
+C20311	N,N-Dihydroxy-L-isoleucine	C6H13NO4	163.0845	163.1717
+C20312	(Z)-2-Methylbutanal oxime	C5H11NO	101.0841	101.1469
+C20313	N-Hydroxy-L-valine	C5H11NO3	133.0739	133.1457
+C20314	N,N-Dihydroxy-L-valine	C5H11NO4	149.0688	149.1451
+C20315	(Z)-2-Methylpropanal oxime	C4H9NO	87.0684	87.1204
+C20345	Isopentenyl phosphate	C5H11O4P	166.0395	166.1122
+C20481	cis-Abienol; (12Z)-Labda-12,14-dien-8alpha-ol	C20H34O	290.261	290.4834
+C20525	3-Geranylgeranylindole; 3-(Geranylgeranyl)indole	C28H39N	389.3083	389.616
+C20526	10,11-Epoxy-3-geranylgeranylindole	C28H39NO	405.3032	405.6154
+C20527	Emindole SB	C28H39NO	405.3032	405.6154
+C20528	Terpendole B	C27H35NO3	421.2617	421.5717
+C20529	14,15-Epoxyemindole SB	C28H39NO2	421.2981	421.6148
+C20530	Paspaline	C28H39NO2	421.2981	421.6148
+C20531	13-Desoxypaxilline; 13-Deoxypaxilline	C27H33NO3	419.246	419.5558
+C20532	20,21-Diprenylterpendole I	C37H51NO5	589.3767	589.8045
+C20534	12-Demethyl-11,12-dehydropaspaline	C27H35NO2	405.2668	405.5723
+C20535	beta-PC-M6; beta-10-Hydroxy-12-demethyl-11,12-dehydropaspaline	C27H35NO3	421.2617	421.5717
+C20536	Terpendole E	C28H39NO3	437.293	437.6142
+C20542	13-Desoxyterpendole I	C27H35NO4	437.2566	437.5711
+C20543	Terpendole I	C27H35NO5	453.2515	453.5705
+C20545	Terpendole J	C32H43NO5	521.3141	521.6875
+C20546	Terpendole C	C32H41NO5	519.2985	519.6716
+C20548	Lolitriol	C37H49NO7	619.3509	619.7875
+C20550	Lolitrem E	C42H57NO7	687.4135	687.9045
+C20551	Lolitrem B	C42H55NO7	685.3979	685.8886
+C20552	Terpendole K	C32H39NO5	517.2828	517.6558
+C20553	Paspalicine	C27H31NO3	417.2304	417.5399
+C20554	Paspalinine	C27H31NO4	433.2253	433.5393
+C20555	Aflatrem	C32H39NO4	501.2879	501.6564
+C20561	21,22-Diprenylpaxilline	C37H49NO4	571.3662	571.7893
+C20586	Terpendole G	C28H37NO4	451.2723	451.5977
+C20587	Paspaline B	C28H37NO3	435.2773	435.5983
+C20593	beta-Paxitriol; 10beta-Hydroxypaxilline	C27H35NO4	437.2566	437.5711
+C20594	20,21-Diprenylterpendole J	C42H59NO5	657.4393	657.9216
+C20595	20,21-Diprenylterpendole C	C42H57NO5	655.4237	655.9057
+C20666	5-Oxo-delta-bilirubin; delta-Staphylobilin	C33H34N4O7	598.2427	598.6457
+C20711	Miltiradiene	C20H32	272.2504	272.4681
+C20737	6-Geranylgeranyl-2-methylbenzene-1,4-diol	C27H40O2	396.3028	396.6053
+C20738	6-Geranylgeranyl-2,3-dimethylbenzene-1,4-diol	C28H42O2	410.3185	410.6319
+C20772	3-[(1-Carboxyvinyl)oxy]benzoate; 3-[(1-Carboxyethenyl)oxy]benzoic acid	C10H8O5	208.0372	208.1675
+C20773	6-Amino-6-deoxyfutalosine	C19H19N5O6	413.1335	413.3841
+C20821	C20821; Carbapenem biosynthesis intermediate 6	C8H9NO3	167.0582	167.162
+C20847	(R)-Mevalonate 3-phosphate; (R)-3-Phosphomevalonate	C6H13O7P	228.0399	228.137
+C20848	(R)-Mevalonate 3,5-bisphosphate; (R)-3,5-Diphosphomevalonate; (R)-3,5-Bisphosphomevalonate	C6H14O10P2	308.0062	308.1169
+C20876	Very-long-chain acyl-CoA	C24H39N7O17P3SR	308.0062	308.1169
+C20877	Very-long-chain 3-oxoacyl-CoA	C24H37N7O18P3SR	308.0062	308.1169
+C20878	Very-long-chain (3R)-3-hydroxyacyl-CoA	C24H39N7O18P3SR	308.0062	308.1169
+C20879	Very-long-chain trans-2,3-dehydroacyl-CoA	C24H37N7O17P3SR	308.0062	308.1169
+C20943	(R)-Ipsdienol; (4R)-2-Methyl-6-methyleneocta-2,7-dien-4-ol	C10H16O	152.1201	152.2334
+C20944	Ipsdienone; 2-Methyl-6-methyleneocta-2,7-dien-4-one	C10H14O	150.1045	150.2176
+C21203	Geranyl phosphate	C10H19O4P	234.1021	234.2292
+C21217	Geranylgeranyl bacteriochlorophyllide a	C55H68MgN4O6	904.4989	905.4566
+C21284	Fe-coproporphyrin III; Coproheme III	C36H36FeN4O8	708.1883	708.538
+C21406	(4aR,10bS)-Noroxomaritidine	C16H17NO3	271.1208	271.3111
+C21427	8,12-Diethyl-3-vinylbacteriochlorophyllide d	C34H34MgN4O3	570.2481	570.9638
+C21428	12-Ethyl-8-propyl-3-vinylbacteriochlorophyllide d	C35H36MgN4O3	584.2638	584.9903
+C21429	12-Ethyl-8-isobutyl-3-vinylbacteriochlorophyllide d	C36H38MgN4O3	598.2794	599.0169
+C21459	6-Hydroxyferuloyl-CoA	C31H44N7O20P3S	959.1575	959.7022
+C21566	6-O-Methyldeacetylisoipecoside; 6-O-Methyl-N-deacetylisoipecoside	C26H35NO11	537.221	537.5562
+C21582	Bacteriochlorophyllide e	C31H26MgN4O5(R1)(R2)	537.221	537.5562
+C21583	6-O-Methyl-N-deacetylisoipecoside aglycon	C20H25NO6	375.1682	375.4156
+C21584	7'-O-Dmethylcephaeline	C27H36N2O4	452.2675	452.5857
+C21630	(S)-Norlaudanine	C19H23NO4	329.1627	329.3902
+C21634	Norcraugsodine	C15H15NO3	257.1052	257.2845
+C21635	(4aR,10bS)-Normaritidine; Macowine	C16H19NO3	273.1365	273.327

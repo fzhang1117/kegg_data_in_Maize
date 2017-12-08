@@ -1,0 +1,109 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00029	UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	C15H24N2O17P2	566.055	566.3018
+C00031	D-Glucose; Grape sugar; Dextrose; Glucose; D-Glucopyranose	C6H12O6	180.0634	180.1559
+C00043	UDP-N-acetyl-alpha-D-glucosamine; UDP-N-acetyl-D-glucosamine; UDP-N-acetylglucosamine	C17H27N3O17P2	607.0816	607.3537
+C00052	UDP-alpha-D-galactose; UDP-D-galactose; UDP-galactose; UDP-D-galactopyranose; UDP-alpha-D-galactopyranose	C15H24N2O17P2	566.055	566.3018
+C00096	GDP-mannose; GDP-D-mannose; GDP-alpha-D-mannose	C16H25N5O16P2	605.0772	605.3411
+C00103	D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	C6H13O9P	260.0297	260.1358
+C00128	CMP-N-acetylneuraminate; CMP-N-acetyl-beta-neuraminate	C20H31N4O16P	614.1473	614.4511
+C00140	N-Acetyl-D-glucosamine; N-Acetylchitosamine; 2-Acetamido-2-deoxy-D-glucose; GlcNAc	C8H15NO6	221.0899	221.2078
+C00159	D-Mannose; Mannose; Seminose; Carubinose	C6H12O6	180.0634	180.1559
+C00167	UDP-glucuronate; UDPglucuronate; UDP-D-glucuronate; UDP-alpha-D-glucuronate	C15H22N2O18P2	580.0343	580.2853
+C00181	D-Xylose; Wood sugar	C5H10O5	150.0528	150.1299
+C00190	UDP-D-xylose; UDP-xylose; UDP-alpha-D-xylose	C14H22N2O16P2	536.0445	536.2758
+C00191	D-Glucuronate; Glucuronic acid; Glucuronate	C6H10O7	194.0427	194.1394
+C00203	UDP-N-acetyl-D-galactosamine; UDP-N-acetyl-alpha-D-galactosamine	C17H27N3O17P2	607.0816	607.3537
+C00259	L-Arabinose; L-Arabinopyranose	C5H10O5	150.0528	150.1299
+C00267	alpha-D-Glucose	C6H12O6	180.0634	180.1559
+C00270	N-Acetylneuraminate; N-Acetylneuraminic acid; 5-Acetamido-3,5-dideoxy-D-glycero-D-galacto-2-nonulosonic acid; Neu5Ac	C11H19NO9	309.106	309.2699
+C00275	D-Mannose 6-phosphate	C6H13O9P	260.0297	260.1358
+C00325	GDP-L-fucose; GDP-beta-L-fucose	C16H25N5O15P2	589.0822	589.3417
+C00329	D-Glucosamine; Chitosamine; 2-Amino-2-deoxy-D-glucose	C6H13NO5	179.0794	179.1711
+C00333	D-Galacturonate; D-Galacturonic acid	C6H10O7	194.0427	194.1394
+C00352	D-Glucosamine 6-phosphate; D-Glucosamine phosphate	C6H14NO8P	259.0457	259.151
+C00357	N-Acetyl-D-glucosamine 6-phosphate	C8H16NO9P	301.0563	301.1877
+C00394	GDP-glucose; GDP-D-glucose; GDP-alpha-D-glucose	C16H25N5O16P2	605.0772	605.3411
+C00446	alpha-D-Galactose 1-phosphate; alpha-D-Galactopyranose 1-phosphate	C6H13O9P	260.0297	260.1358
+C00461	Chitin; beta-1,4-Poly-N-acetyl-D-glucosamine; [1,4-(N-Acetyl-beta-D-glucosaminyl)]n; [1,4-(N-Acetyl-beta-D-glucosaminyl)]n+1	(C8H13NO5)n	260.0297	260.1358
+C00498	ADP-glucose; ADP-alpha-D-glucose; Adenosine diphosphoglucose	C16H25N5O15P2	589.0822	589.3417
+C00501	CDP-glucose; CDP-D-Glucose	C15H25N3O16P2	565.071	565.317
+C00617	UDP-D-galacturonate; UDPgalacturonate; UDP-alpha-D-galacturonate	C15H22N2O18P2	580.0343	580.2853
+C00636	D-Mannose 1-phosphate; alpha-D-Mannose 1-phosphate	C6H13O9P	260.0297	260.1358
+C00645	N-Acetyl-D-mannosamine; 2-Acetamido-2-deoxy-D-mannose	C8H15NO6	221.0899	221.2078
+C00668	alpha-D-Glucose 6-phosphate	C6H13O9P	260.0297	260.1358
+C00714	Pectin; Poly(1,4-alpha-D-galacturonide)	(C26H36O24)n	260.0297	260.1358
+C00734	Chitosan; beta-1,4-Poly-D-glucosamine	C12H24N2O9(C6H11NO4)n	260.0297	260.1358
+C00935	UDP-L-arabinose; UDP-L-arabinopyranose; UDP-beta-L-arabinopyranose	C14H22N2O16P2	536.0445	536.2758
+C00976	GDP-D-mannuronate; GDP-D-mannuronic acid	C16H23N5O17P2	619.0564	619.3246
+C00984	alpha-D-Galactose	C6H12O6	180.0634	180.1559
+C00996	Ferricytochrome b5	C6H12O6	180.0634	180.1559
+C00999	Ferrocytochrome b5	C6H12O6	180.0634	180.1559
+C01019	6-Deoxy-L-galactose; L-Fucose	C6H12O5	164.0685	164.1565
+C01050	UDP-N-acetylmuramate; UDP-N-acetyl-alpha-D-muramate; UDP-N-acetylmuramic acid; UDP-MurNAc	C20H31N3O19P2	679.1027	679.4164
+C01170	UDP-N-acetyl-D-mannosamine; UDP-N-acetyl-alpha-D-mannosamine	C17H27N3O17P2	607.0816	607.3537
+C01219	CDP-4-dehydro-6-deoxy-D-glucose	C15H23N3O15P2	547.0604	547.3017
+C01222	GDP-4-dehydro-6-deoxy-D-mannose; GDP-4-dehydro-6-deoxy-D-talose; GDP-4-oxo-6-deoxy-D-mannose; GDP-4-dehydro-D-rhamnose; GDP-4-keto-6-deoxy-D-mannose; GDP-4-dehydro-alpha-D-rhamnose; GDP-4-dehydro-6-deoxy-alpha-D-mannose	C16H23N5O15P2	587.0666	587.3258
+C01623	UDP-apiose; UDP-D-apiose; UDP-alpha-D-apiose	C14H22N2O16P2	536.0445	536.2758
+C01674	Chitobiose; Diacetylchitobiose; N,N'-Diacetylchitobiose	C16H28N2O11	424.1693	424.4003
+C01788	CDP-abequose; CDP-alpha-D-abequose	C15H25N3O14P2	533.0812	533.3182
+C02199	UDP-L-rhamnose; UDP-rhamnose; UDP-beta-L-rhamnose	C15H24N2O16P2	550.0601	550.3024
+C02280	GDP-L-galactose	C16H25N5O16P2	605.0772	605.3411
+C02330	UDP-L-iduronate	C15H22N2O18P2	580.0343	580.2853
+C02336	beta-D-Fructose; beta-Fruit sugar; beta-D-arabino-Hexulose; beta-Levulose; Fructose	C6H12O6	180.0634	180.1559
+C02352	1,4-beta-D-Xylan; (1,4-beta-D-Xylan)n; (1,4-beta-D-Xylan)n+1	(C5H8O4)n	180.0634	180.1559
+C02474	Arabinan; alpha-L-Arabinan; alpha-L-Araban	(C15H24O12)n	180.0634	180.1559
+C02713	N-Acetylmuramate; N-Acetylmuramic acid; N-Acetyl-D-muramoate	C11H19NO8	293.1111	293.2705
+C02977	GDP-6-deoxy-D-talose; GDP-6-deoxy-alpha-D-talose	C16H25N5O15P2	589.0822	589.3417
+C02985	L-Fucose 1-phosphate; 6-Deoxy-L-galactose 1-phosphate; beta-L-Fucose 1-phosphate	C6H13O8P	244.0348	244.1364
+C03117	GDP-6-deoxy-D-mannose; GDP-D-rhamnose; GDP-6-deoxy-alpha-D-mannose; GDP-alpha-D-rhamnose	C16H25N5O15P2	589.0822	589.3417
+C03410	N-Glycoloyl-neuraminate; N-Glycolylneuraminate; Neu5Gc	C11H19NO10	325.1009	325.2693
+C03598	CDP-3,6-dideoxy-D-glucose; CDPparatose; CDP-alpha-D-paratose	C15H25N3O14P2	533.0812	533.3182
+C03599	CDP-3,6-dideoxy-D-mannose; CDPtyvelose	C15H25N3O14P2	533.0812	533.3182
+C03691	CMP-N-glycoloylneuraminate; CMP-N-glycolylneuraminate; CMP-Neu5Gc	C20H31N4O17P	630.1422	630.4505
+C03733	UDP-alpha-D-galactofuranose; UDP-alpha-D-galacto-1,4-furanose; UDP-D-galacto-1,4-furanose	C15H24N2O17P2	566.055	566.3018
+C03906	beta-L-Arabinose 1-phosphate	C5H11O8P	230.0192	230.1098
+C04037	1-Phospho-alpha-D-galacturonate; D-Galacturonate 1-phosphate	C6H11O10P	274.009	274.1193
+C04089	UDP-4-dehydro-6-deoxy-D-glucose; UDP-4-keto-6-deoxy-D-glucose; UDP-4-oxo-6-deoxy-D-glucose; UDP-4-dehydro-6-deoxy-alpha-D-glucose	C15H22N2O16P2	548.0445	548.2865
+C04257	N-Acetyl-D-mannosamine 6-phosphate; N-Acetylmannosamine 6-phosphate	C8H16NO9P	301.0563	301.1877
+C04297	CDP-4-dehydro-3,6-dideoxy-D-glucose; CDP-3,6-dideoxy-D-erythro-hexos-4-ulose; CDP-4-dehydro-3,6-dideoxy-alpha-D-glucose	C15H23N3O14P2	531.0655	531.3023
+C04501	N-Acetyl-alpha-D-glucosamine 1-phosphate	C8H16NO9P	301.0563	301.1877
+C04573	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate; UDP-N-acetyl-D-glucosaminuronate; UDP-N-acetyl-2-amino-2-deoxy-alpha-D-glucuronate	C17H25N3O18P2	621.0608	621.3372
+C04613	UDP-2-acetamido-4-dehydro-2,6-dideoxyglucose; UDP-2-acetamido-2,6-dideoxy-alpha-D-xylo-hexos-4-ulose; UDP-2-acetamido-2,6-dideoxy-alpha-D-xylo-hex-4-ulose	C17H25N3O16P2	589.071	589.3384
+C04630	UDP-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucose; UDP-4-amino-4,6-dideoxy-N-acetyl-alpha-D-glucosamine; UDP-N-acetylbacillosamine	C17H28N4O15P2	590.1026	590.3695
+C04631	UDP-N-acetyl-3-(1-carboxyvinyl)-D-glucosamine; UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine; UDP-N-acetylglucosamine-3-O-pyruvateether; UDP-N-acetylglucosamine enolpyruvate; UDP-N-acetyl-3-O-(1-carboxyvinyl)-alpha-D-glucosamine	C20H29N3O19P2	677.087	677.4005
+C05345	beta-D-Fructose 6-phosphate	C6H13O9P	260.0297	260.1358
+C05385	D-Glucuronate 1-phosphate; 1-Phospho-alpha-D-glucuronate	C6H11O10P	274.009	274.1193
+C06023	D-Glucosaminide; Chitosan oligosaccharide	C12H24N2O10(C6H11NO3)n	274.009	274.1193
+C06156	alpha-D-Glucosamine 1-phosphate; D-Glucosamine 1-phosphate	C6H14NO8P	259.0457	259.151
+C06240	UDP-N-acetyl-D-mannosaminouronate; UDP-N-acetyl-2-amino-2-deoxy-D-mannuronate; UDP-N-acetyl-D-mannosaminuronic acid; UDP-N-acetyl-alpha-D-mannosaminuronate	C17H25N3O18P2	621.0608	621.3372
+C06241	N-Acetylneuraminate 9-phosphate	C11H20NO12P	389.0723	389.2498
+C11521	UDP-6-sulfoquinovose	C15H24N2O19P2S	630.0169	630.3656
+C13952	UDP-N-acetyl-D-galactosaminuronic acid	C17H25N3O18P2	621.0608	621.3372
+C15925	GDP-L-gulose	C16H25N5O16P2	605.0772	605.3411
+C16153	UDP-L-Ara4N; UDP-4-amino-4-deoxy-L-arabinose; UDP-4-amino-4-deoxy-beta-L-arabinopyranose	C14H23N3O15P2	535.0604	535.291
+C16154	UDP-L-Ara4FN; Uridine 5'-diphospho-beta-(4-deoxy-4-formamido-L-arabinose); UDP-4-deoxy-4-formamido-beta-L-arabinopyranose	C15H23N3O16P2	563.0554	563.3011
+C16155	UDP-L-Ara4O; UDP-4''-ketopentose; Uridine 5'-diphospho-beta-(L-threo-pentapyranosyl-4''-ulose); UDP-beta-L-threo-pentapyranos-4-ulose; UDP-4-keto-D-xylose	C14H20N2O16P2	534.0288	534.2599
+C16156	Undecaprenyl phosphate alpha-L-Ara4FN; 4-Deoxy-4-formamido-alpha-L-arabinopyranosyl ditrans,octacis-undecaprenyl phosphate	C61H100NO8P	1005.7187	1006.4224
+C16157	Undecaprenyl phosphate alpha-L-Ara4N; 4-Amino-4-deoxy-alpha-L-arabinopyranosyl ditrans,octacis-undecaprenyl phosphate	C60H100NO7P	977.7237	978.4123
+C16698	N-Acetylmuramic acid 6-phosphate; N-Acetylmuramate 6-phosphate; MurNAc 6-phosphate	C11H20NO11P	373.0774	373.2504
+C17326	CDP-4-dehydro-3,6-dideoxy-D-glucose epimer	C15H23N3O14P2	531.0655	531.3023
+C17327	CDP-ascarylose	C15H25N3O14P2	533.0812	533.3182
+C17328	UDP-4-keto-rhamnose	C15H22N2O16P2	548.0445	548.2865
+C18094	UDP-L-arabinofuranose; UDP-beta-L-arabinofuranose	C14H22N2O16P2	536.0445	536.2758
+C19725	UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronate; UDP-alpha-D-GlcNAc3NAcA; UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronic acid	C19H28N4O18P2	662.0874	662.3891
+C19745	UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate; UDP-alpha-D-ManNAc3NAcA; UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronic acid	C19H28N4O18P2	662.0874	662.3891
+C19823	UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hexos-4-ulose; UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hex-4-ulose	C17H25N3O16P2	589.071	589.3384
+C19961	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine; UDP-4-amino-4,6-dideoxy-beta-L-AltNAc; UDP-2-acetamido-4-amino-2,4,6-trideoxy-beta-L-altrose	C17H28N4O15P2	590.1026	590.3695
+C19971	UDP-2,4-bis(acetamido)-2,4,6-trideoxy-beta-L-altropyranose; UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altrose	C19H30N4O16P2	632.1132	632.4062
+C19972	2,4-Bis(acetamido)-2,4,6-trideoxy-beta-L-altropyranose	C10H18N2O5	246.1216	246.2603
+C20082	Pseudaminic acid; 5,7-Bis(acetylamino)-3,5,7,9-tetradeoxy-L-glycero-alpha-L-manno-2-nonulopyranosonic acid	C13H22N2O8	334.1376	334.3224
+C20083	CMP-pseudaminic acid	C22H34N5O15P	639.1789	639.5036
+C20357	UDP-N,N'-Diacetylbacillosamine; UDP-2,4-Diacetamido-2,4,6-trideoxy-alpha-D-glucopyranose	C19H30N4O16P2	632.1132	632.4062
+C20359	UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucuronate	C17H26N4O17P2	620.0768	620.3525
+C20395	UDP-2-acetamido-2-deoxy-alpha-D-ribo-hex-3-uluronate; UDP-3-keto-GlcNAcA	C17H23N3O18P2	619.0452	619.3213
+C20418	N,N'-Diacetyllegionaminate	C13H22N2O8	334.1376	334.3224
+C20419	CMP-N,N'-diacetyllegionaminate	C22H34N5O15P	639.1789	639.5036
+C20424	2,4-Diacetamido-2,4,6-trideoxy-D-mannopyranose; 2,4-Diacetamido-2,4,6-trideoxy-alpha-D-mannopyranose	C10H18N2O5	246.1216	246.2603
+C20638	GDP-4-amino-4,6-dideoxy-alpha-D-mannose; GDP-alpha-D-perosamine	C16H26N6O14P2	588.0982	588.357
+C20672	GDP-4-acetamido-4,6-dideoxy-alpha-D-mannose; GDP-N-acetyl-alpha-D-perosamine	C18H28N6O15P2	630.1088	630.3936
+C21027	N-Acetylmuramic acid alpha-1-phosphate; N-Acetylmuramate alpha-1-phosphate; MurNAc alpha-1-phosphate; N-Acetyl-alpha-D-muramate 1-phosphate	C11H20NO11P	373.0774	373.2504

@@ -1,0 +1,46 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00079	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00152	L-Asparagine; 2-Aminosuccinamic acid	C4H8N2O3	132.0535	132.1179
+C00183	L-Valine; 2-Amino-3-methylbutyric acid	C5H11NO2	117.079	117.1463
+C00302	Glutamate; Glutaminic acid; 2-Aminoglutaric acid	C5H9NO4	147.0532	147.1293
+C00407	L-Isoleucine; 2-Amino-3-methylvaleric acid	C6H13NO2	131.0946	131.1729
+C00488	Formamide; Methanamide	CH3NO	45.0215	45.0406
+C00561	Mandelonitrile; Benzaldehyde cyanohydrin; (R)-Mandelonitrile	C8H7NO	133.0528	133.1473
+C00844	Prunasin; (R)-Prunasin	C14H17NO6	295.1056	295.2879
+C01326	Hydrogen cyanide; HCN; Cyanide	CHN	27.0109	27.0253
+C01401	Alanine; 2-Aminopropionic acid; 2-Aminopropanoic acid	C3H7NO2	89.0477	89.0932
+C01594	Linamarin; Phaseolunatin	C10H17NO6	247.1056	247.2451
+C02512	3-Cyano-L-alanine; L-3-Cyanoalanine; L-beta-Cyanoalanine	C4H6N2O2	114.0429	114.1026
+C02659	Acetone cyanohydrin; alpha-Hydroxyisobutyronitrile; 2-Hydroxy-2-methylpropanenitrile; 2-Methyllactonitrile; Acetone cyanhydrin; 2-Hydroxyisobutyronitrile	C4H7NO	85.0528	85.1045
+C03004	N-Hydroxy-L-tyrosine	C9H11NO4	197.0688	197.1879
+C03219	(E)-2-Methylpropanal oxime; (E)-Isobutyraldehyde oxime; (E)-Isobutanal oxime	C4H9NO	87.0684	87.1204
+C03742	(S)-4-Hydroxymandelonitrile	C8H7NO2	149.0477	149.1467
+C04350	(E)-4-Hydroxyphenylacetaldehyde oxime; (E)-[4-Hydroxyphenylacetaldehyde oxime]	C8H9NO2	151.0633	151.1626
+C05143	Dhurrin; (S)-4-Hydroxymandelonitrile beta-D-glucoside	C14H17NO7	311.1005	311.2873
+C05670	3-Aminopropiononitrile; beta-Aminopropionitrile	C3H6N2	70.0531	70.0931
+C05711	gamma-Glutamyl-beta-cyanoalanine	C9H13N3O5	243.0855	243.2166
+C05714	alpha-Aminopropiononitrile	C3H6N2	70.0531	70.0931
+C05715	gamma-Amino-gamma-cyanobutanoate; 4-Amino-4-cyanobutanoic acid	C5H8N2O2	128.0586	128.1292
+C06114	gamma-Glutamyl-beta-aminopropiononitrile; gamma-Glutamyl-3-aminopropiononitrile	C8H13N3O3	199.0957	199.2071
+C08325	Amygdalin; (R)-Amygdalin; (R)-Amygdaloside; (R)-Laenitrile	C20H27NO11	457.1584	457.4285
+C08334	Lotaustralin	C11H19NO6	261.1212	261.2717
+C15503	N,N-Dihydroxy-L-tyrosine	C9H11NO5	213.0637	213.1873
+C16074	Phenylacetonitrile; Benzyl cyanide	C8H7N	117.0578	117.1479
+C16075	(Z)-Phenylacetaldehyde oxime; Z-Phenylacetaldoxime	C8H9NO	135.0684	135.1632
+C18796	(2R)-2-Hydroxy-2-methylbutanenitrile; 2-Hydroxy-2-methylbutanenitrile	C5H9NO	99.0684	99.1311
+C19491	(E)-2-Methylbutanal oxime	C5H11NO	101.0841	101.1469
+C19712	N-Hydroxy-L-phenylalanine; 2-(Hydroxyamino)-3-phenylpropanoate	C9H11NO3	181.0739	181.1885
+C19714	(E)-Phenylacetaldoxime; (E)-Phenylacetaldehyde oxime	C8H9NO	135.0684	135.1632
+C19715	N,N-Dihydroxy-L-phenylalanine	C9H11NO4	197.0688	197.1879
+C20310	N-Hydroxy-L-isoleucine	C6H13NO3	147.0895	147.1723
+C20311	N,N-Dihydroxy-L-isoleucine	C6H13NO4	163.0845	163.1717
+C20312	(Z)-2-Methylbutanal oxime	C5H11NO	101.0841	101.1469
+C20313	N-Hydroxy-L-valine	C5H11NO3	133.0739	133.1457
+C20314	N,N-Dihydroxy-L-valine	C5H11NO4	149.0688	149.1451
+C20315	(Z)-2-Methylpropanal oxime	C4H9NO	87.0684	87.1204

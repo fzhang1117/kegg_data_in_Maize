@@ -1,0 +1,49 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00033	Acetate; Acetic acid; Ethanoic acid	C2H4O2	60.0211	60.052
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00068	Thiamin diphosphate; Thiamine diphosphate; Thiamin pyrophosphate; TPP; ThPP	C12H19N4O7P2S	425.045	425.3144
+C00083	Malonyl-CoA; Malonyl coenzyme A	C24H38N7O19P3S	853.1156	853.5803
+C00091	Succinyl-CoA; Succinyl coenzyme A	C25H40N7O19P3S	867.1313	867.6069
+C00099	beta-Alanine; 3-Aminopropionic acid; 3-Aminopropanoate	C3H7NO2	89.0477	89.0932
+C00100	Propanoyl-CoA; Propionyl-CoA; Propionyl coenzyme A	C24H40N7O17P3S	823.1414	823.5974
+C00109	2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	C4H6O3	102.0317	102.0886
+C00111	Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	C3H7O6P	169.998	170.0578
+C00132	Methanol; Methyl alcohol; CH3OH	CH4O	32.0262	32.0419
+C00163	Propanoate; Propionate; Propanoic acid; Propionic acid	C3H6O2	74.0368	74.0785
+C00164	Acetoacetate; 3-Oxobutanoic acid; beta-Ketobutyric acid; Acetoacetic acid	C4H6O3	102.0317	102.0886
+C00186	(S)-Lactate; L-Lactate; L-Lactic acid	C3H6O3	90.0317	90.0779
+C00207	Acetone; Dimethyl ketone; 2-Propanone	C3H6O	58.0419	58.0791
+C00222	3-Oxopropanoate; Malonate semialdehyde	C3H4O3	88.016	88.0621
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00424	(S)-Lactaldehyde; L-Lactaldehyde; L-2-Hydroxypropionaldehyde	C3H6O2	74.0368	74.0785
+C00479	Propanal; Propionaldehyde	C3H6O	58.0419	58.0791
+C00546	Methylglyoxal; Pyruvaldehyde; Pyruvic aldehyde; 2-Ketopropionaldehyde; 2-Oxopropanal	C3H4O2	72.0211	72.0627
+C00583	Propane-1,2-diol; 1,2-Propanediol; Propylene glycol	C3H8O2	76.0524	76.0944
+C00683	(S)-Methylmalonyl-CoA; (S)-Methylmalonyl-coenzyme A; (2S)-Methylmalonyl-CoA; D-Methylmalonyl-CoA	C25H40N7O19P3S	867.1313	867.6069
+C00804	Propynoate; Propiolic acid; Acetylenecarboxylic acid; Acetylenemonocarboxylate	C3H2O2	70.0055	70.0468
+C00827	Lactoyl-CoA	C24H40N7O18P3S	839.1363	839.5968
+C00894	Propenoyl-CoA; Acryloyl-CoA; Acrylyl-CoA	C24H38N7O17P3S	821.1258	821.5815
+C01013	3-Hydroxypropanoate; 3-Hydroxypropanoic acid; 3-Hydroxypropionate; 3-Hydroxypropionic acid; Hydracrylic acid	C3H6O3	90.0317	90.0779
+C01213	(R)-Methylmalonyl-CoA; L-Methylmalonyl-CoA	C25H40N7O19P3S	867.1313	867.6069
+C01845	Propan-2-ol; 2-Propanol; Isopropanol; Isopropyl alcohol	C3H8O	60.0575	60.095
+C02170	Methylmalonate; Methylmalonic acid	C4H6O4	118.0266	118.088
+C02225	2-Methylcitrate; (2S,3S)-2-Methylcitrate; 2-Hydroxybutane-1,2,3-tricarboxylate; (2S,3S)-2-Hydroxybutane-1,2,3-tricarboxylate	C7H10O7	206.0427	206.1501
+C02335	beta-Alanyl-CoA	C24H41N8O17P3S	838.1523	838.612
+C02876	Propanoyl phosphate; Propionyl phosphate	C3H7O5P	154.0031	154.0584
+C04225	(Z)-But-2-ene-1,2,3-tricarboxylate; cis-2-Methylaconitate	C7H8O6	188.0321	188.1348
+C04593	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate; Methylisocitrate; Methylisocitric acid	C7H10O7	206.0427	206.1501
+C05235	Hydroxyacetone; Acetol; 1-Hydroxy-2-propanone; 2-Ketopropyl alcohol; Acetone alcohol; Pyruvinalcohol; Pyruvic alcohol; Methylketol	C3H6O2	74.0368	74.0785
+C05668	3-Hydroxypropionyl-CoA; 3-Hydroxypropionyl coenzyme A; 3-Hydroxypropanoyl-CoA; 3-Hydroxypropanoyl coenzymeA; beta-Hydroxypropionyl-CoA	C24H40N7O18P3S	839.1363	839.5968
+C05979	Propane-1-ol; Propanol; 1-Propanol; Propan-1-ol; Propyl alcohol; 1-Hydroxypropane; Ethylcarbinol; n-Propanol; n-Propyl alcohol; Optal; Osmosol extra; UN 1274	C3H8O	60.0575	60.095
+C05983	Propionyladenylate; Propionyl-adenosine monophosphate	C13H18N5O8P	403.0893	403.2845
+C05984	2-Hydroxybutanoic acid; 2-Hydroxybutyrate; 2-Hydroxybutyric acid	C4H8O3	104.0473	104.1045
+C05989	3-Oxopropionyl-CoA; 3-Oxopropanoyl-CoA; Malonyl semialdehyde-CoA	C24H38N7O18P3S	837.1207	837.5809
+C06002	(S)-Methylmalonate semialdehyde	C4H6O3	102.0317	102.0886
+C15972	Enzyme N6-(lipoyl)lysine; Lipoamide-E	C8H14NOS2R	102.0317	102.0886
+C15973	Enzyme N6-(dihydrolipoyl)lysine; Dihydrolipoamide-E	C8H16NOS2R	102.0317	102.0886
+C17530	Methyl acetate; Devoton; Tereton	C3H6O2	74.0368	74.0785
+C20783	Propane	C3H8	44.0626	44.0956
+C21017	2-(alpha-Hydroxypropyl)thiamine diphosphate; 2-Hydroxypropyl-ThPP	C15H25N4O8P2S	483.0868	483.3935
+C21018	Enzyme N6-(S-propyldihydrolipoyl)lysine; S-Propyldihydrolipoamide-E	C11H20NO2S2R	483.0868	483.3935
+C21250	2-Methyl-trans-aconitate	C7H8O6	188.0321	188.1348

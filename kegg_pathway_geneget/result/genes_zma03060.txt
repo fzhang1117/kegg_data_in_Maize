@@ -1,0 +1,69 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100285911	GRMZM2G110063	Zm00001d008625	K03217	-	uncharacterized LOC100285911
+103630827	GRMZM2G055880	Zm00001d027354	K03217	-	mitochondrial inner membrane protein OXA1-like
+100284226	GRMZM5G839422	Zm00001d039852	K03217	-	inner membrane protein ALBINO3
+100382702	GRMZM2G064804	Zm00001d029657	K03217	-	Mitochondrial inner membrane protein OXA1
+103625721	GRMZM2G136854	Zm00001d012861	K03217	-	inner membrane protein PPF-1, chloroplastic
+103648919	GRMZM2G090020	Zm00001d004707	K03070	-	protein translocase subunit SECA2, chloroplastic
+542347	GRMZM5G880102	Zm00001d040686	K03070	-	thylakoid assembly 1
+100274153	GRMZM2G113093	Zm00001d023431	K03106	EC3.6.5.4	Signal recognition particle 54 kDa protein chloroplastic
+100274376	GRMZM2G079257	Zm00001d012652	K03106	EC3.6.5.4	uncharacterized LOC100274376
+100502496	GRMZM2G038953	Zm00001d043303	K03106	EC3.6.5.4	Signal recognition particle 54 kDa protein 3
+103654352	GRMZM2G127230	Zm00001d052556	K03106	EC3.6.5.4	signal recognition particle 54 kDa protein, chloroplastic
+103630576	GRMZM2G060324	Zm00001d038661	K03106	EC3.6.5.4	signal recognition particle 54 kDa protein 2
+542753	-	Zm00001d042044	K03110	-	chloroplast srp54 receptor 1
+100280289	GRMZM2G130987	Zm00001d028201	K10956	-	uncharacterized LOC100280289
+100276798	GRMZM2G307252	Zm00001d034139	K10956	-	SecY protein transport family protein
+542482	GRMZM5G809546	Zm00001d000349	K10956	-	Chloroplast SecY-1
+100217058	GRMZM2G073498	Zm00001d048100	K10956	-	SecY protein transport family protein
+100280873	GRMZM2G386228	Zm00001d011050	K09481	-	protein transport protein Sec61 beta subunit
+100285315	GRMZM2G045318	Zm00001d044231	K09481	-	protein transport protein Sec61 beta subunit
+100286118	GRMZM2G045971	Zm00001d035610	K09481	-	protein transport protein Sec61 beta subunit
+103651507	GRMZM2G342693	Zm00001d044237	K09481	-	protein transport protein Sec61 subunit beta
+100284544	-	Zm00001d053731	K07342	-	protein transport protein SEC61 gamma subunit
+100282298	-	Zm00001d046929	K07342	-	protein transport protein SEC61 gamma subunit
+100280916	GRMZM2G089491	Zm00001d036708	K07342	-	protein transport protein SEC61 gamma subunit
+100286182	-	Zm00001d034805	K12275	-	translocation protein-related
+103625723	-	Zm00001d012866	K12275	-	translocation protein-related
+103641549	GRMZM2G009346	Zm00001d025144	K09540	-	dnaJ protein ERDJ2
+100384319	GRMZM2G007871	Zm00001d004119	K09540	-	DnaJ protein ERDJ2A
+732808	GRMZM2G114793	Zm00001d014993	K09490	-	Binding protein homolog 1
+732809	GRMZM2G415007	Zm00001d054043	K09490	-	Binding protein homolog 2
+103625886	GRMZM2G471196	-	K09490	-	heat shock 70 kDa protein BIP2
+103641707	GRMZM2G158469	Zm00001d025556	K09490	-	mediator of RNA polymerase II transcription subunit 37f
+103637376	-	-	K09490	-	luminal-binding protein 3
+109941019	GRMZM2G161035	Zm00001d018953	K09490	-	luminal-binding protein 3-like
+100216656	GRMZM2G058407	Zm00001d045650	K03109	-	Signal recognition particle protein
+542750	GRMZM2G046576	Zm00001d037422	K03109	-	signal recognition particle protein subunit 9
+100280752	GRMZM2G076539	Zm00001d002259	K03104	-	signal recognition particle 14 kDa protein
+100382925	GRMZM2G070562	Zm00001d042569	K03108	-	uncharacterized LOC100382925
+100192526	GRMZM2G121022	Zm00001d022115	K03107	-	signal recognition particle-related / SRP-related
+100282410	GRMZM2G167262	Zm00001d003502	K03105	-	signal recognition particle 19 kDa protein
+103645776	GRMZM2G077744	Zm00001d001882	K03105	-	signal recognition particle 19 kDa protein
+100191673	GRMZM2G060296	Zm00001d027293	K13431	-	signal recognition particle receptor homolog 1
+103652378	-	Zm00001d042655	K13431	-	signal recognition particle receptor subunit alpha homolog
+100283769	GRMZM2G091503	Zm00001d050258	K12272	-	signal recognition particle receptor beta subunit
+100193087	GRMZM2G015642	Zm00001d032280	K12272	-	signal recognition particle binding
+541788	GRMZM2G472651	-	K03116	-	thylakoid assembly 4
+541789	GRMZM2G128454	-	K03116	-	tha9 protein
+100279882	GRMZM2G093254	Zm00001d048028	K03118	-	Sec-independent protein translocase protein TATC chloroplastic
+103632985	GRMZM2G025123	Zm00001d028272	K03118	-	sec-independent protein translocase protein TATC, chloroplastic
+100283156	GRMZM2G024865	Zm00001d020694	K03100	EC3.4.21.89	Thylakoidal processing peptidase 1 chloroplastic
+100284377	GRMZM2G107798	Zm00001d034167	K03100	EC3.4.21.89	peptidase/ serine-type peptidase
+100273277	GRMZM5G800751	Zm00001d026703	K03100	EC3.4.21.89	Thylakoidal processing peptidase 1 chloroplastic
+103626952	GRMZM2G039930	Zm00001d016036	K03100	EC3.4.21.89	chloroplast processing peptidase
+100285983	GRMZM2G112366	Zm00001d013642	K12946	EC3.4.-.-	putative signal peptidase complex subunit 1
+100280989	GRMZM2G154151	-	K12946	EC3.4.-.-	uncharacterized LOC100280989
+100282505	GRMZM2G131321	Zm00001d003539	K12947	EC3.4.-.-	uncharacterized LOC100282505
+100283950	GRMZM2G077463	-	K12948	EC3.4.-.-	signal peptidase complex subunit 3
+100274280	GRMZM2G091558	Zm00001d006320	K12948	EC3.4.-.-	Signal peptidase complex subunit 3B
+100191345	GRMZM2G067080	Zm00001d009866	K13280	EC3.4.21.89	Peptidase S24/S26A/S26B/S26C family protein
+100273903	GRMZM2G035526	Zm00001d037926	K13280	EC3.4.21.89	Peptidase S24/S26A/S26B/S26C family protein
+103654093	GRMZM2G307088	Zm00001d051850	K13280	EC3.4.21.89	signal peptidase complex catalytic subunit SEC11C
+103637302	-	-	K13280	EC3.4.21.89	signal peptidase complex catalytic subunit SEC11C-like
+109942576	-	Zm00001d046694	K13280	EC3.4.21.89	signal peptidase complex catalytic subunit SEC11-like
+100282484	GRMZM5G833660	Zm00001d048825	K09647	EC3.4.21.-	Inner membrane protease subunit 1, nuclear encoding mitochondrial protein, mRNA
+100384465	GRMZM2G066469	Zm00001d026521	K09647	EC3.4.21.-	Inner membrane protease subunit 1
+103651187	GRMZM2G162274	Zm00001d043394	K09647	EC3.4.21.-	mitochondrial inner membrane protease subunit 2-like
+103631723	GRMZM2G142938	-	K09648	EC3.4.21.-	mitochondrial inner membrane protease subunit 2
+100273900	GRMZM2G029141	Zm00001d004414	K09648	EC3.4.21.-	Peptidase S24/S26A/S26B/S26C family protein

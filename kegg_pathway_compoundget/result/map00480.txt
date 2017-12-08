@@ -1,0 +1,39 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00005	NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	C21H30N7O17P3	745.0911	745.4209
+C00006	NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	C21H29N7O17P3	744.0833	744.4129
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00051	Glutathione; 5-L-Glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; gamma-L-Glutamyl-L-cysteinyl-glycine; GSH; Reduced glutathione	C10H17N3O6S	307.0838	307.3235
+C00072	Ascorbate; Ascorbic acid; L-Ascorbate; L-Ascorbic acid; Vitamin C	C6H8O6	176.0321	176.1241
+C00077	L-Ornithine; (S)-2,5-Diaminovaleric acid; (S)-2,5-Diaminopentanoic acid; (S)-2,5-Diaminopentanoate	C5H12N2O2	132.0899	132.161
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00127	Glutathione disulfide; GSSG; Oxiglutatione; Oxidized glutathione	C20H32N6O12S2	612.152	612.6311
+C00134	Putrescine; 1,4-Butanediamine; 1,4-Diaminobutane; Tetramethylenediamine; Butane-1,4-diamine	C4H12N2	88.1	88.1515
+C00151	L-Amino acid; L-2-Amino acid	C2H4NO2R	88.1	88.1515
+C00315	Spermidine; N-(3-Aminopropyl)-1,4-butane-diamine	C7H19N3	145.1579	145.2459
+C00669	gamma-L-Glutamyl-L-cysteine; L-gamma-Glutamylcysteine; 5-L-Glutamyl-L-cysteine; gamma-Glutamylcysteine	C8H14N2O5S	250.0623	250.2722
+C00750	Spermine; N,N'-Bis(3-aminopropyl)-1,4-butanediamine	C10H26N4	202.2157	202.3402
+C01322	RX; Organic halide	XR	202.2157	202.3402
+C01419	Cys-Gly; L-Cysteinylglycine	C5H10N2O3S	178.0412	178.2095
+C01672	Cadaverine; 1,5-Pentanediamine; 1,5-Diaminopentane; Pentamethylenediamine	C5H14N2	102.1157	102.1781
+C01879	Pidolic acid; 5-Oxoproline; Pyroglutamic acid; 5-Pyrrolidone-2-carboxylic acid; Pyroglutamate; 5-Oxo-L-proline; L-Pyroglutamic acid; L-5-Pyrrolidone-2-carboxylic acid	C5H7NO3	129.0426	129.114
+C02090	Trypanothione; N1,N8-Bis(gamma-L-glutamyl-L-cysteinyl-glycyl)spermidine; N1,N8-Bis(glutathionyl)spermidine; Reduced trypanothione	C27H49N9O10S2	723.3044	723.8623
+C02320	R-S-Glutathione	C10H16N3O6SR	723.3044	723.8623
+C03170	Trypanothione disulfide; Oxidized trypanothione	C27H47N9O10S2	721.2887	721.8464
+C03646	Bis-gamma-glutamylcystine; Oxidized gamma-glutamylcysteine; Bis-gamma-L-glutamyl-L-cystine; Oxidized gamma-L-glutamyl-L-cysteine	C16H26N4O10S2	498.109	498.5284
+C03740	(5-L-Glutamyl)-L-amino acid; L-gamma-Glutamyl-L-amino acid	C7H11N2O5R	498.109	498.5284
+C05422	Dehydroascorbate; Dehydroascorbic acid; L-Dehydroascorbate; L-Dehydroascorbic acid	C6H6O6	174.0164	174.1082
+C05726	S-Substituted L-cysteine; R-S-Cysteine; L-Cysteine S-conjugate	C3H6NO2SR	174.0164	174.1082
+C05727	S-Substituted N-acetyl-L-cysteine; Mercapturic acid; N-Acetyl-L-cysteine S-conjugate	C5H8NO3SR	174.0164	174.1082
+C05729	R-S-Cysteinylglycine	C5H9N2O3SR	174.0164	174.1082
+C05730	Glutathionylspermidine; N1-(gamma-L-Glutamyl-L-cysteinyl-glycyl)-spermidine	C17H34N6O5S	434.2311	434.5541
+C16562	Glutathionylspermine	C20H41N7O5S	491.289	491.6484
+C16563	Bis(glutathionyl)spermine; N1,N12-Bis(glutathionyl)spermine	C30H56N10O10S2	780.3622	780.9566
+C16564	Bis(glutathionyl)spermine disulfide	C30H54N10O10S2	778.3466	778.9408
+C16565	Aminopropylcadaverine	C8H21N3	159.1735	159.2724
+C16566	Glutathionylaminopropylcadaverine	C18H36N6O5S	448.2468	448.5806
+C16567	Homotrypanothione; N1,N9-Bis(glutathionyl)aminopropylcadaverine	C28H51N9O10S2	737.32	737.8888
+C16568	Homotrypanothione disulfide	C28H49N9O10S2	735.3044	735.873
+C16663	Tryparedoxin	C28H49N9O10S2	735.3044	735.873
+C16664	Tryparedoxin disulfide	C28H49N9O10S2	735.3044	735.873

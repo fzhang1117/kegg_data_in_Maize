@@ -1,0 +1,40 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00002	ATP; Adenosine 5'-triphosphate	C10H16N5O13P3	506.9957	507.181
+C00008	ADP; Adenosine 5'-diphosphate	C10H15N5O10P2	427.0294	427.2011
+C00015	UDP; Uridine 5'-diphosphate	C9H14N2O12P2	404.0022	404.1612
+C00019	S-Adenosyl-L-methionine; S-Adenosylmethionine; AdoMet; SAM	C15H22N6O5S	398.1372	398.4374
+C00020	AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	C10H14N5O7P	347.0631	347.2212
+C00029	UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	C15H24N2O17P2	566.055	566.3018
+C00033	Acetate; Acetic acid; Ethanoic acid	C2H4O2	60.0211	60.052
+C00066	tRNA; tRNA(n); tRNA(n+1); transfer RNA	C10H17O10PR2(C5H8O6PR)n	60.0211	60.052
+C00147	Adenine; 6-Aminopurine	C5H5N5	135.0545	135.1267
+C00170	5'-Methylthioadenosine; Methylthioadenosine; S-Methyl-5'-thioadenosine; 5-Methylthioadenosine; 5'-Deoxy-5'-(methylthio)adenosine; Thiomethyladenosine; MTA	C11H15N5O3S	297.0896	297.3335
+C00190	UDP-D-xylose; UDP-xylose; UDP-alpha-D-xylose	C14H22N2O16P2	536.0445	536.2758
+C00235	Dimethylallyl diphosphate; 2-Isopentenyl diphosphate; Delta2-Isopentenyl diphosphate; Dimethylallyl pyrophosphate; DMAPP; Monoprenyl diphosphate; Prenyl diphosphate	C5H12O7P2	246.0058	246.0921
+C00371	Zeatin; N6-(4-Hydroxyisopentenyl)adenine; (E)-2-Methyl-4-(1H-purin-6-ylamino)but-2-en-1-ol; trans-Zeatin	C10H13N5O	219.112	219.2431
+C00979	O-Acetyl-L-serine; O3-Acetyl-L-serine	C5H9NO4	147.0532	147.1293
+C01513	Lupinate; Lupinic acid; 3-[N6-(4-Hydroxyisopentenyl)adeninyl]-L-alanine; (S)-2-Amino-3-{[(E)-4-hydroxy-3-methylbut-2-enylamino]purin-9-yl}propanoic acid	C13H18N6O3	306.144	306.3204
+C01804	Discadenine; 3-(3-Amino-3-carboxypropyl)-N6-(Delta2-isopentenyl)-adenine	C14H20N6O2	304.1648	304.3476
+C02029	Dihydrozeatin; 2-Methyl-4-(1H-purin-6-ylamino)butan-1-ol; N6-(4-Hydroxyisopentanyl)adenine	C10H15N5O	221.1277	221.259
+C03300	O-beta-D-Xylosylzeatin; O-beta-D-Xyloxylzeatin	C15H21N5O5	351.1543	351.3577
+C03423	O-beta-D-Glucosylzeatin; O-beta-D-Glucosyl-trans-zeatin; trans-Zeatin-O-glucoside	C16H23N5O6	381.1648	381.3837
+C04083	N6-(Delta2-Isopentenyl)-adenine; N6-(3-Methylbut-2-enyl)adenine; 6-(gamma,gamma-Dimethylallylamino)purine; N6-Dimethylallyladenine	C10H13N5	203.1171	203.2437
+C04432	tRNA containing 6-isopentenyladenosine; N6-Dimethylallyladenine in tRNA	C15H22N5O7P(C5H8O6PR)n(C5H8O6PR)n	203.1171	203.2437
+C04713	N6-(delta2-Isopentenyl)-adenosine 5'-monophosphate; N6-(Dimethylallyl)adenosine 5'-phosphate; Isopentenyl-AMP	C15H22N5O7P	415.1257	415.3382
+C07330	3-Methyl-2-butenal; 3-Methylbut-2-enal; 3,3-Dimethyl-acrylaldehyde; Senecialdehyde; Prenal	C5H8O	84.0575	84.1164
+C15545	cis-Zeatin; (Z)-2-Methyl-4-(1H-purin-6-ylamino)but-2-en-1-ol	C10H13N5O	219.112	219.2431
+C15546	O-beta-D-Glucopyranosyl-cis-zeatin; cis-Zeatin-O-glucoside	C16H23N5O6	381.1648	381.3837
+C16424	Isopentenyladenosine-5'-triphosphate; Isopentenyl-ATP; N6-(Dimethylallyl)adenosine 5'-triphosphate	C15H24N5O13P3	575.0583	575.298
+C16426	Isopentenyladenosine-5'-diphosphate; Isopentenyl-ADP; N6-(Dimethylallyl)adenosine 5'-diphosphate	C15H23N5O10P2	495.092	495.3181
+C16427	Isopentenyl adenosine	C15H21N5O4	335.1594	335.3583
+C16428	trans-Zeatin riboside triphosphate	C15H24N5O14P3	591.0533	591.2974
+C16429	trans-Zeatin riboside diphosphate	C15H23N5O11P2	511.0869	511.3175
+C16430	trans-Zeatin riboside  monophosphate	C15H22N5O8P	431.1206	431.3376
+C16431	trans-Zeatin riboside	C15H21N5O5	351.1543	351.3577
+C16441	cis-Zeatin riboside monophosphate	C15H22N5O8P	431.1206	431.3376
+C16443	trans-Zeatin-7-beta-D-glucoside	C16H23N5O6	381.1648	381.3837
+C16445	Dihydrozeatin riboside monophosphate	C15H24N5O8P	433.1362	433.3535
+C16447	Dihydrozeatin riboside	C15H23N5O5	353.1699	353.3736
+C16448	Dihydrozeatin-O-glucoside	C16H25N5O6	383.1805	383.3996
+C16449	cis-Zeatin riboside	C15H21N5O5	351.1543	351.3577
+C16467	cis-Prenyl-tRNA; tRNA containing N6-(cis-hydroxy)isopentenyladenosine	C15H22N5O8P(C5H8O6PR)n(C5H8O6PR)n	351.1543	351.3577

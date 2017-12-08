@@ -1,0 +1,43 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00091	Succinyl-CoA; Succinyl coenzyme A	C25H40N7O19P3S	867.1313	867.6069
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00136	Butanoyl-CoA; Butyryl-CoA	C25H42N7O17P3S	837.1571	837.624
+C00164	Acetoacetate; 3-Oxobutanoic acid; beta-Ketobutyric acid; Acetoacetic acid	C4H6O3	102.0317	102.0886
+C00232	Succinate semialdehyde; Succinic semialdehyde; 4-Oxobutanoate	C4H6O3	102.0317	102.0886
+C00246	Butanoic acid; Butanoate; Butyrate; Butyric acid	C4H8O2	88.0524	88.1051
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00334	4-Aminobutanoate; 4-Aminobutanoic acid; 4-Aminobutyrate; 4-Aminobutyric acid; gamma-Aminobutyric acid; GABA	C4H9NO2	103.0633	103.1198
+C00356	(S)-3-Hydroxy-3-methylglutaryl-CoA; Hydroxymethylglutaryl-CoA; Hydroxymethylglutaroyl coenzyme A; HMG-CoA; 3-Hydroxy-3-methylglutaryl-CoA	C27H44N7O20P3S	911.1575	911.6594
+C00497	(R)-Malate; D-Malate; D-Malic acid	C4H6O5	134.0215	134.0874
+C00741	Diacetyl; Biacetyl; Dimethylglyoxal; 2,3-Butanedione	C4H6O2	86.0368	86.0892
+C00810	(R)-Acetoin; (R)-2-Acetoin; (R)-3-Hydroxy-2-butanone; (R)-Dimethylketol; (R)-3-Hydroxybutan-2-one	C4H8O2	88.0524	88.1051
+C00877	Crotonoyl-CoA; Crotonyl-CoA; 2-Butenoyl-CoA; trans-But-2-enoyl-CoA; But-2-enoyl-CoA; (E)-But-2-enoyl-CoA	C25H40N7O17P3S	835.1414	835.6081
+C00989	4-Hydroxybutanoic acid; 4-Hydroxybutanoate; 4-Hydroxybutyric acid	C4H8O3	104.0473	104.1045
+C01089	(R)-3-Hydroxybutanoate; (R)-3-Hydroxybutanoic acid; (R)-3-Hydroxybutyric acid; D-beta-Hydroxybutyric acid	C4H8O3	104.0473	104.1045
+C01144	(S)-3-Hydroxybutanoyl-CoA; (S)-3-Hydroxybutyryl-CoA	C25H42N7O18P3S	853.152	853.6234
+C01384	Maleic acid; Maleate; cis-Butenedioic acid	C4H4O4	116.011	116.0722
+C01412	Butanal; Butyraldehyde	C4H8O	72.0575	72.1057
+C01769	(S)-Acetoin; (S)-2-Acetoin	C4H8O2	88.0524	88.1051
+C02331	Vinylacetyl-CoA; 3-Butenoyl-CoA; But-3-enoyl-CoA	C25H40N7O17P3S	835.1414	835.6081
+C02411	Glutaconyl-1-CoA; 4-Carboxybut-2-enoyl-CoA; Glutaconyl-CoA; (E)-Glutaconyl-CoA; (2E)-4-Carboxybut-2-enoyl-CoA	C26H40N7O19P3S	879.1313	879.6176
+C02527	Butanoylphosphate; Butanoyl phosphate	C4H9O5P	168.0188	168.085
+C02630	2-Hydroxyglutarate; alpha-Hydroxyglutarate	C5H8O5	148.0372	148.114
+C03044	(R,R)-Butane-2,3-diol; (R,R)-2,3-Butanediol; (R,R)-2,3-Butylene glycol	C4H10O2	90.0681	90.121
+C03046	(S,S)-Butane-2,3-diol; (S,S)-2,3-Butanediol; (S,S)-2,3-Butylene glycol; (2S,3S)-Butane-2,3-diol	C4H10O2	90.0681	90.121
+C03058	2-Hydroxyglutaryl-CoA	C26H42N7O20P3S	897.1418	897.6329
+C03561	(R)-3-Hydroxybutanoyl-CoA; (3R)-3-Hydroxybutanoyl-CoA	C25H42N7O18P3S	853.152	853.6234
+C04546	(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	C8H14O5	190.0841	190.1938
+C06010	(S)-2-Acetolactate; (S)-2-Hydroxy-2-methyl-3-oxobutanoate; (2S)-2-Hydroxy-2-methyl-3-oxobutanoate	C5H8O4	132.0423	132.1146
+C06142	1-Butanol; n-Butanol; Butan-1-ol	C4H10O	74.0732	74.1216
+C06143	Poly-beta-hydroxybutyrate	(C4H6O2)n	74.0732	74.1216
+C06144	3-Butynoate; But-3-ynoate	C4H4O2	84.0211	84.0734
+C06145	3-Butyn-1-al	C4H4O	68.0262	68.074
+C06146	3-Butyn-1-ol	C4H6O	70.0419	70.0898
+C11062	4-Hydroxybutyryl-CoA; 4-Hydroxybutanoyl-CoA	C25H42N7O18P3S	853.152	853.6234
+C20657	meso-2,3-Butanediol	C4H10O2	90.0681	90.121
+C21390	Butane; Butan	C4H10	58.0783	58.1222

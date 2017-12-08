@@ -1,0 +1,75 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100273311	GRMZM2G094712	Zm00001d043382	K14454	EC2.6.1.1	glutamate-oxaloacetate transaminase1
+100274119	GRMZM2G146677	Zm00001d016198	K14455	EC2.6.1.1	aspartate aminotransferase
+100282625	GRMZM5G836910	Zm00001d018386	K00811	EC2.6.1.1	aspartate aminotransferase
+100279867	GRMZM2G139689	Zm00001d015183	K00278	EC1.4.3.16	L-aspartate oxidase chloroplastic
+100192349	GRMZM2G093175	Zm00001d044608	K01953	EC6.3.5.4	asparagine synthetase 2
+100192350	GRMZM2G053669	Zm00001d028750	K01953	EC6.3.5.4	asparagine synthetase 3
+103644597	GRMZM2G313272	Zm00001d028766	K01953	EC6.3.5.4	asparagine synthetase [glutamine-hydrolyzing]-like
+100192351	GRMZM2G078472	Zm00001d047736	K01953	EC6.3.5.4	asparagine synthetase 4
+542435	GRMZM2G074589	Zm00001d045675	K01953	EC6.3.5.4	asparagine synthetase homolog 1
+100279870	GRMZM2G169365	Zm00001d048292	K13566	EC3.5.1.3	Omega-amidase chloroplastic
+100280276	GRMZM2G156486	Zm00001d027876	K13566	EC3.5.1.3	Omega-amidase chloroplastic
+100216685	GRMZM2G088018	-	K00814	EC2.6.1.2	uncharacterized LOC100216685
+100282849	GRMZM2G088018	-	K00814	EC2.6.1.2	uncharacterized LOC100282849
+100280822	GRMZM2G117230	Zm00001d020590	K00814	EC2.6.1.2	alanine aminotransferase 2
+100193705	GRMZM5G828630	Zm00001d030557	K00814	EC2.6.1.2	Alanine aminotransferase 2 mitochondrial
+100384793	GRMZM2G053939	-	K00814	EC2.6.1.2	alanine aminotransferase 2
+100279149	GRMZM2G124963	Zm00001d006875	K00814	EC2.6.1.2	alanine aminotransferase10
+103634667	-	Zm00001d008277	K00814	EC2.6.1.2	alanine aminotransferase 2-like
+103645133	GRMZM2G359559	-	K00830	EC2.6.1.51 2.6.1.45 2.6.1.44	serine--glyoxylate aminotransferase
+103645124	GRMZM2G050481	-	K00830	EC2.6.1.51 2.6.1.45 2.6.1.44	serine--glyoxylate aminotransferase
+100281949	GRMZM2G137868	Zm00001d031349	K00830	EC2.6.1.51 2.6.1.45 2.6.1.44	Serine--glyoxylate aminotransferase
+109941708	GRMZM2G119511	Zm00001d031379	K00830	EC2.6.1.51 2.6.1.45 2.6.1.44	serine--glyoxylate aminotransferase-like
+103641813	-	-	K00830	EC2.6.1.51 2.6.1.45 2.6.1.44	serine--glyoxylate aminotransferase-like
+103631778	GRMZM2G124353	Zm00001d027861	K00827	EC2.6.1.40 2.6.1.44	alanine--glyoxylate aminotransferase 2 homolog 1, mitochondrial
+100384690	GRMZM2G107739	Zm00001d038460	K00827	EC2.6.1.40 2.6.1.44	uncharacterized LOC100384690
+100279249	GRMZM2G030571	Zm00001d029083	K00827	EC2.6.1.40 2.6.1.44	uncharacterized LOC100279249
+103652550	GRMZM2G010211	Zm00001d043951	K00827	EC2.6.1.40 2.6.1.44	alanine--glyoxylate aminotransferase 2 homolog 3, mitochondrial-like
+100284842	-	-	K14272	EC2.6.1.44 2.6.1.2 2.6.1.4	Pentatricopeptide repeat-containing protein ELI1 chloroplastic
+100501386	GRMZM5G840582	-	K14272	EC2.6.1.44 2.6.1.2 2.6.1.4	uncharacterized LOC100501386
+100274106	GRMZM2G010406	Zm00001d024048	K01940	EC6.3.4.5	argininosuccinate synthase
+100191977	GRMZM2G124059	Zm00001d047667	K01755	EC4.3.2.1	argininosuccinate lyase
+542334	GRMZM2G119852	-	K01939	EC6.3.4.4	adenylosuccinate synthetase
+100193051	GRMZM2G123204	Zm00001d033619	K01939	EC6.3.4.4	Adenylosuccinate synthetase, chloroplastic
+103645711	-	Zm00001d034647	K01756	EC4.3.2.2	adenylosuccinate lyase-like
+100217081	GRMZM5G895991	Zm00001d028921	K01756	EC4.3.2.2	L-Aspartase-like family protein
+100193777	GRMZM2G359070	Zm00001d047603	K01756	EC4.3.2.2	L-Aspartase-like family protein
+103631651	-	Zm00001d039170	K01756	EC4.3.2.2	adenylosuccinate lyase-like
+100282482	GRMZM2G080380	Zm00001d050187	K00609	EC2.1.3.2	aspartate carbamoyltransferase 1
+100282373	GRMZM2G101900	Zm00001d024203	K00609	EC2.1.3.2	Aspartate carbamoyltransferase chloroplastic
+100381655	GRMZM2G098875	Zm00001d047981	K01580	EC4.1.1.15	Glutamate decarboxylase 1
+100273302	GRMZM2G355906	Zm00001d003522	K01580	EC4.1.1.15	Pyridoxal phosphate (PLP)-dependent transferase superfamily protein
+100284551	GRMZM2G101069	Zm00001d003531	K01580	EC4.1.1.15	Glutamate decarboxylase
+100284394	GRMZM2G017110	Zm00001d031749	K01580	EC4.1.1.15	glutamate decarboxylase
+100191549	GRMZM5G826838	Zm00001d033805	K01580	EC4.1.1.15	Glutamate decarboxylase 1
+103645944	GRMZM5G817886	Zm00001d002326	K16871	EC2.6.1.96	gamma-aminobutyrate transaminase 1, mitochondrial
+100286148	GRMZM2G108125	Zm00001d026293	K16871	EC2.6.1.96	aminotransferase y4uB
+100282236	GRMZM2G093900	Zm00001d049380	K16871	EC2.6.1.96	aminotransferase y4uB
+103626684	GRMZM2G346693	Zm00001d015445	K16871	EC2.6.1.96	probable gamma-aminobutyrate transaminase 3, mitochondrial
+103631410	-	Zm00001d037507	K16871	EC2.6.1.96	probable gamma-aminobutyrate transaminase 3, mitochondrial
+103632117	-	Zm00001d019161	K16871	EC2.6.1.96	gamma-aminobutyrate transaminase 1, mitochondrial-like
+103626685	-	Zm00001d015444	K16871	EC2.6.1.96	probable gamma-aminobutyrate transaminase 3, mitochondrial
+100280779	GRMZM2G128114	Zm00001d015404	K17761	EC1.2.1.24	succinate semialdehyde dehydrogenase
+100284047	GRMZM2G119482	Zm00001d053776	K17761	EC1.2.1.24	succinate semialdehyde dehydrogenase
+103651348	GRMZM2G085078	Zm00001d043845	K00264	EC1.4.1.14 1.4.1.13	glutamate synthase 1 [NADH], chloroplastic
+103636185	GRMZM2G077054	Zm00001d011610	K00264	EC1.4.1.14 1.4.1.13	glutamate synthase 1 [NADH], chloroplastic
+103630705	GRMZM2G375064	Zm00001d038948	K00264	EC1.4.1.14 1.4.1.13	glutamate synthase 2 [NADH], chloroplastic
+100193614	GRMZM2G427097	Zm00001d025984	K00261	EC1.4.1.3	glutamic dehydrogenase2
+542220	GRMZM2G178415	Zm00001d034420	K00261	EC1.4.1.3	glutamic dehydrogenase 1
+100502380	GRMZM2G015289	Zm00001d044503	K00262	EC1.4.1.4	Amino acid dehydrogenase family protein
+100193220	GRMZM2G090087	Zm00001d038841	K00294	EC1.2.1.88	putative aldehyde dehydrogenase MIS1
+542401	GRMZM2G036464	Zm00001d051804	K01915	EC6.3.1.2	glutamine synthetase 5
+542520	GRMZM2G050514	Zm00001d028260	K01915	EC6.3.1.2	glutamine synthetase 6
+542400	GRMZM2G024104	Zm00001d033747	K01915	EC6.3.1.2	glutamine synthetase 2
+542746	GRMZM2G098290	-	K01915	EC6.3.1.2	glutamine synthetase 1
+542214	GRMZM5G872068	Zm00001d017958	K01915	EC6.3.1.2	glutamine synthetase 4
+542215	GRMZM2G046601	Zm00001d048050	K01915	EC6.3.1.2	glutamine synthetase 3
+103651512	GRMZM2G061990	Zm00001d044250	K01955	EC6.3.5.5	carbamoyl-phosphate synthase large chain, chloroplastic
+103636016	GRMZM2G700683	Zm00001d011192	K01955	EC6.3.5.5	carbamoyl-phosphate synthase large chain, chloroplastic
+100193467	GRMZM2G029573	Zm00001d051586	K01956	EC6.3.5.5	uncharacterized LOC100193467
+100273931	GRMZM2G147450	Zm00001d017790	K01956	EC6.3.5.5	carbamoyl-phosphate synthase small chain
+100194010	GRMZM2G005749	-	K00820	EC2.6.1.16	glucosamine fructose-6-phosphate aminotraansferase 1
+100281060	GRMZM2G339699	Zm00001d042673	K00764	EC2.4.2.14	amidophosphoribosyltransferase
+103635621	GRMZM2G018238	Zm00001d010197	K00764	EC2.4.2.14	amidophosphoribosyltransferase, chloroplastic-like
+103630426	-	Zm00001d038332	K00764	EC2.4.2.14	amidophosphoribosyltransferase, chloroplastic-like

@@ -1,0 +1,58 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00044	GTP; Guanosine 5'-triphosphate	C10H16N5O14P3	522.9907	523.1804
+C00101	Tetrahydrofolate; 5,6,7,8-Tetrahydrofolate; Tetrahydrofolic acid; THF; (6S)-Tetrahydrofolate; (6S)-Tetrahydrofolic acid; (6S)-THFA	C19H23N7O6	445.171	445.4292
+C00119	5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	C5H13O14P3	389.9518	390.0696
+C00156	4-Hydroxybenzoate; Hydroxybenzoic acid; 4-Hydroxybenzoic acid; Hydroxybenzenecarboxylic acid	C7H6O3	138.0317	138.1207
+C00251	Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	C10H10O6	226.0477	226.1828
+C00266	Glycolaldehyde; Hydroxyacetaldehyde	C2H4O2	60.0211	60.052
+C00268	Dihydrobiopterin; 6,7-Dihydrobiopterin; Quinoid-dihydrobiopterin; (6R)-6-(L-erythro-1,2-Dihydroxypropyl)-7,8-dihydro-6H-pterin	C9H13N5O3	239.1018	239.2312
+C00272	Tetrahydrobiopterin; 5,6,7,8-Tetrahydrobiopterin; 2-Amino-6-(1,2-dihydroxypropyl)-5,6,7,8-tetrahydoro-4(1H)-pteridinone; L-erythro-Tetrahydrobiopterin	C9H15N5O3	241.1175	241.2471
+C00415	Dihydrofolate; Dihydrofolic acid; 7,8-Dihydrofolate; 7,8-Dihydrofolic acid; 7,8-Dihydropteroylglutamate	C19H21N7O6	443.1553	443.4133
+C00504	Folate; Pteroylglutamic acid; Folic acid	C19H19N7O6	441.1397	441.3975
+C00568	4-Aminobenzoate; ABEE; 4-Aminobenzoic acid; p-Aminobenzoate	C7H7NO2	137.0477	137.136
+C00835	Sepiapterin	C9H11N5O3	237.0862	237.2153
+C00921	Dihydropteroate; 7,8-Dihydropteroate	C14H14N6O3	314.1127	314.2994
+C01217	5,6,7,8-Tetrahydromethanopterin; H4MPT; THMPT; Tetrahydromethanopterin	C30H45N6O16P	776.263	776.6827
+C01300	6-(Hydroxymethyl)-7,8-dihydropterin; 6-Hydroxymethyl-7,8-dihydropterin; 2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine	C7H9N5O2	195.0756	195.1787
+C01304	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one; 2,5-Diamino-6-(1-D-ribosylamino)pyrimidin-4(3H)-one 5'-phosphate	C9H16N5O8P	353.0736	353.2258
+C02587	Pyrimidodiazepine; 2-Amino-6-acetyl-3,7,8,9-tetrahydro-3H-pyrimido[4,5-b][1,4]diazepin-4-one	C9H11N5O2	221.0913	221.2159
+C02953	7,8-Dihydrobiopterin; L-erythro-7,8-Dihydrobiopterin	C9H13N5O3	239.1018	239.2312
+C03541	THF-polyglutamate; Tetrahydropteroyl-[gamma-Glu]n; Tetrahydrofolyl-[Glu](n-1); (6S)-H4PteGlu(n); Tetrahydropteroyl-[gamma-Glu]n+1; Tetrahydrofolyl-[Glu](n)	C24H30N8O9(C5H7NO3)n-2	239.1018	239.2312
+C03684	6-Pyruvoyltetrahydropterin; 6-(1,2-Dioxopropyl)-5,6,7,8-tetrahydropterin; 6-Pyruvoyl-5,6,7,8-tetrahydropterin	C9H11N5O3	237.0862	237.2153
+C04244	6-Lactoyl-5,6,7,8-tetrahydropterin	C9H13N5O3	239.1018	239.2312
+C04807	6-Hydroxymethyl-7,8-dihydropterin diphosphate; (7,8-Dihydropterin-6-yl)methyl diphosphate; 2-Amino-7,8-dihydro-4-hydroxy-6-(diphosphooxymethyl)pteridine; 2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine diphosphate; 7,8-Dihydropterin pyrophosphate	C7H11N5O8P2	355.0083	355.1385
+C04874	7,8-Dihydroneopterin; Dihydroneopterin; 2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-dihydropteridine	C9H13N5O4	255.0968	255.2306
+C04895	7,8-Dihydroneopterin 3'-triphosphate; 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate; 6-(L-erythro-1,2-Dihydroxypropyl 3-triphosphate)-7,8-dihydropterin; 6-[(1S,2R)-1,2-Dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin	C9H16N5O13P3	494.9957	495.1703
+C05922	Formamidopyrimidine nucleoside triphosphate	C10H18N5O15P3	541.0012	541.1957
+C05923	2,5-Diaminopyrimidine nucleoside triphosphate	C9H18N5O14P3	513.0063	513.1856
+C05924	Molybdopterin; Pyranopterin; H2Dtpp-mP	C10H14N5O6PS2	395.0123	395.3518
+C05925	Dihydroneopterin phosphate; 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine phosphate; 7,8-Dihydroneopterin 3'-phosphate	C9H14N5O7P	335.0631	335.2105
+C05926	Neopterin; [S-(R*,S*)]-2-amino-6-(1,2,3-trihydroxypropyl)-1H-pteridin-4-one; [S-(R*,S*)]-2-amino-6-(1,2,3-trihydroxypropyl)-1H-pteridine-4-one; [S-(R*,S*)]-2-Amino-6-(1,2,3-trihydroxypropyl)-1H-pteridin-4-on; 6-(D-erythro-1,2,3-Trihydroxypropyl)pterin; 6-D-erythro-Neopterin; D-erythro-Neopterin; D-Neopterin	C9H11N5O4	253.0811	253.2147
+C05927	7,8-Dihydromethanopterin	C30H43N6O16P	774.2473	774.6668
+C06148	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	C9H18N5O14P3	513.0063	513.1856
+C09332	THF-L-glutamate; Tetrahydropteroyldiglutamate; (6S)-H4PteGlu2	C24H30N8O9	574.2136	574.5432
+C11355	4-Amino-4-deoxychorismate; ADC	C10H11NO5	225.0637	225.198
+C15522	4a-Hydroxytetrahydrobiopterin; 4a-Hydroxy-5,6,4,8-tetrahydrobiopterin; (6R)-6-(L-erythro-1,2-Dihydroxypropyl)-5,6,7,8-tetrahydro-4a-hydroxypterin	C9H15N5O4	257.1124	257.2465
+C15996	7-Cyano-7-carbaguanine; 7-Cyano-7-deazaguanine	C7H5N5O	175.0494	175.1475
+C16675	7-Aminomethyl-7-carbaguanine; 7-Aminomethyl-7-deazaguanine	C7H9N5O	179.0807	179.1793
+C18237	Molybdoenzyme molybdenum cofactor; Molybdenum cofactor	C10H12MoN5O8PS2	522.8919	521.2747
+C18239	Precursor Z; Cyclic pyranopterin monophosphate; Cyclic pyranopterin phosphate; cPMP	C10H14N5O8P	363.058	363.2206
+C18802	Tetrahydrosarcinapterin; H4SPT; 5,6,7,8-Tetrahydrosarcinapterin	C35H52N7O19P	905.3056	905.7966
+C19848	Adenylated molybdopterin; Adenylyl-molybdopterin	C20H26N10O12P2S2	724.0648	724.5578
+C19871	Guanylyl molybdenum cofactor; Molybdopterin guanine dinucleotide cofactor	C20H24MoN10O15P2S2	867.9393	866.4801
+C20239	6-Carboxy-5,6,7,8-tetrahydropterin; 6-Carboxytetrahydropterin	C7H9N5O3	211.0705	211.1781
+C20248	7-Carboxy-7-carbaguanine; 7-Carboxy-7-deazaguanine	C7H6N4O3	194.044	194.1475
+C20264	L-threo-Tetrahydrobiopterin	C9H15N5O3	241.1175	241.2471
+C20559	4-(beta-D-Ribofuranosyl)aniline 5'-phosphate	C11H16NO7P	305.0664	305.221
+C20562	N-[(7,8-Dihydropterin-6-yl)methyl]-4-(beta-D-ribofuranosyl)aniline 5'-phosphate	C18H23N6O8P	482.1315	482.3844
+C20566	7,8-Dihydroneopterin 2'-phosphate	C9H14N5O7P	335.0631	335.2105
+C20567	7,8-Dihydroneopterin 2',3'-cyclic phosphate	C9H12N5O6P	317.0525	317.1952
+C21007	5,6,7,8-Tetrahydromonapterin	C9H15N5O4	257.1124	257.2465
+C21008	7,8-Dihydromonapterin	C9H13N5O4	255.0968	255.2306
+C21065	7,8-Dihydroxanthopterin	C6H7N5O2	181.06	181.1521
+C21094	7,8-Dihydromonapterin 3'-triphosphate	C9H16N5O13P3	494.9957	495.1703
+C21107	4-(beta-D-Ribofuranosyl)phenol 5'-phosphate	C11H15O8P	306.0505	306.2058
+C21310	(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate	C10H16N5O14P3	522.9907	523.1804
+C21485	Cytidylyl molybdenum cofactor; Molybdopterin cytosine dinucleotide cofactor	C19H24MoN8O15P2S2	827.9332	826.456
+C21486	Thio-molybdenum cofactor	C10H12MoN5O7PS3	538.8691	537.3403
+C21640	6-(1'-Hydroxy-2'-oxopropyl)-tetrahydropterin; 1'-Hydroxy-2'-oxopropyltetrahydropterin	C9H13N5O3	239.1018	239.2312

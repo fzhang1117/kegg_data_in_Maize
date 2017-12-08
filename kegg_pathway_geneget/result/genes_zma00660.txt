@@ -1,0 +1,13 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100274341	GRMZM2G143357	Zm00001d050567	K01652	EC2.2.1.6	Acetolactate synthase 2, chloroplastic
+100285396	GRMZM2G143008	Zm00001d016572	K01652	EC2.2.1.6	acetolactate synthase 1
+100279727	GRMZM2G077215	Zm00001d007288	K01653	EC2.2.1.6	uncharacterized LOC100279727
+100284799	GRMZM2G407044	Zm00001d051043	K01653	EC2.2.1.6	acetolactate synthase/ amino acid binding protein
+100381801	GRMZM2G007647	Zm00001d017168	K01653	EC2.2.1.6	Acetolactate synthase small subunit 1 chloroplastic
+100284902	GRMZM2G370852	Zm00001d015088	K01703	EC4.2.1.35 4.2.1.33	3-isopropylmalate dehydratase large subunit 2
+100193712	GRMZM2G010044	Zm00001d053960	K01703	EC4.2.1.35 4.2.1.33	3-isopropylmalate dehydratase large subunit
+103654943	GRMZM2G133988	Zm00001d053941	K01703	EC4.2.1.35 4.2.1.33	3-isopropylmalate dehydratase large subunit, chloroplastic
+100286245	GRMZM5G840002	Zm00001d017467	K01704	EC4.2.1.35 4.2.1.33	3-isopropylmalate dehydratase small subunit 2
+100283376	GRMZM2G104613	Zm00001d026675	K00052	EC1.1.1.85	3-isopropylmalate dehydrogenase 2
+100284589	GRMZM5G803490	-	K00052	EC1.1.1.85	uncharacterized LOC100284589
+103644860	-	-	K00052	EC1.1.1.85	3-isopropylmalate dehydrogenase, chloroplastic-like

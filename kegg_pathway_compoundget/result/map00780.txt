@@ -1,0 +1,29 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00047	L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid	C6H14N2O2	146.1055	146.1876
+C00086	Urea; Carbamide	CH4N2O	60.0324	60.0553
+C00120	Biotin; D-Biotin; Vitamin H; Coenzyme R	C10H16N2O3S	244.0882	244.3106
+C01037	7,8-Diaminononanoate; 7,8-Diaminopelargonic acid; DAPA	C9H20N2O2	188.1525	188.2673
+C01063	6-Carboxyhexanoyl-CoA; Pimeloyl-CoA	C28H46N7O19P3S	909.1782	909.6866
+C01092	8-Amino-7-oxononanoate; 8-Amino-7-oxononanoic acid; 7-Keto-8-aminopelargonic acid; KAPA	C9H17NO3	187.1208	187.2362
+C01209	Malonyl-[acyl-carrier protein]; Malonyl-[acp]	C3H3O3SR	187.1208	187.2362
+C01894	Biotinyl-CoA	C31H50N9O18P3S2	993.1928	993.8295
+C01909	Dethiobiotin; Desthiobiotin	C10H18N2O3	214.1317	214.2615
+C02656	Pimelate; Pimelic acid; Heptanedioic acid; 6-Carboxyhexanoate	C7H12O4	160.0736	160.1678
+C05552	Biocytin; N6-D-Biotinyl-L-lysine; epsilon-N-Biotinyl-L-lysine	C16H28N4O4S	372.1831	372.4829
+C05921	Biotinyl-5'-AMP	C20H28N7O9PS	573.1407	573.5166
+C06250	Holo-[carboxylase]; Biotin-carboxyl-carrier protein	C17H27N5O4SR2	573.1407	573.5166
+C19673	Malonyl-[acp] methyl ester; Malonyl-[acyl-carrier protein] methyl ester	C4H5O3SR	573.1407	573.5166
+C19845	Pimeloyl-[acyl-carrier protein]; Pimeloyl-[acp]; Pimelyl-[acyl-carrier protein]; Pimelyl-[acp]; 7-Hydroxy-7-oxoheptanoyl-[acyl-carrier protein]	C7H11O3SR	573.1407	573.5166
+C19846	Pimeloyl-[acyl-carrier protein] methyl ester; Pimeloyl-[acp] methyl ester; Pimelyl-[acyl-carrier protein] methyl ester; Pimelyl-[acp] methyl ester	C8H13O3SR	573.1407	573.5166
+C20372	3-Ketoglutaryl-[acp] methyl ester; 3-Ketoglutaryl-[acyl-carrier protein] methyl ester	C6H7O4SR	573.1407	573.5166
+C20373	3-Hydroxyglutaryl-[acp] methyl ester; 3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester	C6H9O4SR	573.1407	573.5166
+C20374	Enoylglutaryl-[acp] methyl ester; Enoylglutaryl-[acyl-carrier protein] methyl ester	C6H7O3SR	573.1407	573.5166
+C20375	Glutaryl-[acp] methyl ester; Glutaryl-[acyl-carrier protein] methyl ester	C6H9O3SR	573.1407	573.5166
+C20376	3-Ketopimeloyl-[acp] methyl ester; 3-Ketopimeloyl-[acyl-carrier protein] methyl ester	C8H11O4SR	573.1407	573.5166
+C20377	3-Hydroxypimeloyl-[acp] methyl ester; 3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester	C8H13O4SR	573.1407	573.5166
+C20378	Enoylpimeloyl-[acp] methyl ester; Enoylpimeloyl-[acyl-carrier protein] methyl ester	C8H11O3SR	573.1407	573.5166
+C20384	Bisnorbiotin	C8H12N2O3S	216.0569	216.2575
+C20385	Tetranorbiotin	C6H8N2O3S	188.0256	188.2043
+C20386	Biotin sulfoxide	C10H16N2O4S	260.0831	260.31
+C20387	Biotin sulfone	C10H16N2O5S	276.078	276.3094
+C20683	Long-chain acyl-[acyl-carrier protein]	C3H4OSR2	276.078	276.3094

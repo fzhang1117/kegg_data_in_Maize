@@ -1,0 +1,28 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00226	Primary alcohol; 1-Alcohol	CH3OR	-	-
+C00249	Hexadecanoic acid; Hexadecanoate; Hexadecylic acid; Palmitic acid; Palmitate; Cetylic acid	C16H32O2	256.2402	256.4241
+C00406	Feruloyl-CoA; trans-Feruloyl-CoA	C31H44N7O19P3S	943.1626	943.7028
+C00609	Long-chain aldehyde	C3H5OR	943.1626	943.7028
+C00712	(9Z)-Octadecenoic acid; (Z)-Octadec-9-enoic acid; Oleate; Oleic acid	C18H34O2	282.2559	282.4614
+C01371	Alkane; RH	HR	282.2559	282.4614
+C01450	Ketone; R-CO-R'	COR2	282.2559	282.4614
+C01612	Secondary alcohol; R-CHOH-R'	CH2OR2	282.2559	282.4614
+C01629	Wax ester	CH2OR2	282.2559	282.4614
+C02843	Long-chain acyl-CoA	C23H38N7O17P3S(CH2)2n	282.2559	282.4614
+C08281	Docosanoic acid; Docosanoate; Behenic acid	C22H44O2	340.3341	340.5836
+C08285	10,16-Dihydroxyhexadecanoic acid; Hexadecanoic acid, 10,16-dihydroxy-	C16H32O4	288.2301	288.4229
+C18217	16-Feruloyloxypalmitate; 16-Feruloyloxypalmitic acid	C26H40O6	448.2825	448.5922
+C18218	16-Hydroxypalmitate; 16-Hydroxypalmitic acid	C16H32O3	272.2351	272.4235
+C19418	cis-9,10-Epoxystearic acid	C18H34O3	298.2508	298.4608
+C19614	16-Oxopalmitate	C16H30O3	270.2195	270.4076
+C19615	Hexadecanedioate	C16H30O4	286.2144	286.407
+C19616	18-Hydroxyoleate	C18H34O3	298.2508	298.4608
+C19617	18-Oxooleate	C18H32O3	296.2351	296.4449
+C19618	Octadec-9-ene-1,18-dioic-acid	C18H32O4	312.2301	312.4443
+C19620	9,10-Epoxy-18-hydroxystearate	C18H34O4	314.2457	314.4602
+C19621	9,10,18-Trihydroxystearate	C18H36O5	332.2563	332.4754
+C19622	9,10-Dihydroxystearate	C18H36O4	316.2614	316.476
+C19623	22-Hydroxydocosanoate	C22H44O3	356.329	356.583
+C19624	22-Oxodocosanoate	C22H42O3	354.3134	354.5671
+C19625	Docosanedioate	C22H42O4	370.3083	370.5665
+C19630	Diketone	C22H42O4	370.3083	370.5665

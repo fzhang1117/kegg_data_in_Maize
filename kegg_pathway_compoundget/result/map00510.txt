@@ -1,0 +1,8 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00096	GDP-mannose; GDP-D-mannose; GDP-alpha-D-mannose	C16H25N5O16P2	605.0772	605.3411
+C00110	Dolichyl phosphate; Dolichol phosphate	C20H37O4P(C5H8)n	605.0772	605.3411
+C00381	Dolichol	C20H36O(C5H8)n	605.0772	605.3411
+C00621	Dolichyl diphosphate; Dolichol diphosphate	C20H38O7P2(C5H8)n	605.0772	605.3411
+C01246	Dolichyl beta-D-glucosyl phosphate	C26H47O9P(C5H8)n	605.0772	605.3411
+C03021	Protein asparagine; Protein L-asparagine	C5H7N3O3R2	605.0772	605.3411
+C03862	Dolichyl phosphate D-mannose; Dolichyl D-mannosyl phosphate; Dolichyl beta-D-mannosyl phosphate	C26H47O9P(C5H8)n	605.0772	605.3411

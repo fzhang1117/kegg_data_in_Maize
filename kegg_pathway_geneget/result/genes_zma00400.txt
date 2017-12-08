@@ -1,0 +1,73 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100284499	GRMZM2G117707	Zm00001d022181	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 1
+103631739	GRMZM2G000737	-	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic
+103645273	-	-	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic-like
+100272293	GRMZM5G828182	Zm00001d052797	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2
+100274492	GRMZM2G396212	Zm00001d029391	K01626	EC2.5.1.54	uncharacterized LOC100274492
+100501272	GRMZM2G365160	Zm00001d006900	K01626	EC2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase 2 chloroplastic
+100217106	-	-	K01626	EC2.5.1.54	uncharacterized LOC100217106
+103637516	-	-	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic-like
+103626022	-	-	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic-like
+103652654	-	Zm00001d044716	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic-like
+103628810	-	Zm00001d017655	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic-like
+103635795	-	-	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic-like
+109939284	-	-	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic-like
+103634002	GRMZM2G325938	Zm00001d020059	K01626	EC2.5.1.54	phospho-2-dehydro-3-deoxyheptonate aldolase 2, chloroplastic-like
+100283288	GRMZM2G051129	Zm00001d022622	K01735	EC4.2.3.4	3-dehydroquinate synthase
+100272979	GRMZM2G573867	Zm00001d006242	K01735	EC4.2.3.4	3-dehydroquinate synthase
+100285997	GRMZM2G314652	Zm00001d040850	K13832	EC1.1.1.25 4.2.1.10	Shikimate biosynthesis protein aroDE
+100191894	GRMZM2G014376	Zm00001d023892	K13832	EC1.1.1.25 4.2.1.10	shikimate dehydrogenase 1
+100272333	GRMZM5G804881	Zm00001d041700	K13832	EC1.1.1.25 4.2.1.10	Bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase chloroplastic
+100191326	GRMZM2G004590	Zm00001d002128	K00891	EC2.7.1.71	Shikimate kinase 1 chloroplastic
+100286040	GRMZM2G070218	Zm00001d018061	K00891	EC2.7.1.71	shikimate kinase
+100283304	GRMZM2G161566	Zm00001d052247	K00891	EC2.7.1.71	shikimate kinase
+542727	GRMZM5G877500	Zm00001d045450	K00800	EC2.5.1.19	enolpyruvylshikimate phosphate synthase 1
+100282199	GRMZM2G164562	Zm00001d028477	K01736	EC4.2.3.5	chorismate synthase 2
+100272984	GRMZM2G036697	-	K01736	EC4.2.3.5	Chorismate synthase chloroplastic
+103644282	GRMZM2G138382	Zm00001d034713	K01657	EC4.1.3.27	anthranilate synthase alpha subunit 1, chloroplastic
+606722	GRMZM2G161337	Zm00001d028536	K01657	EC4.1.3.27	uncharacterized LOC606722
+103625743	GRMZM2G003109	Zm00001d012925	K01657	EC4.1.3.27	anthranilate synthase alpha subunit 1, chloroplastic
+542286	GRMZM2G325131	Zm00001d003395	K01658	EC4.1.3.27	anthranilate synthase homolog1
+100383739	GRMZM2G046966	Zm00001d033788	K01658	EC4.1.3.27	Anthranilate synthase beta subunit 1 chloroplastic
+103641016	GRMZM2G049892	Zm00001d024028	K01658	EC4.1.3.27	anthranilate synthase beta subunit 1, chloroplastic
+103626628	-	-	K01658	EC4.1.3.27	anthranilate synthase beta subunit 1, chloroplastic-like
+109943944	-	Zm00001d001823	K01658	EC4.1.3.27	anthranilate synthase beta subunit 1, chloroplastic-like
+109943022	GRMZM2G119881	Zm00001d025140	K01658	EC4.1.3.27	anthranilate synthase beta subunit 1, chloroplastic-like
+100192060	GRMZM2G051219	Zm00001d048461	K00766	EC2.4.2.18	blue fluorescent 1
+100194071	GRMZM2G152984	Zm00001d053374	K01817	EC5.3.1.24	uncharacterized LOC100194071
+100274239	GRMZM2G122198	Zm00001d037455	K01817	EC5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+100286258	-	-	K01609	EC4.1.1.48	indole-3-glycerol phosphate synthase
+100272983	GRMZM2G145870	Zm00001d024393	K01609	EC4.1.1.48	Indole-3-glycerol phosphate synthase chloroplastic
+100274566	GRMZM2G169516	Zm00001d025652	K01609	EC4.1.1.48	Indole-3-glycerol phosphate synthase chloroplastic
+541855	GRMZM2G046191	Zm00001d034460	K01695	EC4.2.1.20	indole-3-glycerol phosphate lyase 1
+100170238	GRMZM5G841619	Zm00001d018969	K01695	EC4.2.1.20	tryptophan synthase alpha
+103644181	GRMZM2G015436	Zm00001d034452	K01695	EC4.2.1.20	tryptophan synthase alpha chain, chloroplastic
+103652427	GRMZM2G369149	Zm00001d043077	K01695	EC4.2.1.20	tryptophan synthase alpha chain-like
+732803	GRMZM2G005024	Zm00001d024702	K01696	EC4.2.1.20	orange pericarp 2
+732842	GRMZM2G169593	Zm00001d049610	K01696	EC4.2.1.20	orange pericarp 1
+109623449	GRMZM2G054465	Zm00001d046676	K06001	EC4.2.1.20	uncharacterized LOC109623449
+100191856	GRMZM2G179454	Zm00001d015509	K01850	EC5.4.99.5	chorismate mutase
+100272431	GRMZM2G028369	Zm00001d043356	K01850	EC5.4.99.5	Chorismate mutase 1 chloroplastic
+100279511	GRMZM2G116087	-	K01850	EC5.4.99.5	chorismate mutase
+103636619	GRMZM2G116087	-	K01850	EC5.4.99.5	chorismate mutase 3, chloroplastic-like
+103653478	-	Zm00001d050412	K01850	EC5.4.99.5	chorismate mutase 2
+100276497	GRMZM2G324297	Zm00001d046168	K15227	EC1.3.1.78	uncharacterized LOC100276497
+100281038	GRMZM2G084942	Zm00001d014734	K15227	EC1.3.1.78	arogenate dehydrogenase
+100281078	GRMZM2G365961	Zm00001d036439	K15227	EC1.3.1.78	arogenate dehydrogenase
+100284089	GRMZM2G085117	Zm00001d014737	K15227	EC1.3.1.78	arogenate dehydrogenase
+103647269	GRMZM2G466543	-	K05359	EC4.2.1.51 4.2.1.91	arogenate dehydratase/prephenate dehydratase 6, chloroplastic
+100193934	GRMZM2G437912	Zm00001d003830	K05359	EC4.2.1.51 4.2.1.91	Arogenate dehydratase/prephenate dehydratase 6 chloroplastic
+100279620	GRMZM2G125923	Zm00001d025333	K05359	EC4.2.1.51 4.2.1.91	Arogenate dehydratase/prephenate dehydratase 6 chloroplastic
+100281744	GRMZM2G141273	Zm00001d028712	K05359	EC4.2.1.51 4.2.1.91	Arogenate dehydratase/prephenate dehydratase 2 chloroplastic
+100273905	GRMZM2G145451	Zm00001d047755	K05359	EC4.2.1.51 4.2.1.91	Arogenate dehydratase/prephenate dehydratase 2 chloroplastic
+100273734	GRMZM2G121546	-	K05359	EC4.2.1.51 4.2.1.91	uncharacterized LOC100273734
+103640223	GRMZM2G363789	Zm00001d047072	K05359	EC4.2.1.51 4.2.1.91	arogenate dehydratase/prephenate dehydratase 6, chloroplastic-like
+100273311	GRMZM2G094712	Zm00001d043382	K14454	EC2.6.1.1	glutamate-oxaloacetate transaminase1
+100274119	GRMZM2G146677	Zm00001d016198	K14455	EC2.6.1.1	aspartate aminotransferase
+100282625	GRMZM5G836910	Zm00001d018386	K00811	EC2.6.1.1	aspartate aminotransferase
+100276531	GRMZM2G400604	Zm00001d042685	K15849	EC2.6.1.79 2.6.1.78 2.6.1.1	glutamate-oxaloacetate transaminase4
+100274472	GRMZM2G033799	Zm00001d010190	K15849	EC2.6.1.79 2.6.1.78 2.6.1.1	glutamate-oxaloacetate transaminase5
+100279999	GRMZM2G139813	-	K00815	EC2.6.1.5	uncharacterized LOC100279999
+100279205	GRMZM2G002652	Zm00001d053107	K00815	EC2.6.1.5	uncharacterized LOC100279205
+100191816	GRMZM2G006480	Zm00001d048736	K00815	EC2.6.1.5	S-alkyl-thiohydroximate lyase SUR1
+100191987	GRMZM2G170595	Zm00001d017802	K00817	EC2.6.1.9	histidinol-phosphate aminotransferase

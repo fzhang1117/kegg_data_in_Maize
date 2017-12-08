@@ -1,0 +1,32 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00033	Acetate; Acetic acid; Ethanoic acid	C2H4O2	60.0211	60.052
+C00036	Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	C4H4O5	132.0059	132.0716
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00058	Formate; Methanoic acid; Formic acid	CH2O2	46.0055	46.0254
+C00068	Thiamin diphosphate; Thiamine diphosphate; Thiamin pyrophosphate; TPP; ThPP	C12H19N4O7P2S	425.045	425.3144
+C00074	Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	C3H5O6P	167.9824	168.042
+C00083	Malonyl-CoA; Malonyl coenzyme A	C24H38N7O19P3S	853.1156	853.5803
+C00084	Acetaldehyde; Ethanal	C2H4O	44.0262	44.0526
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00149	(S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid	C4H6O5	134.0215	134.0874
+C00186	(S)-Lactate; L-Lactate; L-Lactic acid	C3H6O3	90.0317	90.0779
+C00227	Acetyl phosphate	C2H5O5P	139.9875	140.0319
+C00256	(R)-Lactate; D-Lactate; D-Lactic acid; D-2-Hydroxypropanoic acid; D-2-Hydroxypropionic acid	C3H6O3	90.0317	90.0779
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00424	(S)-Lactaldehyde; L-Lactaldehyde; L-2-Hydroxypropionaldehyde	C3H6O2	74.0368	74.0785
+C00546	Methylglyoxal; Pyruvaldehyde; Pyruvic aldehyde; 2-Ketopropionaldehyde; 2-Oxopropanal	C3H4O2	72.0211	72.0627
+C00937	(R)-Lactaldehyde; D-Lactaldehyde; D-2-Hydroxypropionaldehyde	C3H6O2	74.0368	74.0785
+C01251	(R)-2-Hydroxybutane-1,2,4-tricarboxylate; Homocitrate; Homocitric acid; 3-Hydroxy-3-carboxyadipic acid; (R)-2-Hydroxy-1,2,4-butanetricarboxylic acid	C7H10O7	206.0427	206.1501
+C02488	(R)-2-Ethylmalate	C6H10O5	162.0528	162.1406
+C02504	alpha-Isopropylmalate; (2S)-2-Isopropylmalate; (2S)-2-Hydroxy-2-isopropylsuccinic acid; 2-Isopropylmalic acid; 3-Carboxy-3-hydroxy-4-methylpentanoate; 3-Carboxy-3-hydroxyisocaproate	C7H12O5	176.0685	176.1672
+C03248	Acetylenedicarboxylate; Acetylenedicarboxylic acid; 2-Butynedioic acid	C4H2O4	113.9953	114.0563
+C03451	(R)-S-Lactoylglutathione; S-D-Lactoylglutathione	C13H21N3O8S	379.1049	379.3861
+C03981	2-Hydroxyethylenedicarboxylate; enol-Oxaloacetate; enol-Oxaloacetic acid; 2-Hydroxybut-2-enedioic acid	C4H4O5	132.0059	132.0716
+C05125	2-(alpha-Hydroxyethyl)thiamine diphosphate; 2-Hydroxyethyl-ThPP	C14H23N4O8P2S	469.0712	469.3669
+C05993	Acetyl adenylate; 5'-Acetylphosphoadenosine	C12H16N5O8P	389.0736	389.2579
+C05994	2-Propylmalate; 2-Propylmalic acid; Malic acid, 2-propyl-	C7H12O5	176.0685	176.1672
+C15972	Enzyme N6-(lipoyl)lysine; Lipoamide-E	C8H14NOS2R	176.0685	176.1672
+C15973	Enzyme N6-(dihydrolipoyl)lysine; Dihydrolipoamide-E	C8H16NOS2R	176.0685	176.1672
+C16255	[Dihydrolipoyllysine-residue acetyltransferase] S-acetyldihydrolipoyllysine; S-Acetyldihydrolipoamide-E; Enzyme N6-(S-acetyldihydrolipoyl)lysine	C10H18NO2S2R	176.0685	176.1672

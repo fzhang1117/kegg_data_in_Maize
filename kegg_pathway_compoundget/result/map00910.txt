@@ -1,0 +1,20 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00011	CO2; Carbon dioxide	CO2	43.9898	44.0095
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00058	Formate; Methanoic acid; Formic acid	CH2O2	46.0055	46.0254
+C00064	L-Glutamine; L-2-Aminoglutaramic acid	C5H10N2O3	146.0691	146.1445
+C00088	Nitrite	HNO2	47.0007	47.0134
+C00169	Carbamoyl phosphate	CH4NO5P	140.9827	141.0199
+C00192	Hydroxylamine; NH2OH	NH3O	33.0215	33.0299
+C00244	Nitrate; Nitric acid	HNO3	62.9956	63.0128
+C00288	HCO3-; Bicarbonate; Hydrogen carbonate; Acid carbonate	HCO3	60.9926	61.0168
+C00488	Formamide; Methanamide	CH3NO	45.0215	45.0406
+C00533	Nitric oxide; NO; Nitrogen monoxide	NO	29.998	30.0061
+C00697	Nitrogen; N2	N2	28.0061	28.0134
+C00726	Nitrile; R-CN	CNR	28.0061	28.0134
+C00887	Nitrous oxide; Dinitrogen monoxide; Dinitrogen oxide; N2O	N2O	44.0011	44.0128
+C01417	Cyanate; Cyanic acid	CHNO	43.0058	43.0247
+C01563	Carbamate; Carbamic acid; Aminoformic acid	CH3NO2	61.0164	61.04
+C05361	Hydrazine	N2H4	32.0374	32.0452
+C06058	Nitroalkane	NO2R	32.0374	32.0452

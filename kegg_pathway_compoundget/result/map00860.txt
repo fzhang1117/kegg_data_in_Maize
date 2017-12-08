@@ -1,0 +1,140 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00032	Heme; Haem; Protoheme; Heme B; Protoheme IX	C34H32FeN4O4	616.1773	616.4873
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00188	L-Threonine; 2-Amino-3-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00194	Cobamide coenzyme; Adenosylcobalamin; Adenosylcob(III)alamin; Deoxyadenosylcobalamin; Cobamamide; Vitamin B12 coenzyme; 5,6-Dimethylbenzimidazolyl-5-deoxyadenosyl-cobamide; (5'-Deoxy-5'-adenosyl)cobamide coenzyme; (5,6-Dimethylbenzimidazolyl)cobamide coenzyme; alpha-(5,6-Dimethylbenzimidazolyl)cobamide coenzyme; 5'-Deoxy-5'-adenosylcobalamin; 5'-Deoxy-5'-adenosyl vitamin B12; 5'-Deoxy-5'-adenosyl-5,6-dimethylbenzimidazolylcobamide; 5,6-Dimethylbenzimidazolyl-Co-5'-deoxy-5'-adenosylcobamide; Calomide; Cobalamin coenzyme; Coenzyme B12; DMBC coenzyme; Dibencozide; Funacomide	C72H100CoN18O17P	1578.6583	1579.5818
+C00430	5-Aminolevulinate; 5-Amino-4-oxopentanoate; 5-Amino-4-oxovaleric acid	C5H9NO3	131.0582	131.1299
+C00486	Bilirubin	C33H36N4O6	584.2635	584.6621
+C00500	Biliverdin; Biliverdin IX alpha	C33H34N4O6	582.2478	582.6463
+C00524	Cytochrome c; Holocytochrome c	C42H44FeN8O8S2R4	582.2478	582.6463
+C00541	Cob(II)alamin; Vitamin B12r	C62H88CoN13O14P	1328.5643	1329.3478
+C00748	Siroheme	C42H44FeN4O16	916.2102	916.661
+C00853	Cob(I)alamin; Cbl; Vitamin B12s	C62H89CoN13O14P	1329.5722	1330.3557
+C00931	Porphobilinogen	C10H14N2O4	226.0954	226.2292
+C00992	Aquacob(III)alamin; Aquacobalamin	C62H90CoN13O15P	1346.5749	1347.3631
+C01024	Hydroxymethylbilane	C40H46N4O17	854.2858	854.8098
+C01051	Uroporphyrinogen III	C40H44N4O16	836.2752	836.7946
+C01079	Protoporphyrinogen IX	C34H40N4O4	568.305	568.7058
+C01708	Hemoglobin	C34H40N4O4	568.305	568.7058
+C02139	Chlorophyllide; Chlorophyllide a	C35H34MgN4O5	614.238	614.9733
+C02191	Protoporphyrin; Protoporphyrin IX; Porphyrinogen IX	C34H34N4O4	562.258	562.6582
+C02463	Precorrin 2; Dihydrosirohydrochlorin	C42H48N4O16	864.3065	864.8477
+C02469	Uroporphyrin III	C40H38N4O16	830.2283	830.7469
+C02800	4,5-Dioxopentanoate; 4-Oxoglutarate semialdehyde	C5H6O4	130.0266	130.0987
+C02823	Cyanocobalamin; Cyanocob(III)alamin; Dicopac; Vitamin B12 complex	C63H88CoN14O14P	1354.5674	1355.3652
+C02880	Protochlorophyllide; Protochlorophyllide a	C35H32MgN4O5	612.2223	612.9574
+C02987	L-Glutamyl-tRNA(Glu)	C20H28N6O13PR(C5H8O6PR)n	612.2223	612.9574
+C03029	Transferrin[Fe(II)]2	C20H28N6O13PR(C5H8O6PR)n	612.2223	612.9574
+C03114	Dimethylbenzimidazole; 5,6-Dimethylbenzimidazole	C9H10N2	146.0844	146.1891
+C03179	Transferrin[Fe(III)]2	C9H10N2	146.0844	146.1891
+C03194	(R)-1-Aminopropan-2-ol; (R)-1-Amino-2-propanol	C3H9NO	75.0684	75.1097
+C03263	Coproporphyrinogen III	C36H44N4O8	660.3159	660.7566
+C03516	Magnesium protoporphyrin; Magnesium protoporphyrin IX; Mg-protoporphyrin IX	C34H32MgN4O4	584.2274	584.9473
+C03741	(S)-4-Amino-5-oxopentanoate; L-Glutamate 1-semialdehyde	C5H9NO3	131.0582	131.1299
+C04122	D-1-Aminopropan-2-ol O-phosphate; (R)-1-Aminopropan-2-yl phosphate	C3H10NO4P	155.0347	155.0896
+C04536	Magnesium protoporphyrin monomethyl ester; Magnesium-protoporphyrin IX 13-monomethyl ester; Mg-Protoporphyrin IX 13-monomethyl ester; Magnesium protoporphyrin IX 13-methyl ester	C35H34MgN4O4	598.243	598.9739
+C04778	N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole; alpha-Ribazole 5'-phosphate	C14H19N2O7P	358.093	358.2836
+C05306	Chlorophyll a	C55H72MgN4O5	892.5353	893.489
+C05307	Chlorophyll b	C55H70MgN4O6	906.5146	907.4725
+C05766	Uroporphyrinogen I	C40H44N4O16	836.2752	836.7946
+C05767	Uroporphyrin I	C40H38N4O16	830.2283	830.7469
+C05768	Coproporphyrinogen I	C36H44N4O8	660.3159	660.7566
+C05769	Coproporphyrin I	C36H38N4O8	654.269	654.7089
+C05770	Coproporphyrin III	C36H38N4O8	654.269	654.7089
+C05772	Precorrin 3A	C43H50N4O16	878.3222	878.8743
+C05773	Cobyrinate; Cobyrinic acid; Cob(II)yrinate; Cob(II)yrinic acid	C45H59CoN4O14	938.336	938.9016
+C05774	Cobinamide; Cob(I)inamide	C48H72CoN11O8	989.4897	990.0874
+C05775	alpha-Ribazole; N1-(alpha-D-Ribosyl)-5,6-dimethylbenzimidazole	C14H18N2O4	278.1267	278.3037
+C05777	Coenzyme F430; Factor F430	C42H51N6NiO13	905.2868	906.5801
+C05778	Sirohydrochlorin	C42H46N4O16	862.2909	862.8318
+C05779	Apoferritin	C42H46N4O16	862.2909	862.8318
+C05780	Apotransferrin	C42H46N4O16	862.2909	862.8318
+C05781	Oxyhemoglobin	C42H46N4O16	862.2909	862.8318
+C05782	Myoglobin	C42H46N4O16	862.2909	862.8318
+C05783	Cytochrome a	C42H46N4O16	862.2909	862.8318
+C05784	Catalase	C42H46N4O16	862.2909	862.8318
+C05785	Peroxidase	C42H46N4O16	862.2909	862.8318
+C05786	(3Z)-Phycocyanobilin	C33H38N4O6	586.2791	586.678
+C05787	Bilirubin beta-diglucuronide; Bilirubin-bisglucuronoside	C45H52N4O18	936.3277	936.9104
+C05789	L-Urobilinogen; L-Stercobilinogen; Stercobilinogen	C33H48N4O6	596.3574	596.7574
+C05790	I-Urobilinogen; Mesobilirubinogen; Urobilinogen	C33H44N4O6	592.3261	592.7257
+C05791	D-Urobilinogen	C33H42N4O6	590.3104	590.7098
+C05793	L-Urobilin; L-Stercobilin; Stercobilin	C33H46N4O6	594.3417	594.7415
+C05794	Urobilin; I-Urobilin	C33H42N4O6	590.3104	590.7098
+C05795	D-Urobilin	C33H40N4O6	588.2948	588.6939
+C05797	Pheophytin a	C55H74N4O5	870.5659	871.1999
+C05798	Bacteriopheophytin; Bacteriopheophytin a	C55H76N4O6	888.5765	889.2151
+C05912	(3Z)-Phycoerythrobilin	C33H38N4O6	586.2791	586.678
+C05913	(3Z)-Phytochromobilin	C33H36N4O6	584.2635	584.6621
+C06319	Precorrin 6Y; Precorrin 6B	C44H56N4O16	896.3691	896.9326
+C06320	Precorrin 6X; Precorrin 6A	C44H54N4O16	894.3535	894.9168
+C06399	Hydrogenobyrinate; Hydrogenobyrinic acid	C45H60N4O14	880.4106	880.9763
+C06406	Precorrin 3B	C43H50N4O17	894.3171	894.8737
+C06407	Precorrin 4	C44H52N4O17	908.3327	908.9003
+C06408	Precorrin 8X; Precorrin 8; Precorrin-8X	C45H60N4O14	880.4106	880.9763
+C06416	Precorrin 5	C45H54N4O17	922.3484	922.9269
+C06503	Hydrogenobyrinate a,c diamide; Hydrogenobyrinate diamide; Hydrogenobyrinic acid a,c-diamide	C45H62N6O12	878.4426	879.0068
+C06504	Cob(II)yrinate a,c diamide; Cob(II)yrinate diamide; Cob(II)yrinic acid a,c-diamide; Cobyrinate a,c-diamide; Cobyrinic acid a,c-diamide	C45H61CoN6O12	936.3679	936.932
+C06505	Cob(I)yrinate a,c diamide; Cob(I)yrinate diamide; Cob(I)yrinic acid a,c-diamide	C45H61CoN6O12	936.3679	936.932
+C06506	Adenosyl cobyrinate a,c diamide; Adenosyl cobyrinate diamide; Adenosylcob(III)yrinic acid a,c-diamide; Adenosylcobyrinic acid a,c-diamide	C55H73CoN11O15	1186.462	1187.166
+C06507	Adenosyl cobyrinate hexaamide; Adenosylcobyric acid	C55H77CoN15O11	1182.5259	1183.227
+C06508	Adenosyl cobinamide; Adenosylcobinamide	C58H84CoN16O11	1239.5837	1240.3214
+C06509	Adenosyl cobinamide phosphate; Adenosylcobinamide phosphate	C58H85CoN16O14P	1319.5501	1320.3013
+C06510	Adenosine-GDP-cobinamide; Adenosylcobinamide-GDP	C68H97CoN21O21P2	1664.5975	1665.5066
+C11242	Bacteriochlorophyll a	C55H74MgN4O6	910.5459	911.5043
+C11243	Bacteriochlorophyll b	C55H72MgN4O6	908.5302	909.4884
+C11538	Cobalt-sirohydrochlorin; Cobalt-factor II	C42H44CoN4O16	919.2084	919.7492
+C11539	Cobalt-precorrin 3	C43H48CoN4O16	935.2397	935.7916
+C11540	Cobalt-precorrin 4	C44H50CoN4O16	949.2554	949.8182
+C11542	Cobalt-precorrin 6; Cobalt-precorrin 6A	C44H53CoN4O16	952.2789	952.842
+C11543	Cobalt-dihydro-precorrin 6; Cobalt-precorrin 6B	C44H55CoN4O16	954.2945	954.8579
+C11545	Cobalt-precorrin 8; Cobalt-precorrin-8	C45H59CoN4O14	938.336	938.9016
+C11630	15,16-Dihydrobiliverdin; 15,16-Dihydrobiliverdin IXalpha; 15,16-Dihydrobiliverdin ixa	C33H36N4O6	584.2635	584.6621
+C11829	13(1)-Hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester; 13(1)-Hydroxy-Mg-protoporphyrin IX 13-monomethyl ester	C35H34MgN4O5	614.238	614.9733
+C11830	13(1)-Oxo-magnesium-protoporphyrin IX 13-monomethyl ester; 13(1)-Oxo-Mg-protoporphyrin IX 13-monomethyl ester	C35H32MgN4O5	612.2223	612.9574
+C11831	Divinylprotochlorophyllide; 2,4-Divinylprotochlorophyllide; Mg-2,4-Divinyl-phaeoporphyrin a5-monomethylester; 3,8-Divinyl protochlorophyllide a	C35H30MgN4O5	610.2067	610.9415
+C11832	Divinyl chlorophyllide a; 3,8-Divinyl chlorophyllide a	C35H32MgN4O5	612.2223	612.9574
+C11850	Divinylchlorophyll a	C55H70MgN4O5	890.5197	891.4731
+C11851	Zn-Bacteriochlorophyll a; Zinc bacteriochlorophyll a	C55H74N4O6Zn	950.49	952.6083
+C12147	L-Threonine O-3-phosphate; L-Threonine phosphate; O-Phospho-L-threonine	C4H10NO6P	199.0246	199.0991
+C14818	Fe2+; Fe(II); Ferrous ion; Iron(2+)	Fe	55.9349	55.845
+C14819	Fe3+; Fe(III); Ferric ion; Iron(3+)	Fe	55.9349	55.845
+C15670	Heme A	C49H56FeN4O6	852.3549	852.8371
+C15672	Heme O	C49H58FeN4O5	838.3757	838.8536
+C16242	Cobalt-precorrin 5A	C45H52CoN4O16	963.271	963.8448
+C16243	Cobalt-precorrin 5B	C43H50CoN4O16	937.2554	937.8075
+C16244	Cobalt-precorrin 7	C44H57CoN4O14	924.3203	924.875
+C16540	7(1)-Hydroxychlorophyllide a	C35H34MgN4O6	630.2329	630.9727
+C16541	Chlorophyllide b	C35H32MgN4O6	628.2172	628.9568
+C17401	Cobalt-factor III	C43H46CoN4O16	933.2241	933.7757
+C18021	Pheophorbide a	C35H36N4O5	592.2686	592.6841
+C18022	Red chlorophyll catabolite	C35H38N4O7	626.2741	626.6988
+C18064	Pyropheophorbide a	C33H34N4O3	534.2631	534.6481
+C18098	Primary fluorescent chlorophyll catabolite	C35H40N4O7	628.2897	628.7147
+C18151	7(1)-Hydroxychlorophyll a; 7-Hydroxymethylchlorophyll a	C55H72MgN4O6	908.5302	909.4884
+C18152	3-Vinylbacteriochlorophyllide a; 3-Deacetyl-3-vinylbacteriochlorophyllide a	C35H36MgN4O5	616.2536	616.9891
+C18153	3-Hydroxyethylbacteriochlorophyllide a; 3-Deacetyl-3-(1-hydroxyethyl)bacteriochlorophyllide a	C35H38MgN4O6	634.2642	635.0044
+C18154	3-Hydroxyethylchlorophyllide a; 3-Devinyl-3-(1-hydroxyethyl)chlorophyllide a	C35H36MgN4O6	632.2485	632.9885
+C18155	Bacteriochlorophyllide a	C35H36MgN4O6	632.2485	632.9885
+C18156	Bacteriochlorophyllide b	C35H34MgN4O6	630.2329	630.9727
+C18157	8-Ethyl-12-methyl-3-vinylbacteriochlorophyllide d	C33H32MgN4O3	556.2325	556.9372
+C18160	Bacteriochlorophyllide d	C30H26MgN4O4(R1)(R2)	556.2325	556.9372
+C18161	Bacteriochlorophyllide c	C31H28MgN4O4(R1)(R2)	556.2325	556.9372
+C18162	Bacteriochlorophyll d	C45H50MgN4O4(R1)(R2)	556.2325	556.9372
+C18163	Bacteriochlorophyll c	C46H52MgN4O4(R1)(R2)	556.2325	556.9372
+C20666	5-Oxo-delta-bilirubin; delta-Staphylobilin	C33H34N4O7	598.2427	598.6457
+C21217	Geranylgeranyl bacteriochlorophyllide a	C55H68MgN4O6	904.4989	905.4566
+C21284	Fe-coproporphyrin III; Coproheme III	C36H36FeN4O8	708.1883	708.538
+C21427	8,12-Diethyl-3-vinylbacteriochlorophyllide d	C34H34MgN4O3	570.2481	570.9638
+C21428	12-Ethyl-8-propyl-3-vinylbacteriochlorophyllide d	C35H36MgN4O3	584.2638	584.9903
+C21429	12-Ethyl-8-isobutyl-3-vinylbacteriochlorophyllide d	C36H38MgN4O3	598.2794	599.0169
+C21431	8-Ethyl-12-methylbacteriochlorophyllide d	C33H34MgN4O4	574.243	574.9525
+C21432	8,12-Diethylbacteriochlorophyllide d	C34H36MgN4O4	588.2587	588.979
+C21433	12-Ethyl-8-propylbacteriochlorophyllide d	C35H38MgN4O4	602.2743	603.0056
+C21434	12-Ethyl-8-isobutylbacteriochlorophyllide d	C36H40MgN4O4	616.29	617.0322
+C21435	Geranylgeranyl bacteriochlorophyllide b	C55H66MgN4O6	902.4833	903.4407
+C21510	Nickel-sirohydrochlorin; Ni-sirohydrochlorin	C42H44N4NiO16	918.2106	919.5094
+C21511	Nickel-sirohydrochlorin a,c-diamide; Ni-sirohydrochlorin a,c-diamide	C42H46N6NiO14	916.2425	917.5398
+C21512	15,17(3)-Seco-F430-17(3)-acid	C42H53N6NiO14	923.2973	924.5954
+C21582	Bacteriochlorophyllide e	C31H26MgN4O5(R1)(R2)	923.2973	924.5954

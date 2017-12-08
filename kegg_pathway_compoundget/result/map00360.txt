@@ -1,0 +1,73 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00079	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00083	Malonyl-CoA; Malonyl coenzyme A	C24H38N7O19P3S	853.1156	853.5803
+C00084	Acetaldehyde; Ethanal	C2H4O	44.0262	44.0526
+C00091	Succinyl-CoA; Succinyl coenzyme A	C25H40N7O19P3S	867.1313	867.6069
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00156	4-Hydroxybenzoate; Hydroxybenzoic acid; 4-Hydroxybenzoic acid; Hydroxybenzenecarboxylic acid	C7H6O3	138.0317	138.1207
+C00166	Phenylpyruvate; Phenylpyruvic acid; alpha-Ketohydrocinnamic acid; keto-Phenylpyruvate; 3-Phenyl-2-oxopropanoate; 2-Oxo-3-phenylpropanoate	C9H8O3	164.0473	164.158
+C00180	Benzoate; Benzoic acid; Benzenecarboxylic acid; Phenylformic acid; Dracylic acid	C7H6O2	122.0368	122.1213
+C00223	p-Coumaroyl-CoA; 4-Coumaroyl-CoA; 4-Hydroxycinnamoyl-CoA	C30H42N7O18P3S	913.152	913.6769
+C00323	Caffeoyl-CoA; (2E)-3-(3,4-Dihydroxyphenyl)prop-2-enoyl-CoA	C30H42N7O19P3S	929.1469	929.6763
+C00406	Feruloyl-CoA; trans-Feruloyl-CoA	C31H44N7O19P3S	943.1626	943.7028
+C00423	trans-Cinnamate; trans-Cinnamic acid; (E)-Cinnamate; (2E)-3-Phenylprop-2-enoate	C9H8O2	148.0524	148.1586
+C00512	Benzoyl-CoA; S-Benzoyl-coenzyme A	C28H40N7O17P3S	871.1414	871.6402
+C00582	Phenylacetyl-CoA; Phenylacetyl coenzyme A	C29H42N7O17P3S	885.1571	885.6668
+C00596	2-Hydroxy-2,4-pentadienoate; cis-2-Hydroxypenta-2,4-dienoate; Oxopent-4-enoate; 2-Oxopent-4-enoate; 2-Hydroxypenta-2,4-dienoate	C5H6O3	114.0317	114.0993
+C00601	Phenylacetaldehyde; alpha-Tolualdehyde	C8H8O	120.0575	120.1485
+C00630	2-Methylpropanoyl-CoA; 2-Methylpropionyl-CoA; Isobutyryl-CoA	C25H42N7O17P3S	837.1571	837.624
+C00642	4-Hydroxyphenylacetate; 4-Hydroxyphenylacetic acid	C8H8O3	152.0473	152.1473
+C00755	4-Hydroxy-3-methoxy-benzaldehyde; Vanillin; Vanillaldehyde; 4-Hydroxy-3-methoxybenzaldehyde	C8H8O3	152.0473	152.1473
+C00805	Salicylate; o-Hydroxybenzoic acid; Salicylic acid	C7H6O3	138.0317	138.1207
+C00811	4-Coumarate; p-Coumaric acid; trans-4-Hydroxycinnamate; trans-p-Hydroxycinnamate; 4-Hydroxycinnamic acid; 4-Hydroxycinnamate	C9H8O3	164.0473	164.158
+C01198	3-(2-Hydroxyphenyl)propanoate; 2-Hydroxyphenylpropanoate; 3-(2-Hydroxyphenyl)propionic acid; Melilotate; 3-(2-Hydroxyphenyl)propionate	C9H10O3	166.063	166.1739
+C01575	Ephedrine; (-)-Ephedrine; L-Ephedrine	C10H15NO	165.1154	165.2322
+C01586	Hippurate; Hippuric acid; N-Benzoylglycine; Benzoylaminoacetic acid	C9H9NO3	179.0582	179.1727
+C01772	trans-2-Hydroxycinnamate; trans-2-Hydroxycinnamic acid; 2-Hydroxycinnamate; 2-Coumaric acid; o-Coumaric acid; 2-Coumarate	C9H8O3	164.0473	164.158
+C02137	alpha-Oxo-benzeneacetic acid; Benzoylformate; Benzoylformic acid; Phenylglyoxylic acid; Phenylglyoxylate; 2-Oxo-2-phenylacetate	C8H6O3	150.0317	150.1314
+C02232	3-Oxoadipyl-CoA; beta-Ketoadipyl-CoA	C27H42N7O20P3S	909.1418	909.6436
+C02265	D-Phenylalanine; D-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C02505	2-Phenylacetamide; alpha-Phenylacetamide	C8H9NO	135.0684	135.1632
+C02763	2-Hydroxy-3-phenylpropenoate; enol-Phenylpyruvate; enol-Phenylpyruvic acid; enol-alpha-Ketohydrocinnamic acid	C9H8O3	164.0473	164.158
+C02765	(+)-Pseudoephedrine; Pseudoephedrine	C10H15NO	165.1154	165.2322
+C03519	N-Acetyl-L-phenylalanine	C11H13NO3	207.0895	207.2258
+C03589	4-Hydroxy-2-oxopentanoate; 4-Hydroxy-2-oxovalerate	C5H8O4	132.0423	132.1146
+C04044	3-(2,3-Dihydroxyphenyl)propanoate; 2,3-Dihydroxyphenylpropanoate	C9H10O4	182.0579	182.1733
+C04148	Phenylacetylglutamine; alpha-N-Phenylacetyl-L-glutamine; N2-(2-Phenylacetyl)-L-glutamine	C13H16N2O4	264.111	264.2771
+C04351	(R)-2-Methylimino-1-phenylpropan-1-ol	C10H13NO	163.0997	163.2163
+C04479	2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate; (2Z,4E)-2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate	C9H10O6	214.0477	214.1721
+C05332	Phenethylamine; 2-Phenylethylamine; beta-Phenylethylamine; Phenylethylamine	C8H11N	121.0891	121.1796
+C05593	3-Hydroxyphenylacetate; 3-Hydroxyphenylacetic acid	C8H8O3	152.0473	152.1473
+C05598	Phenylacetylglycine	C10H11NO3	193.0739	193.1992
+C05607	Phenyllactate; (R)-Phenyllactate	C9H10O3	166.063	166.1739
+C05620	N-Acetyl-D-phenylalanine	C11H13NO3	207.0895	207.2258
+C05629	Phenylpropanoate; 3-Phenyl-propionic acid; 3-Phenylpropanoic acid; 3-Phenylpropionic acid	C9H10O2	150.0681	150.1745
+C05852	2-Hydroxyphenylacetate; 2-Hydroxyphenylacetic acid	C8H8O3	152.0473	152.1473
+C05853	Phenylethyl alcohol; Phenethyl alcohol; 2-Phenylethanol	C8H10O	122.0732	122.1644
+C06207	2,6-Dihydroxyphenylacetate	C8H8O4	168.0423	168.1467
+C06866	Capsaicin	C18H27NO3	305.1991	305.4119
+C07086	Phenylacetic acid; Benzylformic acid; Phenylacetate; Benzeneacetic acid	C8H8O2	136.0524	136.1479
+C07303	4-Hydroxy-3-methoxyphenyl-beta-hydroxypropanoyl-CoA; 4-Hydroxy-3-methoxyphenyl-beta-hydroxypropionyl-CoA; 3-Hydroxy-3-(4-hydroxy-3-methoxyphenyl)propionyl-CoA	C31H46N7O20P3S	961.1731	961.7181
+C08300	D-Cathine; Cathine; (+)-Norpseudoephedrine	C9H13NO	151.0997	151.2056
+C08301	D-Cathinone; Cathinone	C9H11NO	149.0841	149.1897
+C11457	3-(3-Hydroxyphenyl)propanoic acid; Dihydro-3-coumaric acid; 3-Hydroxyphenylpropanoate; 3-(3-Hydroxyphenyl)propanoate	C9H10O3	166.063	166.1739
+C11588	cis-3-(Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol; cis-3-(2-Carboxy-ethyl)-3,5-cyclo-hexadiene-1,2-diol; 3-(cis-5,6-Dihydroxycyclohexa-1,3-dien-1-yl)propanoate	C9H12O4	184.0736	184.1892
+C12621	trans-3-Hydroxycinnamate; (2E)-3-(3-Hydroxyphenyl)prop-2-enoate	C9H8O3	164.0473	164.158
+C12622	cis-3-(3-Carboxyethenyl)-3,5-cyclohexadiene-1,2-diol; (2E)-3-(cis-5,6-Dihydroxycyclohexa-1,3-dien-1-yl)prop-2-enoate	C9H10O4	182.0579	182.1733
+C12623	trans-2,3-Dihydroxycinnamate; (2E)-3-(2,3-Dihydroxyphenyl)prop-2-enoate	C9H8O4	180.0423	180.1574
+C12624	2-Hydroxy-6-ketononatrienedioate; (2Z,4E,7E)-2-Hydroxy-6-oxonona-2,4,7-triene-1,9-dioate	C9H8O6	212.0321	212.1562
+C14144	5-Carboxy-2-pentenoyl-CoA; 2,3-Didehydroadipyl-CoA	C27H42N7O19P3S	893.1469	893.6442
+C14145	(3S)-3-Hydroxyadipyl-CoA	C27H44N7O20P3S	911.1575	911.6594
+C15524	Phenylglyoxylyl-CoA	C29H40N7O18P3S	899.1363	899.6503
+C16666	Vanillylamine	C8H11NO2	153.079	153.1784
+C16719	(-)-Norephedrine; l-Phenylpropanolamine	C9H13NO	151.0997	151.2056
+C17268	Pyruvophenone; 1-Phenyl-1,2-propanedione	C9H8O2	148.0524	148.1586
+C18202	8-Methyl-6-nonenoic acid	C10H18O2	170.1307	170.2487
+C19945	3-Oxo-5,6-dehydrosuberyl-CoA; 3-Oxo-5,6-didehydrosuberoyl-CoA	C29H44N7O20P3S	935.1575	935.6808
+C19946	3-Oxo-5,6-dehydrosuberyl-CoA semialdehyde	C29H44N7O19P3S	919.1626	919.6814
+C19975	2-Oxepin-2(3H)-ylideneacetyl-CoA	C29H42N7O18P3S	901.152	901.6662
+C20062	2-(1,2-Epoxy-1,2-dihydrophenyl)acetyl-CoA	C29H42N7O18P3S	901.152	901.6662

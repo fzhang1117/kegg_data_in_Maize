@@ -1,0 +1,13 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00371	Zeatin; N6-(4-Hydroxyisopentenyl)adenine; (E)-2-Methyl-4-(1H-purin-6-ylamino)but-2-en-1-ol; trans-Zeatin	C10H13N5O	219.112	219.2431
+C00805	Salicylate; o-Hydroxybenzoic acid; Salicylic acid	C7H6O3	138.0317	138.1207
+C00859	Gibberellin A1; Gibberellin 1	C19H24O6	348.1573	348.3903
+C00954	Indole-3-acetate; Indole-3-acetic acid; (Indol-3-yl)acetate; Indoleacetate; Indoleacetic acid; IAA	C10H9NO2	175.0633	175.184
+C02029	Dihydrozeatin; 2-Methyl-4-(1H-purin-6-ylamino)butan-1-ol; N6-(4-Hydroxyisopentanyl)adenine	C10H15N5O	221.1277	221.259
+C04083	N6-(Delta2-Isopentenyl)-adenine; N6-(3-Methylbut-2-enyl)adenine; 6-(gamma,gamma-Dimethylallylamino)purine; N6-Dimethylallyladenine	C10H13N5	203.1171	203.2437
+C06082	Abscisate; Abscisic acid; (+)-Abscisic acid; ABA	C15H20O4	264.1362	264.3169
+C06547	Ethylene	C2H4	28.0313	28.0532
+C08491	(-)-Jasmonic acid; Jasmonic acid; {(1R,2R)-3-Oxo-2-[(Z)pent-2-enyl]cyclopent-2-enyl}acetic acid; Jasmonate; (-)-Jasmonate	C12H18O3	210.1256	210.2695
+C08814	Brassinolide	C28H48O6	480.3451	480.6771
+C11864	Gibberellin A4	C19H24O5	332.1624	332.3909
+C18699	(-)-Jasmonoyl-L-isoleucine; (-)-JA-L-Ile	C18H29NO4	323.2097	323.4272

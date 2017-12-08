@@ -1,0 +1,12 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00001	H2O; Water	H2O	18.0106	18.0153
+C00002	ATP; Adenosine 5'-triphosphate	C10H16N5O13P3	506.9957	507.181
+C00005	NADPH; TPNH; Reduced nicotinamide adenine dinucleotide phosphate	C21H30N7O17P3	745.0911	745.4209
+C00006	NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	C21H29N7O17P3	744.0833	744.4129
+C00007	Oxygen; O2	O2	31.9898	31.9988
+C00008	ADP; Adenosine 5'-diphosphate	C10H15N5O10P2	427.0294	427.2011
+C00009	Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	H3PO4	97.9769	97.9952
+C00034	Manganese	Mn	54.9381	54.938
+C00080	H+; Hydron	H	1.0078	1.0079
+C02061	Plastoquinone	C8H8O2(C5H8)n	1.0078	1.0079
+C02185	Plastoquinol-1	C13H18O2	206.1307	206.2808

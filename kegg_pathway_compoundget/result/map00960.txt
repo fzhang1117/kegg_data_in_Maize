@@ -1,0 +1,69 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00047	L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid	C6H14N2O2	146.1055	146.1876
+C00079	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C00134	Putrescine; 1,4-Butanediamine; 1,4-Diaminobutane; Tetramethylenediamine; Butane-1,4-diamine	C4H12N2	88.1	88.1515
+C00166	Phenylpyruvate; Phenylpyruvic acid; alpha-Ketohydrocinnamic acid; keto-Phenylpyruvate; 3-Phenyl-2-oxopropanoate; 2-Oxo-3-phenylpropanoate	C9H8O3	164.0473	164.158
+C00253	Nicotinate; Nicotinic acid; Niacin; 3-Pyridinecarboxylic acid	C6H5NO2	123.032	123.1094
+C00407	L-Isoleucine; 2-Amino-3-methylvaleric acid	C6H13NO2	131.0946	131.1729
+C00408	L-Pipecolate; Pipecolinic acid; Pipecolic acid; 2-Piperidinecarboxylic acid; (S)-Piperidine-2-carboxylic acid	C6H11NO2	129.079	129.157
+C00450	(S)-2,3,4,5-Tetrahydropyridine-2-carboxylate; Delta1-Piperideine-6-L-carboxylate	C6H9NO2	127.0633	127.1412
+C00729	Tropine; 3alpha-Tropanol	C8H15NO	141.1154	141.2108
+C00745	Nicotine; (S)-3-(1-Methylpyrrolidin-2-yl)pyridine; (S)-Nicotine	C10H14N2	162.1157	162.2316
+C00783	Tropinone; 3-Tropanone	C8H13NO	139.0997	139.1949
+C01416	Cocaine; l-Cocain; beta-Cocain	C17H21NO4	303.1471	303.3529
+C01456	Tropate; Tropic acid; alpha-(Hydroxymethyl)phenylacetic acid	C9H10O3	166.063	166.1739
+C01479	Atropine; dl-Hyoscyamine	C17H23NO3	289.1678	289.3694
+C01672	Cadaverine; 1,5-Pentanediamine; 1,5-Diaminopentane; Pentamethylenediamine	C5H14N2	102.1157	102.1781
+C01746	Piperidine; Azacyclohexane; Hexahydropyridine	C5H11N	85.0891	85.1475
+C01851	Scopolamine; (-)-Hyoscine	C17H21NO4	303.1471	303.3529
+C02046	L-Hyoscyamine; L-Tropine tropate; Daturine; Duboisine	C17H23NO3	289.1678	289.3694
+C02066	Pseudotropine	C8H15NO	141.1154	141.2108
+C02621	13-Hydroxylupanine; 13-Hydroxylupinine; (+)-13alpha-Hydroxylupanine	C15H24N2O2	264.1838	264.3633
+C02723	N-Methylputrescine	C5H14N2	102.1157	102.1781
+C03239	6-Amino-2-oxohexanoate; 2-Oxo-6-aminocaproate	C6H11NO3	145.0739	145.1564
+C03325	(6S)-Hydroxyhyoscyamine; (6S)-6-Hydroxyhyoscyamine	C17H23NO4	305.1627	305.3688
+C03882	Piperine; N-[(E,E)-Piperoyl]piperidine; 1-Piperoyl-piperidine	C17H19NO3	285.1365	285.3377
+C04076	L-2-Aminoadipate 6-semialdehyde; 2-Aminoadipate 6-semialdehyde; L-Allysine; Allysine; (S)-2-Amino-6-oxohexanoate	C6H11NO3	145.0739	145.1564
+C04092	Delta1-Piperideine-2-carboxylate; 1,2-Didehydropiperidine-2-carboxylate; 1-Piperideine-2-carboxylate	C6H9NO2	127.0633	127.1412
+C04170	13-(2-Methylcrotonoyl)oxylupanine; 13-(2-Methylcrotonoyl)oxylupinine; (+)-13alpha-Tigloyloxylupanine	C20H30N2O3	346.2256	346.4638
+C05607	Phenyllactate; (R)-Phenyllactate	C9H10O3	166.063	166.1739
+C06176	Senecionine	C18H25NO5	335.1733	335.3948
+C06177	Retronecine	C8H13NO2	155.0946	155.1943
+C06178	1-Methylpyrrolinium; 1-Methyl-Delta(1)-pyrrolinium	C5H10N	84.0813	84.1396
+C06179	Hygrine; (+)-Hygrine	C8H15NO	141.1154	141.2108
+C06180	Anabasine	C10H14N2	162.1157	162.2316
+C06181	Piperideine; 1-Piperideine	C5H9N	83.0735	83.1317
+C06182	Pelletierine	C8H15NO	141.1154	141.2108
+C06183	L-(+)-Anaferine; Anapheline	C13H24N2O	224.1889	224.3425
+C06184	N-Methylpelletierine	C9H17NO	155.131	155.2374
+C06185	Slaframine; (-)-Slaframine	C10H18N2O2	198.1368	198.2621
+C06366	sym-Homospermidine; Homospermidine	C8H21N3	159.1735	159.2724
+C06521	Cuscohygrine; Cuskhygrine	C13H24N2O	224.1889	224.3425
+C06524	Nornicotine	C9H12N2	148.1	148.205
+C07475	Lobeline; (-)-Lobeline	C22H27NO2	337.2042	337.4553
+C10126	Anatabine; (-)-Anatabine	C10H12N2	160.1	160.2157
+C10157	Lobelanine	C22H25NO2	335.1885	335.4394
+C10171	(-)-Sedamine	C14H21NO	219.1623	219.3226
+C10173	Swainsonine	C8H15NO3	173.1052	173.2096
+C10763	Cytisine	C11H14N2O	190.1106	190.2417
+C10772	Lupanine; (+)-Lupanine	C15H24N2O	248.1889	248.3639
+C10773	Lupinine	C10H19NO	169.1467	169.264
+C10783	(-)-Sparteine; Sparteine	C15H26N2	234.2096	234.3803
+C10850	Calystegin A3; Calystegine A3	C7H13NO3	159.0895	159.183
+C10858	Ecgonine	C9H15NO3	185.1052	185.2203
+C10860	Littorine	C17H23NO3	289.1678	289.3694
+C10865	Pseudopelletierine	C9H15NO	153.1154	153.2215
+C12440	Trachelanthamidine	C8H15NO	141.1154	141.2108
+C12448	Ecgonine methyl ester; Methyl ecgonine	C10H17NO3	199.1208	199.2469
+C12449	Pseudoecgonine	C9H15NO3	185.1052	185.2203
+C12450	Pseudoecgonyl-CoA	C30H49N8O18P3S	934.2098	934.7391
+C12452	Acetyltropine; 3-Acetyltropine	C10H17NO2	183.1259	183.2475
+C12453	Acetylpseudotropine	C10H17NO2	183.1259	183.2475
+C12454	Anatalline	C15H17N3	239.1422	239.3156
+C12455	5-Aminopentanal	C5H11NO	101.0841	101.1469
+C15612	Senecionine N-oxide	C18H25NO6	351.1682	351.3942
+C16257	(R)-Phenyllactyl-CoA	C30H44N7O18P3S	915.1676	915.6927
+C16671	3,6-Dihydronicotinic acid	C6H7NO2	125.0477	125.1253
+C16697	1-Indolizidinone; 1-Ketooctahydroindolizine	C8H13NO	139.0997	139.1949
+C16933	3,6-Dihydropyridine	C5H7N	81.0578	81.1158
+C18158	17-Oxosparteine	C15H24N2O	248.1889	248.3639

@@ -1,0 +1,46 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00118	D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	C3H7O6P	169.998	170.0578
+C00129	Isopentenyl diphosphate; Delta3-Isopentenyl diphosphate; Delta3-Methyl-3-butenyl diphosphate	C5H12O7P2	246.0058	246.0921
+C00235	Dimethylallyl diphosphate; 2-Isopentenyl diphosphate; Delta2-Isopentenyl diphosphate; Dimethylallyl pyrophosphate; DMAPP; Monoprenyl diphosphate; Prenyl diphosphate	C5H12O7P2	246.0058	246.0921
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00341	Geranyl diphosphate	C10H20O7P2	314.0684	314.2091
+C00353	Geranylgeranyl diphosphate; Geranylgeranyl pyrophosphate; all-trans-Geranylgeranyl diphosphate; all-trans-Geranylgeranyl pyrophosphate; (2E,6E,10E)-3,7,11,15-Tetramethylhexadeca-2,6,10,14-tetraen-1-yl diphosphate	C20H36O7P2	450.1936	450.4432
+C00356	(S)-3-Hydroxy-3-methylglutaryl-CoA; Hydroxymethylglutaryl-CoA; Hydroxymethylglutaroyl coenzyme A; HMG-CoA; 3-Hydroxy-3-methylglutaryl-CoA	C27H44N7O20P3S	911.1575	911.6594
+C00418	(R)-Mevalonate; Mevalonic acid; 3,5-Dihydroxy-3-methylvaleric acid	C6H12O4	148.0736	148.1571
+C00448	trans,trans-Farnesyl diphosphate; Farnesyl diphosphate; Farnesyl pyrophosphate; 2-trans,6-trans-Farnesyl diphosphate; (2E,6E)-Farnesyl diphosphate	C15H28O7P2	382.131	382.3261
+C00621	Dolichyl diphosphate; Dolichol diphosphate	C20H38O7P2(C5H8)n	382.131	382.3261
+C01107	(R)-5-Phosphomevalonate; (R)-5-Phosphomevaloonic acid; (R)-Mevalonic acid 5-phosphate	C6H13O7P	228.0399	228.137
+C01126	(2E,6E)-Farnesol; 2-trans,6-trans-Farnesol; trans-Farnesol	C15H26O	222.1984	222.3663
+C01143	(R)-5-Diphosphomevalonate	C6H14O10P2	308.0062	308.1169
+C01230	all-trans-Hexaprenyl diphosphate	C30H52O7P2	586.3188	586.6772
+C02321	Rubber particle; Rubber; Rubber (all-cis)	(C5H8)n	586.3188	586.6772
+C03461	2-trans,6-trans-Farnesal; trans,trans-Farnesal; Farnesal; (2E,6E)-3,7,11-Trimethyl-2,6,10-dodecatrienal; (2E,6E)-Farnesal	C15H24O	220.1827	220.3505
+C04145	all-trans-Nonaprenyl diphosphate; Solanesyl pyrophosphate; Solanesyl diphosphate	C45H76O7P2	790.5066	791.0283
+C04146	all-trans-Octaprenyl diphosphate; Farnesylfarnesylgeraniol	C40H68O7P2	722.444	722.9112
+C04216	all-trans-Heptaprenyl diphosphate	C35H60O7P2	654.3814	654.7942
+C04506	Protein C-terminal S-farnesyl-L-cysteine	C20H33N2O3SR(C2H2NOR)n	654.3814	654.7942
+C04574	di-trans,poly-cis-Undecaprenyl diphosphate; Undecaprenyl diphosphate; Bactoprenyl diphosphate; ditrans,octacis-Undecaprenyl diphosphate	C55H92O7P2	926.6318	927.2623
+C04748	Protein C-terminal S-farnesyl-L-cysteine methyl ester	C21H35N2O3SR(C2H2NOR)n	926.6318	927.2623
+C05427	Phytyl diphosphate	C20H42O7P2	456.2406	456.4908
+C05859	Dehydrodolichol diphosphate; Dehydrodolichyl diphosphate; ditrans,polycis-Polyprenyl diphosphate	C20H36O7P2(C5H8)n	456.2406	456.4908
+C11434	2-C-Methyl-D-erythritol 4-phosphate	C5H13O7P	216.0399	216.1263
+C11435	4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol	C14H25N3O14P2	521.0812	521.3075
+C11436	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol	C14H26N3O17P3	601.0475	601.2874
+C11437	1-Deoxy-D-xylulose 5-phosphate	C5H11O7P	214.0242	214.1104
+C11453	2-C-Methyl-D-erythritol 2,4-cyclodiphosphate; 3-Methyl-1,2,3,4-tetrahydroxybutane-1,3-cyclic bisphosphate	C5H12O9P2	277.9957	278.0909
+C11811	1-Hydroxy-2-methyl-2-butenyl 4-diphosphate; (E)-4-Hydroxy-3-methyl-but-2-enyl diphosphate; (E)-4-Hydroxy-3-methylbut-2-en-1-yl diphosphate	C5H12O8P2	262.0007	262.0915
+C16521	Isoprene; 2-Methyl-1,3-butadiene	C5H8	68.0626	68.117
+C16826	2-cis,6-trans-Farnesyl diphosphate; (2Z,6E)-Farnesyl diphosphate	C15H28O7P2	382.131	382.3261
+C17432	all-trans-Decaprenyl diphosphate	C50H84O7P2	858.5692	859.1453
+C18321	(2Z,6Z,10Z,14Z,18Z,22Z,26Z,30Z,34E)-Decaprenyl diphosphate	C50H84O7P2	858.5692	859.1453
+C19691	Farnesylcysteine; S-(2E,6E)-Farnesyl-L-cysteine; S-trans-trans-Farnesylcysteine	C18H31NO2S	325.2076	325.5092
+C19760	(2Z,6Z)-Farnesyl diphosphate	C15H28O7P2	382.131	382.3261
+C19852	tritrans,heptacis-Undecaprenyl diphosphate	C55H92O7P2	926.6318	927.2623
+C19853	trans,polycis-Polyprenyl diphosphate	C15H28O7P2(C5H8)n	926.6318	927.2623
+C20120	S-Farnesyl protein; S-Farnesyl protein C-terminal CAAX	C26H39N5O6SR4(C2H2NOR)n	926.6318	927.2623
+C20121	trans,trans-Farnesyl phosphate; Farnesyl phosphate; (2E,6E)-Farnesyl phosphate	C15H27O4P	302.1647	302.3462
+C20345	Isopentenyl phosphate	C5H11O4P	166.0395	166.1122
+C20847	(R)-Mevalonate 3-phosphate; (R)-3-Phosphomevalonate	C6H13O7P	228.0399	228.137
+C20848	(R)-Mevalonate 3,5-bisphosphate; (R)-3,5-Diphosphomevalonate; (R)-3,5-Bisphosphomevalonate	C6H14O10P2	308.0062	308.1169

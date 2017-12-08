@@ -1,0 +1,24 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00011	CO2; Carbon dioxide	CO2	43.9898	44.0095
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00062	L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	C6H14N4O2	174.1117	174.201
+C00064	L-Glutamine; L-2-Aminoglutaramic acid	C5H10N2O3	146.0691	146.1445
+C00077	L-Ornithine; (S)-2,5-Diaminovaleric acid; (S)-2,5-Diaminopentanoic acid; (S)-2,5-Diaminopentanoate	C5H12N2O2	132.0899	132.161
+C00086	Urea; Carbamide	CH4N2O	60.0324	60.0553
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00169	Carbamoyl phosphate	CH4NO5P	140.9827	141.0199
+C00327	L-Citrulline; 2-Amino-5-ureidovaleric acid; Citrulline	C6H13N3O3	175.0957	175.1857
+C00437	N-Acetylornithine; N2-Acetyl-L-ornithine	C7H14N2O3	174.1004	174.1977
+C00624	N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	C7H11NO5	189.0637	189.1659
+C01010	Urea-1-carboxylate; Allophanate; Allophanic acid	C2H4N2O3	104.0222	104.0648
+C01250	N-Acetyl-L-glutamate 5-semialdehyde; 2-Acetamido-5-oxopentanoate	C7H11NO4	173.0688	173.1665
+C03406	N-(L-Arginino)succinate; 2-(Nomega-L-Arginino)succinate; L-Argininosuccinate; L-Argininosuccinic acid; L-Arginosuccinic acid	C10H18N4O6	290.1226	290.2731
+C04133	N-Acetyl-L-glutamate 5-phosphate; N-Acetyl-L-glutamyl 5-phosphate	C7H12NO8P	269.0301	269.1458
+C15532	N-Acetyl-L-citrulline	C8H15N3O4	217.1063	217.2224
+C20948	LysW-L-glutamate; LysW-glutamate	C10H15N2O7R	217.1063	217.2224
+C20949	LysW-L-glutamyl 5-phosphate	C10H16N2O10PR	217.1063	217.2224
+C20950	LysW-L-glutamate 5-semialdehyde	C10H15N2O6R	217.1063	217.2224
+C20951	LysW-L-ornithine	C10H18N3O5R	217.1063	217.2224

@@ -1,0 +1,30 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100283069	GRMZM2G062420	Zm00001d001959	K01495	EC3.5.4.16	uncharacterized LOC100283069
+100193984	GRMZM2G106376	Zm00001d026531	K01495	EC3.5.4.16	GTP cyclohydrolase 1
+100282921	GRMZM2G159660	Zm00001d017053	K01113	EC3.1.3.1	alkaline phosphatase D
+103643202	GRMZM2G015588	Zm00001d031979	K01633	EC1.13.11.81 5.1.99.8 4.1.2.25	dihydroneopterin aldolase 1
+100280848	GRMZM2G095579	Zm00001d031995	K01633	EC1.13.11.81 5.1.99.8 4.1.2.25	dihydroneopterin aldolase
+100280079	GRMZM2G095806	Zm00001d021338	K13941	EC2.5.1.15 2.7.6.3	Folate synthesis bifunctional protein
+541707	GRMZM2G005990	Zm00001d007318	K13998	EC2.1.1.45 1.5.1.3	bifunctional dihydrofolate reductase-thymidylate synthase
+100286018	GRMZM2G139880	Zm00001d049188	K13998	EC2.1.1.45 1.5.1.3	Bifunctional dihydrofolate reductase-thymidylate synthase
+103644908	GRMZM2G421493	Zm00001d030396	K13998	EC2.1.1.45 1.5.1.3	bifunctional dihydrofolate reductase-thymidylate synthase-like
+103653497	GRMZM2G072608	Zm00001d050448	K13998	EC2.1.1.45 1.5.1.3	bifunctional dihydrofolate reductase-thymidylate synthase-like
+100285702	GRMZM5G869779	Zm00001d032529	K01930	EC6.3.2.17	folylpolyglutamate synthase
+103632855	-	Zm00001d025317	K01930	EC6.3.2.17	folylpolyglutamate synthase-like
+100194131	GRMZM2G393334	Zm00001d048514	K01930	EC6.3.2.17	folylpolyglutamate synthetase 1
+103650558	GRMZM2G169481	Zm00001d041625	K20457	EC6.3.2.12	dihydrofolate synthetase
+100285263	GRMZM2G304915	Zm00001d023817	K20457	EC6.3.2.12	uncharacterized LOC100285263
+100274493	GRMZM2G095955	Zm00001d010744	K01307	EC3.4.19.9	uncharacterized LOC100274493
+100282823	GRMZM2G336908	Zm00001d010535	K14652	EC3.5.4.25 4.1.99.12	riboflavin biosynthesis protein ribAB
+100304324	GRMZM2G105466	Zm00001d016902	K14652	EC3.5.4.25 4.1.99.12	Bifunctional riboflavin biosynthesis protein RIBA 1 chloroplastic
+100383821	GRMZM2G156803	Zm00001d050844	K14652	EC3.5.4.25 4.1.99.12	Bifunctional riboflavin biosynthesis protein RIBA 1 chloroplastic
+103629593	GRMZM2G416386	Zm00001d036484	K13950	EC2.6.1.85	probable aminodeoxychorismate synthase, chloroplastic
+100192017	GRMZM2G087103	Zm00001d039264	K18482	EC4.1.3.38	D-amino-acid transaminase chloroplastic
+103626932	GRMZM2G069596	Zm00001d016006	K18482	EC4.1.3.38	D-amino-acid transaminase, chloroplastic
+100272516	GRMZM2G135816	Zm00001d016866	K03639	EC4.1.99.22	Cyclic pyranopterin monophosphate synthase mitochondrial
+100282527	GRMZM2G010238	Zm00001d003415	K03637	EC4.6.1.17	molybdopterin biosynthesis CNX3 protein
+100284923	GRMZM2G165966	Zm00001d053887	K03635	EC2.8.1.12	Molybdopterin synthase catalytic subunit
+100382050	GRMZM2G067176	Zm00001d026515	K15376	EC2.7.7.75 2.10.1.1	viviparous10
+103645808	GRMZM2G009783	-	K15376	EC2.7.7.75 2.10.1.1	molybdopterin biosynthesis protein CNX1
+103629655	GRMZM2G048092	Zm00001d036635	K15631	EC2.8.1.9	molybdenum cofactor sulfurase
+103638882	GRMZM2G313162	Zm00001d046979	K15631	EC2.8.1.9	molybdenum cofactor sulfurase

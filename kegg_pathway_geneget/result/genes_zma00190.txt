@@ -1,0 +1,184 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+845179	-	Zm00001d028360	K05572	EC1.6.5.3	NADH dehydrogenase subunit 1
+845181	-	Zm00001d028360	K05573	EC1.6.5.3	NADH dehydrogenase subunit 2
+845180	-	Zm00001d028360	K05573	EC1.6.5.3	NADH dehydrogenase subunit 2
+109943316	-	-	K05573	EC1.6.5.3	NAD(P)H-quinone oxidoreductase subunit 2 B, chloroplastic
+845182	-	Zm00001d028360	K05574	EC1.6.5.3	NADH dehydrogenase subunit 3
+845183	-	Zm00001d028360	K05575	EC1.6.5.3	NADH dehydrogenase subunit 4
+845184	-	Zm00001d028360	K05576	EC1.6.5.3	NADH dehydrogenase subunit 4L
+845185	-	Zm00001d028360	K05577	EC1.6.5.3	NADH dehydrogenase subunit 5
+109940833	-	-	K05577	EC1.6.5.3	NAD(P)H-quinone oxidoreductase subunit 5, chloroplastic-like
+845186	-	Zm00001d028360	K05578	EC1.6.5.3	NADH dehydrogenase subunit 6
+845187	-	Zm00001d028360	K05579	EC1.6.5.3	NADH dehydrogenase 49 kDa subunit
+845188	-	Zm00001d028360	K05580	EC1.6.5.3	NADH dehydrogenase 18 kDa subunit
+845189	-	Zm00001d028360	K05581	EC1.6.5.3	NADH dehydrogenase 30 kDa subunit
+845190	-	Zm00001d028360	K05582	EC1.6.5.3	NADH dehydrogenase 27 kDa subunit
+109941987	-	-	K03883	EC1.6.5.3	NADH-ubiquinone oxidoreductase chain 5
+100191453	GRMZM2G145854	Zm00001d013424	K03934	EC1.6.99.3 1.6.5.3	NADH-ubiquinone oxidoreductase subunit
+100280404	GRMZM2G126038	Zm00001d033753	K03934	EC1.6.99.3 1.6.5.3	NADH dehydrogenase [ubiquinone] iron-sulfur protein 1 mitochondrial
+109942203	GRMZM5G889138	Zm00001d046260	K03935	EC1.6.99.3 1.6.5.3	NADH dehydrogenase [ubiquinone] iron-sulfur protein 2
+100193844	GRMZM2G105207	Zm00001d006714	K03937	-	NADH-ubiquinone oxidoreductase subunit
+100281028	GRMZM2G396397	Zm00001d021958	K03937	-	NADH-ubiquinone oxidoreductase 18 kDa subunit
+100285915	GRMZM2G149414	Zm00001d031975	K03938	-	Fb14
+100280596	GRMZM2G059556	Zm00001d049507	K03939	-	mitochondrial NADH ubiquinone oxidoreductase 13kD-like subunit
+100284802	GRMZM2G171236	-	K03939	-	mitochondrial NADH ubiquinone oxidoreductase 13kD-like subunit
+100192583	GRMZM2G069061	Zm00001d043620	K03940	EC1.6.99.3 1.6.5.3	NADH-ubiquinone oxidoreductase subunit
+100127013	GRMZM2G042034	Zm00001d011732	K03940	EC1.6.99.3 1.6.5.3	NADH dehydrogenase 2
+100282522	-	Zm00001d013156	K03941	EC1.6.99.3 1.6.5.3	NADH-ubiquinone oxidoreductase 23 kDa subunit
+100283266	GRMZM2G072806	Zm00001d034244	K03941	EC1.6.99.3 1.6.5.3	NADH dehydrogenase [ubiquinone] iron-sulfur protein 8-B mitochondrial
+100273176	GRMZM2G024484	Zm00001d022341	K03942	EC1.6.99.3 1.6.5.3	uncharacterized LOC100273176
+100282384	GRMZM2G040209	Zm00001d007048	K03942	EC1.6.99.3 1.6.5.3	NADH-ubiquinone oxidoreductase 51 kDa subunit
+100272681	GRMZM2G067992	Zm00001d038658	K03943	EC1.6.99.3 1.6.5.3	NADH dehydrogenase [ubiquinone] flavoprotein 2 mitochondrial
+100501943	GRMZM2G163468	Zm00001d038508	K03945	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1
+100283792	GRMZM5G886688	Zm00001d037663	K03946	-	NADH-ubiquinone oxidoreductase 10.5 kDa subunit
+100283003	GRMZM2G008464	Zm00001d009803	K03946	-	NADH-ubiquinone oxidoreductase 10.5 kDa subunit
+100285005	GRMZM2G018941	-	K03949	-	NADH-ubiquinone oxidoreductase 13 kDa-B subunit
+100280838	GRMZM2G051545	-	K03949	-	NADH-ubiquinone oxidoreductase 13 kDa-B subunit
+100194239	GRMZM2G014382	-	K03950	-	uncharacterized LOC100194239
+103634509	GRMZM2G006085	Zm00001d028773	K03952	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8-B
+100382870	-	Zm00001d047720	K03952	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8-B
+100282690	GRMZM2G143651	Zm00001d018479	K03953	-	uncharacterized LOC100282690
+100283105	GRMZM2G062481	Zm00001d038057	K03955	-	acyl carrier protein
+100286300	GRMZM5G825609	Zm00001d019186	K03955	-	Acyl carrier protein
+100282353	GRMZM2G181542	Zm00001d048163	K03955	-	Acyl carrier protein
+100280460	GRMZM2G110298	Zm00001d033149	K03955	-	acyl carrier protein
+100192845	GRMZM2G330213	Zm00001d014428	K11352	-	putative NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
+100285721	GRMZM2G041028	-	K11352	-	NADH-ubiquinone oxidoreductase subunit B17.2
+100282224	GRMZM2G070716	Zm00001d028181	K11353	-	NADH-ubiquinone oxidoreductase B16.6 subunit
+100282030	GRMZM2G004172	Zm00001d048204	K11353	-	NADH-ubiquinone oxidoreductase B16.6 subunit
+100283425	GRMZM2G137312	Zm00001d027493	K03963	-	NADH-ubiquinone oxidoreductase B18 subunit4
+100282004	GRMZM2G115621	Zm00001d014772	K03965	-	NADH ubiquinone oxidoreductase B22-like subunit
+100276847	GRMZM2G456603	Zm00001d030080	K03966	-	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10-A
+100191555	GRMZM2G173277	Zm00001d014417	K03966	-	hypothetical protein
+100279930	GRMZM2G064799	Zm00001d018758	K00234	EC1.3.5.1	succinate dehydrogenase1
+100280324	GRMZM2G079888	Zm00001d007966	K00234	EC1.3.5.1	succinate dehydrogenase4
+103636824	GRMZM2G056912	Zm00001d008855	K00234	EC1.3.5.1	succinate dehydrogenase [ubiquinone] flavoprotein subunit 1, mitochondrial
+100216648	GRMZM2G134134	Zm00001d035136	K00235	EC1.3.5.1	succinate dehydrogenase7
+100502233	GRMZM2G302259	Zm00001d049649	K00235	EC1.3.5.1	iron sulfur subunit of succinate dehydrogenase and ribosomal protein S14 Precursor
+103639746	GRMZM2G023760	Zm00001d045148	K00235	EC1.3.5.1	succinate dehydrogenase [ubiquinone] iron-sulfur subunit 1, mitochondrial
+103653238	-	Zm00001d011333	K00235	EC1.3.5.1	succinate dehydrogenase [ubiquinone] iron-sulfur subunit 1, mitochondrial-like
+109945721	-	-	K00235	EC1.3.5.1	succinate dehydrogenase [ubiquinone] iron-sulfur subunit 1, mitochondrial-like
+100281355	GRMZM2G087651	Zm00001d032588	K00236	-	Succinate dehydrogenase subunit 3-2 mitochondrial
+100283351	GRMZM2G039542	Zm00001d013966	K00236	-	succinate dehydrogenase subunit 3
+100192538	GRMZM2G171664	-	K00411	EC1.10.2.2	ubiquinol-cytochrome c reductase iron-sulfur subunit
+100192468	-	Zm00001d016619	K00411	EC1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+542550	GRMZM2G023194	Zm00001d025286	K00411	EC1.10.2.2	iron-sulfur protein 1
+100194151	GRMZM2G158479	Zm00001d031967	K00413	-	cytochrome c1, heme protein
+100384742	GRMZM2G032367	Zm00001d049959	K00413	-	Cytochrome c1 1 heme protein mitochondrial
+100216756	GRMZM2G152952	Zm00001d041917	K00416	-	ubiquinol-cytochrome c reductase complex 7.8 kDa protein
+109945937	GRMZM2G122039	Zm00001d053175	K00416	-	cytochrome b-c1 complex subunit 6-like
+103649017	-	Zm00001d005114	K00417	-	cytochrome b-c1 complex subunit 7-like
+100384355	GRMZM2G170457	Zm00001d034528	K00417	-	ubiquinol-cytochrome c reductase complex protein
+100383274	GRMZM2G318346	Zm00001d013041	K00417	-	Cytochrome b-c1 complex subunit 7
+100382609	GRMZM2G064896	-	K00419	-	uncharacterized LOC100382609
+100193223	GRMZM2G162776	Zm00001d027848	K02257	EC2.5.1.-	Protoheme IX farnesyltransferase mitochondrial
+100274057	GRMZM2G178859	Zm00001d048318	K02257	EC2.5.1.-	uncharacterized LOC100274057
+109944005	GRMZM2G109332	Zm00001d004057	K02261	-	uncharacterized LOC109944005
+100277708	GRMZM2G134738	Zm00001d011330	K02265	-	Cytochrome c oxidase subunit 5b-2 mitochondrial
+103651601	GRMZM2G064753	Zm00001d044459	K02265	-	putative cytochrome c oxidase subunit 5b-like
+103633853	GRMZM2G477366	-	K02265	-	cytochrome c oxidase subunit 5b-1, mitochondrial
+100274770	GRMZM2G177432	Zm00001d034218	K02266	-	Cytochrome c oxidase subunit 6a mitochondrial
+100192808	GRMZM2G152925	-	K02267	-	uncharacterized LOC100192808
+100272443	GRMZM2G386440	Zm00001d047218	K02267	-	Cytochrome c oxidase subunit 6b-1
+100272303	GRMZM2G067417	Zm00001d051055	K02267	-	cytochrome c oxidase subunit 6b-3
+100384526	-	-	K02258	-	cytochrome c oxidase assembly protein ctaG
+100192499	GRMZM6G274034	Zm00001d031308	K02259	-	uncharacterized LOC100192499
+845169	-	Zm00001d028360	K02111	EC3.6.3.14	ATP synthase CF1 alpha chain
+845170	-	Zm00001d028360	K02112	EC3.6.3.14	ATPase beta chain
+100284505	GRMZM2G048907	Zm00001d021620	K02115	-	ATP synthase chloroplast subunit2
+103655982	-	-	K02115	-	ATP synthase subunit gamma, chloroplastic-like
+103637166	-	Zm00001d010316	K02115	-	ATP synthase subunit gamma, chloroplastic-like
+103649250	GRMZM2G336839	Zm00001d006475	K02115	-	ATP synthase subunit gamma, chloroplastic-like
+100281924	GRMZM2G025171	Zm00001d052242	K02113	-	ATP synthase delta chain
+103627748	GRMZM5G862663	Zm00001d018069	K02113	-	ATP synthase delta chain, chloroplastic
+845171	-	Zm00001d028360	K02114	-	ATP synthase epsilon chain
+845174	-	Zm00001d028360	K02108	-	ATPase IV subunit
+100282566	GRMZM5G825759	Zm00001d047789	K02109	-	uncharacterized LOC100282566
+845172	-	Zm00001d028360	K02109	-	ATPase subunit I
+845173	-	Zm00001d028360	K02110	-	ATPase III subunit
+103650219	-	Zm00001d040880	K02132	-	ATP synthase subunit alpha, mitochondrial
+100285442	GRMZM2G021331	Zm00001d009488	K02133	EC3.6.3.14	ATP synthase beta chain
+542267	GRMZM2G113408	Zm00001d038929	K02133	EC3.6.3.14	ATP synthase2
+103651342	GRMZM2G041275	Zm00001d043834	K02133	EC3.6.3.14	ATP synthase subunit beta, mitochondrial-like
+103632677	GRMZM2G009638	Zm00001d028207	K02136	-	ATP synthase subunit gamma, mitochondrial
+100191627	GRMZM2G138220	Zm00001d021554	K02134	-	ATP synthase subunit delta' mitochondrial
+100281167	GRMZM2G171628	Zm00001d006439	K02134	-	ATP synthase delta chain
+100283198	GRMZM2G143234	Zm00001d044441	K02135	-	uncharacterized LOC100283198
+542589	GRMZM2G157758	Zm00001d011314	K02135	-	mitochondrial F1F0 ATP synthase epsilon subunit
+100282837	GRMZM2G156068	Zm00001d051595	K02137	-	ATP synthase subunit O mitochondrial
+109945965	-	-	K02126	-	ATP synthase subunit a
+109939200	GRMZM2G157018	Zm00001d031825	K02138	-	ATP synthase subunit d, mitochondrial
+100283237	GRMZM2G042078	Zm00001d044391	K02140	-	Mitochondrial ATP synthase subunit G protein
+100285174	-	Zm00001d011278	K02140	-	hydrogen-transporting ATP synthase, rotational mechanism
+100282853	GRMZM2G069229	Zm00001d043618	K02140	-	uncharacterized LOC100282853
+542327	GRMZM2G421857	Zm00001d053765	K02145	EC3.6.3.14	vacuolar proton pump 3
+103626681	GRMZM2G128877	Zm00001d015426	K02145	EC3.6.3.14	V-type proton ATPase catalytic subunit A-like
+100282598	GRMZM2G181151	Zm00001d036961	K02147	-	vacuolar ATP synthase subunit B
+100286306	GRMZM2G094497	Zm00001d046336	K02147	-	vacuolar ATP synthase subunit B
+100281241	GRMZM2G144372	Zm00001d039157	K02148	-	V-type proton ATPase subunit C
+100274416	GRMZM2G177912	Zm00001d044665	K02148	-	V-type proton ATPase subunit C
+100273246	GRMZM2G128995	-	K02148	-	vacuolar ATP synthase subunit C
+100193069	GRMZM2G079777	Zm00001d024242	K02149	-	V-type proton ATPase subunit D
+100283330	GRMZM2G021635	-	K02149	-	uncharacterized LOC100283330
+103641218	-	Zm00001d024465	K02149	-	V-type proton ATPase subunit D
+100192065	GRMZM2G078839	Zm00001d039330	K02150	-	V-type proton ATPase subunit E3
+100273417	GRMZM2G030167	Zm00001d011504	K02150	-	V-type proton ATPase subunit E3
+103651402	GRMZM2G070360	Zm00001d043991	K02150	-	V-type proton ATPase subunit E-like
+100283470	GRMZM2G158766	Zm00001d007118	K02151	-	vacuolar ATP synthase subunit F
+100283102	GRMZM2G008232	Zm00001d022489	K02151	-	vacuolar ATP synthase subunit F
+100282544	GRMZM2G124103	Zm00001d005253	K02152	-	vacuolar ATP synthase subunit G
+100193359	GRMZM2G094928	-	K02152	-	uncharacterized LOC100193359
+100280574	GRMZM2G019999	Zm00001d021721	K02144	-	vacuolar ATPase subunit H protein
+103647744	GRMZM2G163233	Zm00001d006565	K02144	-	probable V-type proton ATPase subunit H
+100381766	GRMZM2G058910	Zm00001d028436	K02154	-	vacuolar proton ATPase a3
+103636525	GRMZM5G801793	Zm00001d012446	K02154	-	V-type proton ATPase subunit a1
+103640029	-	Zm00001d046282	K02154	-	V-type proton ATPase subunit a1
+103639351	GRMZM2G104418	Zm00001d047910	K02154	-	V-type proton ATPase subunit a3
+100283904	GRMZM5G893252	Zm00001d035702	K02155	-	uncharacterized LOC100283904
+100280656	GRMZM2G028432	Zm00001d023542	K02155	-	vacuolar ATP synthase 16 kDa proteolipid subunit
+100282032	GRMZM2G101020	Zm00001d041882	K02155	-	vacuolar ATP synthase 16 kDa proteolipid subunit
+100282817	GRMZM2G177005	Zm00001d004821	K02155	-	vacuolar ATP synthase 16 kDa proteolipid subunit
+103651792	-	Zm00001d039820	K02155	-	V-type proton ATPase 16 kDa proteolipid subunit-like
+542441	-	Zm00001d053010	K02155	-	V-type proton ATPase 16 kDa proteolipid subunit
+103652900	GRMZM2G331417	-	K02155	-	V-type proton ATPase 16 kDa proteolipid subunit-like
+109945683	-	-	K02155	-	V-type proton ATPase 16 kDa proteolipid subunit-like
+100283291	GRMZM2G143128	Zm00001d044445	K03661	-	vacuolar ATP synthase 21 kDa proteolipid subunit
+100285771	GRMZM5G867882	Zm00001d011321	K03661	-	uncharacterized LOC100285771
+100280083	GRMZM2G052088	-	K02146	-	uncharacterized LOC100280083
+100275277	GRMZM2G131431	Zm00001d036018	K02153	-	V-type proton ATPase subunit e1
+109942225	GRMZM2G467992	Zm00001d045497	K02153	-	V-type proton ATPase subunit e1-like
+103631462	GRMZM2G008122	Zm00001d027490	K01535	EC3.6.3.6	plasma membrane ATPase-like
+542303	GRMZM2G144821	-	K01535	EC3.6.3.6	membrane H(+)-ATPase 1
+542048	GRMZM2G019404	Zm00001d002006	K01535	EC3.6.3.6	plasma-membrane H+ATPase 2
+100383137	GRMZM2G341058	Zm00001d050214	K01535	EC3.6.3.6	ATPase 2 plasma membrane-type
+100501185	GRMZM2G455557	Zm00001d045122	K01535	EC3.6.3.6	uncharacterized LOC100501185
+100216710	GRMZM2G104325	Zm00001d019062	K01535	EC3.6.3.6	uncharacterized LOC100216710
+100383904	GRMZM2G148374	Zm00001d052022	K01535	EC3.6.3.6	hypothetical protein
+100383411	GRMZM2G068259	Zm00001d033552	K01535	EC3.6.3.6	ATPase 4 plasma membrane-type
+100502231	GRMZM2G035520	Zm00001d041214	K01535	EC3.6.3.6	ATPase 4 plasma membrane-type
+542052	GRMZM2G006894	Zm00001d026490	K01535	EC3.6.3.6	proton-exporting ATPase 4
+103629702	-	Zm00001d036728	K01535	EC3.6.3.6	ATPase 2, plasma membrane-type
+103638716	GRMZM2G131309	Zm00001d046560	K01535	EC3.6.3.6	plasma membrane ATPase 4
+103632998	GRMZM2G000264	Zm00001d021000	K01535	EC3.6.3.6	plasma membrane ATPase 2-like
+100216827	GRMZM2G062197	-	K01507	EC3.6.1.1	Soluble inorganic pyrophosphatase 4
+100286099	GRMZM2G041065	Zm00001d037576	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump
+100282768	GRMZM2G104918	Zm00001d026680	K01507	EC3.6.1.1	soluble inorganic pyrophosphatase
+100272927	GRMZM2G090718	Zm00001d018197	K01507	EC3.6.1.1	pyrophosphate-energized proton pump 1
+100383920	GRMZM2G046587	Zm00001d017770	K01507	EC3.6.1.1	Soluble inorganic pyrophosphatase 2
+101027208	GRMZM2G148200	Zm00001d037492	K01507	EC3.6.1.1	Pyrophosphate-energized vacuolar membrane proton pump 1
+100272302	GRMZM2G026470	Zm00001d010171	K01507	EC3.6.1.1	soluble inorganic pyrophosphatase
+541666	GRMZM2G061928	Zm00001d002889	K01507	EC3.6.1.1	uncharacterized LOC541666
+100284187	-	Zm00001d051564	K01507	EC3.6.1.1	uncharacterized LOC100284187
+103635138	GRMZM2G035542	Zm00001d009222	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump
+103626225	GRMZM2G015418	-	K01507	EC3.6.1.1	soluble inorganic pyrophosphatase 1
+103645310	-	Zm00001d032330	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump-like
+103648692	-	Zm00001d003860	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump-like
+103654862	GRMZM2G104419	Zm00001d053727	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump
+100280334	GRMZM2G170927	Zm00001d046591	K01507	EC3.6.1.1	vacuolar-type H+-pyrophosphatase5
+542328	GRMZM2G069095	Zm00001d015569	K01507	EC3.6.1.1	vacuolar proton pump homolog 1
+103628779	-	-	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump-like
+103637488	-	Zm00001d012070	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump-like
+109945196	-	Zm00001d043641	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump-like
+103652509	-	-	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump-like
+103652510	-	Zm00001d043643	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump-like
+109945197	-	Zm00001d043644	K01507	EC3.6.1.1	pyrophosphate-energized vacuolar membrane proton pump-like

@@ -1,0 +1,58 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00033	Acetate; Acetic acid; Ethanoic acid	C2H4O2	60.0211	60.052
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00074	Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	C3H5O6P	167.9824	168.042
+C00084	Acetaldehyde; Ethanal	C2H4O	44.0262	44.0526
+C00117	D-Ribose 5-phosphate; Ribose 5-phosphate	C5H11O8P	230.0192	230.1098
+C01151	D-Ribose 1,5-bisphosphate; Ribose 1,5-bisphosphate; alpha-D-Ribose 1,5-bisphosphate	C5H12O11P2	309.9855	310.0897
+C01438	Methane; CH4	CH4	16.0313	16.0425
+C02798	3-Phosphonopyruvate	C3H5O6P	167.9824	168.042
+C03167	Phosphonoacetaldehyde; 2-Phosphonoacetaldehyde; 2-Oxoethylphosphonate	C2H5O4P	123.9925	124.0325
+C03557	2-Aminoethylphosphonate; (2-Aminoethyl)phosphonate; Ciliatine	C2H8NO3P	125.0242	125.0636
+C04650	L-Phosphinothricin; Phosphinothricin; L-Glufosinate; L-2-Amino-4-(hydroxymethylphosphinyl)butanoate	C5H12NO4P	181.0504	181.1268
+C05672	2-Amino-3-phosphonopropanoate; Phosphonoalanine	C3H8NO5P	169.014	169.0731
+C05673	CMP-2-aminoethylphosphonate; CMPciliatine	C11H20N4O10P2	430.0655	430.2448
+C05674	CMP-N-trimethyl-2-aminoethylphosphonate; CMP-2-trimethylaminoethylphosphonate	C14H27N4O10P2	473.1202	473.3325
+C05675	Diacylglyceryl-2-aminoethylphosphonate; Diacylglycerophosphonoethanolamine	C7H12NO7PR2	473.1202	473.3325
+C05676	Diacylglyceryl-N-trimethyl-2-aminoethylphosphonate; Diacylglyceryl-2-trimethylaminoethylphosphonate; Diacylglycerophosphonocholine	C10H19NO7PR2	473.1202	473.3325
+C05677	Lipophosphonoglycan	C10H19NO7PR2	473.1202	473.3325
+C05678	(2-Amino-1-hydroxyethyl)phosphonate; 1-Hydroxy-2-aminoethylphosphonate	C2H8NO4P	141.0191	141.063
+C05679	N-Monomethyl-2-aminoethylphosphonate; 2-Methylaminoethylphosphonate	C3H10NO3P	139.0398	139.0902
+C05680	N-Dimethyl-2-aminoethylphosphonate; 2-Dimethylaminoethylphosphonate	C4H12NO3P	153.0555	153.1167
+C05681	Ceramide 2-aminoethylphosphonate; Ceramide ciliatine	C21H42N2O5PR	153.0555	153.1167
+C05682	Phosphonoacetate; Phosphonoacetic acid; Fosfonet	C2H5O5P	139.9875	140.0319
+C05683	Ciliatocholate; Ciliatocholic acid; 2-Aminoethylphosphocholate	C26H46NO7P	515.3012	515.6197
+C06367	1-Carboxyvinyl carboxyphosphonate; Carboxyphosphonoenolpyruvate	C4H5O7P	195.9773	196.0521
+C06368	3-(Hydrohydroxyphosphoryl)pyruvate; (Hydroxyphosphinyl)pyruvate; 3-Phosphinopyruvate	C3H5O5P	151.9875	152.0426
+C06451	2-Hydroxyethylphosphonate; (2-Hydroxyethyl)-phosphonic acid	C2H7O4P	126.0082	126.0483
+C06452	(S)-2-Hydroxypropylphosphonate	C3H9O4P	140.0238	140.0749
+C06454	Fosfomycin; Phosphonomycin; (1R,2S)-Epoxypropylphosphonate	C3H7O4P	138.0082	138.059
+C06455	Hydroxymethylphosphonate; P-(Hydroxymethyl)-phosphonic acid	CH5O4P	111.9925	112.0218
+C06456	Phosphonoformate; Foscarmet; Foscarnet	CH3O5P	125.9718	126.0053
+C06457	Bialaphos; Bilanafos; 2-Amino-4-(methylphosphino)butyrylalanylalanine; gamma-(Hydroxymethylphosphinyl)-L-alpha-aminobutyryl-L-alanyl-L-alanine; Phosphinothricin tripeptide	C11H22N3O6P	323.1246	323.2826
+C06459	N-Trimethyl-2-aminoethylphosphonate; 2-Trimethylaminoethylphosphonate	C5H15NO3P	168.079	168.1513
+C17940	Rhizocticin B	C16H31N6O7P	450.1992	450.4271
+C17941	2-Oxo-4-phosphonobutanoate; 2-Oxo-4-phosphonobutanoic acid	C4H7O6P	181.998	182.0685
+C17942	FR 900098; (3-(Acetylhydroxyamino)propyl)phosphonic acid	C5H12NO5P	197.0453	197.1262
+C17943	Formylphosphonate; Phosphonoformaldehyde; Formylphosphonic acid	CH3O4P	109.9769	110.0059
+C17944	Rhizocticin A	C11H22N5O6P	351.1308	351.296
+C17945	Phosphonoformyl-CMP; CMP-5'-phosphonoformate	C10H15N3O12P2	431.0131	431.1865
+C17947	2-Phosphinomethylmalate; 2-Phosphinomethylmalic acid; 2-(Hydrohydroxyphosphorylmethyl)malate	C5H9O7P	212.0086	212.0945
+C17948	Deamino-alpha-keto-demethylphosphinothricin; 4-(Hydroxyphosphinyl)-2-oxobutyric acid; 2-Oxo-4-phosphinobutanoate; 4-Hydrohydroxyphosphoryl-2-oxobutanoate	C4H7O5P	166.0031	166.0691
+C17949	N-Acetyldemethylphosphinothricin; N-Adpt	C6H12NO5P	209.0453	209.1369
+C17950	N-Acetyldemethylphosphinothricin tripeptide	C12H22N3O7P	351.1195	351.2927
+C17951	N-Acetylbialaphos; N-Acetylphosphinothricin tripeptide	C13H24N3O7P	365.1352	365.3193
+C17952	N-Acetylphosphinothricin; L-N-Acetylphosphinothricin; N-Acetyl-L-Glufosinate; N-Acetylphinothricin	C7H14NO5P	223.061	223.1635
+C17960	Rhizocticin C	C17H33N6O7P	464.2148	464.4537
+C17961	Rhizocticin D	C17H33N6O7P	464.2148	464.4537
+C17962	Demethylphosphinothricin; (2S)-2-Amino-4-(hydroxyphosphinyl)butanoic acid	C4H10NO4P	167.0347	167.1003
+C20396	Methylphosphonate	CH5O3P	95.9976	96.0224
+C20422	alpha-D-Ribose 1-methylphosphonate 5-triphosphate	C6H16O16P4	467.9389	468.0767
+C20423	alpha-D-Ribose 1-methylphosphonate 5-phosphate	C6H14O10P2	308.0062	308.1169
+C20440	alpha-D-Ribose 1,2-cyclic phosphate 5-phosphate; 5-Phospho-alpha-D-ribose 1,2-cyclic phosphate	C5H10O10P2	291.9749	292.0744
+C20986	D-Ribose 2,5-bisphosphate	C5H12O11P2	309.9855	310.0897
+C21372	3-Phosphinomethylmalate; 3-(Hydrohydroxyphosphorylmethyl)malate	C5H9O7P	212.0086	212.0945
+C21403	2-Acetamidoethylphosphonate	C4H10NO4P	167.0347	167.1003
+C21404	N-Ethylacetamide	C4H9NO	87.0684	87.1204
+C21613	(R)-2-(Phosphonomethyl)malate	C5H9O8P	228.0035	228.0939

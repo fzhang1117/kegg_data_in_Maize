@@ -1,0 +1,36 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00029	UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	C15H24N2O17P2	566.055	566.3018
+C00040	Acyl-CoA; Acyl coenzyme A	C22H35N7O17P3SR	566.055	566.3018
+C00093	sn-Glycerol 3-phosphate; Glycerophosphoric acid; D-Glycerol 1-phosphate	C3H9O6P	172.0137	172.0737
+C00111	Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	C3H7O6P	169.998	170.0578
+C00116	Glycerol; Glycerin; 1,2,3-Trihydroxypropane; 1,2,3-Propanetriol	C3H8O3	92.0473	92.0938
+C00162	Fatty acid	CHO2R	92.0473	92.0938
+C00184	Glycerone; Dihydroxyacetone; 1,3-Dihydroxyacetone; 1,3-Dihydroxy-2-propanone; 1,3-Dihydroxypropan-2-one	C3H6O3	90.0317	90.0779
+C00197	3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	C3H7O7P	185.9929	186.0572
+C00258	D-Glycerate; Glycerate; (R)-Glycerate; Glyceric acid	C3H6O4	106.0266	106.0773
+C00416	Phosphatidate; Phosphatidic acid; 1,2-Diacyl-sn-glycerol 3-phosphate; 3-sn-Phosphatidate	C5H7O8PR2	106.0266	106.0773
+C00422	Triacylglycerol; Triglyceride	C6H5O6R3	106.0266	106.0773
+C00577	D-Glyceraldehyde	C3H6O3	90.0317	90.0779
+C00631	2-Phospho-D-glycerate; D-Glycerate 2-phosphate; 2-Phospho-(R)-glycerate	C3H7O7P	185.9929	186.0572
+C00641	1,2-Diacyl-sn-glycerol; 1,2-Diacylglycerol; L-1,2-Diacylglycerol	C5H6O5R2	185.9929	186.0572
+C00681	1-Acyl-sn-glycerol 3-phosphate; 2-Lysophosphatidate; Lysophosphatidate; Lysophosphatidic acid	C4H8O7PR	185.9929	186.0572
+C00969	3-Hydroxypropanal	C3H6O2	74.0368	74.0785
+C01885	1-Acylglycerol; Glyceride; Monoglyceride; Monoacylglycerol; 1-Monoacylglycerol	C4H7O4R	74.0368	74.0785
+C02457	Propane-1,3-diol; 1,3-Propanediol; Trimethylene glycol	C3H8O2	76.0524	76.0944
+C03692	1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol; D-Galactosyldiacylglycerol; 3-beta-D-Galactosyl-1,2-diacylglycerol; Monogalactosyldiglyceride; Monogalactosyl-diacylglycerol; MGDG; Galbeta1->3acyl2Gro; 3-(beta-D-Galactosyl)-1,2-diacyl-sn-glycerol; 1,2-Diacyl-3-O-(beta-D-galactopyranosyl)-sn-glycerol	C11H16O10R2	76.0524	76.0944
+C04046	3-D-Glucosyl-1,2-diacylglycerol; 1,2-Diacyl-3-beta-D-glucosyl-sn-glycerol; Monoglucosyldiglyceride; Monoglucosyldiacylglycerol; Glcbeta1->3acyl2Gro; 1,2-Diacyl-3-O-(beta-D-glucopyranosyl)-sn-glycerol	C11H16O10R2	76.0524	76.0944
+C04315	2-Acyl-3-O-(beta-D-galactosyl)-sn-glycerol; Monogalactosyl-monoacylglycerol; Gal-beta1->3acyl1Gro; Galbeta1->3acyl1Gro; Mono-beta-D-galactosylacylglycerol	C10H17O9R	76.0524	76.0944
+C04872	1,2-Diacyl-3-[3-(alpha-D-N-acetylneuraminyl)-beta-D-galactosyl]-sn-glycerol	C22H33NO18R2	76.0524	76.0944
+C05401	3-beta-D-Galactosyl-sn-glycerol; Galactosylglycerol	C9H18O8	254.1002	254.2344
+C06037	Digalactosyl-diacylglycerol; DGDG; Gal-alpha1->6Gal-beta1->3acyl2Gro; Galalpha1->6Galbeta1->3acyl2Gro; 1,2-Diacyl-3-O-[alpha-D-galactosyl-(1->6)-beta-D-galactosyl]-sn-glycerol; 3-[alpha-D-Galactosyl-(1->6)-beta-D-galactosyl]-1,2-diacyl-sn-glycerol; 2,3-Di-O-acyl-1-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-D-glycerol	C17H26O15R2	254.1002	254.2344
+C06038	Acyl1-monogalactosyl-diacylglycerol; Acylmono-beta-D-galactosyldiacylglycerol; acyl1->6Gal-beta1->3acyl2Gro; acyl1->6Galbeta1->3acyl2Gro; 1,2-Diacyl-3-O-(acyl(1->6)-O-beta-D-galactosyl)-sn-glycerol	C12H15O11R3	254.1002	254.2344
+C06040	Diglucosyldiacylglycerol; beta-Gentiobiosyldiacylglycerol; Glc-beta1->6Glc-beta1->3acyl2Gro; Glcbeta1->6Glcbeta1->3acyl2Gro; 1,2-Diacyl-3-O-[beta-D-glucopyranosyl-(1->6)-O-beta-D-glucopyranosyl]-sn-glycerol	C17H26O15R2	254.1002	254.2344
+C06041	Glycerophosphoglycoglycerolipid; (sn-Gro-1-P)->6Glc-beta1->6Glc-beta1->3acyl2Gro; (sn-Gro-1-P)->6Glcbeta1->6Glcbeta1->3acyl2Gro	C20H33O20PR2	254.1002	254.2344
+C06042	Lipoteichoic acid; (sn-Gro-1-P)25->6Glc-alpha1->2Glc-alpha1->3acyl2Gro	C92H201O140P25R2	254.1002	254.2344
+C06364	1,2-Diacyl-3-alpha-D-glucosyl-sn-glycerol; 1,2-Diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol	C11H16O10R2	254.1002	254.2344
+C06365	alpha-Kojibiosyldiacylglycerol; Glc-alpha1->2Glc-alpha1->3acyl2Gro; Glcalpha1->2Glcalpha1->3acyl2Gro; 1,2-Diacyl-3-O-[alpha-D-glucopyranosyl-(1->2)-O-alpha-D-glucopyranosyl]-sn-glycerol	C17H26O15R2	254.1002	254.2344
+C11521	UDP-6-sulfoquinovose	C15H24N2O19P2S	630.0169	630.3656
+C13508	Sulfoquinovosyldiacylglycerol; SQDG; 1,2-Diacyl-3-(6-sulfo-alpha-D-quinovosyl)-sn-glycerol	C11H16O12SR2	630.0169	630.3656
+C20897	Glycerophosphoglycoglycerolipid; (sn-Gro-1-P)->6Glc-alpha1->2Glc-alpha1->3acyl2Gro; (sn-Gro-1-P)->6Glcalpha1->2Glcalpha1->3acyl2Gro; 1,2-Diacyl-3-[6''-(sn-glycero-1-phospho-)-alpha-D-kojibiosyl]-sn-glycerol	C20H33O20PR2	630.0169	630.3656
+C20898	Lipoteichoic acid; (sn-Gro-1-P)n->6Glc-beta1->6Glc-beta1->3acyl2Gro	C17H26O15R2(C3H7O5P)n	630.0169	630.3656
+C20991	1,2-Diacyl-3-O-[beta-D-galactosyl-(1->6)-beta-D-galactosyl]-sn-glycerol; Galbeta1->6Galbeta1->3acyl2Gro	C17H26O15R2	630.0169	630.3656

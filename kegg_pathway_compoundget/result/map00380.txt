@@ -1,0 +1,82 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00078	L-Tryptophan; Tryptophan; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid	C11H12N2O2	204.0899	204.2252
+C00108	Anthranilate; Anthranilic acid; o-Aminobenzoic acid; Vitamin L1; 2-Aminobenzoate	C7H7NO2	137.0477	137.136
+C00322	2-Oxoadipate; 2-Oxoadipic acid	C6H8O5	160.0372	160.1247
+C00328	L-Kynurenine; 3-Anthraniloyl-L-alanine	C10H12N2O3	208.0848	208.2139
+C00331	Indolepyruvate; Indolepyruvic acid; (Indol-3-yl)pyruvate; Indole-3-pyruvate; 3-(Indol-3-yl)pyruvate	C11H9NO3	203.0582	203.1941
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00398	Tryptamine; 3-(2-Aminoethyl)indole	C10H12N2	160.1	160.2157
+C00463	Indole; 2,3-Benzopyrrole	C8H7N	117.0578	117.1479
+C00527	Glutaryl-CoA	C26H42N7O19P3S	881.1469	881.6335
+C00632	3-Hydroxyanthranilate; 3-Hydroxyanthranilic acid	C7H7NO3	153.0426	153.1354
+C00637	Indole-3-acetaldehyde; 2-(Indol-3-yl)acetaldehyde; Indoleacetaldehyde	C10H9NO	159.0684	159.1846
+C00643	5-Hydroxy-L-tryptophan; Oxitriptan	C11H12N2O3	220.0848	220.2246
+C00780	Serotonin; 3-(2-Aminoethyl)-1H-indol-5-ol; 5-Hydroxytryptamine; Enteramine	C10H12N2O	176.095	176.2151
+C00877	Crotonoyl-CoA; Crotonyl-CoA; 2-Butenoyl-CoA; trans-But-2-enoyl-CoA; But-2-enoyl-CoA; (E)-But-2-enoyl-CoA	C25H40N7O17P3S	835.1414	835.6081
+C00954	Indole-3-acetate; Indole-3-acetic acid; (Indol-3-yl)acetate; Indoleacetate; Indoleacetic acid; IAA	C10H9NO2	175.0633	175.184
+C00955	Indole-3-ethanol; Tryptophol	C10H11NO	161.0841	161.2004
+C00978	N-Acetylserotonin; N-Acetyl-5-hydroxytryptamine	C12H14N2O2	218.1055	218.2518
+C01111	7,8-Dihydroxykynurenate	C10H7NO5	221.0324	221.1663
+C01144	(S)-3-Hydroxybutanoyl-CoA; (S)-3-Hydroxybutyryl-CoA	C25H42N7O18P3S	853.152	853.6234
+C01249	7,8-Dihydro-7,8-dihydroxykynurenate	C10H9NO5	223.0481	223.1822
+C01252	4-(2-Aminophenyl)-2,4-dioxobutanoate	C10H9NO4	207.0532	207.1828
+C01598	Melatonin; N-Acetyl-5-methoxytryptamine	C13H16N2O2	232.1212	232.2783
+C01717	4-Hydroxy-2-quinolinecarboxylic acid; Kynurenic acid; Kynurenate	C10H7NO3	189.0426	189.1675
+C01987	2-Aminophenol; 2-Hydroxyaniline; 2-Aminobenzenol; o-Aminophenol	C6H7NO	109.0528	109.1259
+C02043	Indolelactate	C11H11NO3	205.0739	205.2099
+C02161	2-Aminophenoxazin-3-one; 3-Aminophenoxazone; Isophenoxazine	C12H8N2O2	212.0586	212.2041
+C02172	N-Acetylisatin; 1-Acetylisatin	C10H7NO3	189.0426	189.1675
+C02220	2-Aminomuconate; 2-Aminomuconic acid; o-Aminomuconate	C6H7NO4	157.0375	157.1241
+C02298	N-Acetylindoxyl; Acetylindoxyl	C10H9NO2	175.0633	175.184
+C02470	Xanthurenic acid; Xanthurenate	C10H7NO4	205.0375	205.1669
+C02693	(Indol-3-yl)acetamide; Indole-3-acetamide	C10H10N2O	174.0793	174.1992
+C02700	L-Formylkynurenine; N-Formyl-L-kynurenine; N-Formylkynurenine	C11H12N2O4	236.0797	236.224
+C02775	2,3-Dihydroxyindole; Dihydroxyindole	C8H7NO2	149.0477	149.1467
+C02937	Indole-3-acetaldehyde oxime; Indole-3-acetaldoxime; 3-Indoleacetaldoxime; (E)-Indol-3-ylacetaldoxime	C10H10N2O	174.0793	174.1992
+C02938	3-Indoleacetonitrile; Indol-3-ylacetonitrile; Indole-3-acetonitrile; (Indol-3-yl)acetonitrile	C10H8N2	156.0687	156.1839
+C03227	3-Hydroxy-L-kynurenine	C10H12N2O4	224.0797	224.2133
+C03230	(Indol-3-yl)glycolaldehyde; 3-Indoleglycolaldehyde	C10H9NO2	175.0633	175.184
+C03453	gamma-Oxalocrotonate; (Z)-5-Oxohex-2-enedioate; 4-Oxalocrotonate	C6H6O5	158.0215	158.1088
+C03574	2-Formylaminobenzaldehyde	C8H7NO2	149.0477	149.1467
+C03722	Quinolinate; Pyridine-2,3-dicarboxylate; Quinolinic acid; 2,3-Pyridinedicarboxylic acid	C7H5NO4	167.0219	167.1189
+C03824	2-Aminomuconate semialdehyde; 2-Aminomuconate 6-semialdehyde	C6H7NO3	141.0426	141.1247
+C04409	2-Amino-3-carboxymuconate semialdehyde; 2-Amino-3-(3-oxoprop-1-enyl)-but-2-enedioate; 2-Amino-3-(3-oxoprop-1-en-1-yl)but-2-enedioate	C7H7NO5	185.0324	185.1342
+C05634	5-Hydroxyindoleacetaldehyde	C10H9NO2	175.0633	175.184
+C05635	5-Hydroxyindoleacetate	C10H9NO3	191.0582	191.1834
+C05636	3-Hydroxykynurenamine	C9H12N2O2	180.0899	180.2038
+C05637	4,8-Dihydroxyquinoline; Quinoline-4,8-diol	C9H7NO2	161.0477	161.1574
+C05638	5-Hydroxykynurenamine	C9H12N2O2	180.0899	180.2038
+C05639	4,6-Dihydroxyquinoline; Quinoline-4,6-diol	C9H7NO2	161.0477	161.1574
+C05640	Cinnavalininate; Cinnabarinic acid	C14H8N2O6	300.0382	300.2231
+C05641	5-(3'-Carboxy-3'-oxopropenyl)-4,6-dihydroxypicolinate; 5-(3-Carboxy-3-oxopropenyl)-4,6-dihydroxypyridine-2-carboxylate	C10H7NO7	253.0223	253.1651
+C05642	Formyl-N-acetyl-5-methoxykynurenamine	C13H16N2O4	264.111	264.2771
+C05643	6-Hydroxymelatonin	C13H16N2O3	248.1161	248.2777
+C05644	3-Methylindolepyruvate	C12H11NO3	217.0739	217.2206
+C05645	4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoate	C10H9NO5	223.0481	223.1822
+C05646	5-Hydroxyindolepyruvate	C11H9NO4	219.0532	219.1935
+C05647	Formyl-5-hydroxykynurenamine	C10H12N2O3	208.0848	208.2139
+C05648	5-Hydroxy-N-formylkynurenine; 5-Hydroxy-N-formyl-L-kynurenine	C11H12N2O5	252.0746	252.2234
+C05651	5-Hydroxykynurenine; 5-Hydroxy-L-kynurenine	C10H12N2O4	224.0797	224.2133
+C05652	4-(2-Amino-5-hydroxyphenyl)-2,4-dioxobutanoate	C10H9NO5	223.0481	223.1822
+C05653	Formylanthranilate; N-Formylanthranilate; 2-(Formylamino)-benzoic acid	C8H7NO3	165.0426	165.1461
+C05654	5-(2'-Formylethyl)-4,6-dihydroxypicolinate; 5-(beta-Formylethyl)-4,6-dihydroxypicolinate	C9H9NO5	211.0481	211.1715
+C05655	5-(2'-Carboxyethyl)-4,6-dihydroxypicolinate; 5-(beta-Carboxyethyl)-4,6-dihydroxypicolinate	C9H9NO6	227.043	227.1709
+C05656	5-(3'-Carboxy-3'-oxopropyl)-4,6-dihydroxypicolinate; 5-(gamma-Carboxy-gamma-oxopropyl)-4,6-dihydroxypicolinate	C10H9NO7	255.0379	255.181
+C05658	Indoxyl; 1H-Indol-3-ol	C8H7NO	133.0528	133.1473
+C05659	5-Methoxytryptamine; 5-MeOT	C11H14N2O	190.1106	190.2417
+C05660	5-Methoxyindoleacetate; 5-Methoxyindoleacetic acid	C11H11NO3	205.0739	205.2099
+C05663	6-Hydroxykynurenate; 6-Hydroxykynurenic acid; 4,6-Dihydroxyquinaldic acid	C10H7NO4	205.0375	205.1669
+C05830	8-Methoxykynurenate; Xanthurenic acid 8-methyl ether	C11H9NO4	219.0532	219.1935
+C05831	3-Methoxyanthranilate; 3-Methoxyanthranilic acid	C8H9NO3	167.0582	167.162
+C05832	5-Hydroxyindoleacetylglycine	C12H12N2O4	248.0797	248.2347
+C05834	3-Methyldioxyindole; 3-Hydroxy-3-methyloxindole	C9H9NO2	163.0633	163.1733
+C05835	2-Formaminobenzoylacetate	C10H9NO4	207.0532	207.1828
+C05837	Glucobrassicin; Indolylmethyl glucosinolate	C16H20N2O9S2	448.061	448.468
+C06212	N-Methylserotonin	C11H14N2O	190.1106	190.2417
+C06213	N-Methyltryptamine; N-Methylindoleethylamine; 1-Methyl-2-(3-indolyl)ethylamine	C11H14N2	174.1157	174.2423
+C10164	Picolinic acid; 2-Pyridinecarboxylic acid	C6H5NO2	123.032	123.1094
+C16516	Indolylmethylthiohydroximate	C10H10N2OS	206.0514	206.2642
+C16517	Indolylmethyl-desulfoglucosinolate	C16H20N2O6S	368.1042	368.4048
+C16518	S-(Indolylmethylthiohydroximoyl)-L-cysteine	C13H15N3O3S	293.0834	293.3415
+C17203	N-Hydroxyl-tryptamine	C10H12N2O	176.095	176.2151

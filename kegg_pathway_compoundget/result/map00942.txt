@@ -1,0 +1,67 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C05904	Pelargonidin; 3,5,7-Trihydroxy-2-(4-hydroxyphenyl)benzopyrylium chloride; 3,4',5,7-Tetrahydroxyflavylium chloride; Pelargonidin chloride; Pelargonidol chloride	C15H11O5	271.0606	271.2448
+C05905	Cyanidin; 3,3',4',5,7-Pentahydroxyflavylium chloride; Chlorure de 3,3',4',5,7-pentahydroxyflavylium; 3,3',4',5,7-Pentahydroxyflavyliumchlorid; 2-(3,4-Dihydroxyphenyl)-3,5,7-trihydroxy-1-benzopyrylium chloride; 3,3',4',5,7-Pentahydroxy-2-phenylbenzopyrylium chloride; Cyanidin chloride; Cyanidine; Cyanidol; Cyanidol chloride; IdB 1027	C15H11O6	287.0556	287.2442
+C05908	Delphinidin; 3,5,7-Trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyrylium chloride; Chlorure de 3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyrylium; 3,5,7-Trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyryliumchlorid; 3,3',4',5,5',7-Hexahydroxy-2-phenylbenzopyrylium chloride; 3,3',4',5,5',7-Hexahydroxyflavylium chloride; Delfinidol chloride; Delphinidin chloride; Delphinidine; Delphinidol; Ephdine; IdB 1056	C15H11O7	303.0505	303.2436
+C08604	Chrysanthemin; Cyanidin 3-O-glucoside; Cyanidin 3-O-beta-D-glucoside	C21H21O11	449.1084	449.3848
+C08620	Cyanidin 3-O-rutinoside; Cyanidin 3-O-rhamnosylglucoside; Keracyanin	C27H31O15	595.1663	595.526
+C08639	Cyanin; Cyanidin 3,5-di-O-glucoside; Cyanidin 3,5-O-diglucoside; Cyanidin 3,5-di-O-beta-D-glucoside	C27H31O16	611.1612	611.5254
+C08641	Gentiodelphin	C51H53O28	1113.2723	1113.9497
+C08725	Pelargonin; Pelargonidin 3,5-di-beta-D-glucoside	C27H31O15	595.1663	595.526
+C12095	Cyanidin 3-O-(6-O-p-coumaroyl)glucoside	C30H27O13	595.1452	595.5276
+C12096	Cyanidin 3-O-(6-O-p-coumaroyl)glucoside-5-O-glucoside; Shisonin	C36H37O18	757.198	757.6682
+C12137	Pelargonidin 3-O-glucoside; Pelargonidin 3-glucoside; Pelargonidin 3-O-beta-D-glucoside	C21H21O10	433.1135	433.3854
+C12138	Delphinidin 3-O-glucoside; Mirtillin; Delphinidin 3-glucoside; Delphinidin 3-O-beta-D-glucoside	C21H21O12	465.1033	465.3842
+C12139	Petunidin 3-O-glucoside; Petunidin 3-glucoside	C22H23O12	479.119	479.4108
+C12140	Malvidin 3-O-glucoside; Enin; Malvidin-3-glucoside	C23H25O12	493.1346	493.4374
+C12141	Peonidin 3-O-glucoside; Peonidin-3-glucoside	C22H23O11	463.124	463.4114
+C12640	Pelargonidin 3-O-(6-caffeoyl-beta-D-glucoside) 5-O-beta-D-glucoside; Bisdemalonylsalvianin	C36H37O18	757.198	757.6682
+C12641	4'''-Demalonylsalvianin; Monodemalonylsalvianin	C39H39O21	843.1984	843.7144
+C12642	Pelargonidin 3-O-(6-O-malonyl-beta-D-glucoside)	C24H23O13	519.1139	519.4316
+C12643	Cyanidin 3-O-(6-O-malonyl-beta-D-glucoside); Cyanidin 3-O-(6'-O-malonylglucoside); Cyanidin-3-(6'-malonylglucoside)	C24H23O14	535.1088	535.431
+C12644	Pelargonidin 3-O-rutinoside	C27H31O14	579.1714	579.5266
+C12645	Pelargonidin 3-O-rutinoside 5-O-beta-D-glucoside; Pelargonidin 3-rutinoside-5-glucopyranoside	C33H41O19	741.2242	741.6672
+C12646	Cyanidin 3-O-rutinoside 5-O-beta-D-glucoside; Cyanidin 3-rutinoside 5-glucoside	C33H41O20	757.2191	757.6666
+C12647	Salvianin	C42H41O24	929.1988	929.7605
+C16288	Pelargonidin 3-O-3'',6''-O-dimalonylglucoside	C27H25O16	605.1143	605.4778
+C16289	Cyanidin 3-O-3'',6''-O-dimalonylglucoside	C27H25O17	621.1092	621.4772
+C16290	Delphinidin 3-O-3'',6''-O-dimalonylglucoside	C27H25O18	637.1041	637.4766
+C16292	Cyanidin-3-(p-coumaroyl)-rutinoside-5-glucoside	C42H47O22	903.2559	903.8094
+C16293	Peonidin-3-(p-coumaroyl)-rutinoside-5-glucoside	C43H49O22	917.2715	917.836
+C16294	Delphinidin-3-(p-coumaroyl)-rutinoside-5-glucoside	C42H47O23	919.2508	919.8088
+C16295	Petunidin-3-(p-coumaroyl)-rutinoside-5-glucoside	C43H49O23	933.2665	933.8354
+C16296	Malvidin-3-(p-coumaroyl)-rutinoside-5-glucoside	C44H51O23	947.2821	947.8619
+C16297	Pelargonidin 3-O-(6-caffeoyl-beta-D-glucoside)	C30H27O13	595.1452	595.5276
+C16298	Cyanidin 5-O-glucoside	C21H21O11	449.1084	449.3848
+C16299	Malonylshisonin	C39H39O21	843.1984	843.7144
+C16301	Delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside	C24H23O15	551.1037	551.4304
+C16302	Ternatin A1	C96H107O53	2107.5678	2108.845
+C16303	Ternatin C5; Delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside-3',5'-di-O-beta-D-glucoside	C36H43O25	875.2093	875.7116
+C16304	Delphinidin 3-O-(6''-O-malonyl)-beta-glucoside-3'-O-beta-glucoside; Delphinidin 3-O-(6''-O-malonyl)-beta-D-glucoside-3'-O-beta-D-glucoside	C30H33O20	713.1565	713.571
+C16305	Pelargonidin 3-O-sophoroside	C27H31O15	595.1663	595.526
+C16306	Cyanidin 3-O-sophoroside	C27H31O16	611.1612	611.5254
+C16307	Delphinidin 3-O-sophoroside	C27H31O17	627.1561	627.5248
+C16312	Delphin; Delphinidin 3,5-diglucoside	C27H31O17	627.1561	627.5248
+C16313	Delphinidin 3-glucoside 5-caffoyl-glucoside	C36H37O20	789.1878	789.667
+C16314	Delphinidin 3,5,3'-triglucoside	C33H41O22	789.2089	789.6654
+C16315	Tulipanin; Delphinidin 3-O-rutinoside	C27H31O16	611.1612	611.5254
+C16349	Pelargonidin 3-O-beta-D-glucoside 5-O-(6-coumaroyl-beta-D-glucoside)	C36H37O17	741.2031	741.6688
+C16350	Cyanidin 3-O-beta-D-glucoside 5-O-(6-coumaroyl-beta-D-glucoside)	C36H37O18	757.198	757.6682
+C16351	Delphinidin 3-O-beta-D-glucoside 5-O-(6-coumaroyl-beta-D-glucoside)	C36H37O19	773.1929	773.6676
+C16354	Albireodelphin; Delphinidin 3,3'-diglucoside 5-(6-caffeoyl)glucoside	C42H47O25	951.2406	951.8076
+C16367	Delphinidin 3-O-(6-caffeoyl-beta-D-glucoside)	C30H27O15	627.135	627.5264
+C16368	Pelargonidin 3-(6-p-coumaroyl)glucoside	C30H27O12	579.1503	579.5282
+C16369	Cyanidin 3-(6-p-caffeoyl)glucoside	C30H27O14	611.1401	611.527
+C16370	Delphinidin 3-(6-p-coumaroyl)glucoside	C30H27O14	611.1401	611.527
+C16371	Pelargonidin 3-glucoside 5-caffeoylglucoside	C36H37O18	757.198	757.6682
+C16372	Cyanidin 3-glucoside 5-caffeoylglucoside	C36H37O19	773.1929	773.6676
+C16373	Cyanidin-3-O-(6''-O-malonyl-2''-O-glucuronyl)glucoside	C30H31O20	711.1409	711.5551
+C19762	Cyanidin 3-O-(2-O-beta-D-glucuronosyl)-beta-D-glucoside	C27H29O17	625.1405	625.509
+C20469	Cyanidin 3,7-di-O-beta-D-glucoside	C27H31O16	611.1612	611.5254
+C20489	Pelargonidin 3-O-beta-D-sambubioside	C26H29O14	565.1557	565.5001
+C20490	Cyanidin 3-O-beta-D-sambubioside	C26H29O15	581.1506	581.4995
+C20491	Delphinidin 3-O-beta-D-sambubioside	C26H29O16	597.1456	597.4989
+C20492	Pelargonidin 5-O-beta-D-glucoside 3-O-beta-D-sambubioside	C32H39O19	727.2086	727.6407
+C20493	Cyanidin 5-O-beta-D-glucoside 3-O-beta-D-sambubioside	C32H39O20	743.2035	743.6401
+C20494	Delphinidin 5-O-beta-D-glucoside 3-O-beta-D-sambubioside	C32H39O21	759.1984	759.6395
+C20495	Pelargonidin 3,7-di-O-beta-D-glucoside	C27H31O15	595.1663	595.526
+C20496	Delphinidin 3,7-di-O-beta-D-glucoside	C27H31O17	627.1561	627.5248

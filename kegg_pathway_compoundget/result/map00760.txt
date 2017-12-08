@@ -1,0 +1,56 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00003	NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	C21H28N7O14P2	664.1169	664.433
+C00006	NADP+; NADP; Nicotinamide adenine dinucleotide phosphate; beta-Nicotinamide adenine dinucleotide phosphate; TPN; Triphosphopyridine nucleotide; beta-NADP+	C21H29N7O17P3	744.0833	744.4129
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00111	Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	C3H7O6P	169.998	170.0578
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00153	Nicotinamide; Nicotinic acid amide; Niacinamide; Vitamin PP	C6H6N2O	122.048	122.1246
+C00163	Propanoate; Propionate; Propanoic acid; Propionic acid	C3H6O2	74.0368	74.0785
+C00232	Succinate semialdehyde; Succinic semialdehyde; 4-Oxobutanoate	C4H6O3	102.0317	102.0886
+C00253	Nicotinate; Nicotinic acid; Niacin; 3-Pyridinecarboxylic acid	C6H5NO2	123.032	123.1094
+C00334	4-Aminobutanoate; 4-Aminobutanoic acid; 4-Aminobutyrate; 4-Aminobutyric acid; gamma-Aminobutyric acid; GABA	C4H9NO2	103.0633	103.1198
+C00455	Nicotinamide D-ribonucleotide; NMN; Nicotinamide mononucleotide; Nicotinamide ribonucleotide; Nicotinamide nucleotide; beta-Nicotinamide D-ribonucleotide; beta-Nicotinamide ribonucleotide; beta-Nicotinamide mononucleotide	C11H15N2O8P	334.0566	334.2192
+C00857	Deamino-NAD+; Deamido-NAD+; Deamido-NAD	C21H27N6O15P2	665.101	665.4178
+C00922	2,3-Dimethylmaleate; Dimethylmaleic acid	C6H8O4	144.0423	144.1253
+C01004	N-Methylnicotinate; Trigonelline; Trigenelline; 1-Methylpyridinio-3-carboxylate; Betaine nicotinate; Caffearin; Gynesine	C7H7NO2	137.0477	137.136
+C01020	6-Hydroxynicotinate; 6-Hydroxynicotinic acid	C6H5NO3	139.0269	139.1088
+C01056	(S)-6-Hydroxynicotine	C10H14N2O	178.1106	178.231
+C01059	2,5-Dihydroxypyridine	C5H5NO2	111.032	111.0987
+C01185	Nicotinate D-ribonucleotide; beta-Nicotinate D-ribonucleotide; Nicotinate ribonucleotide; Nicotinic acid ribonucleotide	C11H15NO9P	336.0484	336.2119
+C01297	6-Hydroxypseudooxynicotine; 1-(6-Hydroxypyridin-3-yl)-4-(methylamino)butan-1-one	C10H14N2O2	194.1055	194.2304
+C01384	Maleic acid; Maleate; cis-Butenedioic acid	C4H4O4	116.011	116.0722
+C01596	Maleamate; Maleamic acid	C4H5NO3	115.0269	115.0874
+C02295	Methylitaconate; 2-Methylene-3-methylsuccinate	C6H8O4	144.0423	144.1253
+C02918	1-Methylnicotinamide; N(1)-Methylnicotinamide	C7H9N2O	137.0715	137.1592
+C02930	2-Methyleneglutarate; alpha-Methylene glutarate	C6H8O4	144.0423	144.1253
+C03043	(R)-6-Hydroxynicotine	C10H14N2O	178.1106	178.231
+C03056	2,6-Dihydroxypyridine	C5H5NO2	111.032	111.0987
+C03150	Nicotinamide-beta-riboside; N-Ribosylnicotinamide; 1-(beta-D-Ribofuranosyl)nicotinamide	C11H15N2O5	255.0981	255.2472
+C03458	2,3,6-Trihydroxypyridine	C5H5NO3	127.0269	127.0981
+C03652	(2R,3S)-2,3-Dimethylmalate	C6H10O5	162.0528	162.1406
+C03722	Quinolinate; Pyridine-2,3-dicarboxylate; Quinolinic acid; 2,3-Pyridinedicarboxylic acid	C7H5NO4	167.0219	167.1189
+C04226	6-Oxo-1,4,5,6-tetrahydronicotinate; 1,4,5,6-Tetrahydro-6-oxonicotinate; 1,4,5,6-Tetrahydro-6-oxonicotinic acid	C6H7NO3	141.0426	141.1247
+C05380	Nicotinurate; Nicotinuric acid; Nicotinylglycine	C8H8N2O3	180.0535	180.1607
+C05840	Iminoaspartate; Iminoaspartic acid; Iminosuccinate	C4H5NO4	131.0219	131.0868
+C05841	Nicotinate D-ribonucleoside; beta-D-Ribosylnicotinate	C11H14NO6	256.0821	256.232
+C05842	N1-Methyl-2-pyridone-5-carboxamide; N'-Methyl-2-pyridone-5-carboxamide; 1-Methyl-5-carboxylamide-2-pyridone	C7H8N2O2	152.0586	152.1506
+C05843	N1-Methyl-4-pyridone-5-carboxamide; N'-Methyl-4-pyridone-5-carboxamide; 1-Methyl-4-pyridone-3-carboximide	C7H8N2O2	152.0586	152.1506
+C06178	1-Methylpyrrolinium; 1-Methyl-Delta(1)-pyrrolinium	C5H10N	84.0813	84.1396
+C15523	2,6-Dihydroxynicotinate	C6H5NO4	155.0219	155.1082
+C15986	2,6-Dihydroxypseudooxynicotine; 1-(2,6-Dihydroxypyridin-3-yl)-4-(methylamino)butan-1-one	C10H14N2O3	210.1004	210.2298
+C15987	4-Methylaminobutyrate; gamma-N-Methylaminobutyrate	C5H11NO2	117.079	117.1463
+C16150	(R,S)-Nicotine; (+-)-3-(1-Methyl-2-pyrrolidinyl)pyridine	C10H14N2	162.1157	162.2316
+C16151	2,6-Dihydroxy-N-methylmyosmine	C10H12N2O2	192.0899	192.2145
+C16152	Blue pigment; Nicotine blue; (E)-2,2',5,5'-Tetrahydroxy-6H,6'H-[3,3'-bipyridinylidene]-6,6'-dione	C10H6N2O6	250.0226	250.1644
+C16159	2-Formylglutarate	C6H8O5	160.0372	160.1247
+C16390	(S)-2-(Hydroxymethyl)glutarate	C6H10O5	162.0528	162.1406
+C18232	N-Formylmaleamic acid	C5H5NO4	143.0219	143.0975
+C19567	4-Oxo-1-(3-pyridyl)-1-butanone; gamma-Oxo-3-pyridinebutanal; 4-Oxo-4-(pyridin-3-yl)butanal; 3-Succinoylsemialdehyde-pyridine	C9H9NO2	163.0633	163.1733
+C19569	3-Succinoylpyridine; 4-Oxo-4-(pyridin-3-yl)butanoate	C9H9NO3	179.0582	179.1727
+C19631	6-Hydroxy-3-succinoylpyridine; 4-(6-Hydroxypyridin-3-yl)-4-oxobutanoate	C9H9NO4	195.0532	195.1721
+C20361	Pseudooxynicotine; 4-(Methylamino)-1-(pyridin-3-yl)butan-1-one	C10H14N2O	178.1106	178.231
+C20381	3,3'-Bipyridine-2,2',5,5',6,6'-hexol	C10H8N2O6	252.0382	252.1803
+C21075	5-(N-Methyl-4,5-dihydro-1H-pyrrol-2-yl)pyridin-2-ol; 6-Hydroxy-N-methylmyosmine	C10H12N2O	176.095	176.2151
+C21154	N-Methylmyosmine; 3-(4,5-Dihydro-1-methyl-1H-pyrrol-2-yl)pyridine	C10H12N2	160.1	160.2157

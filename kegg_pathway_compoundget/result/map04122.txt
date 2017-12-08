@@ -1,0 +1,12 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00019	S-Adenosyl-L-methionine; S-Adenosylmethionine; AdoMet; SAM	C15H22N6O5S	398.1372	398.4374
+C00041	L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	C3H7NO2	89.0477	89.0932
+C00044	GTP; Guanosine 5'-triphosphate	C10H16N5O14P3	522.9907	523.1804
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00378	Thiamine; Thiamin; Vitamin B1; Aneurin; Antiberiberi factor	C12H17N4OS	265.1123	265.3546
+C00868	tRNA uridine; Uracil in tRNA	C9H13N2O9P(C5H8O6PR)n(C5H8O6PR)n	265.1123	265.3546
+C00979	O-Acetyl-L-serine; O3-Acetyl-L-serine	C5H9NO4	147.0532	147.1293
+C05924	Molybdopterin; Pyranopterin; H2Dtpp-mP	C10H14N5O6PS2	395.0123	395.3518
+C17322	tRNA containing 2-thiouridine; tRNA containing s2U	C9H13N2O8PS(C5H8O6PR)n(C5H8O6PR)n	395.0123	395.3518
+C18237	Molybdoenzyme molybdenum cofactor; Molybdenum cofactor	C10H12MoN5O8PS2	522.8919	521.2747
+C18239	Precursor Z; Cyclic pyranopterin monophosphate; Cyclic pyranopterin phosphate; cPMP	C10H14N5O8P	363.058	363.2206

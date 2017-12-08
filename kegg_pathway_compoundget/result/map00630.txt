@@ -1,0 +1,62 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00007	Oxygen; O2	O2	31.9898	31.9988
+C00011	CO2; Carbon dioxide	CO2	43.9898	44.0095
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00027	Hydrogen peroxide; H2O2; Oxydol	H2O2	34.0055	34.0147
+C00036	Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	C4H4O5	132.0059	132.0716
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00048	Glyoxylate; Glyoxalate; Glyoxylic acid	C2H2O3	74.0004	74.0355
+C00058	Formate; Methanoic acid; Formic acid	CH2O2	46.0055	46.0254
+C00064	L-Glutamine; L-2-Aminoglutaramic acid	C5H10N2O3	146.0691	146.1445
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00091	Succinyl-CoA; Succinyl coenzyme A	C25H40N7O19P3S	867.1313	867.6069
+C00100	Propanoyl-CoA; Propionyl-CoA; Propionyl coenzyme A	C24H40N7O17P3S	823.1414	823.5974
+C00136	Butanoyl-CoA; Butyryl-CoA	C25H42N7O17P3S	837.1571	837.624
+C00149	(S)-Malate; L-Malate; L-Apple acid; L-Malic acid; L-2-Hydroxybutanedioic acid; Malate; Malic acid	C4H6O5	134.0215	134.0874
+C00158	Citrate; Citric acid; 2-Hydroxy-1,2,3-propanetricarboxylic acid; 2-Hydroxytricarballylic acid	C6H8O7	192.027	192.1235
+C00160	Glycolate; Glycolic acid; Hydroxyacetic acid	C2H4O3	76.016	76.0514
+C00168	Hydroxypyruvate; Hydroxypyruvic acid; 3-Hydroxypyruvate; 3-Hydroxypyruvic acid	C3H4O4	104.011	104.0615
+C00197	3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	C3H7O7P	185.9929	186.0572
+C00209	Oxalate; Oxalic acid; Ethanedioic acid	C2H2O4	89.9953	90.0349
+C00258	D-Glycerate; Glycerate; (R)-Glycerate; Glyceric acid	C3H6O4	106.0266	106.0773
+C00266	Glycolaldehyde; Hydroxyacetaldehyde	C2H4O2	60.0211	60.052
+C00311	Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid	C6H8O7	192.027	192.1235
+C00313	Oxalyl-CoA	C23H36N7O19P3S	839.1	839.5537
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00417	cis-Aconitate; cis-Aconitic acid	C6H6O6	174.0164	174.1082
+C00552	meso-Tartaric acid; meso-Tartrate	C4H6O6	150.0164	150.0868
+C00631	2-Phospho-D-glycerate; D-Glycerate 2-phosphate; 2-Phospho-(R)-glycerate	C3H7O7P	185.9929	186.0572
+C00683	(S)-Methylmalonyl-CoA; (S)-Methylmalonyl-coenzyme A; (2S)-Methylmalonyl-CoA; D-Methylmalonyl-CoA	C25H40N7O19P3S	867.1313	867.6069
+C00798	Formyl-CoA	C22H36N7O17P3S	795.1101	795.5442
+C00877	Crotonoyl-CoA; Crotonyl-CoA; 2-Butenoyl-CoA; trans-But-2-enoyl-CoA; But-2-enoyl-CoA; (E)-But-2-enoyl-CoA	C25H40N7O17P3S	835.1414	835.6081
+C00888	Pentanoyl-CoA; Valeryl-coenzyme A	C26H44N7O17P3S	851.1727	851.6505
+C00898	(R,R)-Tartaric acid; (R,R)-Tartrate; L-Tartaric acid; Tartaric acid; Tartrate; 2,3-Dihydroxybutanedioic acid; (2R,3R)-Tartaric acid; (+)-Tartaric acid	C4H6O6	150.0164	150.0868
+C00975	Dihydroxyfumarate; Dihydroxyfumaric acid	C4H4O6	148.0008	148.071
+C00988	2-Phosphoglycolate; Phosphoglycolic acid	C2H5O6P	155.9824	156.0313
+C01127	4-Hydroxy-2-oxoglutarate; 4-Hydroxy-2-oxoglutaric acid	C5H6O6	162.0164	162.0975
+C01146	2-Hydroxy-3-oxopropanoate; Tartronate semialdehyde	C3H4O4	104.011	104.0615
+C01182	D-Ribulose 1,5-bisphosphate	C5H12O11P2	309.9855	310.0897
+C01213	(R)-Methylmalonyl-CoA; L-Methylmalonyl-CoA	C25H40N7O19P3S	867.1313	867.6069
+C01380	Ethylene glycol; 1,2-Ethanediol; Ethane-1,2-diol	C2H6O2	62.0368	62.0678
+C01732	Mesaconate; 2-Methylfumarate; Mesaconic acid; Methylfumaric acid; (E)-2-Methyl-2-butenedioic acid	C5H6O4	130.0266	130.0987
+C01989	3-Ethylmalate	C6H10O5	162.0528	162.1406
+C01990	3-Oxalomalate; 3-Oxalomalic acid	C6H6O8	206.0063	206.107
+C02123	3-Propylmalate	C7H12O5	176.0685	176.1672
+C02405	Formyl phosphate	CH3O5P	125.9718	126.0053
+C03217	2-Hydroxy-3-oxoadipate	C6H8O6	176.0321	176.1241
+C03459	2-Hydroxy-3-oxosuccinate; Oxaloglycolate	C4H4O6	148.0008	148.071
+C03548	trans-2,3-Epoxysuccinate	C4H4O5	132.0059	132.0716
+C03561	(R)-3-Hydroxybutanoyl-CoA; (3R)-3-Hydroxybutanoyl-CoA	C25H42N7O18P3S	853.152	853.6234
+C03618	L-threo-3-Methylaspartate; (2S,3S)-3-Methylaspartate	C5H9NO4	147.0532	147.1293
+C04348	L-Malyl-CoA; (S)-Malyl-CoA; Malyl-CoA; (3S)-3-Carboxy-3-hydroxypropanoyl-CoA; (3S)-3-Carboxy-3-hydroxypropionyl-CoA	C25H40N7O20P3S	883.1262	883.6063
+C06027	L-erythro-3-Methylmalyl-CoA; beta-Methylmalyl-CoA; (2R,3S)-2-Methylmalyl-CoA; L-erythro-beta-Methylmalyl-CoA; (2R,3S)-2-Methyl-3-carboxy-3-hydroxypropanoyl-CoA	C26H42N7O20P3S	897.1418	897.6329
+C06028	2-Methylfumaryl-CoA; Mesaconyl-CoA; Mesaconyl-C1-CoA; (E)-3-Carboxy-2-methylprop-2-enoyl-CoA	C26H40N7O19P3S	879.1313	879.6176
+C06049	N-Formylderivatives	CH2NOR	879.1313	879.6176
+C18026	(2S)-Ethylmalonyl-CoA; (S)-Ethylmalonyl-CoA; Ethylmalonyl-CoA; Ethylmalonyl coenzyme A	C26H42N7O19P3S	881.1469	881.6335
+C18324	(2S)-Methylsuccinyl-CoA; Methylsuccinyl-CoA; Methylsuccinyl-coenzyme A	C26H42N7O19P3S	881.1469	881.6335
+C20238	(2R)-Ethylmalonyl-CoA	C26H42N7O19P3S	881.1469	881.6335

@@ -1,0 +1,76 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00157	Phosphatidylcholine; Lecithin; Phosphatidyl-N-trimethylethanolamine; 1,2-Diacyl-sn-glycero-3-phosphocholine; Choline phosphatide; 3-sn-Phosphatidylcholine	C10H18NO8PR2	-	-
+C00219	Arachidonate; Arachidonic acid; (5Z,8Z,11Z,14Z)-Icosatetraenoic acid; cis-5,8,11,14-Eicosatetraenoic acid	C20H32O2	304.2402	304.4669
+C00427	Prostaglandin H2; (5Z,13E)-(15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate; PGH2; (5Z,9alpha,11alpha,13E,15S)-9,11-Epidioxy-15-hydroxy-prosta-5,13-dienoate	C20H32O5	352.225	352.4651
+C00584	Prostaglandin E2; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprost-13-enoate; Dinoprostone; PGE2	C20H32O5	352.225	352.4651
+C00639	Prostaglandin F2alpha; (5Z,13E)-(15S)-9alpha,11alpha,15-Trihydroxyprosta-5,13-dienoate; (+)-Prostaglandin F2a; 7-[3,5-Dihydroxy-2-(3-hydroxy-1-octenyl)cyclopentyl]-5-heptenoic acid; 9a,11a-PGF2; Amoglandin; Cyclosin; Dinoprost; Enzaprost; Enzaprost F; Panacelan; PGF2a; 9,11,15-Trihydroxy-(5Z,9a,11a,13E,15S)-prosta-5,13-dien-1-oic acid; Prostaglandin F2a; Prostin F 2 alpha; Protamodin; U 14583; (5Z,9alpha,11alpha,13E,15S)-9,11,15-Trihydroxyprosta-5,13-dienoate	C20H34O5	354.2406	354.481
+C00696	Prostaglandin D2; (5Z,13E)-(15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate; PGD2	C20H32O5	352.225	352.4651
+C00909	Leukotriene A4; LTA4; (7E,9E,11Z,14Z)-(5S,6S)-5,6-Epoxyeicosa-7,9,11,14-tetraenoic acid; (7E,9E,11Z,14Z)-(5S,6S)-5,6-Epoxyeicosa-7,9,11,14-tetraenoate; (7E,9E,11Z,14Z)-(5S,6S)-5,6-Epoxyicosa-7,9,11,14-tetraenoate; (5S,6S,7E,9E,11Z,14Z)-5,6-Epoxyicosa-7,9,11,14-tetraenoate	C20H30O3	318.2195	318.4504
+C01312	Prostaglandin I2; (5Z,13E)-(15S)-6,9alpha-Epoxy-11alpha,15-dihydroxyprosta-5,13-dienoate; Prostacyclin; PGI2; Epoprostenol	C20H32O5	352.225	352.4651
+C02165	Leukotriene B4; (6Z,8E,10E,14Z)-(5S,12R)-5,12-Dihydroxyeicosa-6,8,10,14-tetraenoate; (6Z,8E,10E,14Z)-(5S,12R)-5,12-Dihydroxyicosa-6,8,10,14-tetraenoate; LTB4	C20H32O4	336.2301	336.4657
+C02166	Leukotriene C4; LTC4	C30H47N3O9S	625.3033	625.7739
+C02198	Thromboxane A2; (5Z,13E)-(15S)-9alpha,11alpha-Epoxy-15-hydroxythromboxa-5,13-dienoate; (5Z,9alpha,11alpha,13E,15S)-9,11-Epoxy-15-hydroxythromboxa-5,13-dien-1-oic acid; TXA2	C20H32O5	352.225	352.4651
+C03577	20-Hydroxyleukotriene E4; 20-OH-LTE4; 20-OH-Leukotriene E4	C23H37NO6S	455.2342	455.608
+C04577	15-OxoETE; (5Z,8Z,11Z,13E)-15-Oxoicosa-5,8,11,13-tetraenoic acid; 15-Oxo-5,8,11-cis-13-trans-eicosatetraenoate; 15-Oxo-5,8,11-cis-13-trans-icosatetraenoate	C20H30O3	318.2195	318.4504
+C04742	(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate; (15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate; (5Z,8Z,11Z,13E)-(15S)-15-Hydroxyicosa-5,8,11,13-tetraenoic acid; 15(S)-HETE	C20H32O3	320.2351	320.4663
+C04805	5(S)-HETE; 5-Hydroxyeicosatetraenoate; 5-HETE; (6E,8Z,11Z,14Z)-(5S)-5-Hydroxyicosa-6,8,11,14-tetraenoic acid	C20H32O3	320.2351	320.4663
+C04822	8(R)-HPETE; (5Z,9E,11Z,14Z)-(8R)-8-Hydroperoxyeicosa-5,9,11,14-tetraenoate; (5Z,9E,11Z,14Z)-(8R)-8-Hydroperoxyicosa-5,9,11,14-tetraenoate	C20H32O4	336.2301	336.4657
+C04853	20-OH-Leukotriene B4; 20-OH-LTB4; 20-Hydroxy-leukotriene B4; (6Z,8E,10E,14Z)-(5S,12R)-5,12,20-Trihydroxyeicosa-6,8,10,14-tetraenoate; (6Z,8E,10E,14Z)-(5S,12R)-5,12,20-Trihydroxyicosa-6,8,10,14-tetraenoate	C20H32O5	352.225	352.4651
+C05356	5(S)-HPETE; 5(S)-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoic acid; (6E,8Z,11Z,14Z)-(5S)-5-Hydroperoxyeicosa-6,8,11,14-tetraenoate; (6E,8Z,11Z,14Z)-(5S)-5-Hydroperoxyeicosa-6,8,11,14-tetraenoic acid; (5S,6E,8Z,11Z,14Z)-5-Hydroperoxyicosa-6,8,11,14-tetraenoate	C20H32O4	336.2301	336.4657
+C05949	12-Keto-leukotriene B4; 12-Keto-LTB4; 5-Hydroxy-12-oxo-Delta5,8,11,14-eicosapolyenoic acid	C20H30O4	334.2144	334.4498
+C05950	20-COOH-Leukotriene B4; 20-COOH-LTB4; 20-Carboxy-leukotriene B4; 5,12-Dihydroxy-Delta5,8,11,14-eicosapolyendioic acid	C20H30O6	366.2042	366.4486
+C05951	Leukotriene D4; LTD4	C25H40N2O6S	496.2607	496.6599
+C05952	Leukotriene E4; LTE4; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyeicosa-7,9,11,14-tetraenoate; (7E,9E,11Z,14Z)-(5S,6R)-6-(Cystein-S-yl)-5-hydroxyicosa-7,9,11,14-tetraenoate	C23H37NO5S	439.2392	439.6086
+C05953	Prostaglandin A2; PGA2; Medullin	C20H30O4	334.2144	334.4498
+C05954	Prostaglandin B2; PGB2	C20H30O4	334.2144	334.4498
+C05955	Prostaglandin C2; PGC2	C20H30O4	334.2144	334.4498
+C05956	Prostaglandin G2; PGG2	C20H32O6	368.2199	368.4645
+C05957	Prostaglandin J2; PGJ2	C20H30O4	334.2144	334.4498
+C05958	Delta-12-Prostaglandin J2; Delta-12-PGJ2	C20H30O4	334.2144	334.4498
+C05959	11-epi-Prostaglandin F2alpha; 11-epi-Prostaglandin F2a; 11-epi-PGF2alpha; 11-epi-PGF2a	C20H34O5	354.2406	354.481
+C05960	15-Keto-prostaglandin F2alpha; 15-Keto-prostaglandin F2a; 15-Keto-PGF2alpha; 15-Keto-PGF2a	C20H32O5	352.225	352.4651
+C05961	6-Keto-prostaglandin F1alpha; 6-Keto-prostaglandin F1a; 6-Keto-PGF1alpha; 6-Keto-PGF1a	C20H34O6	370.2355	370.4804
+C05962	6-Keto-prostaglandin E1; 6-Keto-PGE1	C20H32O6	368.2199	368.4645
+C05963	Thromboxane B2; TXB2	C20H34O6	370.2355	370.4804
+C05964	11-Dehydro-thromboxane B2	C20H32O6	368.2199	368.4645
+C05965	12(S)-HPETE; (5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroperoxyicosa-5,8,10,14-tetraenoate; 12-Hydroperoxyeicosatetraenoate; 12-Hydroperoxyicosatetraenoate; 12-Hydroperoxyeicosatetraenoic acid; 12-Hydroperoxyicosatetraenoic acid	C20H32O4	336.2301	336.4657
+C05966	15(S)-HPETE; (5Z,8Z,11Z,13E)-(15S)-15-Hydroperoxyicosa-5,8,11,13-tetraenoic acid; 15-Hydroperoxyeicosatetraenoate; 15-Hydroperoxyicosatetraenoate; 15-Hydroperoxyeicosatetraenoic acid; 15-Hydroperoxyicosatetraenoic acid; (5Z,8Z,11Z,13E)-(15S)-15-Hydroperoxyicosa-5,8,11,13-tetraenoate	C20H32O4	336.2301	336.4657
+C06314	Lipoxin A4; LXA4; 5S,6R,15S-Trihydroxy-7E,9E,11Z,13E-eicosatetraenoic acid; (7E,9E,11Z,13E)-(5S,6R,15S)-5,6,15-Trihydroxyicosa-7,9,11,13-tetraenoic acid	C20H32O5	352.225	352.4651
+C06315	Lipoxin B4; LXB4; 5S,14R,15S-Trihydroxy-6E,8Z,10E,12E-eicosatetraenoic acid; (6E,8Z,10E,12E)-(5S,14R,15S)-Trihydroxyicosa-6,8,10,12-tetraenoic acid	C20H32O5	352.225	352.4651
+C06462	Leukotriene F4; LTF4	C28H44N2O8S	568.2818	568.7226
+C13809	9,11,15-Trihydroxy-prosta-5,13-dien-1-oic acid; 8-Isoprostaglandin F2alpha; 8-Isoprostane; 8-epi-Prostaglandin F2alpha	C20H34O5	354.2406	354.481
+C14717	15-Deoxy-Delta12,14-PGJ2; 15-Deoxy-Delta12,14-prostaglandin J2; 15-Deoxy-PGJ2	C20H28O3	316.2038	316.4345
+C14732	5-OxoETE; (6E,8Z,11Z,14Z)-5-Oxoicosa-6,8,11,14-tetraenoic acid; 5-Oxoeicosatetraenoic acid; 5-Oxoicosatetraenoic acid	C20H30O3	318.2195	318.4504
+C14748	20-HETE; (5Z,8Z,11Z,14Z)-20-Hydroxyicosa-5,8,11,14-tetraenoic acid; 20-Hydroxyeicosatetraenoic acid; 20-Hydroxyicosatetraenoic acid; 20-Hydroxy arachidonic acid	C20H32O3	320.2351	320.4663
+C14749	19(S)-HETE; (19S)-Hydroxyeicosatetraenoic acid; (19S)-Hydroxyicosatetraenoic acid; (19S)-Hydroxy arachidonic acid	C20H32O3	320.2351	320.4663
+C14768	5,6-EET; (8Z,11Z,14Z)-5,6-Epoxyeicosa-8,11,14-trienoic acid; (8Z,11Z,14Z)-5,6-Epoxyicosa-8,11,14-trienoic acid	C20H32O3	320.2351	320.4663
+C14769	8,9-EET; (5Z,11Z,14Z)-8,9-Epoxyeicosa-5,11,14-trienoic acid; (5Z,11Z,14Z)-8,9-Epoxyicosa-5,11,14-trienoic acid	C20H32O3	320.2351	320.4663
+C14770	11,12-EET; (5Z,8Z,14Z)-11,12-Epoxyeicosa-5,8,14-trienoic acid; (5Z,8Z,14Z)-11,12-Epoxyicosa-5,8,14-trienoic acid	C20H32O3	320.2351	320.4663
+C14771	14,15-EET; (5Z,8Z,11Z)-14,15-Epoxyeicosa-5.8.11-trienoic acid; (5Z,8Z,11Z)-14,15-Epoxyicosa-5.8.11-trienoic acid	C20H32O3	320.2351	320.4663
+C14772	5,6-DHET; (8Z,11Z,14Z)-5,6-Dihydroxyeicosa-8,11,14-trienoic acid; (8Z,11Z,14Z)-5,6-Dihydroxyicosa-8,11,14-trienoic acid	C20H34O4	338.2457	338.4816
+C14773	8,9-DHET; (5Z,11Z,14Z)-8,9-Dihydroxyeicosa-5,11,14-trienoic acid; (5Z,11Z,14Z)-8,9-Dihydroxyicosa-5,11,14-trienoic acid	C20H34O4	338.2457	338.4816
+C14774	11,12-DHET; (5Z,8Z,14Z)-11,12-Dihydroxyeicosa-5,8,14-trienoic acid; (5Z,8Z,14Z)-11,12-Dihydroxyicosa-5,8,14-trienoic acid	C20H34O4	338.2457	338.4816
+C14775	14,15-DHET; (5Z,8Z,11Z)-14,15-Dihydroxyeicosa-5,8,11-trienoic acid; (5Z,8Z,11Z)-14,15-Dihydroxyicosa-5,8,11-trienoic acid	C20H34O4	338.2457	338.4816
+C14776	8(S)-HETE; (5Z,9E,11Z,14Z)-(8S)-8-Hydroxyeicosa-5,9,11,14-tetraenoic acid; (5Z,9E,11Z,14Z)-(8S)-8-Hydroxyicosa-5,9,11,14-tetraenoic acid	C20H32O3	320.2351	320.4663
+C14777	12(S)-HETE; (5Z,8Z,10E,14Z)-(12S)-12-Hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12S)-12-Hydroxyicosa-5,8,10,14-tetraenoic acid	C20H32O3	320.2351	320.4663
+C14778	16(R)-HETE; (5Z,8Z,11Z,14Z)-(16R)-16-Hydroxyeicosa-5,8,11,14-tetraenoic acid; (5Z,8Z,11Z,14Z)-(16R)-16-Hydroxyicosa-5,8,11,14-tetraenoic acid	C20H32O3	320.2351	320.4663
+C14779	9(S)-HETE; (5Z,7E,11Z,14Z)-(9S)-9-Hydroxyeicosa-5,7,11,14-tetraenoic acid; (5Z,7E,11Z,14Z)-(9S)-9-Hydroxyicosa-5,7,11,14-tetraenoic acid	C20H32O3	320.2351	320.4663
+C14780	11(R)-HETE; (5Z,8Z,12E,14Z)-(11R)-Hydroxyeicosa-5,8,12,14-tetraenoic acid; (5Z,8Z,12E,14Z)-(11R)-Hydroxyicosa-5,8,12,14-tetraenoic acid	C20H32O3	320.2351	320.4663
+C14781	15H-11,12-EETA; 15-Hydroxy-11,12-epoxyeicosatrienoic acid; (5Z,8Z,13E)-(15S)-11,12-Epoxy-15-hydroxyeicosa-5,8,13-trienoic acid; (5Z,8Z,13E)-(15S)-11,12-Epoxy-15-hydroxyicosa-5,8,13-trienoic acid	C20H32O4	336.2301	336.4657
+C14782	11,12,15-THETA; 11,12,15-Trihydroxyicosatrienoic acid; (5Z,8Z,13E)-(15S)-11,12,15-Trihydroxyeicosa-5,8,12-trienoic acid; (5Z,8Z,13E)-(15S)-11,12,15-Trihydroxyicosa-5,8,12-trienoic acid	C20H34O5	354.2406	354.481
+C14794	2,3-Dinor-8-iso prostaglandin F2alpha; 2,3-Dinor-8-iso PGF2alpha	C18H30O5	326.2093	326.4278
+C14795	2,3-Dinor-8-iso prostaglandin F1alpha; 2,3-Dinor-8-iso PGF1alpha	C18H32O5	328.225	328.4437
+C14807	12-OxoETE; 12-KETE; (5Z,8Z,10E,14Z)-12-Oxoeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-12-Oxoicosa-5,8,10,14-tetraenoic acid	C20H30O3	318.2195	318.4504
+C14808	Hepoxilin A3; (5Z,9E,14Z)-(11S,12S)-11,12-Epoxy-8-hydroxyeicosa-5,9,14-trienoic acid; (5Z,9E,14Z)-(11S,12S)-11,12-Epoxy-8-hydroxyicosa-5,9,14-trienoic acid	C20H32O4	336.2301	336.4657
+C14809	Trioxilin A3; (5Z,9E,14Z)-(11R,12S)-8,11,12-Trihydroxyeicosa-5,9,14-trienoic acid; (5Z,9E,14Z)-(11R,12S)-8,11,12-Trihydroxyicosa-5,9,14-trienoic acid	C20H34O5	354.2406	354.481
+C14810	Hepoxilin B3; (5Z,8Z,14Z)-(11S,12S)-11,12-Epoxy-10-hydroxyeicosa-5,8,14-trienoic acid; (5Z,8Z,14Z)-(11S,12S)-11,12-Epoxy-10-hydroxyicosa-5,8,14-trienoic acid	C20H32O4	336.2301	336.4657
+C14811	Trioxilin B3; (5Z,8Z,14Z)-(11R,12R)-10,11,12-Trihydroxyeicosa-5,8,14-trienoic acid; (5Z,8Z,14Z)-(11R,12R)-10,11,12-Trihydroxyicosa-5,8,14-trienoic acid	C20H34O5	354.2406	354.481
+C14812	12(R)-HPETE; (5Z,8Z,10E,14Z)-(12R)-12-Hydroperoxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12R)-12-Hydroperoxyicosa-5,8,10,14-tetraenoic acid	C20H32O4	336.2301	336.4657
+C14813	11H-14,15-EETA; 11-Hydroxy-14,15-EETA; 11-Hydroxy-14,15-epoxyeicosatrienoic acid; (5Z,8Z,12E)-14,15-Epoxy-11-hydroxyeicosa-5,8,12-trienoic acid; (5Z,8Z,12E)-14,15-Epoxy-11-hydroxyicosa-5,8,12-trienoic acid	C20H32O4	336.2301	336.4657
+C14814	11,14,15-THETA; 11,14,15-Trihydroxyicosatrienoic acid; (5Z,8Z,12E)-11,14,15-Trihydroxyeicosa-5,8,12-trienoic acid; (5Z,8Z,12E)-11,14,15-Trihydroxyicosa-5,8,12-trienoic acid	C20H34O5	354.2406	354.481
+C14815	5,6-Epoxytetraene; (7E,9E,11Z,13E)-(5S,6S,15S)-5,6-Epoxy-15-hydroxyeicosa-7,9,11,13-tetraenoic acid; (7E,9E,11Z,13E)-(5S,6S,15S)-5,6-Epoxy-15-hydroxyicosa-7,9,11,13-tetraenoic acid	C20H30O4	334.2144	334.4498
+C14820	11(R)-HPETE; (5Z,8Z,12E,14Z)-(11R)-Hydroperoxyeicosa-5,8,12,14-tetraenoic acid; (5Z,8Z,12E,14Z)-(11R)-Hydroperoxyicosa-5,8,12,14-tetraenoic acid	C20H32O4	336.2301	336.4657
+C14821	9(S)-HPETE; (5Z,7E,11Z,14Z)-(9S)-9-Hydroperoxyeicosa-5,7,11,14-tetraenoic acid; (5Z,7E,11Z,14Z)-(9S)-9-Hydroperoxyicosa-5,7,11,14-tetraenoic acid	C20H32O4	336.2301	336.4657
+C14822	12(R)-HETE; (5Z,8Z,10E,14Z)-(12R)-12-Hydroxyeicosa-5,8,10,14-tetraenoic acid; (5Z,8Z,10E,14Z)-(12R)-12-Hydroxyicosa-5,8,10,14-tetraenoic acid	C20H32O3	320.2351	320.4663
+C14823	8(S)-HPETE; (5Z,9E,11Z,14Z)-(8S)-8-Hydroperoxyeicosa-5,9,11,14-tetraenoic acid; (5Z,9E,11Z,14Z)-(8S)-8-Hydroperoxyicosa-5,9,11,14-tetraenoic acid	C20H32O4	336.2301	336.4657
+C14824	8(R)-HETE; (5Z,9E,11Z,14Z)-(8R)-8-Hydroxyeicosa-5,9,11,14-tetraenoate; (5Z,9E,11Z,14Z)-(8R)-8-Hydroxyicosa-5,9,11,14-tetraenoate; (5Z,9E,11Z,14Z)-(8R)-8-Hydroxyeicosa-5,9,11,14-tetraenoic acid; (5Z,9E,11Z,14Z)-(8R)-8-Hydroxyicosa-5,9,11,14-tetraenoic acid	C20H32O3	320.2351	320.4663

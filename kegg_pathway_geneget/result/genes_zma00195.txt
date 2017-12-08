@@ -1,0 +1,100 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+845199	-	Zm00001d028360	K02703	EC1.10.3.9	photosystem II protein D1
+845200	-	Zm00001d028360	K02704	-	photosystem II P680 chlorophyll A apoprotein
+845201	-	Zm00001d028360	K02705	-	PSII 43 kDa protein
+845202	-	Zm00001d028360	K02706	EC1.10.3.9	photosystem II protein D2
+845203	-	Zm00001d028360	K02707	-	cytochrome b559 alpha subunit
+845204	-	Zm00001d028360	K02708	-	photosystem II reaction center subunit VI
+845205	-	Zm00001d028360	K02709	-	photosystem II reaction center protein H
+845206	-	Zm00001d028360	K02710	-	photosystem II protein I
+845207	-	Zm00001d028360	K02711	-	photosystem II reaction center subunit X
+845208	-	Zm00001d028360	K02712	-	PSII K protein
+845209	-	Zm00001d028360	K02713	-	PSII reaction center subunit XII
+845210	-	Zm00001d028360	K02714	-	photosystem II protein M
+100191684	GRMZM2G113349	Zm00001d014564	K02716	-	uncharacterized LOC100191684
+100272890	GRMZM2G175562	Zm00001d036535	K02716	-	oxygen-evolving enhancer protein 1
+100281199	GRMZM2G176840	Zm00001d027422	K02717	-	chloroplast oxygen-evolving complex/thylakoid lumenal 25.6kDa protein
+100273117	GRMZM2G047954	Zm00001d018779	K02717	-	oxygen-evolving enhancer protein 2, chloroplastic
+107648855	GRMZM2G016677	Zm00001d007857	K02717	-	Oxygen-evolving enhancer protein 2-1 chloroplastic
+542279	GRMZM2G021617	Zm00001d021703	K08901	-	oxygen-evolving enhancer protein 3-1, chloroplast
+100273120	GRMZM2G436986	-	K08901	-	oxygen evolving enhancer protein 3 containing protein
+103647735	GRMZM5G804323	-	K08901	-	oxygen-evolving enhancer protein 3-1, chloroplastic-like
+103653672	GRMZM2G021256	Zm00001d050889	K08901	-	photosynthetic NDH subunit of lumenal location 2, chloroplastic
+103627333	GRMZM5G870219	Zm00001d016943	K08901	-	photosynthetic NDH subunit of lumenal location 2, chloroplastic-like
+100281646	GRMZM2G174984	Zm00001d049387	K03541	-	photosystem II3
+542126	GRMZM2G077333	Zm00001d042697	K03542	-	photosystem II subunit PsbS1
+1466364	-	Zm00001d028360	K02718	-	photosystem II protein T
+100283816	-	Zm00001d043299	K02721	-	uncharacterized LOC100283816
+100283835	GRMZM6G650316	Zm00001d010715	K02721	-	uncharacterized LOC100283835
+100280994	GRMZM2G134130	Zm00001d035135	K02723	-	photosystem II core complex proteins psbY
+100281349	GRMZM2G308944	Zm00001d049650	K02723	-	photosystem II core complex proteins psbY
+1466358	-	Zm00001d028360	K02724	-	photosystem II reaction center Z protein
+100282043	GRMZM2G056424	-	K08902	-	photosystem II 11 kD protein
+100281235	GRMZM2G005984	Zm00001d047532	K08902	-	photosystem II 11 kD protein
+103650783	GRMZM2G175804	Zm00001d000409	K08903	-	photosystem II reaction center PSB28 protein, chloroplastic-like
+100284876	GRMZM2G132506	Zm00001d042178	K08903	-	photosystem II reaction center W protein
+103636309	GRMZM2G005433	-	K08903	-	photosystem II reaction center PSB28 protein, chloroplastic-like
+103650780	GRMZM2G025070	Zm00001d042172	K08903	-	photosystem II reaction center PSB28 protein, chloroplastic-like
+109945128	GRMZM2G455676	Zm00001d042175	K08903	-	photosystem II reaction center PSB28 protein, chloroplastic-like
+845195	-	Zm00001d028360	K02689	-	PSI P700 apoprotein A1
+845196	-	Zm00001d028360	K02690	-	PSI P700 apoprotein A2
+1466379	-	Zm00001d028360	K02691	-	photosystem I iron-sulfur center
+100191984	GRMZM2G013342	Zm00001d034543	K02692	-	photosystem I reaction center subunit II
+541791	GRMZM2G024150	Zm00001d013039	K02692	-	photosystem I subunit d1
+100283327	GRMZM2G016066	Zm00001d005446	K02693	-	photosystem I reaction center subunit IV A
+100283085	GRMZM2G016622	-	K02693	-	uncharacterized LOC100283085
+100282027	GRMZM2G017290	Zm00001d034283	K02694	-	photosystem I reaction center subunit III
+103625835	GRMZM2G085646	Zm00001d013146	K02694	-	photosystem I reaction center subunit III, chloroplastic
+100285458	GRMZM2G329047	Zm00001d005996	K08905	-	photosystem I reaction center subunit V
+100284847	GRMZM2G377855	Zm00001d020877	K08905	-	photosystem I reaction center subunit V
+541685	GRMZM2G451224	Zm00001d038984	K02695	-	photosystem I H subunit 1
+845197	-	Zm00001d028360	K02696	-	psaI
+845198	-	Zm00001d028360	K02697	-	psaJ
+100286020	GRMZM2G012397	Zm00001d018797	K02698	-	photosystem I reaction center 6
+100281679	GRMZM2G094224	Zm00001d039687	K02699	-	photosystem I reaction center subunit XI
+100383080	GRMZM2G026015	Zm00001d008706	K02699	-	Photosystem I reaction center subunit XI chloroplastic
+542605	GRMZM2G080107	Zm00001d041819	K02701	-	photosystem I N subunit 1
+103640891	GRMZM2G009048	Zm00001d023713	K02701	-	photosystem I reaction center subunit N, chloroplastic-like
+100283848	GRMZM2G001653	Zm00001d003767	K14332	-	Photosystem I subunit O
+845191	-	Zm00001d028360	K02634	-	apocytochrome f precursor
+103643185	-	-	K02634	-	cytochrome f
+845192	-	Zm00001d028360	K02635	-	cytochrome b6
+100273354	GRMZM2G162748	Zm00001d016134	K02636	EC1.10.9.1	iron-sulfur protein 2
+100273026	GRMZM2G038365	Zm00001d053432	K02636	EC1.10.9.1	cytochrome b6-f complex iron-sulfur subunit
+845193	-	Zm00001d028360	K02637	-	cytochrome b6/f complex subunit 4
+845194	-	Zm00001d028360	K02640	-	cytochrome B6-F complex subunit 5
+1466360	-	Zm00001d028360	K03689	-	cytochrome b6/f complex subunit N
+103629356	GRMZM2G071450	Zm00001d035859	K02638	-	plastocyanin, chloroplastic
+100192779	-	Zm00001d045620	K02638	-	Plastocyanin major isoform chloroplastic
+100284745	GRMZM2G359127	Zm00001d033469	K02639	-	ferredoxin
+542276	GRMZM2G053458	Zm00001d034760	K02639	-	ferredoxin 3
+100191704	GRMZM2G146395	Zm00001d003797	K02639	-	Ferredoxin-3 chloroplastic
+541619	GRMZM2G048313	Zm00001d035003	K02639	-	ferredoxin 2
+100283643	GRMZM2G095826	Zm00001d025352	K02639	-	ferredoxin-3
+541612	GRMZM2G106190	Zm00001d038291	K02639	-	Ferredoxin-6, chloroplastic
+100382495	-	Zm00001d012293	K02639	-	putative ferredoxin-4 chloroplastic
+100281226	-	Zm00001d010136	K02639	-	ferredoxin-6
+101027099	GRMZM2G122337	Zm00001d035001	K02639	-	ferredoxin 1
+103628935	GRMZM2G122327	Zm00001d035002	K02639	-	ferredoxin 5
+103653165	GRMZM2G043162	Zm00001d049732	K02639	-	ferredoxin
+100282643	GRMZM2G059191	Zm00001d011833	K02641	EC1.18.1.2	ferredoxin--NADP reductase, leaf isozyme
+541626	GRMZM2G059083	Zm00001d042049	K02641	EC1.18.1.2	ferredoxin
+542558	GRMZM2G151993	Zm00001d045575	K02641	EC1.18.1.2	ferredoxin
+100194249	GRMZM2G011858	Zm00001d018794	K02641	EC1.18.1.2	Ferredoxin--NADP reductase
+103644035	GRMZM2G395728	Zm00001d034099	K02641	EC1.18.1.2	ferredoxin--NADP reductase, leaf isozyme, chloroplastic
+542713	GRMZM2G058760	Zm00001d034345	K02641	EC1.18.1.2	ferredoxin NADP reductase 1
+103650713	-	-	K02641	EC1.18.1.2	ferredoxin--NADP reductase, leaf isozyme 1, chloroplastic-like
+100382419	GRMZM5G897592	Zm00001d021825	K08906	-	cytochrome c6
+845171	-	Zm00001d028360	K02114	-	ATP synthase epsilon chain
+845170	-	Zm00001d028360	K02112	EC3.6.3.14	ATPase beta chain
+100284505	GRMZM2G048907	Zm00001d021620	K02115	-	ATP synthase chloroplast subunit2
+103655982	-	-	K02115	-	ATP synthase subunit gamma, chloroplastic-like
+103637166	-	Zm00001d010316	K02115	-	ATP synthase subunit gamma, chloroplastic-like
+103649250	GRMZM2G336839	Zm00001d006475	K02115	-	ATP synthase subunit gamma, chloroplastic-like
+845169	-	Zm00001d028360	K02111	EC3.6.3.14	ATP synthase CF1 alpha chain
+100281924	GRMZM2G025171	Zm00001d052242	K02113	-	ATP synthase delta chain
+103627748	GRMZM5G862663	Zm00001d018069	K02113	-	ATP synthase delta chain, chloroplastic
+100282566	GRMZM5G825759	Zm00001d047789	K02109	-	uncharacterized LOC100282566
+845172	-	Zm00001d028360	K02109	-	ATPase subunit I
+845173	-	Zm00001d028360	K02110	-	ATPase III subunit
+845174	-	Zm00001d028360	K02108	-	ATPase IV subunit

@@ -1,0 +1,79 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00146	Phenol; Benzenol; Hydroxybenzene; Phenic acid; Phenylic acid	C6H6O	94.0419	94.1112
+C00164	Acetoacetate; 3-Oxobutanoic acid; beta-Ketobutyric acid; Acetoacetic acid	C4H6O3	102.0317	102.0886
+C00232	Succinate semialdehyde; Succinic semialdehyde; 4-Oxobutanoate	C4H6O3	102.0317	102.0886
+C00355	3,4-Dihydroxy-L-phenylalanine; L-Dopa; 3-Hydroxy-L-tyrosine; L-beta-(3,4-Dihydroxyphenyl)alanine; Levodopa; Dihydroxy-L-phenylalanine	C9H11NO4	197.0688	197.1879
+C00483	Tyramine; 2-(p-Hydroxyphenyl)ethylamine	C8H11NO	137.0841	137.179
+C00530	Hydroquinone; p-Benzenediol; 1,4-Benzenediol; 1,4-Dihydroxybenzene; Benzene-1,4-diol; Quinol; 4-Hydroxyphenol	C6H6O2	110.0368	110.1106
+C00544	Homogentisate; Homogentisic acid; 2,5-Dihydroxyphenylacetic acid; 2,5-Dihydroxyphenylacetate	C8H8O4	168.0423	168.1467
+C00547	L-Noradrenaline; Noradrenaline; Norepinephrine; Arterenol; 4-[(1R)-2-Amino-1-hydroxyethyl]-1,2-benzenediol	C8H11NO3	169.0739	169.1778
+C00628	2,5-Dihydroxybenzoate; 2,5-Dihydroxybenzoic acid; Gentisic acid; Hydroquinonecarboxylic acid; Gentisate	C7H6O4	154.0266	154.1201
+C00642	4-Hydroxyphenylacetate; 4-Hydroxyphenylacetic acid	C8H8O3	152.0473	152.1473
+C00788	L-Adrenaline; (R)-(-)-Adrenaline; (R)-(-)-Epinephrine; (R)-(-)-Epirenamine; (R)-(-)-Adnephrine; 4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol	C9H13NO3	183.0895	183.2044
+C00811	4-Coumarate; p-Coumaric acid; trans-4-Hydroxycinnamate; trans-p-Hydroxycinnamate; 4-Hydroxycinnamic acid; 4-Hydroxycinnamate	C9H8O3	164.0473	164.158
+C00822	Dopaquinone	C9H9NO4	195.0532	195.1721
+C01036	4-Maleylacetoacetate; 4-Maleylacetoacetic acid	C8H8O6	200.0321	200.1455
+C01060	3,5-Diiodo-L-tyrosine; 3,5-Diiodotyrosine; L-Diiodotyrosine	C9H9I2NO3	432.8672	432.9816
+C01061	4-Fumarylacetoacetate; 4-Fumarylacetoacetic acid; Fumarylacetoacetate	C8H8O6	200.0321	200.1455
+C01161	3,4-Dihydroxyphenylacetate; 3,4-Dihydroxyphenylacetic acid; Homoprotocatechuate	C8H8O4	168.0423	168.1467
+C01179	3-(4-Hydroxyphenyl)pyruvate; 4-Hydroxyphenylpyruvate; p-Hydroxyphenylpyruvic acid	C9H8O4	180.0423	180.1574
+C01207	3-(3,4-Dihydroxyphenyl)lactate; 3,4-Dihydroxyphenyllactic acid	C9H10O5	198.0528	198.1727
+C01384	Maleic acid; Maleate; cis-Butenedioic acid	C4H4O4	116.011	116.0722
+C01693	L-Dopachrome; 2-L-Carboxy-2,3-dihydroindole-5,6-quinone	C9H7NO4	193.0375	193.1562
+C01829	Thyroxine; Levothyroxin; L-Thyroxine; O-(4-Hydroxy-3,5-diidophenyl)-3,5-diiodo-L-tyrosine; 3,5,3'5'-Tetraiodo-L-thyronine; T4	C15H11I4NO4	776.6867	776.87
+C01850	Rosmarinate; Rosmarinic acid	C18H16O8	360.0845	360.3148
+C02167	Maleylpyruvate; Maleylpyruvic acid; 3-Maleylpyruvate	C7H6O6	186.0164	186.1189
+C02442	N-Methyltyramine	C9H13NO	151.0997	151.2056
+C02465	Triiodothyronine; 3,3',5-Triiodo-L-thyronine; L-3,5,3'-Triiodothyronine; 3,5,3'-Triiodothyronine; Liothyronine; 3,5,3'-Triiodo-L-thyronine; T3	C15H12I3NO4	650.79	650.9735
+C02514	3-Fumarylpyruvate	C7H6O6	186.0164	186.1189
+C02515	3-Iodo-L-tyrosine	C9H10INO3	306.9705	307.0851
+C03063	2-Oxohept-3-enedioate; 2-Oxohept-3-ene-1,7-dioate	C7H8O5	172.0372	172.1354
+C03077	4-Chlorophenylacetate; 4-Chlorophenylacetic acid	C8H7ClO2	170.0135	170.593
+C03672	3-(4-Hydroxyphenyl)lactate; 4-Hydroxyphenyllactate; p-Hydroxyphenyllactate; 2-Hydroxy-3-(4-hydroxyphenyl)propanoate	C9H10O4	182.0579	182.1733
+C03758	Dopamine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)benzene-1,2-diol; 3,4-Dihydroxyphenethylamine; 2-(3,4-Dihydroxyphenyl)ethylamine	C8H11NO2	153.079	153.1784
+C03765	4-Hydroxyphenylacetaldehyde; 2-(4-Hydroxyphenyl)acetaldehyde	C8H8O2	136.0524	136.1479
+C04043	3,4-Dihydroxyphenylacetaldehyde; Protocatechuatealdehyde	C8H8O3	152.0473	152.1473
+C04045	3-(3,4-Dihydroxyphenyl)pyruvate; 3,4-Dihydroxyphenylpyruvate	C9H8O5	196.0372	196.1568
+C04052	5-Carboxy-2-oxohept-3-enedioate; 5-Oxopent-3-ene-1,2,5-tricarboxylate	C8H8O7	216.027	216.1449
+C04185	5,6-Dihydroxyindole-2-carboxylate; DHICA	C9H7NO4	193.0375	193.1562
+C04186	5-Carboxymethyl-2-hydroxymuconate	C8H8O7	216.027	216.1449
+C04368	3-Amino-3-(4-hydroxyphenyl)propanoate; beta-Tyrosine	C9H11NO3	181.0739	181.1885
+C04642	2-Hydroxy-5-carboxymethylmuconate semialdehyde; 5-Carboxymethyl-2-hydroxymuconate semialdehyde; 5-Carboxymethyl-2-hydroxymuconic semialdehyde	C8H8O6	200.0321	200.1455
+C04796	4-(L-Alanin-3-yl)-2-hydroxy-cis,cis-muconate 6-semialdehyde	C9H11NO6	229.0586	229.1867
+C04797	5-(L-Alanin-3-yl)-2-hydroxy-cis,cis-muconate 6-semialdehyde	C9H11NO6	229.0586	229.1867
+C05338	4-Hydroxyphenylacetyl-CoA	C29H42N7O18P3S	901.152	901.6662
+C05350	2-Hydroxy-3-(4-hydroxyphenyl)propenoate; 4-Hydroxy-enol-phenylpyruvate	C9H8O4	180.0423	180.1574
+C05576	3,4-Dihydroxyphenylethyleneglycol	C8H10O4	170.0579	170.1626
+C05577	3,4-Dihydroxymandelaldehyde; 3,4-Dihydroxyphenylglycolaldehyde	C8H8O4	168.0423	168.1467
+C05578	5,6-Dihydroxyindole; DHI	C8H7NO2	149.0477	149.1467
+C05579	Indole-5,6-quinone	C8H5NO2	147.032	147.1308
+C05580	3,4-Dihydroxymandelate; 3,4-Dihydroxymandelic acid; Dihydroxymandelic acid	C8H8O5	184.0372	184.1461
+C05581	3-Methoxy-4-hydroxyphenylacetaldehyde; (4-Hydroxy-3-methoxyphenyl)acetaldehyde; Homovanillin	C9H10O3	166.063	166.1739
+C05582	Homovanillate; Homovanillic acid; 3-Methoxy-4-hydroxyphenylacetate	C9H10O4	182.0579	182.1733
+C05583	3-Methoxy-4-hydroxyphenylglycolaldehyde	C9H10O4	182.0579	182.1733
+C05584	3-Methoxy-4-hydroxymandelate; Vanillylmandelic acid	C9H10O5	198.0528	198.1727
+C05585	Gentisate aldehyde; 2,5-Dihydroxybenzaldehyde	C7H6O3	138.0317	138.1207
+C05587	3-Methoxytyramine	C9H13NO2	167.0946	167.205
+C05588	L-Metanephrine	C10H15NO3	197.1052	197.231
+C05589	L-Normetanephrine	C9H13NO3	183.0895	183.2044
+C05593	3-Hydroxyphenylacetate; 3-Hydroxyphenylacetic acid	C8H8O3	152.0473	152.1473
+C05594	3-Methoxy-4-hydroxyphenylethyleneglycol	C9H12O4	184.0736	184.1892
+C05595	4-Hydroxyphenylacetylglutamic acid; p-Hydroxyphenylacetylglutamic acid; 4-Hydroxyphenylacetylglutamate; p-Hydroxyphenylacetylglutamate	C13H15NO6	281.0899	281.2613
+C05596	p-Hydroxyphenylacetylglycine; 4-Hydroxyphenylacetylglycine	C10H11NO4	209.0688	209.1986
+C05600	2-Hydroxyhepta-2,4-dienedioate; 2-Hydroxyhepta-2,4-diene-1,7-dioate	C7H8O5	172.0372	172.1354
+C05604	2-Carboxy-2,3-dihydro-5,6-dihydroxyindole; Leucodopachrome; cyclo-Dopa	C9H9NO4	195.0532	195.1721
+C06044	4-Hydroxyphenylethanol; Tyrosol	C8H10O2	138.0681	138.1638
+C06046	Salidroside; p-Hydroxyphenethyl alcohol 1-O-beta-D-glucoside; Tyrosol glucoside	C14H20O7	300.1209	300.3044
+C06047	Stizolobate; Stizolobic acid	C9H9NO6	227.043	227.1709
+C06048	Stizolobinate; Stizolobinic acid	C9H9NO6	227.043	227.1709
+C06199	Hordenine; 4-[2-(Dimethylamino)ethyl]phenol	C10H15NO	165.1154	165.2322
+C06201	2,4-Dihydroxyhept-2-enedioate; 2,4-Dihydroxyhept-2-1,7-dioate; 2,4-Dihydroxyhept-2-enedioic acid	C7H10O6	190.0477	190.1507
+C10447	3,4-Dihydroxyphenylpropanoate; Dihydrocaffeic acid; 3,4-Dihydroxyphenylpropionic acid; 3-(3,4-Dihydroxyphenyl)propanoate	C9H10O4	182.0579	182.1733
+C17935	Cysteinyldopa; 5-S-Cysteinyl-DOPA	C12H16N2O6S	316.0729	316.3302
+C17936	Phaeomelanin	C12H16N2O6S	316.0729	316.3302
+C17937	Eumelanin	C12H16N2O6S	316.0729	316.3302
+C17938	5,6-Indolequinone-2-carboxylic acid	C9H5NO4	191.0219	191.1403

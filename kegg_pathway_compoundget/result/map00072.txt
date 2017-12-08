@@ -1,0 +1,7 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00164	Acetoacetate; 3-Oxobutanoic acid; beta-Ketobutyric acid; Acetoacetic acid	C4H6O3	102.0317	102.0886
+C00207	Acetone; Dimethyl ketone; 2-Propanone	C3H6O	58.0419	58.0791
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00356	(S)-3-Hydroxy-3-methylglutaryl-CoA; Hydroxymethylglutaryl-CoA; Hydroxymethylglutaroyl coenzyme A; HMG-CoA; 3-Hydroxy-3-methylglutaryl-CoA	C27H44N7O20P3S	911.1575	911.6594
+C01089	(R)-3-Hydroxybutanoate; (R)-3-Hydroxybutanoic acid; (R)-3-Hydroxybutyric acid; D-beta-Hydroxybutyric acid	C4H8O3	104.0473	104.1045

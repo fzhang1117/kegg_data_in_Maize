@@ -1,0 +1,43 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00068	Thiamin diphosphate; Thiamine diphosphate; Thiamin pyrophosphate; TPP; ThPP	C12H19N4O7P2S	425.045	425.3144
+C00091	Succinyl-CoA; Succinyl coenzyme A	C25H40N7O19P3S	867.1313	867.6069
+C00100	Propanoyl-CoA; Propionyl-CoA; Propionyl coenzyme A	C24H40N7O17P3S	823.1414	823.5974
+C00123	L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	C6H13NO2	131.0946	131.1729
+C00141	3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	C5H8O3	116.0473	116.1152
+C00164	Acetoacetate; 3-Oxobutanoic acid; beta-Ketobutyric acid; Acetoacetic acid	C4H6O3	102.0317	102.0886
+C00183	L-Valine; 2-Amino-3-methylbutyric acid	C5H11NO2	117.079	117.1463
+C00233	4-Methyl-2-oxopentanoate; 2-Oxoisocaproate	C6H10O3	130.063	130.1418
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00349	2-Methyl-3-oxopropanoate; 3-Oxo-2-methylpropanoate; Methylmalonate semialdehyde	C4H6O3	102.0317	102.0886
+C00356	(S)-3-Hydroxy-3-methylglutaryl-CoA; Hydroxymethylglutaryl-CoA; Hydroxymethylglutaroyl coenzyme A; HMG-CoA; 3-Hydroxy-3-methylglutaryl-CoA	C27H44N7O20P3S	911.1575	911.6594
+C00407	L-Isoleucine; 2-Amino-3-methylvaleric acid	C6H13NO2	131.0946	131.1729
+C00630	2-Methylpropanoyl-CoA; 2-Methylpropionyl-CoA; Isobutyryl-CoA	C25H42N7O17P3S	837.1571	837.624
+C00671	(S)-3-Methyl-2-oxopentanoic acid; (S)-3-Methyl-2-oxopentanoate; (3S)-3-Methyl-2-oxopentanoic acid; (3S)-3-Methyl-2-oxopentanoate	C6H10O3	130.063	130.1418
+C00683	(S)-Methylmalonyl-CoA; (S)-Methylmalonyl-coenzyme A; (2S)-Methylmalonyl-CoA; D-Methylmalonyl-CoA	C25H40N7O19P3S	867.1313	867.6069
+C01205	(R)-3-Amino-2-methylpropanoate; (R)-3-Aminoisobutyrate; D-3-Aminoisobutanoate; (R)-beta-Aminoisobutyrate	C4H9NO2	103.0633	103.1198
+C01213	(R)-Methylmalonyl-CoA; L-Methylmalonyl-CoA	C25H40N7O19P3S	867.1313	867.6069
+C02170	Methylmalonate; Methylmalonic acid	C4H6O4	118.0266	118.088
+C02939	3-Methylbutanoyl-CoA; Isovaleryl-CoA	C26H44N7O17P3S	851.1727	851.6505
+C03069	3-Methylcrotonyl-CoA; 3-Methylbut-2-enoyl-CoA; 3-Methylcrotonoyl-CoA; Dimethylacryloyl-CoA	C26H42N7O17P3S	849.1571	849.6347
+C03231	3-Methylglutaconyl-CoA; trans-3-Methylglutaconyl-CoA; (E)-3-Methylglutaconyl-1-CoA	C27H42N7O19P3S	893.1469	893.6442
+C03284	L-3-Aminoisobutanoate; (S)-3-Aminoisobutyrate; L-3-Aminoisobutyrate; (S)-3-Aminoisobutanoate; (S)-3-Amino-2-methylpropanoate; (S)-beta-Aminoisobutyrate	C4H9NO2	103.0633	103.1198
+C03344	2-Methylacetoacetyl-CoA; 2-Methyl-3-acetoacetyl-CoA	C26H42N7O18P3S	865.152	865.6341
+C03345	2-Methylbut-2-enoyl-CoA; trans-2-Methylbut-2-enoyl-CoA; Tiglyl-CoA; (E)-2-Methylcrotonoyl-CoA; Methylcrotonoyl-CoA; Methylcrotonyl-CoA; Tigloyl-CoA; 2-Methylcrotanoyl-CoA	C26H42N7O17P3S	849.1571	849.6347
+C03460	2-Methylprop-2-enoyl-CoA; Methacrylyl-CoA; Methylacrylyl-CoA	C25H40N7O17P3S	835.1414	835.6081
+C04405	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA; (S)-3-Hydroxy-2-methylbutyryl-CoA	C26H44N7O18P3S	867.1676	867.6499
+C05996	Branched chain fatty acid	C26H44N7O18P3S	867.1676	867.6499
+C05998	3-Hydroxyisovaleryl-CoA; 3-Hydroxyisovaleryl coenzyme A	C26H44N7O18P3S	867.1676	867.6499
+C06000	(S)-3-Hydroxyisobutyryl-CoA	C25H42N7O18P3S	853.152	853.6234
+C06001	(S)-3-Hydroxyisobutyrate	C4H8O3	104.0473	104.1045
+C06002	(S)-Methylmalonate semialdehyde	C4H6O3	102.0317	102.0886
+C15972	Enzyme N6-(lipoyl)lysine; Lipoamide-E	C8H14NOS2R	102.0317	102.0886
+C15973	Enzyme N6-(dihydrolipoyl)lysine; Dihydrolipoamide-E	C8H16NOS2R	102.0317	102.0886
+C15974	3-Methyl-1-hydroxybutyl-ThPP; 3-Methyl-1-hydroxybutyl-TPP	C17H29N4O8P2S	511.1181	511.4467
+C15975	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(3-methylbutanoyl)dihydrolipoyllysine; S-(3-Methylbutanoyl)-dihydrolipoamide-E	C13H24NO2S2R	511.1181	511.4467
+C15976	2-Methyl-1-hydroxypropyl-ThPP; 2-Methyl-1-hydroxypropyl-TPP	C16H27N4O8P2S	497.1025	497.4201
+C15977	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylpropanoyl)dihydrolipoyllysine; S-(2-Methylpropanoyl)-dihydrolipoamide-E; S-(2-Methylpropionyl)-dihydrolipoamide-E; Enzyme N6-(S-[2-methylpropanoyl]dihydrolipoyl)lysine	C12H22NO2S2R	497.1025	497.4201
+C15978	2-Methyl-1-hydroxybutyl-ThPP; 2-Methyl-1-hydroxybutyl-TPP	C17H29N4O8P2S	511.1181	511.4467
+C15979	[Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase] S-(2-methylbutanoyl)dihydrolipoyllysine; S-(2-Methylbutanoyl)-dihydrolipoamide-E	C13H24NO2S2R	511.1181	511.4467
+C15980	(S)-2-Methylbutanoyl-CoA	C26H44N7O17P3S	851.1727	851.6505
+C20827	3-Hydroxyisovalerate; 3-Hydroxy-3-methylbutyrate	C5H10O3	118.063	118.1311

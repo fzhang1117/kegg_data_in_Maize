@@ -1,0 +1,26 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00154	Palmitoyl-CoA; Hexadecanoyl-CoA	C37H66N7O17P3S	1005.3449	1005.9429
+C00195	N-Acylsphingosine; Ceramide; N-Acylsphing-4-enine; (4E)-Sphing-4-enine ceramide	C19H36NO3R	1005.3449	1005.9429
+C00319	Sphingosine; Sphingenine; Sphingoid; Sphing-4-enine	C18H37NO2	299.2824	299.4919
+C00346	Ethanolamine phosphate; O-Phosphorylethanolamine; Phosphoethanolamine; O-Phosphoethanolamine	C2H8NO4P	141.0191	141.063
+C00550	Sphingomyelin	C24H49N2O6PR	141.0191	141.063
+C00836	Sphinganine; Dihydrosphingosine; 2-Amino-1,3-dihydroxyoctadecane	C18H39NO2	301.2981	301.5078
+C01120	Sphinganine 1-phosphate; Dihydrosphingosine 1-phosphate	C18H40NO5P	381.2644	381.4877
+C01190	beta-D-Glucosyl-(1<->1)-ceramide; Glucosylceramide; Glucocerebroside; D-Glucosyl-N-acylsphingosine	C25H46NO8R	381.2644	381.4877
+C01290	beta-D-Galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide; beta-D-Galactosyl-1,4-beta-D-glucosylceramide; Lactosylceramide; Gal-beta1->4Glc-beta1->1'Cer; LacCer; Lactosyl-N-acylsphingosine; D-Galactosyl-1,4-beta-D-glucosylceramide	C31H56NO13R	381.2644	381.4877
+C01747	Psychosine; Galactosylsphingosine; O-Galactosylsphingosine	C24H47NO7	461.3353	461.6325
+C02686	Galactosylceramide; Galactocerebroside; D-Galactosyl-N-acylsphingosine; Cerebroside; D-Galactosylceramide	C25H46NO8R	461.3353	461.6325
+C02934	3-Dehydrosphinganine; 3-Dehydro-D-sphinganine	C18H37NO2	299.2824	299.4919
+C02960	Ceramide 1-phosphate; Ceramide phosphate	C19H37NO6PR	299.2824	299.4919
+C03640	Sphingosyl-phosphocholine	C23H50N2O5P	465.3457	465.6273
+C05681	Ceramide 2-aminoethylphosphonate; Ceramide ciliatine	C21H42N2O5PR	465.3457	465.6273
+C06062	Ceramide phosphoethanolamine	C21H42N2O6PR	465.3457	465.6273
+C06124	Sphingosine 1-phosphate; Sphing-4-enine 1-phosphate; S1P	C18H38NO5P	379.2488	379.4718
+C06125	Sulfatide; Galactosylceramide sulfate; Cerebroside 3-sulfate	C25H46NO11SR	379.2488	379.4718
+C06126	Digalactosylceramide; Gal-alpha1->4Gal-beta1->1'Cer	C31H56NO13R	379.2488	379.4718
+C06127	Digalactosylceramide sulfate	C31H56NO16SR	379.2488	379.4718
+C06128	GM4; N-Acetylneuraminyl-galactosylceramide; Neu5Ac-alpha2->3Gal-beta1->1'Cer	C36H63N2O16R	379.2488	379.4718
+C12126	Dihydroceramide; N-Acylsphinganine	C19H38NO3R	379.2488	379.4718
+C12144	Phytosphingosine; 4-D-Hydroxysphinganine	C18H39NO3	317.293	317.5072
+C12145	Phytoceramide; Ceramide II; N-Acyl-4-hydroxysphinganine; (4R)-4-Hydroxysphinganine ceramide	C19H38NO4R	317.293	317.5072

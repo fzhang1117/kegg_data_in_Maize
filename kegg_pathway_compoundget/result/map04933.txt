@@ -1,0 +1,11 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00031	D-Glucose; Grape sugar; Dextrose; Glucose; D-Glucopyranose	C6H12O6	180.0634	180.1559
+C00076	Calcium cation; Ca2+; Calcium(2+); Calcium ion	Ca	39.9626	40.078
+C00165	Diacylglycerol; Diglyceride	C5H6O5R2	39.9626	40.078
+C00195	N-Acylsphingosine; Ceramide; N-Acylsphing-4-enine; (4E)-Sphing-4-enine ceramide	C19H36NO3R	39.9626	40.078
+C01245	D-myo-Inositol 1,4,5-trisphosphate; 1D-myo-Inositol 1,4,5-trisphosphate; Inositol 1,4,5-trisphosphate; Ins(1,4,5)P3	C6H15O15P3	419.9624	420.0956
+C02135	Angiotensin II; Angiotensin; Angiotonin; Hypertensin	C50H71N13O12	1045.5345	1046.1786
+C21011	[Protein]-N(epsilon)-(carboxymethyl)lysine; CML-R	C9H14N3O3R2	1045.5345	1046.1786
+C21012	[Protein]-N(epsilon)-(carboxyethyl)lysine; CEL-R	C10H16N3O3R2	1045.5345	1046.1786
+C21013	[Protein]-pyrraline; Pyrraline-R	C13H16N3O3R2	1045.5345	1046.1786
+C21014	[Protein]-pentosidine; Pentosidine-R	C19H26N8O4R4	1045.5345	1046.1786

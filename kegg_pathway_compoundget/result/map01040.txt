@@ -1,0 +1,55 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00154	Palmitoyl-CoA; Hexadecanoyl-CoA	C37H66N7O17P3S	1005.3449	1005.9429
+C00219	Arachidonate; Arachidonic acid; (5Z,8Z,11Z,14Z)-Icosatetraenoic acid; cis-5,8,11,14-Eicosatetraenoic acid	C20H32O2	304.2402	304.4669
+C00249	Hexadecanoic acid; Hexadecanoate; Hexadecylic acid; Palmitic acid; Palmitate; Cetylic acid	C16H32O2	256.2402	256.4241
+C00412	Stearoyl-CoA; Stearyl-CoA; Stearyl coenzyme A	C39H70N7O17P3S	1033.3762	1033.9961
+C00510	Oleoyl-CoA; (9Z)-Octadecenoyl-CoA	C39H68N7O17P3S	1031.3605	1031.9802
+C00712	(9Z)-Octadecenoic acid; (Z)-Octadec-9-enoic acid; Oleate; Oleic acid	C18H34O2	282.2559	282.4614
+C01203	Oleoyl-[acyl-carrier protein]; Octadecenoyl-[acyl-carrier protein]; Octadecenoyl-[acp]	C18H33OSR	282.2559	282.4614
+C01530	Octadecanoic acid; Stearate; Stearic acid	C18H36O2	284.2715	284.4772
+C01595	Linoleate; Linoleic acid; (9Z,12Z)-Octadecadienoic acid; 9-cis,12-cis-Octadecadienoate; 9-cis,12-cis-Octadecadienoic acid	C18H32O2	280.2402	280.4455
+C02041	Eicosanoyl-CoA; Icosanoyl-CoA; Arachidoyl-CoA	C41H74N7O17P3S	1061.4075	1062.0492
+C02050	Linoleoyl-CoA; (9Z,12Z)-Octadecadienoyl-CoA	C39H66N7O17P3S	1029.3449	1029.9643
+C02249	Arachidonyl-CoA; Arachidonoyl-CoA; (5Z,8Z,11Z,14Z)-Icosatetraenoyl-CoA	C41H66N7O17P3S	1053.3449	1053.9857
+C03035	gamma-Linolenoyl-CoA	C39H64N7O17P3S	1027.3292	1027.9484
+C03242	(8Z,11Z,14Z)-Icosatrienoic acid; Dihomo-gamma-linolenic acid; (Z,Z,Z)-8,11,14-Eicosatrienoic acid; (Z,Z,Z)-8,11,14-Icosatrienoic acid; (Z,Z,Z)-8,11,14-Eicosatrienoate; (Z,Z,Z)-8,11,14-Icosatrienoate; 8,11,14-Eicosatrienoate; 8,11,14-Icosatrienoate	C20H34O2	306.2559	306.4828
+C03595	8,11,14-Eicosatrienoyl-CoA; 8,11,14-Icosatrienoyl-CoA; (8Z,11Z,14Z)-Icosatrienoyl-CoA; (8Z,11Z,14Z)-Icosa-8,11,14-trienoyl-CoA	C41H68N7O17P3S	1055.3605	1056.0016
+C04088	Octadecanoyl-[acyl-carrier protein]; Stearoyl-[acyl-carrier protein]	C18H35OSR	1055.3605	1056.0016
+C05764	Hexadecanoyl-[acp]; Hexadecanoyl-[acyl-carrier protein]; Palmitoyl-[acyl-carrier protein]	C16H31OSR	1055.3605	1056.0016
+C06425	Icosanoic acid; Eicosanoic acid; Arachidic acid	C20H40O2	312.3028	312.5304
+C06426	(6Z,9Z,12Z)-Octadecatrienoic acid; 6,9,12-Octadecatrienoic acid; gamma-Linolenic acid; Gamolenic acid	C18H30O2	278.2246	278.4296
+C06427	(9Z,12Z,15Z)-Octadecatrienoic acid; alpha-Linolenic acid; 9,12,15-Octadecatrienoic acid; Linolenate; alpha-Linolenate	C18H30O2	278.2246	278.4296
+C06428	(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid; Eicosapentaenoic acid; 5,8,11,14,17-Icosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoate	C20H30O2	302.2246	302.451
+C06429	(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid; 4,7,10,13,16,19-Docosahexaenoic acid; Docosahexaenoic acid; Docosahexaenoate	C22H32O2	328.2402	328.4883
+C08281	Docosanoic acid; Docosanoate; Behenic acid	C22H44O2	340.3341	340.5836
+C08316	Erucic acid; (13Z)-Docosenoic acid; cis-13-Docosenoic acid	C22H42O2	338.3185	338.5677
+C08320	Tetracosanoic acid; Lignoceric acid	C24H48O2	368.3654	368.6367
+C08323	(15Z)-Tetracosenoic acid; Nervonic acid; (Z)-15-Tetracosenoic acid	C24H46O2	366.3498	366.6208
+C16160	Linoleoyl-[acyl-carrier protein]; Linoleoyl-ACP; (9Z,12Z)-Octadecadienoyl-[acyl-carrier protein]; (9Z,12Z)-Octadecadienoyl-ACP	C18H31OSR	366.3498	366.6208
+C16161	alpha-Linolenoyl-ACP; alpha-Linolenoyl-[acyl-carrier protein]; (9Z,12Z,15Z)-Octadecatrienoyl-ACP; (9Z,12Z,15Z)-Octadecatrienoyl-[acyl-carrier protein]	C18H29OSR	366.3498	366.6208
+C16162	(9Z,12Z,15Z)-Octadecatrienoyl-CoA; alpha-Linolenoyl-CoA	C39H64N7O17P3S	1027.3292	1027.9484
+C16163	(6Z,9Z,12Z,15Z)-Octadecatetraenoyl-CoA; Stearidonoyl-CoA	C39H62N7O17P3S	1025.3136	1025.9326
+C16164	(8Z,11Z,14Z,17Z)-Icosatetraenoyl-CoA; (8Z,11Z,14Z,17Z)-Icosa-8,11,14,17-tetraenoyl-CoA	C41H66N7O17P3S	1053.3449	1053.9857
+C16165	(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA; (5Z,8Z,11Z,14Z,17Z)-Icosa-5,8,11,14,17-pentaenoyl-CoA	C41H64N7O17P3S	1051.3292	1051.9698
+C16166	(7Z,10Z,13Z,16Z,19Z)-Docosapentaenoyl-CoA	C43H68N7O17P3S	1079.3605	1080.023
+C16167	(9Z,12Z,15Z,18Z,21Z)-Tetracosapentaenoyl-CoA	C45H72N7O17P3S	1107.3918	1108.0762
+C16168	(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA	C45H70N7O17P3S	1105.3762	1106.0603
+C16169	(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA	C43H66N7O17P3S	1077.3449	1078.0071
+C16170	(7Z,10Z,13Z,16Z)-Docosatetraenoyl-CoA	C43H70N7O17P3S	1081.3762	1082.0389
+C16171	(9Z,12Z,15Z,18Z)-Tetracosatetraenoyl-CoA	C45H74N7O17P3S	1109.4075	1110.092
+C16172	(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA	C45H72N7O17P3S	1107.3918	1108.0762
+C16173	(4Z,7Z,10Z,13Z,16Z)-Docosapentaenoyl-CoA	C43H68N7O17P3S	1079.3605	1080.023
+C16179	(11Z,14Z,17Z)-Icosatrienoyl-CoA; (11Z,14Z,17Z)-Icosa-11,14,17-trienoyl-CoA	C41H68N7O17P3S	1055.3605	1056.0016
+C16180	(11Z,14Z)-Icosadienoyl-CoA; (11Z,14Z)-Icosa-11,14-dienoyl-CoA	C41H70N7O17P3S	1057.3762	1058.0175
+C16513	(7Z,10Z,13Z,16Z,19Z)-Docosa-7,10,13,16,19-pentaenoic acid; Docosapentaenoic acid	C22H34O2	330.2559	330.5042
+C16522	Icosatrienoic acid; Eicosatrienoic acid; ETA; 11,14,17-Icosatrienoic acid; (11Z,14Z,17Z)-Icosa-11,14,17-trienoic acid; 11,14,17-Eicosatrienoic acid; (11Z,14Z,17Z)-Eicosa-11,14,17-trienoic acid	C20H34O2	306.2559	306.4828
+C16525	Icosadienoic acid; Eicosadienoic acid; 11,14-Icosadienoic acid; (11Z,14Z)-Icosa-11,14-dienoic acid; 11,14-Eicosadienoic acid; (11Z,14Z)-Eicosa-11,14-dienoic acid	C20H36O2	308.2715	308.4986
+C16526	Icosenoic acid; Eicosenoic acid; 11-Icosenoic acid; 11-Eicosenoic acid; (11Z)-Icosenoic acid; (11Z)-Eicosenoic acid; (Z)-Icosa-11-enoic acid	C20H38O2	310.2872	310.5145
+C16527	7,10,13,16-Docosatetraenoic acid; (7Z,10Z,13Z,16Z)-Docosa-7,10,13,16-tetraenoic acid; Adrenic acid	C22H36O2	332.2715	332.52
+C16528	Docosanoyl-CoA; Behenoyl-CoA	C43H78N7O17P3S	1089.4388	1090.1024
+C16529	Tetracosanoyl-CoA; Lignoceroyl-CoA	C45H82N7O17P3S	1117.4701	1118.1556
+C16530	Icosenoyl-CoA; Eicosenoyl-CoA; (11Z)-Icosenoyl-CoA; (11Z)-Eicosenoyl-CoA	C41H72N7O17P3S	1059.3918	1060.0334
+C16531	Docosenoyl-CoA; (13Z)-Docosenoyl-CoA	C43H76N7O17P3S	1087.4231	1088.0865
+C16532	Tetracosenoyl-CoA; Nervonoyl-CoA; (15Z)-Tetracosenoyl-CoA	C45H80N7O17P3S	1115.4544	1116.1397
+C16533	13,16-Docosadienoic acid; (13Z,16Z)-Docosa-13,16-dienoic acid	C22H40O2	336.3028	336.5518
+C16645	(13Z,16Z)-Docosadi-13,16-enoyl-CoA	C43H74N7O17P3S	1085.4075	1086.0706

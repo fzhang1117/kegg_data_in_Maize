@@ -1,0 +1,3 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+732800	GRMZM2G165390	Zm00001d045055	K12930	EC2.4.1.115	UDPG-flavonoid 3-oxy glucosyl transferase
+100192114	GRMZM2G015709	Zm00001d052492	K17193	EC2.4.2.51	Anthocyanidin 3-O-glucoside 2'''-O-xylosyltransferase

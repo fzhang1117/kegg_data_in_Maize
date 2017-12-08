@@ -1,0 +1,17 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00001	H2O; Water	H2O	18.0106	18.0153
+C00002	ATP; Adenosine 5'-triphosphate	C10H16N5O13P3	506.9957	507.181
+C00003	NAD+; NAD; Nicotinamide adenine dinucleotide; DPN; Diphosphopyridine nucleotide; Nadide; beta-NAD+	C21H28N7O14P2	664.1169	664.433
+C00004	NADH; DPNH; Reduced nicotinamide adenine dinucleotide	C21H29N7O14P2	665.1248	665.441
+C00007	Oxygen; O2	O2	31.9898	31.9988
+C00008	ADP; Adenosine 5'-diphosphate	C10H15N5O10P2	427.0294	427.2011
+C00009	Orthophosphate; Phosphate; Phosphoric acid; Orthophosphoric acid	H3PO4	97.9769	97.9952
+C00013	Diphosphate; Diphosphoric acid; Pyrophosphate; Pyrophosphoric acid; PPi	H4P2O7	177.9432	177.9751
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00061	FMN; Riboflavin-5-phosphate; Flavin mononucleotide	C17H21N4O9P	456.1046	456.3438
+C00080	H+; Hydron	H	1.0078	1.0079
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00390	Ubiquinol; QH2; CoQH2	C14H20O4(C5H8)n	116.011	116.0722
+C00399	Ubiquinone; Coenzyme Q; CoQ; Q	C14H18O4(C5H8)n	116.011	116.0722
+C00524	Cytochrome c; Holocytochrome c	C42H44FeN8O8S2R4	116.011	116.0722
+C00536	Triphosphate; Triphosphoric acid; Tripolyphosphate; Inorganic triphosphate	H5P3O10	257.9096	257.955

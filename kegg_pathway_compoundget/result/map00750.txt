@@ -1,0 +1,29 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00018	Pyridoxal phosphate; Pyridoxal 5-phosphate; Pyridoxal 5'-phosphate; PLP	C8H10NO6P	247.0246	247.1419
+C00118	D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	C3H7O6P	169.998	170.0578
+C00199	D-Ribulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00232	Succinate semialdehyde; Succinic semialdehyde; 4-Oxobutanoate	C4H6O3	102.0317	102.0886
+C00250	Pyridoxal	C8H9NO3	167.0582	167.162
+C00266	Glycolaldehyde; Hydroxyacetaldehyde	C2H4O2	60.0211	60.052
+C00279	D-Erythrose 4-phosphate	C4H9O7P	200.0086	200.0838
+C00314	Pyridoxine; Pyridoxol	C8H11NO3	169.0739	169.1778
+C00534	Pyridoxamine; PM	C8H12N2O2	168.0899	168.1931
+C00627	Pyridoxine phosphate; Pyridoxine 5-phosphate; Pyridoxine 5'-phosphate; Pyridoxol 5'-phosphate	C8H12NO6P	249.0402	249.1577
+C00647	Pyridoxamine phosphate; Pyridoxamine 5-phosphate; Pyridoxamine 5'-phosphate	C8H13N2O5P	248.0562	248.173
+C00847	4-Pyridoxate; 4-Pyridoxic acid	C8H9NO4	183.0532	183.1614
+C00971	4-Pyridoxolactone; 4-Pyridoxic acid lactone	C8H7NO3	165.0426	165.1461
+C01215	2-(Acetamidomethylene)succinate	C7H9NO5	187.0481	187.1501
+C01270	3-Hydroxy-2-methylpyridine-5-carboxylate	C7H7NO3	153.0426	153.1354
+C03393	4-Phospho-D-erythronate; 4-Phosphoerythronate	C4H9O8P	216.0035	216.0832
+C04106	2-(Hydroxymethyl)-4-oxobutanoate; alpha-Hydroxymethyl succinate semialdehyde; 2-Hydroxymethyl succinate semialdehyde	C5H8O4	132.0423	132.1146
+C04604	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	C8H7NO5	197.0324	197.1449
+C04690	2-(Hydroxymethyl)-3-(acetamidomethylene)succinate; 2-(Acetamidomethylene)-3-(hydroxymethyl)succinate	C8H11NO6	217.0586	217.176
+C04773	3-Hydroxy-4-hydroxymethyl-2-methylpyridine-5-carboxylate; 5-Pyridoxate; 5-Pyridoxic acid	C8H9NO4	183.0532	183.1614
+C06050	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate; 5-Formyl-3-hydroxy-2-methylpyridine-4-carboxylate	C8H7NO4	181.0375	181.1455
+C06051	Isopyridoxal	C8H9NO3	167.0582	167.162
+C06052	5-Pyridoxolactone	C8H7NO3	165.0426	165.1461
+C06054	2-Oxo-3-hydroxy-4-phosphobutanoate; alpha-Keto-3-hydroxy-4-phosphobutyrate; (3R)-3-Hydroxy-2-oxo-4-phosphonooxybutanoate; (3R)-3-Hydroxy-2-oxo-4-phosphooxybutanoate	C4H7O8P	213.9879	214.0673
+C06055	O-Phospho-4-hydroxy-L-threonine; 4-(Phosphonooxy)-threonine; 4-(Phosphonooxy)-L-threonine; 4-Phosphooxy-L-threonine	C4H10NO7P	215.0195	215.0985
+C06056	4-Hydroxy-L-threonine; Hydroxythreonine	C4H9NO4	135.0532	135.1186
+C07335	2-Amino-3-oxo-4-phosphonooxybutyrate; L-2-Amino-3-oxo-4-phosphonooxybutyrate; (2S)-2-Amino-3-oxo-4-phosphonooxybutanoate	C4H8NO7P	213.0038	213.0826
+C11638	3-Amino-2-oxopropyl phosphate; 1-Amino-3-(phosphohydroxy)propan-2-one	C3H8NO5P	169.014	169.0731

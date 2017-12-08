@@ -1,0 +1,25 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00041	L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	C3H7NO2	89.0477	89.0932
+C00043	UDP-N-acetyl-alpha-D-glucosamine; UDP-N-acetyl-D-glucosamine; UDP-N-acetylglucosamine	C17H27N3O17P2	607.0816	607.3537
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00133	D-Alanine; D-2-Aminopropionic acid; D-Ala	C3H7NO2	89.0477	89.0932
+C00256	(R)-Lactate; D-Lactate; D-Lactic acid; D-2-Hydroxypropanoic acid; D-2-Hydroxypropionic acid	C3H6O3	90.0317	90.0779
+C00740	D-Serine	C3H7NO3	105.0426	105.0926
+C00993	D-Alanyl-D-alanine; D-Ala-D-Ala	C6H12N2O3	160.0848	160.1711
+C04702	UDPMurNAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala); UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alanine; UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine	C40H65N9O26P2	1149.3516	1149.9363
+C05892	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysine; UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine; UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-L-lysine	C34H55N7O24P2	1007.2774	1007.7805
+C06432	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanine; UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-L-lysyl-D-alanine	C37H60N8O25P2	1078.3145	1078.8584
+C06689	Vancomycin	C66H75Cl2N9O24	1447.4302	1449.2536
+C15820	Teicoplanin	C58H42Cl2N7O18(R1)(R2)(R3)	1447.4302	1449.2536
+C19694	D-Alanyl-(R)-lactate; D-Alanyl-D-lactate; (2R)-2-(D-Alanyloxy)propanoic acid; (R)-2-[(R)-2-Aminopropanoyloxy]propanoic acid	C6H11NO4	161.0688	161.1558
+C19719	D-Alanyl-D-serine	C6H12N2O4	176.0797	176.1705
+C20869	UDPMurNAc(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Lac); UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-lactate; UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-lactate	C40H64N8O27P2	1150.3356	1150.9211
+C20873	UDPMurNAc(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ser); UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-serine; UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-serine	C40H65N9O27P2	1165.3465	1165.9357
+C20874	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-serine; GlcNAc-(1->4)-MurNAc(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ser)-diphosphoundecaprenol	C94H156N8O27P2	1891.0555	1892.2294
+C20875	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-lactate; GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Lac)-diphosphoundecaprenol; GlcNAc-(1->4)-MurNAc(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Lac)-diphosphoundecaprenol	C94H155N7O27P2	1876.0446	1877.2147
+C20880	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-LL-2,6-diaminopimeloyl-D-alanyl-D-lactate; UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-LL-2,6-diaminopimeloyl-D-alanyl-D-lactate	C41H64N8O29P2	1194.3254	1194.9306
+C20881	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-LL-2,6-diaminopimeloyl-D-alanyl-D-Lactate; Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-LL-2,6-diaminopimeloyl-D-alanyl-D-Lactate	C95H155N7O29P2	1920.0344	1921.2242
+C20882	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-D-glutamyl-LL-2,6-diaminopimeloyl-(glycyl)-D-alanyl-D-lactate; Und-PP-MurNAc-(GlcNAc)-L-Ala-D-Glu-LL-dap-(Gly)-D-Ala-D-Lac; Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-alanyl-gamma-D-glutamyl-LL-2,6-diaminopimeloyl-(glycyl)-D-alanyl-D-lactate	C97H158N8O30P2	1977.0559	1978.2755
+C20886	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-LL-2,6-diaminopimelate; UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-LL-2,6-diaminoheptanedioate	C35H55N7O26P2	1051.2672	1051.79

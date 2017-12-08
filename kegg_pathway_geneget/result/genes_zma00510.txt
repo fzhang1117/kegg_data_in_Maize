@@ -1,0 +1,51 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+103626608	GRMZM2G133048	Zm00001d015249	K00902	EC2.7.1.108	dolichol kinase EVAN
+100281216	GRMZM5G827205	Zm00001d022407	K01001	EC2.7.8.15	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+100274497	GRMZM2G137707	Zm00001d007095	K01001	EC2.7.8.15	uncharacterized LOC100274497
+100273013	GRMZM2G129620	Zm00001d034659	K00729	EC2.4.1.117	Nucleotide-diphospho-sugar transferase superfamily protein
+100280032	GRMZM2G050705	Zm00001d035298	K07432	EC2.4.1.141	glycosyltransferase family protein 28
+100217271	GRMZM2G124671	Zm00001d036437	K07432	EC2.4.1.141	UDP-N-acetylglucosamine transferase subunit alg13
+100285424	GRMZM5G832378	Zm00001d023281	K07441	EC2.4.1.141	uncharacterized LOC100285424
+100274149	GRMZM2G059393	Zm00001d041855	K07441	EC2.4.1.141	OSJNBa0059D20.8-like protein
+100272978	GRMZM2G366688	Zm00001d034682	K00721	EC2.4.1.83	Nucleotide-diphospho-sugar transferase superfamily protein
+100194221	GRMZM2G067964	Zm00001d034252	K09659	-	dolichol-phosphate mannosyltransferase-related
+100282626	GRMZM2G049484	Zm00001d048270	K03842	EC2.4.1.142	beta-1,4-mannosyltransferase
+109942894	GRMZM2G381483	Zm00001d025256	K03842	EC2.4.1.142	UDP-glycosyltransferase TURAN-like
+100279297	GRMZM2G092190	Zm00001d002499	K03843	EC2.4.1.257 2.4.1.132	UDP-Glycosyltransferase superfamily protein
+100274516	GRMZM2G546081	Zm00001d030863	K03844	EC2.4.1.131	uncharacterized LOC100274516
+100276684	GRMZM2G066362	Zm00001d039675	K03845	EC2.4.1.258	Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-13-mannosyltransferase
+100282615	GRMZM2G051262	Zm00001d039403	K03846	EC2.4.1.261 2.4.1.259	Dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-12-mannosyltransferase
+100282442	GRMZM2G152194	Zm00001d002791	K03847	EC2.4.1.260	dolichyl-P-Man Man
+100278369	GRMZM2G023884	Zm00001d029014	K03848	EC2.4.1.267	putative dolichyl pyrophosphate Man9GlcNAc2 alpha-13-glucosyltransferase
+103639875	-	-	K03848	EC2.4.1.267	probable dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase
+103627568	GRMZM2G075265	Zm00001d017651	K03849	EC2.4.1.265	probable dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase
+100384825	GRMZM2G056036	Zm00001d003109	K03850	EC2.4.1.256	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-12-glucosyltransferase
+100382512	GRMZM2G044096	Zm00001d001846	K07151	EC2.4.99.18	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3B
+100279881	GRMZM2G154165	Zm00001d043441	K07151	EC2.4.99.18	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A
+100192699	GRMZM2G040876	Zm00001d026607	K07151	EC2.4.99.18	oligosaccharyl transferase STT3 subunit
+100217123	GRMZM2G060611	Zm00001d038804	K07151	EC2.4.99.18	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A
+100285254	GRMZM2G032409	Zm00001d027484	K12666	-	dolichyl-diphosphooligosaccharide--protein glycosyltransferase 67 kDasubunit
+100282884	GRMZM2G177273	Zm00001d002944	K12666	-	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 67 kDasubunit
+100273881	GRMZM2G133173	Zm00001d042398	K12667	-	uncharacterized LOC100273881
+100279928	GRMZM2G166855	Zm00001d012086	K12667	-	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2
+541686	GRMZM5G847530	Zm00001d045555	K12668	-	false DAD1
+100282286	GRMZM2G149946	Zm00001d032400	K12669	-	putative dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 3B
+100274092	GRMZM2G462325	Zm00001d019164	K12670	-	dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDasubunit
+100191802	GRMZM2G051367	Zm00001d005248	K12670	-	dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDasubunit
+100280333	-	-	K07252	EC3.6.1.43	uncharacterized LOC100280333
+103652327	GRMZM2G071675	Zm00001d042335	K01228	EC3.2.1.106	alpha-glucosidase 2
+100383593	GRMZM2G163129	Zm00001d028227	K05546	EC3.2.1.84	putative glucan 13-alpha-glucosidase
+100279293	GRMZM2G034575	Zm00001d048080	K05546	EC3.2.1.84	uncharacterized LOC100279293
+103643125	-	Zm00001d031739	K01230	EC3.2.1.113	mannosyl-oligosaccharide 1,2-alpha-mannosidase MNS2-like
+100282405	GRMZM2G150201	Zm00001d010454	K01230	EC3.2.1.113	uncharacterized LOC100282405
+100502479	GRMZM2G130889	Zm00001d002388	K01230	EC3.2.1.113	Mannosyl-oligosaccharide 12-alpha-mannosidase MNS1
+103632041	GRMZM2G135966	-	K01230	EC3.2.1.113	mannosyl-oligosaccharide 1,2-alpha-mannosidase MNS1
+103642037	GRMZM2G128914	Zm00001d026257	K01230	EC3.2.1.113	mannosyl-oligosaccharide 1,2-alpha-mannosidase MNS1
+100274447	GRMZM2G426275	Zm00001d025232	K00726	EC2.4.1.101	uncharacterized LOC100274447
+100502340	GRMZM2G075470	Zm00001d044759	K01231	EC3.2.1.114	uncharacterized LOC100502340
+103629954	GRMZM2G334409	Zm00001d037272	K01231	EC3.2.1.114	alpha-mannosidase 2
+100381400	GRMZM2G084515	Zm00001d052020	K00736	EC2.4.1.143	beta-12-N-acetylglucosaminyltransferase II
+100194350	GRMZM2G079682	Zm00001d017085	K00737	EC2.4.1.144	beta-14-N-acetylglucosaminyltransferase family protein
+100282765	GRMZM2G104118	Zm00001d050961	K00737	EC2.4.1.144	N-acetylglucosaminyltransferase III
+100282445	GRMZM2G062488	Zm00001d003292	K00737	EC2.4.1.144	acetylglucosaminyltransferase/ transferase, transferring glycosyl groups
+100501240	GRMZM2G045435	Zm00001d041299	K00737	EC2.4.1.144	beta-14-N-acetylglucosaminyltransferase family protein

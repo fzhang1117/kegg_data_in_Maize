@@ -1,0 +1,43 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00157	Phosphatidylcholine; Lecithin; Phosphatidyl-N-trimethylethanolamine; 1,2-Diacyl-sn-glycero-3-phosphocholine; Choline phosphatide; 3-sn-Phosphatidylcholine	C10H18NO8PR2	-	-
+C01226	12-OPDA; (15Z)-12-Oxophyto-10,15-dienoate; (15Z)-12-Oxophyto-10,15-dienoic acid; 9(S),13(S)-12-Oxo-PDA; 12-Oxo-10,15(Z)-phytodienoic acid	C18H28O3	292.2038	292.4131
+C04672	(9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoic acid; (9Z,15Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoate; (9Z)-(13S)-12,13-Epoxyoctadeca-9,11,15-trienoate; 12,13(S)-EOT; 12,13(S)-EOTrE	C18H28O3	292.2038	292.4131
+C04780	8-[(1R,2R)-3-Oxo-2-{(Z)-pent-2-enyl}cyclopentyl]octanoate; OPC-8:0	C18H30O3	294.2195	294.429
+C04785	13(S)-HPOT; (9Z,11E,15Z)-(13S)-Hydroperoxyoctadeca-9,11,15-trienoate; (9Z,11E,15Z)-(13S)-13-Hydroperoxyoctadeca-9,11,15-trienoic acid; 13(S)-HpOTrE; 13-HPOT	C18H30O4	310.2144	310.4284
+C06427	(9Z,12Z,15Z)-Octadecatrienoic acid; alpha-Linolenic acid; 9,12,15-Octadecatrienoic acid; Linolenate; alpha-Linolenate	C18H30O2	278.2246	278.4296
+C08491	(-)-Jasmonic acid; Jasmonic acid; {(1R,2R)-3-Oxo-2-[(Z)pent-2-enyl]cyclopent-2-enyl}acetic acid; Jasmonate; (-)-Jasmonate	C12H18O3	210.1256	210.2695
+C08492	3-Hexenol; Leaf alcohol; 3-Hexen-1-ol; (3Z)-3-Hexen-1-ol; cis-3-Hexen-1-ol; (3Z)-Hex-3-en-1-ol	C6H12O	100.0888	100.1589
+C11512	Methyl jasmonate; (-)-Methyl jasmonate	C13H20O3	224.1412	224.2961
+C16300	Stearidonic acid; 6,9,12,15-Octadecatetraenoic acid; (6Z,9Z,12Z,15Z)-Octadecatetraenoic acid	C18H28O2	276.2089	276.4137
+C16308	Traumatic acid; (2E)-Dodecenedioic acid; Dodec-2-enedioic acid	C12H20O4	228.1362	228.2848
+C16309	Traumatin; (10E)-12-Oxododecenoic acid	C12H20O3	212.1412	212.2854
+C16310	3-Hexenal; (3Z)-Hexenal	C6H10O	98.0732	98.143
+C16311	12-Oxo-9(Z)-dodecenoic acid	C12H20O3	212.1412	212.2854
+C16316	13(S)-HOT; (9Z,11E,15Z)-(13S)-Hydroxyoctadeca-9,11,15-trienoate; (9Z,11E,15Z)-(13S)-13-Hydroxyoctadeca-9,11,15-trienoic acid; (9Z,11E,13S,15Z)-13-Hydroxyoctadeca-9,11,15-trienoic acid; 13(S)-HOTrE	C18H30O3	294.2195	294.429
+C16317	(+)-7-Isojasmonic acid	C12H18O3	210.1256	210.2695
+C16318	(+)-7-Isomethyljasmonate	C13H20O3	224.1412	224.2961
+C16319	Etherolenic acid; (9Z,11E,1'E,3'Z)-12-(1',3'-Hexadienyloxy)-9,11-dodecadienoic acid	C18H28O3	292.2038	292.4131
+C16320	Colnelenic acid; (8E)-9-[(1E,3Z,6Z)-Nona-1,3,6-trien-1-yloxy]non-8-enoate	C18H28O3	292.2038	292.4131
+C16321	9(S)-HPOT; (10E,12Z,15Z)-(9S)-9-Hydroperoxyoctadeca-10,12,15-trienoic acid; 9(S)-HpOTrE; (9S,10E,12Z,15Z)-9-Hydroperoxy-10,12,15-octadecatrienoate	C18H30O4	310.2144	310.4284
+C16322	9-Oxononanoic acid	C9H16O3	172.1099	172.2215
+C16323	3,6-Nonadienal	C9H14O	138.1045	138.2069
+C16324	9,10-EOT; 9,10-Epoxyoctadecatrienoic acid; (9S)-(10E,12Z,15Z)-9,10-Epoxyoctadecatri-10,12,15-enoic acid; 9,10-EOTrE	C18H28O3	292.2038	292.4131
+C16325	10-OPDA; 10-Oxo-11,15-phytodienoic acid; (11Z,15Z)-10-Oxo-11,15-phytodienoic acid	C18H28O3	292.2038	292.4131
+C16326	9(S)-HOT; (9S)-(10E,12Z,15Z)-9-Hydroxyoctadecatri-10,12,15-enoic acid; 9(S)-HOTrE	C18H30O3	294.2195	294.429
+C16327	OPC8-CoA	C39H64N7O18P3S	1043.3241	1043.9478
+C16328	trans-2-Enoyl-OPC8-CoA	C39H62N7O18P3S	1041.3085	1041.932
+C16330	3-Oxo-OPC8-CoA	C39H62N7O19P3S	1057.3034	1057.9314
+C16331	OPC6-CoA	C37H60N7O18P3S	1015.2928	1015.8947
+C16332	trans-2-Enoyl-OPC6-CoA	C37H58N7O18P3S	1013.2772	1013.8788
+C16334	3-Oxo-OPC6-CoA	C37H58N7O19P3S	1029.2721	1029.8782
+C16335	OPC4-CoA	C35H56N7O18P3S	987.2615	987.8415
+C16336	trans-2-Enoyl-OPC4-CoA	C35H54N7O18P3S	985.2459	985.8256
+C16338	3-Oxo-OPC4-CoA	C35H54N7O19P3S	1001.2408	1001.825
+C16339	(+)-7-Isojasmonic acid CoA	C33H52N7O18P3S	959.2302	959.7884
+C16341	2(R)-HPOT; (2R)-(9Z,12Z,15Z)-2-Hydroperoxyoctadecatri-9,12,15-enoic acid; 2(R)-HpOTrE	C18H30O4	310.2144	310.4284
+C16342	2(R)-HOT; (2R)-(9Z,12Z,15Z)-2-Hydroxyoctadecatri-9,12,15-enoic acid; 2(R)-HOTrE	C18H30O3	294.2195	294.429
+C16343	Heptadecatrienal; (8Z,11Z,14Z)-8,11,14-Heptadecatrienal	C17H28O	248.214	248.4036
+C16344	Heptadecatrienoic acid; (8Z,11Z,14Z)-8,11,14-Heptadecatrienoic acid	C17H28O2	264.2089	264.403
+C16345	Volicitin; N-(17-Hydroxylinolenoyl)-L-glutamine	C23H38N2O5	422.2781	422.5582
+C16346	17-Hydroxylinolenic acid; (9Z,12Z,15Z)-17-Hydroxyoctadecatri-9,12,15-enoic acid	C18H30O3	294.2195	294.429
+C19757	(Z)-3-Hexen-1-ol acetate; (3Z)-Hex-3-en-1-yl acetate; cis-3-Hexenyl acetate	C8H14O2	142.0994	142.1956

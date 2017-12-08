@@ -1,0 +1,116 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00353	Geranylgeranyl diphosphate; Geranylgeranyl pyrophosphate; all-trans-Geranylgeranyl diphosphate; all-trans-Geranylgeranyl pyrophosphate; (2E,6E,10E)-3,7,11,15-Tetramethylhexadeca-2,6,10,14-tetraen-1-yl diphosphate	C20H36O7P2	450.1936	450.4432
+C00448	trans,trans-Farnesyl diphosphate; Farnesyl diphosphate; Farnesyl pyrophosphate; 2-trans,6-trans-Farnesyl diphosphate; (2E,6E)-Farnesyl diphosphate	C15H28O7P2	382.131	382.3261
+C02094	beta-Carotene; all-trans-beta-Carotene	C40H56	536.4382	536.8726
+C03427	Prephytoene diphosphate	C40H68O7P2	722.444	722.9112
+C03428	Presqualene diphosphate	C30H52O7P2	586.3188	586.6772
+C05413	all-trans-Phytoene	C40H64	544.5008	544.9362
+C05414	all-trans-Phytofluene	C40H62	542.4852	542.9203
+C05421	15-cis-Phytoene; Phytoene	C40H64	544.5008	544.9362
+C05430	all-trans-zeta-Carotene	C40H60	540.4695	540.9044
+C05431	all-trans-Neurosporene	C40H58	538.4539	538.8885
+C05432	Lycopene; all-trans-Lycopene	C40H56	536.4382	536.8726
+C05433	alpha-Carotene	C40H56	536.4382	536.8726
+C05434	beta-Zeacarotene	C40H58	538.4539	538.8885
+C05435	gamma-Carotene	C40H56	536.4382	536.8726
+C06082	Abscisate; Abscisic acid; (+)-Abscisic acid; ABA	C15H20O4	264.1362	264.3169
+C06098	Zeaxanthin	C40H56O2	568.428	568.8714
+C08579	Antheraxanthin	C40H56O3	584.4229	584.8708
+C08580	Astaxanthin	C40H52O4	596.3866	596.8385
+C08583	Canthaxanthin	C40H52O2	564.3967	564.8397
+C08584	Capsanthin	C40H56O3	584.4229	584.8708
+C08585	Capsorubin	C40H56O4	600.4179	600.8702
+C08586	delta-Carotene	C40H56	536.4382	536.8726
+C08590	Zeinoxanthin; 3-Hydroxy-alpha-carotene; (3R,6'R)-beta,epsilon-Caroten-3-ol	C40H56O	552.4331	552.872
+C08591	beta-Cryptoxanthin	C40H56O	552.4331	552.872
+C08592	Echinenone	C40H54O	550.4175	550.8562
+C08601	Lutein; Xanthophyll	C40H56O2	568.428	568.8714
+C08606	Neoxanthin; all-trans-Neoxanthin	C40H56O4	600.4179	600.8702
+C08607	Neurosporaxanthin; all-trans-Neurosporaxanthin	C35H46O2	498.3498	498.7385
+C08613	Torulene	C40H54	534.4226	534.8568
+C08614	Violaxanthin; all-trans-Violaxanthin	C40H56O4	600.4179	600.8702
+C09190	Strigol	C19H22O6	346.1416	346.3744
+C09707	Phaseic acid	C15H20O5	280.1311	280.3163
+C13431	9'-cis-Neoxanthin	C40H56O4	600.4179	600.8702
+C13433	9-cis-Violaxanthin	C40H56O4	600.4179	600.8702
+C13453	Xanthoxin; 2-cis,4-trans-Xanthoxin	C15H22O3	250.1569	250.3334
+C13454	Xanthoxic acid	C15H22O4	266.1518	266.3328
+C13455	Abscisic aldehyde	C15H20O3	248.1412	248.3175
+C13456	Abscisic alcohol	C15H22O3	250.1569	250.3334
+C15514	8'-Hydroxyabscisate; 8'-Hydroxyabscisic acid	C15H20O5	280.1311	280.3163
+C15857	9,9'-dicis-zeta-Carotene; 9,9'-Di-cis-zeta-carotene	C40H60	540.4695	540.9044
+C15858	7,9,7',9'-tetracis-Lycopene; 7,9,7',9'-Tetra-cis-lycopene	C40H56	536.4382	536.8726
+C15859	1'-Hydroxy-gamma-carotene	C40H58O	554.4488	554.8879
+C15860	1'-Hydroxytorulene; Myxocoxanthin	C40H56O	552.4331	552.872
+C15861	1'-Hydroxy-gamma-carotene glucoside	C46H68O6	716.5016	717.0285
+C15864	1'-Hydroxy-gamma-carotene glucoside ester	C47H67O7R	716.5016	717.0285
+C15867	3,4-Dehydrolycopene; all-trans-3,4-Didehydrolycopene	C40H54	534.4226	534.8568
+C15874	3,4-Dehydrorhodopin; 3,4-Didehydrorhodopin; 1-Hydroxy-3,4-didehydro-1,2-dihydrolycopene	C40H56O	552.4331	552.872
+C15877	Anhydrorhodovibrin	C41H58O	566.4488	566.8986
+C15878	Rhodovibrin	C41H60O2	584.4593	584.9139
+C15879	Hydroxyspirilloxanthin; Monodemethyl spirilloxanthin	C41H58O2	582.4437	582.898
+C15881	Spirilloxanthin; Rhodoviolascin	C42H60O2	596.4593	596.9246
+C15884	2-Ketospirilloxanthin; 2-Oxospirilloxanthin	C42H58O3	610.4386	610.9081
+C15885	2,2'-Diketospirilloxanthin; 2,2'-Dioxospirilloxanthin	C42H56O4	624.4179	624.8916
+C15886	3,4-Dihydroanhydrorhodovibrin	C41H60O	568.4644	568.9145
+C15887	3',4'-Dihydrorhodovibrin	C41H62O2	586.475	586.9298
+C15888	3,4,3',4'-Tetrahydrospirilloxanthin	C42H64O2	600.4906	600.9564
+C15892	Chloroxanthin; Hydroxyneurosporene	C40H60O	556.4644	556.9038
+C15895	3,4-Dihydrospheroidene; Methoxyneurosporene	C41H62O	570.4801	570.9304
+C15898	Demethylspheroidene	C40H58O	554.4488	554.8879
+C15900	Spheroidene	C41H60O	568.4644	568.9145
+C15902	Hydroxyspheroidene	C41H62O2	586.475	586.9298
+C15903	Spheroidenone; Spheroiden-2-one	C41H58O2	582.4437	582.898
+C15905	Hydroxyspheroidenone	C41H60O3	600.4542	600.9133
+C15908	Chlorobactene	C40H52	532.4069	532.8409
+C15911	Hydroxychlorobactene	C40H54O	550.4175	550.8562
+C15914	Hydroxychlorobactene glucoside	C46H64O6	712.4703	712.9968
+C15917	Hydroxychlorobactene glucoside ester	C47H63O7R	712.4703	712.9968
+C15935	(2'S)-Deoxymyxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	C48H70O6	742.5172	743.0658
+C15937	(3R,2'S)-Myxol 2'-(2,4-di-O-methyl-alpha-L-fucoside)	C48H70O7	758.5122	759.0652
+C15940	(2'S)-Deoxymyxol 2'-alpha-L-fucoside	C46H66O6	714.4859	715.0126
+C15941	(3R,2'S)-Myxol 2'-alpha-L-fucoside	C46H66O7	730.4809	731.012
+C15942	(3S,2'S)-4-Ketomyxol 2'-alpha-L-fucoside	C46H64O8	744.4601	744.9956
+C15943	Isorenieratene	C40H48	528.3756	528.8091
+C15965	3'-Hydroxyechinenone	C40H54O2	566.4124	566.8556
+C15966	3-Hydroxyechinenone	C40H54O2	566.4124	566.8556
+C15967	Phoenicoxanthin; Adonirubin	C40H52O3	580.3916	580.8391
+C15968	Adonixanthin; 4-Ketozeaxanthin	C40H54O3	582.4073	582.855
+C15969	Zeaxanthin diglucoside; Zeaxanthin-beta-D-diglucoside	C52H76O12	892.5337	893.1526
+C15970	Abscisic acid glucose ester; Abscisic acid-beta-D-glucopyranosyl ester; beta-D-Glucopyranosyl abscisate	C21H30O9	426.189	426.4575
+C15971	Dihydrophaseic acid; (-)-Dihydrophaseic acid	C15H22O5	282.1467	282.3322
+C15981	alpha-Cryptoxanthin; (3'R,6'R)-beta,epsilon-Caroten-3'-ol	C40H56O	552.4331	552.872
+C15982	Thermocryptoxanthin	C53H78O7(CH2)n	552.4331	552.872
+C15983	Thermozeaxanthin; Zeaxanthin glucoside ester	C53H78O8(CH2)n	552.4331	552.872
+C15984	Thermobiszeaxanthin; Zeaxanthin diglucoside diester	C66H100O14(CH2)n1(CH2)n2	552.4331	552.872
+C16144	4,4'-Diapophytoene; Dehydrosqualene; 15-cis-4,4'-Diapophytoene	C30H48	408.3756	408.7021
+C16145	4,4'-Diaponeurosporene	C30H42	402.3287	402.6545
+C16146	4,4'-Diaponeurosporenic acid	C30H40O2	432.3028	432.6374
+C16147	Glycosyl-4,4'-diaponeurosporenoate	C36H50O7	594.3557	594.778
+C16148	Staphyloxanthin	C51H78O8	818.5697	819.1602
+C16270	Rhodopinal	C40H56O2	568.428	568.8714
+C16271	Rhodopinal glucoside	C46H66O7	730.4809	731.012
+C16274	(2S,2'S)-Oscillol	C40H56O4	600.4179	600.8702
+C16275	(2S,2'S)-Oscillol 2,2'-di(alpha-L-fucoside)	C52H76O12	892.5337	893.1526
+C16276	epsilon-Carotene	C40H56	536.4382	536.8726
+C16277	R.g.-Keto I	C41H58O2	582.4437	582.898
+C16278	R.g.-Keto III	C42H60O4	628.4492	628.9234
+C16279	Thiothece-474	C41H58O2	582.4437	582.898
+C16280	Okenone	C41H54O2	578.4124	578.8663
+C16282	Caloxanthin	C40H56O3	584.4229	584.8708
+C16284	Nostoxanthin	C40H56O4	600.4179	600.8702
+C16291	7,8-Dihydro-beta-carotene	C40H58	538.4539	538.8885
+C16340	beta-Isorenieratene	C40H52	532.4069	532.8409
+C16486	Astaxanthin diester	C42H50O6R2	532.4069	532.8409
+C18036	Strigolactone ABC-rings	C14H18O3	234.1256	234.2909
+C18037	5-Deoxystrigol	C19H22O5	330.1467	330.375
+C19759	7,9,9'-tricis-Neurosporene; 7,9,9'-tri-cis-Neurosporene	C40H58	538.4539	538.8885
+C19764	9,15,9'-tricis-zeta-Carotene	C40H60	540.4695	540.9044
+C19765	15,9'-dicis-Phytofluene	C40H62	542.4852	542.9203
+C19795	1-Hydroxy-1,2-dihydrolycopene; Rhodopin; 1-Hydroxylycopene	C40H58O	554.4488	554.8879
+C19797	4,4'-Diapolycopene	C30H40	400.313	400.6386
+C19798	4,4'-Diapolycopenedial	C30H36O2	428.2715	428.6056
+C19892	4'-Apo-beta,psi-caroten-4'-al; beta-Apo-4'-carotenal	C35H46O	482.3549	482.7391
+C20484	9-cis-beta-Carotene	C40H56	536.4382	536.8726
+C20692	9-cis-10'-Apo-beta-carotenal	C27H36O	376.2766	376.5741
+C20693	Carlactone	C19H26O3	302.1882	302.4079

@@ -1,0 +1,89 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00448	trans,trans-Farnesyl diphosphate; Farnesyl diphosphate; Farnesyl pyrophosphate; 2-trans,6-trans-Farnesyl diphosphate; (2E,6E)-Farnesyl diphosphate	C15H28O7P2	382.131	382.3261
+C00751	Squalene; Spinacene; Supraene	C30H50	410.3913	410.718
+C01054	(S)-2,3-Epoxysqualene; Squalene 2,3-epoxide; Squalene 2,3-oxide; (S)-Squalene-2,3-epoxide; 2,3-Oxidosqualene; (3S)-2,3-Epoxy-2,3-dihydrosqualene	C30H50O	426.3862	426.7174
+C01126	(2E,6E)-Farnesol; 2-trans,6-trans-Farnesol; trans-Farnesol	C15H26O	222.1984	222.3663
+C01841	Pentalenene	C15H24	204.1878	204.3511
+C01860	Trichodiene	C15H24	204.1878	204.3511
+C02004	Aristolochene; (+)-Aristolochene	C15H24	204.1878	204.3511
+C03220	(2Z,6E)-Farnesol; 2-cis,6-trans-Farnesol	C15H26O	222.1984	222.3663
+C03428	Presqualene diphosphate	C30H52O7P2	586.3188	586.6772
+C03461	2-trans,6-trans-Farnesal; trans,trans-Farnesal; Farnesal; (2E,6E)-3,7,11-Trimethyl-2,6,10-dodecatrienal; (2E,6E)-Farnesal	C15H24O	220.1827	220.3505
+C06079	PR-toxin; PR Toxin	C17H20O6	320.126	320.3371
+C06080	Nivalenol	C15H20O7	312.1209	312.3151
+C06083	Tetrahymanol	C30H52O	428.4018	428.7333
+C06309	Diplopterol; 22-Hopanol; Hopan-22-ol	C30H52O	428.4018	428.7333
+C06310	Diploptene; 22(29)-Hopene; Hop-22(29)-ene	C30H50	410.3913	410.718
+C06394	delta-Cadinene; (+)-delta-Cadinene	C15H24	204.1878	204.3511
+C07667	Gossypol	C30H30O8	518.1941	518.5544
+C08615	alpha-Amyrin	C30H50O	426.3862	426.7174
+C08616	beta-Amyrin; beta-Amyrenol	C30H50O	426.3862	426.7174
+C08628	Lupeol	C30H50O	426.3862	426.7174
+C08637	Taraxerol	C30H50O	426.3862	426.7174
+C09382	Costunolide; (+)-Costunolide	C15H20O2	232.1463	232.3181
+C09627	Capsidiol	C15H24O2	236.1776	236.3499
+C09629	beta-Caryophyllene; Caryophyllene; (-)-beta-Caryophyllene	C15H24	204.1878	204.3511
+C09665	alpha-Farnesene; (3E,6E)-alpha-Farnesene	C15H24	204.1878	204.3511
+C09666	beta-Farnesene; (E)-beta-Farnesene	C15H24	204.1878	204.3511
+C09672	Germacrene B; (E,E)-Germacrene B; (E,E)-1,5-Dimethyl-8-(1-methylethylidene)-1,5-cyclodecadiene	C15H24	204.1878	204.3511
+C09684	Humulene; alpha-Humulene	C15H24	204.1878	204.3511
+C09699	Longifolene	C15H24	204.1878	204.3511
+C09704	Nerolidol; (3S,6E)-Nerolidol	C15H26O	222.1984	222.3663
+C09723	beta-Selinene	C15H24	204.1878	204.3511
+C09737	Solavetivone	C15H22O	218.1671	218.3346
+C12142	Vetispiradiene; (-)-Vetispiradiene; (-)-Premnaspirodiene	C15H24	204.1878	204.3511
+C16028	Amorpha-4,11-diene	C15H24	204.1878	204.3511
+C16141	(+)-Germacrene A; (+)-(R)-Germacrene A	C15H24	204.1878	204.3511
+C16142	(-)-Germacrene D	C15H24	204.1878	204.3511
+C16143	(1E,4S,5E,7R)-Germacra-1(10),5-dien-11-ol; Germacradienol	C15H26O	222.1984	222.3663
+C16269	(+)-epi-Isozizaene	C15H24	204.1878	204.3511
+C16286	Geosmin; (-)-Geosmin; trans-1,10-Dimethyl-trans-9-decalol	C12H22O	182.1671	182.3025
+C16814	gamma-Bisabolene; (Z)-gamma-Bisabolene	C15H24	204.1878	204.3511
+C16829	gamma-Humulene	C15H24	204.1878	204.3511
+C17277	(+)-Valencene	C15H24	204.1878	204.3511
+C17953	(5S)-Albaflavenol	C15H24O	220.1827	220.3505
+C17954	Albaflavenone	C15H22O	218.1671	218.3346
+C17955	(5R)-Albaflavenol	C15H24O	220.1827	220.3505
+C18245	8-epi-Cedrol	C15H26O	222.1984	222.3663
+C19676	Germacra-1(10),4,11(13)-trien-12-ol	C15H24O	220.1827	220.3505
+C19678	Germacrene A acid; Germacra-1(10),4,11(13)-trien-12-oate	C15H22O2	234.162	234.334
+C19708	5-Epiaristolochene; (+)-5-Epiaristolochene; 5-epi-Aristolochene; (+)-5-epi-Aristolochene	C15H24	204.1878	204.3511
+C19711	Solavetivol	C15H24O	220.1827	220.3505
+C19732	24-Hydroxy-beta-amyrin; Olean-12-ene-3beta,24-diol	C30H50O2	442.3811	442.7168
+C19736	(+)-alpha-Santalene	C15H24	204.1878	204.3511
+C19740	(+)-alpha-Barbatene	C15H24	204.1878	204.3511
+C19742	(+)-delta-Selinene	C15H24	204.1878	204.3511
+C19746	(3R,6E)-Nerolidol	C15H26O	222.1984	222.3663
+C19747	Germacrene C	C15H24	204.1878	204.3511
+C19748	(E)-gamma-Bisabolene	C15H24	204.1878	204.3511
+C19749	(E)-alpha-Bisabolene	C15H24	204.1878	204.3511
+C19751	(S)-beta-Bisabolene	C15H24	204.1878	204.3511
+C19752	(S)-beta-Macrocarpene	C15H24	204.1878	204.3511
+C19753	cis-Muurola-3,5-diene	C15H24	204.1878	204.3511
+C19755	Patchoulol	C15H26O	222.1984	222.3663
+C19801	Isomultiflorenol	C30H50O	426.3862	426.7174
+C19819	Cucurbitadienol	C30H50O	426.3862	426.7174
+C19820	Protostadienol; (17Z)-Protosta-17(20),24-dien-3beta-ol	C30H50O	426.3862	426.7174
+C19828	Arabidiol; (13R,14R,17E)-Malabarica-17,21-diene-3beta,14-diol	C30H52O2	444.3967	444.7327
+C19829	Dammarenediol II; (20S)-Dammar-24-ene-3beta,20-diol; Dammar-24-ene-3beta,20-diol	C30H52O2	444.3967	444.7327
+C19832	Thalianol	C30H50O	426.3862	426.7174
+C19833	Germanicol; (3beta)-Olean-18-en-3-ol	C30H50O	426.3862	426.7174
+C19834	Dammara-20,24-diene; Dammara-18(28),21-diene	C30H50	410.3913	410.718
+C19835	Camelliol C	C30H50O	426.3862	426.7174
+C19863	Lupan-3beta,20-diol; 3beta,20-Dihydroxylupane; Monogynol A	C30H52O2	444.3967	444.7327
+C19908	(+)-beta-Chamigrene	C15H24	204.1878	204.3511
+C19918	Parkeol; Lanost-9(11)-en-3beta-ol	C30H50O	426.3862	426.7174
+C19939	Pentalen-13-al	C15H22O	218.1671	218.3346
+C19973	(+)-beta-Caryophyllene	C15H24	204.1878	204.3511
+C19974	(+)-Caryolan-1-ol	C15H26O	222.1984	222.3663
+C20159	7-epi-alpha-Selinene; (-)-7-epi-alpha-Selinene; (2S,4aR,8aR)-4a,8-Dimethyl-2-(prop-1-en-2-yl)-1,2,3,4,4a,5,6,8a-octahydronaphthalene	C15H24	204.1878	204.3511
+C20163	5-epi-alpha-Selinene; 5beta-Eudesma-3,11-diene; (2R,4aR,8aS)-1,2,3,4,4a,5,6,8a-Octahydro-4a,8-dimethyl-2-(prop-1-en-2-yl)naphthalene; 8a-epi-alpha-Selinene; (2R,4aR,8aS)-1,2,3,4,4a,5,6,8a-Octahydro-4a,8-dimethyl-2-(1-methylethenyl)naphthalene	C15H24	204.1878	204.3511
+C20181	Avermitilol	C15H26O	222.1984	222.3663
+C20187	Achilleol B	C30H50O	426.3862	426.7174
+C20191	alpha-Seco-amyrin; 8,14-Secoursa-7,13-diene-3beta-ol	C30H50O	426.3862	426.7174
+C20192	Marneral	C30H50O	426.3862	426.7174
+C20193	beta-Seco-amyrin; 8,14-Secooleana-7,13-diene-3beta-ol	C30H50O	426.3862	426.7174
+C20195	Tirucalla-7,24-dien-3beta-ol	C30H50O	426.3862	426.7174
+C20200	Baruol	C30H50O	426.3862	426.7174
+C20478	(E)-2-epi-beta-Caryophyllene; 2-epi-(E)-beta-Caryophyllene	C15H24	204.1878	204.3511
+C20724	(+)-Thujopsene	C15H24	204.1878	204.3511

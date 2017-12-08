@@ -1,0 +1,67 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00079	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00223	p-Coumaroyl-CoA; 4-Coumaroyl-CoA; 4-Hydroxycinnamoyl-CoA	C30H42N7O18P3S	913.152	913.6769
+C00315	Spermidine; N-(3-Aminopropyl)-1,4-butane-diamine	C7H19N3	145.1579	145.2459
+C00323	Caffeoyl-CoA; (2E)-3-(3,4-Dihydroxyphenyl)prop-2-enoyl-CoA	C30H42N7O19P3S	929.1469	929.6763
+C00406	Feruloyl-CoA; trans-Feruloyl-CoA	C31H44N7O19P3S	943.1626	943.7028
+C00411	Sinapoyl-CoA	C32H46N7O20P3S	973.1731	973.7288
+C00423	trans-Cinnamate; trans-Cinnamic acid; (E)-Cinnamate; (2E)-3-Phenylprop-2-enoate	C9H8O2	148.0524	148.1586
+C00482	Sinapate; Sinapic acid; 3,5-Dimethoxy-4-hydroxycinnamic acid	C11H12O5	224.0685	224.21
+C00540	Cinnamoyl-CoA; S-(Cinnamoyl) coenzyme A	C30H42N7O17P3S	897.1571	897.6775
+C00590	Coniferyl alcohol; Coniferol; 4-(3-Hydroxy-1-propenyl)-2-methoxyphenol; trans-Coniferyl alcohol	C10H12O3	180.0786	180.2005
+C00761	Coniferin	C16H22O8	342.1315	342.3411
+C00811	4-Coumarate; p-Coumaric acid; trans-4-Hydroxycinnamate; trans-p-Hydroxycinnamate; 4-Hydroxycinnamic acid; 4-Hydroxycinnamate	C9H8O3	164.0473	164.158
+C00852	Chlorogenate; Chlorogenic acid; Caffeoyl quinic acid; trans-5-O-Caffeoyl-D-quinate	C16H18O9	354.0951	354.3087
+C00903	Cinnamaldehyde	C9H8O	132.0575	132.1592
+C00933	Sinapine; Sinapoylcholine	C16H24NO5	310.1654	310.3655
+C01175	1-O-Sinapoyl-beta-D-glucose; 1-O-Sinapoyl beta-D-glucoside	C17H22O10	386.1213	386.3506
+C01197	Caffeate; Caffeic acid; 3,4-Dihydroxy-trans-cinnamate; trans-Caffeate; (2E)-3-(3,4-Dihydroxyphenyl)prop-2-enoate	C9H8O4	180.0423	180.1574
+C01494	Ferulate; Ferulic acid; 4-Hydroxy-3-methoxycinnamic acid; 3-Methoxy-4-hydroxy-trans-cinnamate; 4-Hydroxy-3-methoxycinnamate	C10H10O4	194.0579	194.184
+C01527	Scopolin	C16H18O9	354.0951	354.3087
+C01533	Syringin; Eleutheroside B	C17H24O9	372.142	372.3671
+C01752	Scopoletin	C10H8O4	192.0423	192.1681
+C01772	trans-2-Hydroxycinnamate; trans-2-Hydroxycinnamic acid; 2-Hydroxycinnamate; 2-Coumaric acid; o-Coumaric acid; 2-Coumarate	C9H8O3	164.0473	164.158
+C02325	Sinapyl alcohol; Sinapoyl alcohol	C11H14O4	210.0892	210.2265
+C02646	4-Coumaryl alcohol; 4-Hydroxycinnamyl alcohol; p-Coumaryl alcohol	C9H10O2	150.0681	150.1745
+C02666	Coniferyl aldehyde; Coniferaldehyde; 4-Hydroxy-3-methoxycinnamaldehyde; Ferulaldehyde	C10H10O3	178.063	178.1846
+C02887	Sinapoyl malate; Sinapoyl-(S)-malate	C15H16O9	340.0794	340.2821
+C02947	4-Coumaroylshikimate; trans-5-O-(4-Coumaroyl)shikimate	C16H16O7	320.0896	320.294
+C04366	3-(2-Carboxyethenyl)-cis,cis-muconate	C9H8O6	212.0321	212.1562
+C05158	trans-beta-D-Glucosyl-2-hydroxycinnamate; beta-D-Glucosyl-2-coumarate	C15H18O8	326.1002	326.2986
+C05608	4-Hydroxycinnamyl aldehyde; p-Coumaraldehyde	C9H8O2	148.0524	148.1586
+C05610	Sinapoyl aldehyde; Sinapaldehyde	C11H12O4	208.0736	208.2106
+C05619	5-Hydroxyferulic acid methyl ester	C10H10O5	210.0528	210.1834
+C05627	4-Hydroxystyrene; 4-Vinylphenol	C8H8O	120.0575	120.1485
+C05838	cis-2-Hydroxycinnamate; 2-Coumarinate	C9H8O3	164.0473	164.158
+C05839	cis-beta-D-Glucosyl-2-hydroxycinnamate; beta-D-Glucosyl-2-coumarinate	C15H18O8	326.1002	326.2986
+C05851	Coumarin; Coumarine; Cumarin; 2H-1-Benzopyran-2-one; 1,2-Benzopyrone; 2-Propenoic acid, 3-(2-hydroxyphenyl)-, delta-lactone; 5,6-Benzo-2-pyrone; Benzo-alpha-pyrone; cis-o-Coumarinic acid lactone; Coumarinic anhydride; o-Hydroxycinnamic acid lactone; Rattex; Tonka bean camphor	C9H6O2	146.0368	146.1427
+C05855	4-Hydroxycinnamyl alcohol 4-D-glucoside; p-Coumaryl alcohol 4-O-glucoside	C15H20O7	312.1209	312.3151
+C06224	3,4-Dihydroxystyrene	C8H8O2	136.0524	136.1479
+C10428	Anethole; t-Anethole; trans-Anethole	C10H12O	148.0888	148.2017
+C10434	5-O-Caffeoylshikimic acid	C16H16O8	336.0845	336.2934
+C10452	Estragole; 1-Methoxy-4-(2-propenyl)benzene; Methylchavicol	C10H12O	148.0888	148.2017
+C10453	Eugenol	C10H12O2	164.0837	164.2011
+C10454	Methyleugenol; O-Methyleugenol; Eugenol methyl ether	C11H14O2	178.0994	178.2277
+C10469	Isoeugenol	C10H12O2	164.0837	164.2011
+C10478	Methylisoeugenol; trans-Methylisoeugenol; Isomethyleugenol	C11H14O2	178.0994	178.2277
+C10945	Caffeic aldehyde; 3,4-Dihydroxycinnamaldehyde; Caffeyl aldehyde	C9H8O3	164.0473	164.158
+C12203	5-Hydroxyferuloyl-CoA	C31H44N7O20P3S	959.1575	959.7022
+C12204	5-Hydroxyconiferaldehyde	C10H10O4	194.0579	194.184
+C12205	5-Hydroxyconiferyl alcohol	C10H12O4	196.0736	196.1999
+C12206	Caffeyl alcohol	C9H10O3	166.063	166.1739
+C12208	p-Coumaroyl quinic acid; trans-5-O-(4-Coumaroyl)-D-quinate	C16H18O8	338.1002	338.3093
+C15804	p-Hydroxyphenyl lignin	C16H18O8	338.1002	338.3093
+C15805	Guaiacyl lignin	C16H18O8	338.1002	338.3093
+C15806	Syringyl lignin	C16H18O8	338.1002	338.3093
+C15807	5-Hydroxy-guaiacyl lignin	C16H18O8	338.1002	338.3093
+C16930	Chavicol	C9H10O	134.0732	134.1751
+C18069	N1,N5,N10-Tricoumaroyl spermidine	C34H37N3O6	583.2682	583.6741
+C18070	N1,N5,N10-Tricaffeoyl spermidine	C34H37N3O9	631.253	631.6723
+C18071	N1,N5,N10-Triferuloyl spermidine	C37H43N3O9	673.2999	673.752
+C18072	N1,N5,N10-Tri(hydroxyferuloyl) spermidine	C37H43N3O12	721.2847	721.7502
+C18073	N1,N5-Di(hydroxyferuloyl)-N10-sinapoyl spermidine	C38H45N3O12	735.3003	735.7768
+C20225	Coniferyl acetate	C12H14O4	222.0892	222.2372
+C20464	Isochavicol; t-Anol; trans-Anol; (E)-4-Propenylphenol; (E)-4-Hydroxypropenylbenzene	C9H10O	134.0732	134.1751
+C20465	Coumaryl acetate	C11H12O3	192.0786	192.2112
+C21459	6-Hydroxyferuloyl-CoA	C31H44N7O20P3S	959.1575	959.7022

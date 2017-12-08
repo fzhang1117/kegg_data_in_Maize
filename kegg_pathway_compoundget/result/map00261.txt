@@ -1,0 +1,40 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00019	S-Adenosyl-L-methionine; S-Adenosylmethionine; AdoMet; SAM	C15H22N6O5S	398.1372	398.4374
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00059	Sulfate; Sulfuric acid	H2SO4	97.9674	98.0785
+C00062	L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	C6H14N4O2	174.1117	174.201
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00188	L-Threonine; 2-Amino-3-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00224	Adenylyl sulfate; Adenosine 5'-phosphosulfate; APS; 5'-Adenylyl sulfate	C10H14N5O10PS	427.0199	427.2844
+C00441	L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	C4H7NO3	117.0426	117.1033
+C00927	Isonocardicin A; 1-Azetidineacetic acid	C23H24N4O9	500.1543	500.4581
+C01179	3-(4-Hydroxyphenyl)pyruvate; 4-Hydroxyphenylpyruvate; p-Hydroxyphenylpyruvic acid	C9H8O4	180.0423	180.1574
+C01739	Nocardicin E	C19H17N3O7	399.1067	399.3542
+C01941	Nocardicin A	C23H24N4O9	500.1543	500.4581
+C03082	4-Phospho-L-aspartate; L-4-Aspartyl phosphate	C4H8NO7P	213.0038	213.0826
+C03198	(S)-4-Hydroxymandelate; (S)-2-Hydroxy-2-(4-hydroxyphenyl)acetate; L-4-Hydroxymandelate; L-p-Hydroxymandelate	C8H8O4	168.0423	168.1467
+C03590	4-Hydroxyphenylglyoxylate; 4-Hydroxybenzoylformate; 4-Hydroxyphenylglyoxylic acid; 2-(4-Hydroxyphenyl)-2-oxoacetate	C8H6O4	166.0266	166.1308
+C03972	2,3,4,5-Tetrahydrodipicolinate; Delta1-Piperidine-2,6-dicarboxylate; L-2,3,4,5-Tetrahydrodipicolinate; (S)-2,3,4,5-Tetrahydropyridine-2,6-dicarboxylate	C7H9NO4	171.0532	171.1507
+C05539	N-Acetyl-L-2-amino-6-oxopimelate; L-2-Acetamido-6-oxoheptanedioate; L-2-Acetamido-6-oxopimelate	C9H13NO6	231.0743	231.2026
+C12323	L-4-Hydroxyphenylglycine	C8H9NO3	167.0582	167.162
+C16842	SQ 26180	C6H10N2O6S	238.026	238.2184
+C17351	Nocardicin C	C23H26N4O8	486.1751	486.4745
+C17352	Isonocardicin C	C23H26N4O8	486.1751	486.4745
+C17355	Nocardicin G	C19H19N3O6	385.1274	385.3707
+C20258	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate; (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate; HTPA	C7H9NO5	187.0481	187.1501
+C20911	C20911; Tabtoxin biosynthesis intermediate 1	C10H13NO8	275.0641	275.2121
+C20912	C20912; Tabtoxin biosynthesis intermediate 2	C10H16N2O7	276.0958	276.2432
+C20913	C20913; Tabtoxin biosynthesis intermediate 3	C8H14N2O6	234.0852	234.2066
+C20914	C20914; Tabtoxin biosynthesis intermediate 4	C7H14N2O4	190.0954	190.1971
+C20915	C20915; Tabtoxin biosynthesis intermediate 5	C11H21N3O6	291.143	291.3009
+C20916	C20916; Tabtoxin biosynthesis intermediate 6	C11H19N3O5	273.1325	273.2857
+C20917	Tabtoxin; beta-Tabtoxin	C11H19N3O6	289.1274	289.2851
+C20918	Tabtoxinine-beta-lactam	C7H12N2O4	188.0797	188.1812
+C20919	Isotabtoxin; delta-Tabtoxin	C11H19N3O6	289.1274	289.2851
+C20920	Tabtoxinine-delta-lactam	C7H12N2O4	188.0797	188.1812
+C20921	N1-Acetyl-tabtoxinine-beta-lactam	C9H14N2O5	230.0903	230.2179
+C20927	Sulfazecin; SQ 26445	C12H20N4O9S	396.0951	396.3736
+C20928	MM 42842	C13H22N4O9S	410.1107	410.4002
+C20929	3alpha-Hydroxy-3-aminoacylmonobactamic acid	C3H4N2O5S(R1)(R2)	410.1107	410.4002

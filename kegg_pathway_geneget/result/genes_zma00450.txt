@@ -1,0 +1,28 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+103645417	GRMZM2G056418	Zm00001d033029	K01739	EC2.5.1.48	probable cystathionine gamma-synthase 2
+103645418	GRMZM2G320085	-	K01739	EC2.5.1.48	probable cystathionine gamma-synthase 2
+100191523	GRMZM2G113873	Zm00001d047166	K01739	EC2.5.1.48	uncharacterized LOC100191523
+541650	GRMZM2G075153	Zm00001d029324	K01739	EC2.5.1.48	cystathionine gamma-synthase 1
+100281708	GRMZM2G167156	Zm00001d045153	K01760	EC4.4.1.8	Cystathionine beta-lyase chloroplastic
+541942	GRMZM2G149751	Zm00001d031128	K00549	EC2.1.1.14	uncharacterized LOC541942
+100286153	GRMZM2G165747	Zm00001d033480	K00549	EC2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+541714	GRMZM2G112149	Zm00001d013644	K00549	EC2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase 1
+100285862	GRMZM2G450498	Zm00001d000294	K01761	EC4.4.1.11	O-succinylhomoserine sulfhydrylase
+103628064	GRMZM2G078097	Zm00001d013844	K01761	EC4.4.1.11	methionine gamma-lyase
+100191757	GRMZM2G060470	-	K11717	EC4.4.1.16 2.8.1.7	Cysteine desulfurase 1 chloroplastic
+541786	GRMZM2G098031	Zm00001d011099	K08247	EC2.1.1.12	uncharacterized LOC541786
+100284045	GRMZM5G841142	Zm00001d037429	K00384	EC1.8.1.9	thioredoxin reductase 2
+100283742	GRMZM2G164948	Zm00001d017823	K00384	EC1.8.1.9	uncharacterized LOC100283742
+100216789	GRMZM2G136522	-	K00384	EC1.8.1.9	NADPH-dependent thioredoxin reductase 3
+100272704	GRMZM5G889769	Zm00001d053118	K00384	EC1.8.1.9	thioredoxin reductase
+103645431	-	Zm00001d033100	K13811	EC2.7.1.25 2.7.7.4	ATP sulfurylase 1, chloroplastic-like
+100281036	GRMZM2G158147	Zm00001d004513	K13811	EC2.7.1.25 2.7.7.4	bifunctional 3-phosphoadenosine 5-phosphosulfate synthetase 2
+103643994	GRMZM2G149952	Zm00001d033981	K13811	EC2.7.1.25 2.7.7.4	ATP-sulfurylase 3, chloroplastic-like
+103641688	-	Zm00001d025503	K13811	EC2.7.1.25 2.7.7.4	ATP sulfurylase 1, chloroplastic-like
+103625889	GRMZM2G051270	Zm00001d013296	K13811	EC2.7.1.25 2.7.7.4	ATP-sulfurylase 3, chloroplastic-like
+103640445	-	Zm00001d048381	K13811	EC2.7.1.25 2.7.7.4	ATP sulfurylase 1, chloroplastic-like
+103637465	-	-	K13811	EC2.7.1.25 2.7.7.4	ATP sulfurylase 1, chloroplastic-like
+103631953	GRMZM2G029055	Zm00001d028038	K01874	EC6.1.1.10	methionine--tRNA ligase, chloroplastic/mitochondrial
+103632740	GRMZM2G099628	Zm00001d028218	K01874	EC6.1.1.10	probable methionine--tRNA ligase
+103639438	GRMZM2G143450	Zm00001d048081	K01874	EC6.1.1.10	probable methionine--tRNA ligase
+103654058	GRMZM2G166713	Zm00001d051753	K01874	EC6.1.1.10	probable methionine--tRNA ligase

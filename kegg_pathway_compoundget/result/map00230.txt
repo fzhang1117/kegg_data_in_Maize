@@ -1,0 +1,93 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00002	ATP; Adenosine 5'-triphosphate	C10H16N5O13P3	506.9957	507.181
+C00008	ADP; Adenosine 5'-diphosphate	C10H15N5O10P2	427.0294	427.2011
+C00011	CO2; Carbon dioxide	CO2	43.9898	44.0095
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00020	AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate	C10H14N5O7P	347.0631	347.2212
+C00035	GDP; Guanosine 5'-diphosphate; Guanosine diphosphate	C10H15N5O11P2	443.0243	443.2005
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00039	DNA; DNAn; DNAn+1; (Deoxyribonucleotide)n; (Deoxyribonucleotide)m; (Deoxyribonucleotide)n+m; Deoxyribonucleic acid	C10H17O8PR2(C5H8O5PR)n	75.032	75.0666
+C00044	GTP; Guanosine 5'-triphosphate	C10H16N5O14P3	522.9907	523.1804
+C00046	RNA; RNAn; RNAn+1; RNA(linear); (Ribonucleotide)n; (Ribonucleotide)m; (Ribonucleotide)n+m; Ribonucleic acid	C10H18O13P2R2(C5H8O6PR)n	522.9907	523.1804
+C00048	Glyoxylate; Glyoxalate; Glyoxylic acid	C2H2O3	74.0004	74.0355
+C00053	3'-Phosphoadenylyl sulfate; 3'-Phosphoadenosine 5'-phosphosulfate; 3'-Phospho-5'-adenylyl sulfate; PAPS	C10H15N5O13P2S	506.9862	507.2643
+C00054	Adenosine 3',5'-bisphosphate; PAP; 3'-Phosphoadenylate; Phosphoadenosine phosphate	C10H15N5O10P2	427.0294	427.2011
+C00059	Sulfate; Sulfuric acid	H2SO4	97.9674	98.0785
+C00064	L-Glutamine; L-2-Aminoglutaramic acid	C5H10N2O3	146.0691	146.1445
+C00081	ITP; Inosine 5'-triphosphate; Inosine triphosphate; Inosine tripolyphosphate	C10H15N4O14P3	507.9798	508.1658
+C00086	Urea; Carbamide	CH4N2O	60.0324	60.0553
+C00104	IDP; Inosine 5'-diphosphate; Inosine diphosphate	C10H14N4O11P2	428.0134	428.1859
+C00117	D-Ribose 5-phosphate; Ribose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00119	5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	C5H13O14P3	389.9518	390.0696
+C00130	IMP; Inosinic acid; Inosine monophosphate; Inosine 5'-monophosphate; Inosine 5'-phosphate; 5'-Inosinate; 5'-Inosinic acid; 5'-Inosine monophosphate; 5'-IMP	C10H13N4O8P	348.0471	348.206
+C00131	dATP; 2'-Deoxyadenosine 5'-triphosphate; Deoxyadenosine 5'-triphosphate; Deoxyadenosine triphosphate	C10H16N5O12P3	491.0008	491.1816
+C00144	GMP; Guanosine 5'-phosphate; Guanosine monophosphate; Guanosine 5'-monophosphate; Guanylic acid	C10H14N5O8P	363.058	363.2206
+C00147	Adenine; 6-Aminopurine	C5H5N5	135.0545	135.1267
+C00169	Carbamoyl phosphate	CH4NO5P	140.9827	141.0199
+C00206	dADP; 2'-Deoxyadenosine 5'-diphosphate	C10H15N5O9P2	411.0345	411.2017
+C00212	Adenosine	C10H13N5O4	267.0968	267.2413
+C00224	Adenylyl sulfate; Adenosine 5'-phosphosulfate; APS; 5'-Adenylyl sulfate	C10H14N5O10PS	427.0199	427.2844
+C00242	Guanine; 2-Amino-6-hydroxypurine	C5H5N5O	151.0494	151.1261
+C00262	Hypoxanthine; Purine-6-ol	C5H4N4O	136.0385	136.1115
+C00286	dGTP; 2'-Deoxyguanosine 5'-triphosphate; Deoxyguanosine 5'-triphosphate; Deoxyguanosine triphosphate	C10H16N5O13P3	506.9957	507.181
+C00294	Inosine	C10H12N4O5	268.0808	268.2261
+C00301	ADP-ribose; ADP-D-ribose; Adenosine diphosphate ribose	C15H23N5O14P2	559.0717	559.3157
+C00330	Deoxyguanosine; 2'-Deoxyguanosine	C10H13N5O4	267.0968	267.2413
+C00360	dAMP; 2'-Deoxyadenosine 5'-phosphate; 2'-Deoxyadenosine 5'-monophosphate; Deoxyadenylic acid; Deoxyadenosine monophosphate	C10H14N5O6P	331.0682	331.2218
+C00361	dGDP; 2'-Deoxyguanosine 5'-diphosphate	C10H15N5O10P2	427.0294	427.2011
+C00362	dGMP; 2'-Deoxyguanosine 5'-monophosphate; 2'-Deoxyguanosine 5'-phosphate; Deoxyguanylic acid; Deoxyguanosine monophosphate	C10H14N5O7P	347.0631	347.2212
+C00366	Urate; Uric acid	C5H4N4O3	168.0283	168.1103
+C00385	Xanthine	C5H4N4O2	152.0334	152.1109
+C00387	Guanosine	C10H13N5O5	283.0917	283.2407
+C00499	Allantoate; Allantoic acid	C4H8N4O4	176.0546	176.1307
+C00559	Deoxyadenosine; 2'-Deoxyadenosine	C10H13N5O3	251.1018	251.2419
+C00575	3',5'-Cyclic AMP; Cyclic adenylic acid; Cyclic AMP; Adenosine 3',5'-phosphate; Adenosine 3',5'-cyclic phosphate; cAMP	C10H12N5O6P	329.0525	329.2059
+C00603	(-)-Ureidoglycolate; (S)-Ureidoglycolate	C3H6N2O4	134.0328	134.0907
+C00620	alpha-D-Ribose 1-phosphate; Ribose 1-phosphate; D-Ribose 1-phosphate	C5H11O8P	230.0192	230.1098
+C00655	Xanthosine 5'-phosphate; Xanthylic acid; XMP; (9-D-Ribosylxanthine)-5'-phosphate	C10H13N4O9P	364.042	364.2054
+C00700	XTP; Xanthosine 5'-triphosphate	C10H15N4O15P3	523.9747	524.1652
+C00802	Oxalureate; Oxaluric acid; Monooxalylurea; Oxalurate; N-Carbamoyl-2-oxoglycine	C3H4N2O4	132.0171	132.0749
+C00942	3',5'-Cyclic GMP; Guanosine 3',5'-cyclic monophosphate; Guanosine 3',5'-cyclic phosphate; Cyclic GMP; cGMP	C10H12N5O7P	345.0474	345.2053
+C01228	Guanosine 3',5'-bis(diphosphate); Guanosine 3'-diphosphate 5'-diphosphate; Guanosine 5'-diphosphate,3'-diphosphate	C10H17N5O17P4	602.957	603.1603
+C01260	P1,P4-Bis(5'-adenosyl)tetraphosphate; AppppA	C20H28N10O19P4	836.0483	836.387
+C01261	P1,P4-Bis(5'-guanosyl) tetraphosphate; GppppG; Bis(5'-guanosyl) tetraphosphate	C20H28N10O21P4	868.0381	868.3858
+C01344	dIDP; 2'-Deoxyinosine-5'-diphosphate; 2'-Deoxyinosine 5'-diphosphate	C10H14N4O10P2	412.0185	412.1865
+C01345	dITP; 2'-Deoxyinosine-5'-triphosphate; 2'-Deoxyinosine 5'-triphosphate	C10H15N4O13P3	491.9848	492.1664
+C01367	3'-AMP; 3'-Adenylic acid; 3'-Adenosine monophosphate; Adenosine-3'-monophosphate; Adenosine 3'-phosphate; AMP 3'-phosphate	C10H14N5O7P	347.0631	347.2212
+C01762	Xanthosine	C10H12N4O6	284.0757	284.2255
+C02091	(S)-Ureidoglycine	C3H7N3O3	133.0487	133.106
+C02348	(R)(-)-Allantoin; (R)-Allantoin	C4H6N4O3	158.044	158.1154
+C02350	(S)-Allantoin; (S)(+)-Allantoin	C4H6N4O3	158.044	158.1154
+C02353	2',3'-Cyclic AMP	C10H12N5O6P	329.0525	329.2059
+C02718	N-Formiminoglycine; Formiminoglycine; N-Formimidoylglycine	C3H6N2O2	102.0429	102.0919
+C03090	5-Phosphoribosylamine; 5-Phospho-beta-D-ribosylamine; 5-Phospho-D-ribosylamine; 5-Phosphoribosyl-1-amine	C5H12NO7P	229.0351	229.125
+C03373	Aminoimidazole ribotide; AIR; 1-(5'-Phosphoribosyl)-5-aminoimidazole; 5'-Phosphoribosyl-5-aminoimidazole; 1-(5-Phospho-D-ribosyl)-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole	C8H14N3O7P	295.0569	295.1864
+C03483	Adenosine tetraphosphate; Adenosine 5'-tetraphosphate	C10H17N5O16P4	586.9621	587.1609
+C03614	Inosine 5'-tetraphosphate	C10H16N4O17P4	587.9461	588.1457
+C03794	N6-(1,2-Dicarboxyethyl)-AMP; N6-(1,2-Dicarboxyethyl)AMP; Adenylosuccinate; Adenylosuccinic acid	C14H18N5O11P	463.074	463.2934
+C03838	5'-Phosphoribosylglycinamide; GAR; N1-(5-Phospho-D-ribosyl)glycinamide; Glycinamide ribonucleotide	C7H15N2O8P	286.0566	286.1764
+C04051	5-Amino-4-imidazolecarboxyamide	C4H6N4O	126.0542	126.1166
+C04376	5'-Phosphoribosyl-N-formylglycinamide; N-Formyl-GAR; N-Formylglycinamide ribonucleotide; N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide	C8H15N2O9P	314.0515	314.1865
+C04392	P1,P4-Bis(5'-xanthosyl) tetraphosphate; XppppX	C20H26N8O23P4	870.0061	870.3553
+C04494	Guanosine 3'-diphosphate 5'-triphosphate; Guanosine 5'-triphosphate,3'-diphosphate	C10H18N5O20P5	682.9233	683.1402
+C04640	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine; 1-(5'-Phosphoribosyl)-N-formylglycinamidine; 5'-Phosphoribosyl-N-formylglycinamidine; 5'-Phosphoribosylformylglycinamidine; 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine	C8H16N3O8P	313.0675	313.2017
+C04677	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide; 5'-Phosphoribosyl-5-amino-4-imidazolecarboxamide; 5'-Phospho-ribosyl-5-amino-4-imidazole carboxamide; AICAR; 5-Aminoimidazole-4-carboxamide ribotide; 5-Phosphoribosyl-4-carbamoyl-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	C9H15N4O8P	338.0628	338.2112
+C04734	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide; 5'-Phosphoribosyl-5-formamido-4-imidazolecarboxamide; 5-Formamido-1-(5-phosphoribosyl)imidazole-4-carboxamide; 5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide; FAICAR	C10H15N4O9P	366.0577	366.2213
+C04751	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-5-amino-4-carboxyimidazole; 5'-Phosphoribosyl-5-amino-4-imidazolecarboxylate; 1-(5'-Phosphoribosyl)-4-carboxy-5-aminoimidazole; 5'-Phosphoribosyl-4-carboxy-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	C9H14N3O9P	339.0468	339.1959
+C04823	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole; 1-(5'-Phosphoribosyl)-4-(N-succinocarboxamide)-5-aminoimidazole; 5'-Phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole; (S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate; SAICAR	C13H19N4O12P	454.0737	454.2833
+C05239	5-Aminoimidazole; Aminoimidazole; 4-Aminoimidazole	C3H5N3	83.0483	83.0919
+C05512	Deoxyinosine	C10H12N4O4	252.0859	252.2267
+C05513	Urate-3-ribonucleoside; Uric acid ribonucleoside	C10H12N4O7	300.0706	300.2249
+C05515	5-Ureido-4-imidazole carboxylate; 4-Ureido-5-imidazolecarboxylic acid	C5H6N4O3	170.044	170.1261
+C05516	5-Amino-4-imidazole carboxylate; 4-Amino-5-imidazolecarboxylic acid	C4H5N3O2	127.0382	127.1014
+C05993	Acetyl adenylate; 5'-Acetylphosphoadenosine	C12H16N5O8P	389.0736	389.2579
+C06193	Guanosine 3'-phosphate; 3'-GMP; 3'-Guanylic acid; Guo-3'-P; Gp	C10H14N5O8P	363.058	363.2206
+C06194	2',3'-Cyclic GMP	C10H12N5O7P	345.0474	345.2053
+C06195	Imidazolone; 4-Imidazolone; Imidazol-4-one	C3H4N2O	84.0324	84.0767
+C06196	2'-Deoxyinosine 5'-phosphate; dIMP	C10H13N4O7P	332.0522	332.2066
+C06197	P1,P3-Bis(5'-adenosyl) triphosphate; ApppA; Adenosine 5'-triphosphate 5'-adenosine	C20H27N10O16P3	756.0819	756.4071
+C06433	5'-Benzoylphosphoadenosine	C17H18N5O8P	451.0893	451.3273
+C06435	5'-Butyrylphosphoinosine; Inosine 5'-phosphobutyrate	C14H19N4O9P	418.089	418.2958
+C11821	5-Hydroxyisourate	C5H4N4O4	184.0233	184.1097
+C12248	5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate; 2-Oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline	C5H6N4O5	202.0338	202.1249
+C15667	5-Carboxyamino-1-(5-phospho-D-ribosyl)imidazole	C9H14N3O9P	339.0468	339.1959

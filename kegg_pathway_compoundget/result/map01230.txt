@@ -1,0 +1,128 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00011	CO2; Carbon dioxide	CO2	43.9898	44.0095
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00019	S-Adenosyl-L-methionine; S-Adenosylmethionine; AdoMet; SAM	C15H22N6O5S	398.1372	398.4374
+C00021	S-Adenosyl-L-homocysteine; S-Adenosylhomocysteine	C14H20N6O5S	384.1216	384.4108
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00036	Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	C4H4O5	132.0059	132.0716
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00041	L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	C3H7NO2	89.0477	89.0932
+C00047	L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid	C6H14N2O2	146.1055	146.1876
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00062	L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	C6H14N4O2	174.1117	174.201
+C00064	L-Glutamine; L-2-Aminoglutaramic acid	C5H10N2O3	146.0691	146.1445
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00073	L-Methionine; Methionine; L-2-Amino-4methylthiobutyric acid	C5H11NO2S	149.051	149.2113
+C00074	Phosphoenolpyruvate; Phosphoenolpyruvic acid; PEP	C3H5O6P	167.9824	168.042
+C00077	L-Ornithine; (S)-2,5-Diaminovaleric acid; (S)-2,5-Diaminopentanoic acid; (S)-2,5-Diaminopentanoate	C5H12N2O2	132.0899	132.161
+C00078	L-Tryptophan; Tryptophan; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid	C11H12N2O2	204.0899	204.2252
+C00079	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00108	Anthranilate; Anthranilic acid; o-Aminobenzoic acid; Vitamin L1; 2-Aminobenzoate	C7H7NO2	137.0477	137.136
+C00109	2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	C4H6O3	102.0317	102.0886
+C00111	Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	C3H7O6P	169.998	170.0578
+C00117	D-Ribose 5-phosphate; Ribose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00118	D-Glyceraldehyde 3-phosphate; (2R)-2-Hydroxy-3-(phosphonooxy)-propanal; Glyceraldehyde 3-phosphate	C3H7O6P	169.998	170.0578
+C00119	5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	C5H13O14P3	389.9518	390.0696
+C00123	L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	C6H13NO2	131.0946	131.1729
+C00135	L-Histidine; (S)-alpha-Amino-1H-imidazole-4-propionic acid	C6H9N3O2	155.0695	155.1546
+C00141	3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	C5H8O3	116.0473	116.1152
+C00148	L-Proline; 2-Pyrrolidinecarboxylic acid	C5H9NO2	115.0633	115.1305
+C00152	L-Asparagine; 2-Aminosuccinamic acid	C4H8N2O3	132.0535	132.1179
+C00155	L-Homocysteine; L-2-Amino-4-mercaptobutyric acid; Homocysteine	C4H9NO2S	135.0354	135.1848
+C00158	Citrate; Citric acid; 2-Hydroxy-1,2,3-propanetricarboxylic acid; 2-Hydroxytricarballylic acid	C6H8O7	192.027	192.1235
+C00166	Phenylpyruvate; Phenylpyruvic acid; alpha-Ketohydrocinnamic acid; keto-Phenylpyruvate; 3-Phenyl-2-oxopropanoate; 2-Oxo-3-phenylpropanoate	C9H8O3	164.0473	164.158
+C00169	Carbamoyl phosphate	CH4NO5P	140.9827	141.0199
+C00183	L-Valine; 2-Amino-3-methylbutyric acid	C5H11NO2	117.079	117.1463
+C00188	L-Threonine; 2-Amino-3-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00197	3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	C3H7O7P	185.9929	186.0572
+C00199	D-Ribulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00231	D-Xylulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00233	4-Methyl-2-oxopentanoate; 2-Oxoisocaproate	C6H10O3	130.063	130.1418
+C00236	3-Phospho-D-glyceroyl phosphate; 1,3-Bisphospho-D-glycerate; (R)-2-Hydroxy-3-(phosphonooxy)-1-monoanhydride with phosphoric propanoic acid; D-Glycerate 1,3-diphosphate	C3H8O10P2	265.9593	266.0371
+C00251	Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	C10H10O6	226.0477	226.1828
+C00254	Prephenate; Prephenic acid	C10H10O6	226.0477	226.1828
+C00263	L-Homoserine; 2-Amino-4-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00279	D-Erythrose 4-phosphate	C4H9O7P	200.0086	200.0838
+C00311	Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid	C6H8O7	192.027	192.1235
+C00322	2-Oxoadipate; 2-Oxoadipic acid	C6H8O5	160.0372	160.1247
+C00327	L-Citrulline; 2-Amino-5-ureidovaleric acid; Citrulline	C6H13N3O3	175.0957	175.1857
+C00407	L-Isoleucine; 2-Amino-3-methylvaleric acid	C6H13NO2	131.0946	131.1729
+C00437	N-Acetylornithine; N2-Acetyl-L-ornithine	C7H14N2O3	174.1004	174.1977
+C00441	L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	C4H7NO3	117.0426	117.1033
+C00449	N6-(L-1,3-Dicarboxypropyl)-L-lysine; Saccharopine; L-Saccharopine; N-[(S)-5-Amino-5-carboxypentyl]-L-glutamic acid	C11H20N2O6	276.1321	276.2863
+C00493	Shikimate; Shikimic acid; 3,4,5-Trihydroxy-1-cyclohexenecarboxylic acid	C7H10O5	174.0528	174.1513
+C00624	N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid	C7H11NO5	189.0637	189.1659
+C00631	2-Phospho-D-glycerate; D-Glycerate 2-phosphate; 2-Phospho-(R)-glycerate	C3H7O7P	185.9929	186.0572
+C00666	LL-2,6-Diaminoheptanedioate; LL-2,6-Diaminopimelate; LL-2,6-Diaminopimelic acid	C7H14N2O4	190.0954	190.1971
+C00671	(S)-3-Methyl-2-oxopentanoic acid; (S)-3-Methyl-2-oxopentanoate; (3S)-3-Methyl-2-oxopentanoic acid; (3S)-3-Methyl-2-oxopentanoate	C6H10O3	130.063	130.1418
+C00680	meso-2,6-Diaminoheptanedioate; meso-2,6-Diaminopimelate; meso-2,6-Diaminopimelic acid; meso-Diaminoheptanedioate	C7H14N2O4	190.0954	190.1971
+C00826	L-Arogenate; L-Arogenic acid; Pretyrosine	C10H13NO5	227.0794	227.2139
+C00860	L-Histidinol	C6H11N3O	141.0902	141.171
+C00944	3-Dehydroquinate; 3-Dehydroquinic acid; 5-Dehydroquinate; 5-Dehydroquinic acid	C7H10O6	190.0477	190.1507
+C00956	L-2-Aminoadipate; L-alpha-Aminoadipate; L-alpha-Aminoadipic acid; L-2-Aminoadipic acid; L-2-Aminohexanedioate	C6H11NO4	161.0688	161.1558
+C00979	O-Acetyl-L-serine; O3-Acetyl-L-serine	C5H9NO4	147.0532	147.1293
+C01005	O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine	C3H8NO6P	185.0089	185.0725
+C01100	L-Histidinol phosphate	C6H12N3O4P	221.0565	221.1509
+C01102	O-Phospho-L-homoserine	C4H10NO6P	199.0246	199.0991
+C01118	O-Succinyl-L-homoserine; O4-Succinyl-L-homoserine; O-Succinylhomoserine	C8H13NO6	219.0743	219.1919
+C01165	L-Glutamate 5-semialdehyde; L-Glutamate gamma-semialdehyde	C5H9NO3	131.0582	131.1299
+C01179	3-(4-Hydroxyphenyl)pyruvate; 4-Hydroxyphenylpyruvate; p-Hydroxyphenylpyruvic acid	C9H8O4	180.0423	180.1574
+C01250	N-Acetyl-L-glutamate 5-semialdehyde; 2-Acetamido-5-oxopentanoate	C7H11NO4	173.0688	173.1665
+C01251	(R)-2-Hydroxybutane-1,2,4-tricarboxylate; Homocitrate; Homocitric acid; 3-Hydroxy-3-carboxyadipic acid; (R)-2-Hydroxy-1,2,4-butanetricarboxylic acid	C7H10O7	206.0427	206.1501
+C01267	3-(Imidazol-4-yl)-2-oxopropyl phosphate; Imidazole-acetol phosphate	C6H9N2O5P	220.0249	220.1198
+C01269	5-O-(1-Carboxyvinyl)-3-phosphoshikimate; O5-(1-Carboxyvinyl)-3-phosphoshikimate	C10H13O10P	324.0246	324.178
+C01302	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	C12H16NO9P	349.0563	349.2305
+C02291	L-Cystathionine	C7H14N2O4S	222.0674	222.2621
+C02504	alpha-Isopropylmalate; (2S)-2-Isopropylmalate; (2S)-2-Hydroxy-2-isopropylsuccinic acid; 2-Isopropylmalic acid; 3-Carboxy-3-hydroxy-4-methylpentanoate; 3-Carboxy-3-hydroxyisocaproate	C7H12O5	176.0685	176.1672
+C02612	(R)-2-Methylmalate; (R)-2-Methylmalic acid; (R)-Citramalate; (R)-Citramalic acid; (R)-alpha-Hydroxypyrotartaric acid; D-Citramalate; D-Citramalic acid; D-alpha-Hydroxypyrotartaric acid; (2R)-2-Hydroxy-2-methylbutanedioate	C5H8O5	148.0372	148.114
+C02637	3-Dehydroshikimate	C7H8O5	172.0372	172.1354
+C02739	1-(5-Phospho-D-ribosyl)-ATP; Phosphoribosyl-ATP; N1-(5-Phospho-D-ribosyl)-ATP; 1-(5-Phosphoribosyl)-ATP; 1-(5-Phospho-beta-D-ribosyl)-ATP	C15H25N5O20P4	719.0043	719.2755
+C02741	Phosphoribosyl-AMP; N1-(5-Phospho-D-ribosyl)-AMP; 1-(5-Phosphoribosyl)-AMP; 1-(5-Phospho-beta-D-ribosyl)-AMP	C15H23N5O14P2	559.0717	559.3157
+C03082	4-Phospho-L-aspartate; L-4-Aspartyl phosphate	C4H8NO7P	213.0038	213.0826
+C03175	Shikimate 3-phosphate; Shikimate 5-phosphate	C7H11O8P	254.0192	254.1312
+C03232	3-Phosphonooxypyruvate; 3-Phosphonooxypyruvic acid; 3-Phosphohydroxypyruvate; 3-Phosphohydroxypyruvic acid; 3-Phosphooxypyruvate	C3H5O7P	183.9773	184.0414
+C03283	L-2,4-Diaminobutanoate; alpha,gamma-Diaminobutyrate; L-2,4-Diaminobutyrate	C4H10N2O2	118.0742	118.1344
+C03287	L-Glutamyl 5-phosphate; L-Glutamate 5-phosphate	C5H10NO7P	227.0195	227.1092
+C03406	N-(L-Arginino)succinate; 2-(Nomega-L-Arginino)succinate; L-Argininosuccinate; L-Argininosuccinic acid; L-Arginosuccinic acid	C10H18N4O6	290.1226	290.2731
+C03506	Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate	C11H14NO6P	287.0559	287.2057
+C03539	S-Ribosyl-L-homocysteine; S-D-Ribosyl-L-homocysteine; Ribose-5-S-homocysteine; S-Ribosylhomocysteine; S-(5-Deoxy-D-ribos-5-yl)-L-homocysteine	C9H17NO6S	267.0777	267.2994
+C03871	L-2-Amino-6-oxoheptanedioate; L-2-Amino-6-oxopimelate	C7H11NO5	189.0637	189.1659
+C03912	(S)-1-Pyrroline-5-carboxylate; L-1-Pyrroline-5-carboxylate; 1-Pyrroline-5-carboxylate	C5H7NO2	113.0477	113.1146
+C03972	2,3,4,5-Tetrahydrodipicolinate; Delta1-Piperidine-2,6-dicarboxylate; L-2,3,4,5-Tetrahydrodipicolinate; (S)-2,3,4,5-Tetrahydropyridine-2,6-dicarboxylate	C7H9NO4	171.0532	171.1507
+C04002	(Z)-But-1-ene-1,2,4-tricarboxylate; Homo-cis-aconitate; cis-Homoaconitate; (Z)-1,2,4-But-1-enetricarboxylic acid	C7H8O6	188.0321	188.1348
+C04076	L-2-Aminoadipate 6-semialdehyde; 2-Aminoadipate 6-semialdehyde; L-Allysine; Allysine; (S)-2-Amino-6-oxohexanoate	C6H11NO3	145.0739	145.1564
+C04133	N-Acetyl-L-glutamate 5-phosphate; N-Acetyl-L-glutamyl 5-phosphate	C7H12NO8P	269.0301	269.1458
+C04272	(R)-2,3-Dihydroxy-3-methylbutanoate; (R)-2,3-Dihydroxy-isovalerate; (R)-2,3-Dihydroxy-isovaleric acid; (2R)-2,3-Dihydroxy-3-methylbutanoate	C5H10O4	134.0579	134.1305
+C04302	N-(5-Phospho-D-ribosyl)anthranilate; N-(5-Phospho-beta-D-ribosyl)anthranilate; N-(5-Phosphoribosyl)anthranilic acid	C12H16NO9P	349.0563	349.2305
+C04390	N6-Acetyl-LL-2,6-diaminoheptanedioate; N2-Acetyl-LL-2,6-diaminoheptanedioate; N6-Acetyl-LL-2,6-diaminopimelate; N2-Acetyl-LL-2,6-diaminopimelate; N6-Acetyl-L-2,6-diaminoheptanedioate; N6-Acetyl-L-2,6-diaminopimelate; N-Acetyl-LL-2,6-diaminoheptanedioate	C9H16N2O5	232.1059	232.2337
+C04411	(2R,3S)-3-Isopropylmalate; 3-Isopropylmalate; 3-Carboxy-2-hydroxy-4-methylpentanoate; 2-D-threo-Hydroxy-3-carboxy-isocaproate	C7H12O5	176.0685	176.1672
+C04421	N-Succinyl-LL-2,6-diaminoheptanedioate; N-Succinyl-LL-2,6-diaminopimelate; N-Succinyl-L-2,6-diaminoheptanedioate; N-Succinyl-L-2,6-diaminopimelate	C11H18N2O7	290.1114	290.2698
+C04462	N-Succinyl-2-L-amino-6-oxoheptanedioate; N-Succinyl-L-2-amino-6-oxoheptanedioate; N-Succinyl-L-2-amino-6-oxopimelate; N-Succinyl-2-amino-6-oxo-L-pimelic acid; N-Succinyl-epsilon-keto-L-aminopimelic acid; (S)-2-(Succinylamino)-6-oxoheptanedioate	C11H15NO8	289.0798	289.2387
+C04666	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate; D-erythro-Imidazole-glycerol 3-phosphate; D-erythro-Imidazole-glycerol phosphate	C6H11N2O6P	238.0355	238.1351
+C04691	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate; 3-Deoxy-D-arabino-hept-2-ulosonate 7-phosphate; 3-Deoxy-arabino-heptulonate 7-phosphate; 3-Deoxy-D-arabino-heptulosonic acid 7-phosphate; DAHP; 2-Dahp	C7H13O10P	288.0246	288.1459
+C04896	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide; N-(5'-Phospho-D-ribosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide; N-(5'-Phosphoribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide; Phosphoribosyl-formimino-AICAR-phosphate; 1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide; 1-(5-Phospho-beta-D-ribosyl)-5-[(5-phospho-beta-D-ribosylamino)methylideneamino]imidazole-4-carboxamide	C15H25N5O15P2	577.0822	577.331
+C04916	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide; 5-[(5-Phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide; Phosphoribulosyl-formimino-AICAR-phosphate; 5-[(5-Phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide	C15H25N5O15P2	577.0822	577.331
+C05345	beta-D-Fructose 6-phosphate	C6H13O9P	260.0297	260.1358
+C05378	beta-D-Fructose 1,6-bisphosphate	C6H14O12P2	339.996	340.1157
+C05382	Sedoheptulose 7-phosphate; D-Sedoheptulose 7-phosphate; D-altro-Heptulose 7-phosphate; altro-Heptulose 7-phosphate	C7H15O10P	290.0403	290.1618
+C05539	N-Acetyl-L-2-amino-6-oxopimelate; L-2-Acetamido-6-oxoheptanedioate; L-2-Acetamido-6-oxopimelate	C9H13NO6	231.0743	231.2026
+C05662	Homoisocitrate; 3-Carboxy-2-hydroxyadipate; (-)-1-Hydroxy-1,2,4-butanetricarboxylate; (1R,2S)-1-Hydroxybutane-1,2,4-tricarboxylate; (-)-threo-Homoisocitrate	C7H10O7	206.0427	206.1501
+C05824	S-Sulfo-L-cysteine	C3H7NO5S2	200.9766	201.2214
+C06006	(S)-2-Aceto-2-hydroxybutanoate; (S)-2-Hydroxy-2-ethyl-3-oxobutanoate	C6H10O4	146.0579	146.1412
+C06007	(R)-2,3-Dihydroxy-3-methylpentanoate; (R)-2,3-Dihydroxy-3-methylvalerate; (2R,3R)-2,3-Dihydroxy-3-methylpentanoate	C6H12O4	148.0736	148.1571
+C06010	(S)-2-Acetolactate; (S)-2-Hydroxy-2-methyl-3-oxobutanoate; (2S)-2-Hydroxy-2-methyl-3-oxobutanoate	C5H8O4	132.0423	132.1146
+C06019	D-arabino-Hex-3-ulose 6-phosphate; D-arabino-3-Hexulose 6-phosphate; D-arabino-6-Phospho-hex-3-ulose	C6H13O9P	260.0297	260.1358
+C06032	D-erythro-3-Methylmalate; (2R,3S)-3-Methylmalate	C5H8O5	148.0372	148.114
+C19886	LysW-gamma-L-alpha-aminoadipate; [LysW]-L-2-aminoadipate; [Lysine-biosynthesis-protein LysW]-C-terminal-gamma-(L-2-aminoadip-2-yl)-L-glutamate	C11H17N2O7R	148.0372	148.114
+C19887	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	C11H18N2O10PR	148.0372	148.114
+C19888	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	C11H17N2O6R	148.0372	148.114
+C19889	LysW-gamma-L-lysine	C11H20N3O5R	148.0372	148.114
+C20258	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate; (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate; HTPA	C7H9NO5	187.0481	187.1501
+C20948	LysW-L-glutamate; LysW-glutamate	C10H15N2O7R	187.0481	187.1501
+C20949	LysW-L-glutamyl 5-phosphate	C10H16N2O10PR	187.0481	187.1501
+C20950	LysW-L-glutamate 5-semialdehyde	C10H15N2O6R	187.0481	187.1501
+C20951	LysW-L-ornithine	C10H18N3O5R	187.0481	187.1501

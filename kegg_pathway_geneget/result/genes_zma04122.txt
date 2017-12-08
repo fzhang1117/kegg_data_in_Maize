@@ -1,0 +1,14 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100282194	GRMZM2G322314	Zm00001d020139	K04487	EC2.8.1.7	Cysteine desulfurase mitochondrial
+100275494	GRMZM2G029262	Zm00001d031024	K01011	EC2.8.1.2 2.8.1.1	Sulfurtransferase
+100272428	GRMZM2G168888	Zm00001d053816	K01011	EC2.8.1.2 2.8.1.1	Thiosulfate/3-mercaptopyruvate sulfurtransferase 1 mitochondrial
+100275675	GRMZM2G179689	Zm00001d021359	K12161	-	Ubiquitin-related modifier 1 homolog
+100191959	GRMZM2G157836	Zm00001d051608	K11996	EC2.8.1.11 2.7.7.80	adenylyltransferase and sulfurtransferase MOCS3 2
+100280109	GRMZM2G347027	-	K11996	EC2.8.1.11 2.7.7.80	uncharacterized LOC100280109
+103638013	GRMZM2G160842	Zm00001d045182	K11996	EC2.8.1.11 2.7.7.80	adenylyltransferase and sulfurtransferase MOCS3-1
+100193637	GRMZM2G402242	Zm00001d018148	K14168	EC2.7.7.-	Cytoplasmic tRNA 2-thiolation protein 1
+100279201	GRMZM2G362306	Zm00001d041346	K14169	-	Cytoplasmic tRNA 2-thiolation protein 2
+100281638	GRMZM2G121468	Zm00001d016850	K21232	-	molybdenum cofactor synthesis protein 2A
+100284923	GRMZM2G165966	Zm00001d053887	K03635	EC2.8.1.12	Molybdopterin synthase catalytic subunit
+100272516	GRMZM2G135816	Zm00001d016866	K03639	EC4.1.99.22	Cyclic pyranopterin monophosphate synthase mitochondrial
+100282527	GRMZM2G010238	Zm00001d003415	K03637	EC4.6.1.17	molybdopterin biosynthesis CNX3 protein

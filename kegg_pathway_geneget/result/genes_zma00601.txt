@@ -1,0 +1,2 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100283564	GRMZM2G399048	Zm00001d025912	K01988	EC2.4.1.228	transferase/ transferase, transferring glycosyl groups

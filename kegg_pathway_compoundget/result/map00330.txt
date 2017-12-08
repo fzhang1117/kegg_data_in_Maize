@@ -1,0 +1,78 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00012	Peptide	C2H4NO2R(C2H2NOR)n	-	-
+C00019	S-Adenosyl-L-methionine; S-Adenosylmethionine; AdoMet; SAM	C15H22N6O5S	398.1372	398.4374
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00048	Glyoxylate; Glyoxalate; Glyoxylic acid	C2H2O3	74.0004	74.0355
+C00062	L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	C6H14N4O2	174.1117	174.201
+C00077	L-Ornithine; (S)-2,5-Diaminovaleric acid; (S)-2,5-Diaminopentanoic acid; (S)-2,5-Diaminopentanoate	C5H12N2O2	132.0899	132.161
+C00086	Urea; Carbamide	CH4N2O	60.0324	60.0553
+C00134	Putrescine; 1,4-Butanediamine; 1,4-Diaminobutane; Tetramethylenediamine; Butane-1,4-diamine	C4H12N2	88.1	88.1515
+C00148	L-Proline; 2-Pyrrolidinecarboxylic acid	C5H9NO2	115.0633	115.1305
+C00179	Agmatine; (4-Aminobutyl) guanidine	C5H14N4	130.1218	130.1915
+C00213	Sarcosine; N-Methylglycine	C3H7NO2	89.0477	89.0932
+C00223	p-Coumaroyl-CoA; 4-Coumaroyl-CoA; 4-Hydroxycinnamoyl-CoA	C30H42N7O18P3S	913.152	913.6769
+C00300	Creatine; alpha-Methylguanidino acetic acid; Methylglycocyamine	C4H9N3O2	131.0695	131.1332
+C00315	Spermidine; N-(3-Aminopropyl)-1,4-butane-diamine	C7H19N3	145.1579	145.2459
+C00334	4-Aminobutanoate; 4-Aminobutanoic acid; 4-Aminobutyrate; 4-Aminobutyric acid; gamma-Aminobutyric acid; GABA	C4H9NO2	103.0633	103.1198
+C00406	Feruloyl-CoA; trans-Feruloyl-CoA	C31H44N7O19P3S	943.1626	943.7028
+C00431	5-Aminopentanoate; 5-Aminopentanoic acid; 5-Aminovaleric acid	C5H11NO2	117.079	117.1463
+C00433	2,5-Dioxopentanoate; 2-Oxoglutarate semialdehyde	C5H6O4	130.0266	130.0987
+C00436	N-Carbamoylputrescine	C5H13N3O	131.1059	131.1762
+C00441	L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	C4H7NO3	117.0426	117.1033
+C00533	Nitric oxide; NO; Nitrogen monoxide	NO	29.998	30.0061
+C00555	4-Aminobutyraldehyde; 4-Aminobutanal	C4H9NO	87.0684	87.1204
+C00581	Guanidinoacetate; Guanidinoacetic acid; Glycocyamine; N-Amidinoglycine; Guanidoacetic acid	C3H7N3O2	117.0538	117.1066
+C00750	Spermine; N,N'-Bis(3-aminopropyl)-1,4-butanediamine	C10H26N4	202.2157	202.3402
+C00763	D-Proline	C5H9NO2	115.0633	115.1305
+C00791	Creatinine; 1-Methylglycocyamidine	C4H7N3O	113.0589	113.1179
+C00884	Homocarnosine; L-Homocarnosine; gamma-Aminobutyryl histidine; N-(4-Amino-1-oxobutyryl)histidine	C10H16N4O3	240.1222	240.259
+C00986	1,3-Diaminopropane; Trimethylenediamine; 1,3-Propanediamine; Propane-1,3-diamine	C3H10N2	74.0844	74.1249
+C01035	4-Guanidinobutanoate; 4-Guanidinobutyric acid	C5H11N3O2	145.0851	145.1597
+C01043	N-Carbamoylsarcosine	C4H8N2O3	132.0535	132.1179
+C01110	5-Amino-2-oxopentanoic acid; 5-Amino-2-oxopentanoate; 2-Oxo-5-amino-pentanoate; 2-Oxo-5-aminopentanoate; alpha-Keto-delta-aminopentanoate; 2-Oxo-5-aminovalerate	C5H9NO3	131.0582	131.1299
+C01137	S-Adenosylmethioninamine; (5-Deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium; (5-Deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium cation; S-Adenosyl-(5')-3-methylthiopropylamine; S-Adenosyl 3-(methylthio)propylamine; Decarboxy-AdoMet	C14H23N6O3S	355.1552	355.4358
+C01157	Hydroxyproline; L-Hydroxyproline; trans-4-Hydroxy-L-proline	C5H9NO3	131.0582	131.1299
+C01165	L-Glutamate 5-semialdehyde; L-Glutamate gamma-semialdehyde	C5H9NO3	131.0582	131.1299
+C01682	Nopaline; D-Nopaline; N2-(D-1,3-Dicarboxypropyl)-L-arginine; N-[(1S)-4-Carbamimidamido-1-carboxybutyl]-D-glutamic acid	C11H20N4O6	304.1383	304.2997
+C01877	4-Oxoproline; 4-Oxo-L-proline	C5H7NO3	129.0426	129.114
+C02305	Phosphocreatine; N-Phosphocreatine; Creatine phosphate	C4H10N3O5P	211.0358	211.1131
+C02565	N-Methylhydantoin; N-Methylimidazolidine-2,4-dione	C4H6N2O2	114.0429	114.1026
+C02647	4-Guanidinobutanal	C5H11N3O	129.0902	129.1603
+C02714	N-Acetylputrescine	C6H14N2O	130.1106	130.1882
+C02946	4-Acetamidobutanoate; N4-Acetylaminobutanoate	C6H11NO3	145.0739	145.1564
+C03078	4-Guanidinobutanamide	C5H12N4O	144.1011	144.175
+C03166	Phosphoguanidinoacetate; Guanidinoacetate phosphate	C3H8N3O5P	197.0202	197.0865
+C03287	L-Glutamyl 5-phosphate; L-Glutamate 5-phosphate	C5H10NO7P	227.0195	227.1092
+C03296	N2-Succinyl-L-arginine; (2S)-2-(3-Carboxypropanoylamino)-5-(diaminomethylideneamino)pentanoic acid	C10H18N4O5	274.1277	274.2737
+C03375	Norspermidine; Bis(3-aminopropyl)amine; 3,3'-Iminobispropylamine	C6H17N3	131.1422	131.2193
+C03415	N2-Succinyl-L-ornithine; (2S)-5-Amino-2-(3-carboxypropanoylamino)pentanoic acid	C9H16N2O5	232.1059	232.2337
+C03440	cis-4-Hydroxy-D-proline	C5H9NO3	131.0582	131.1299
+C03564	1-Pyrroline-2-carboxylate; 1-Pyrroline-2-carboxylic acid; Delta1-Pyrroline 2-carboxylate; 1-Pyrroline 2-carboxylate	C5H7NO2	113.0477	113.1146
+C03771	5-Guanidino-2-oxopentanoate; 5-Guanidino-2-oxo-pentanoate; 2-Oxo-5-guanidinopentanoate; 2-Oxo-5-guanidino-pentanoate; 2-Oxoarginine	C6H11N3O3	173.08	173.1698
+C03912	(S)-1-Pyrroline-5-carboxylate; L-1-Pyrroline-5-carboxylate; 1-Pyrroline-5-carboxylate	C5H7NO2	113.0477	113.1146
+C04137	D-Octopine; N2-(D-1-Carboxyethyl)-L-arginine; N2-(1-Carboxyethyl)-L-arginine; Arginine, N2-(1-carboxyethyl)-, L-; D-(+)-Octopine; L-Arginine, N2-(1-carboxyethyl)-, (R)-; L-Arginine, N2-[(1R)-1-carboxyethyl]-; Octopine	C9H18N4O4	246.1328	246.2636
+C04281	L-1-Pyrroline-3-hydroxy-5-carboxylate; 3-Hydroxy-L-1-pyrroline-5-carboxylate; (3R,5S)-1-Pyrroline-3-hydroxy-5-carboxylate	C5H7NO3	129.0426	129.114
+C04282	1-Pyrroline-4-hydroxy-2-carboxylate	C5H7NO3	129.0426	129.114
+C04498	p-Coumaroylagmatine; N-(4-Guanidinobutyl)-4-hydroxycinnamide; N-(4-Guanidinobutyl)-4-hydroxycinnamamide	C14H20N4O2	276.1586	276.3342
+C05147	trans-3-Hydroxy-L-proline; trans-L-3-Hydroxyproline	C5H9NO3	131.0582	131.1299
+C05931	N-Succinyl-L-glutamate; (2S)-2-(3-Carboxypropanoylamino)pentanedioic acid	C9H13NO7	247.0692	247.202
+C05932	N-Succinyl-L-glutamate 5-semialdehyde; (2S)-2-(3-Carboxypropanoylamino)-5-oxopentanoic acid	C9H13NO6	231.0743	231.2026
+C05933	N(omega)-Hydroxyarginine; N(omega)-Hydroxy-L-arginine	C6H14N4O3	190.1066	190.2004
+C05936	N4-Acetylaminobutanal; 4-Acetamidobutanal	C6H11NO2	129.079	129.157
+C05938	L-4-Hydroxyglutamate semialdehyde	C5H9NO4	147.0532	147.1293
+C05939	Linatine; N-(gamma-L-Glutamyl)amino-D-proline	C10H17N3O5	259.1168	259.2591
+C05941	2-Oxo-4-hydroxy-5-aminovalerate	C5H9NO4	147.0532	147.1293
+C05942	Pyrrole-2-carboxylate	C5H5NO2	111.032	111.0987
+C05945	L-Arginine phosphate; N5-[Imino(phosphonoamino)methyl]L-ornithine; omega-N-Phosphoarginine; Arginine phosphate; L-Arginine-NG-phosphoric acid; Phosphoarginine A; N-Phospho-L-arginine; N(omega)-Phospho-L-arginine; Phosphoarginine	C6H15N4O5P	254.078	254.1809
+C05946	(4R)-4-Hydroxy-2-oxoglutarate; (R)-2-Hydroxy-4-oxopentanedioate; D-4-Hydroxy-2-oxoglutarate	C5H6O6	162.0164	162.0975
+C05947	L-erythro-4-Hydroxyglutamate	C5H9NO5	163.0481	163.1287
+C10497	Feruloylputrescine; Subaphyllin	C14H20N2O3	264.1474	264.3202
+C15699	gamma-L-Glutamylputrescine	C9H19N3O3	217.1426	217.2655
+C15700	gamma-Glutamyl-gamma-aminobutyraldehyde	C9H16N2O4	216.111	216.2343
+C15767	4-(L-gamma-Glutamylamino)butanoate; 4-(gamma-L-Glutamylamino)butanoate; gamma-Glutamyl-gamma-aminobutyrate; 4-(Glutamylamino)butanoate; gamma-Glutamyl-GABA	C9H16N2O5	232.1059	232.2337
+C18172	Carboxyspermidine; 2-Amino-4-[(4-aminobutyl)amino]-butanoic acid	C8H19N3O2	189.1477	189.2554
+C18174	Carboxynorspermidine	C7H17N3O2	175.1321	175.2288
+C18325	Feruloylagmatine	C15H22N4O3	306.1692	306.3602
+C18326	p-Coumaroylputrescine	C13H18N2O2	234.1368	234.2942
+C19706	cis-3-Hydroxy-L-proline; cis-3-Hydroxyproline	C5H9NO3	131.0582	131.1299

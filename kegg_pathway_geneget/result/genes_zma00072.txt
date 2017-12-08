@@ -1,0 +1,11 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+103647599	-	Zm00001d006166	K01641	EC2.3.3.10	hydroxymethylglutaryl-CoA synthase
+100272824	-	Zm00001d021201	K01641	EC2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+100384769	GRMZM2G087207	Zm00001d027383	K01641	EC2.3.3.10	putative hydroxymethylglutaryl-CoA synthase family protein
+100285783	GRMZM2G106263	Zm00001d048494	K01641	EC2.3.3.10	hydroxymethylglutaryl-CoA synthase
+100193689	GRMZM2G175071	Zm00001d008271	K01640	EC4.1.3.4	hydroxymethylglutaryl-CoA lyase
+100283677	GRMZM2G095141	Zm00001d052444	K01640	EC4.1.3.4	uncharacterized LOC100283677
+100274017	GRMZM5G860137	Zm00001d008432	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 2
+100282283	GRMZM5G866758	Zm00001d029416	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+101202696	GRMZM2G085474	Zm00001d031212	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+103640265	GRMZM5G830250	Zm00001d047224	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1

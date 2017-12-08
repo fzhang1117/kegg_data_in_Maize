@@ -1,0 +1,51 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00011	CO2; Carbon dioxide	CO2	43.9898	44.0095
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00048	Glyoxylate; Glyoxalate; Glyoxylic acid	C2H2O3	74.0004	74.0355
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00078	L-Tryptophan; Tryptophan; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid	C11H12N2O2	204.0899	204.2252
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00101	Tetrahydrofolate; 5,6,7,8-Tetrahydrofolate; Tetrahydrofolic acid; THF; (6S)-Tetrahydrofolate; (6S)-Tetrahydrofolic acid; (6S)-THFA	C19H23N7O6	445.171	445.4292
+C00109	2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	C4H6O3	102.0317	102.0886
+C00114	Choline; Bilineurine	C5H14NO	104.1075	104.1708
+C00143	5,10-Methylenetetrahydrofolate; (6R)-5,10-Methylenetetrahydrofolate; 5,10-Methylene-THF	C20H23N7O6	457.171	457.4399
+C00168	Hydroxypyruvate; Hydroxypyruvic acid; 3-Hydroxypyruvate; 3-Hydroxypyruvic acid	C3H4O4	104.011	104.0615
+C00188	L-Threonine; 2-Amino-3-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00197	3-Phospho-D-glycerate; D-Glycerate 3-phosphate; 3-Phospho-(R)-glycerate; 3-Phosphoglycerate	C3H7O7P	185.9929	186.0572
+C00213	Sarcosine; N-Methylglycine	C3H7NO2	89.0477	89.0932
+C00258	D-Glycerate; Glycerate; (R)-Glycerate; Glyceric acid	C3H6O4	106.0266	106.0773
+C00263	L-Homoserine; 2-Amino-4-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00300	Creatine; alpha-Methylguanidino acetic acid; Methylglycocyamine	C4H9N3O2	131.0695	131.1332
+C00430	5-Aminolevulinate; 5-Amino-4-oxopentanoate; 5-Amino-4-oxovaleric acid	C5H9NO3	131.0582	131.1299
+C00441	L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	C4H7NO3	117.0426	117.1033
+C00546	Methylglyoxal; Pyruvaldehyde; Pyruvic aldehyde; 2-Ketopropionaldehyde; 2-Oxopropanal	C3H4O2	72.0211	72.0627
+C00576	Betaine aldehyde	C5H12NO	102.0919	102.1549
+C00581	Guanidinoacetate; Guanidinoacetic acid; Glycocyamine; N-Amidinoglycine; Guanidoacetic acid	C3H7N3O2	117.0538	117.1066
+C00631	2-Phospho-D-glycerate; D-Glycerate 2-phosphate; 2-Phospho-(R)-glycerate	C3H7O7P	185.9929	186.0572
+C00719	Betaine; Trimethylaminoacetate; Glycine betaine; N,N,N-Trimethylglycine; Trimethylammonioacetate	C5H11NO2	117.079	117.1463
+C00740	D-Serine	C3H7NO3	105.0426	105.0926
+C00986	1,3-Diaminopropane; Trimethylenediamine; 1,3-Propanediamine; Propane-1,3-diamine	C3H10N2	74.0844	74.1249
+C01005	O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine	C3H8NO6P	185.0089	185.0725
+C01026	N,N-Dimethylglycine; Dimethylglycine	C4H9NO2	103.0633	103.1198
+C01102	O-Phospho-L-homoserine	C4H10NO6P	199.0246	199.0991
+C01242	S-Aminomethyldihydrolipoylprotein; [Protein]-S8-aminomethyldihydrolipoyllysine; H-Protein-S-aminomethyldihydrolipoyllysine	C9H19N2OS2R	199.0246	199.0991
+C01726	D-Lombricine	C6H15N4O6P	270.0729	270.1803
+C01888	Aminoacetone; 1-Amino-2-propanone	C3H7NO	73.0528	73.0938
+C02051	Lipoylprotein; H-Protein-lipoyllysine	C8H14NOS2R	73.0528	73.0938
+C02291	L-Cystathionine	C7H14N2O4S	222.0674	222.2621
+C02737	Phosphatidylserine; Phosphatidyl-L-serine; 1,2-Diacyl-sn-glycerol 3-phospho-L-serine; 3-O-sn-Phosphatidyl-L-serine; O3-Phosphatidyl-L-serine; L-1-Phosphatidylserine	C8H12NO10PR2	222.0674	222.2621
+C02855	N-Phospho-D-lombricine	C6H16N4O9P2	350.0393	350.1602
+C02972	Dihydrolipoylprotein; [H Protein]-dihydrolipoyllysine	C8H16NOS2R	350.0393	350.1602
+C03082	4-Phospho-L-aspartate; L-4-Aspartyl phosphate	C4H8NO7P	213.0038	213.0826
+C03194	(R)-1-Aminopropan-2-ol; (R)-1-Amino-2-propanol	C3H9NO	75.0684	75.1097
+C03232	3-Phosphonooxypyruvate; 3-Phosphonooxypyruvic acid; 3-Phosphohydroxypyruvate; 3-Phosphohydroxypyruvic acid; 3-Phosphooxypyruvate	C3H5O7P	183.9773	184.0414
+C03283	L-2,4-Diaminobutanoate; alpha,gamma-Diaminobutyrate; L-2,4-Diaminobutyrate	C4H10N2O2	118.0742	118.1344
+C03508	L-2-Amino-3-oxobutanoic acid; L-2-Amino-3-oxobutanoate; L-2-Amino-acetoacetate; (S)-2-Amino-3-oxobutanoic acid	C4H7NO3	117.0426	117.1033
+C05519	L-Allothreonine; L-allo-Threonine	C4H9NO3	119.0582	119.1192
+C06231	Ectoine; L-Ectoine; (4S)-2-Methyl-1,4,5,6-tetrahydropyrimidine-4-carboxylate	C6H10N2O2	142.0742	142.1558
+C06442	N(gamma)-Acetyldiaminobutyrate; N4-Acetyl-L-2,4-diaminobutyrate; N4-Acetyl-L-2,4-diaminobutanoate; (2S)-4-Acetamido-2-aminobutanoate	C6H12N2O3	160.0848	160.1711
+C16432	5-Hydroxyectoine	C6H10N2O3	158.0691	158.1552
+C19929	N(alpha)-Acetyl-L-2,4-diaminobutyrate; N-alpha-Acetyl-L-2,4-diaminobutyrate; N2-Acetyl-L-2,4-diaminobutanoate; (2S)-2-Acetamido-4-aminobutanoate	C6H12N2O3	160.0848	160.1711

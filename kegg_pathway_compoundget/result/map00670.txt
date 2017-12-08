@@ -1,0 +1,10 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00101	Tetrahydrofolate; 5,6,7,8-Tetrahydrofolate; Tetrahydrofolic acid; THF; (6S)-Tetrahydrofolate; (6S)-Tetrahydrofolic acid; (6S)-THFA	C19H23N7O6	445.171	445.4292
+C00143	5,10-Methylenetetrahydrofolate; (6R)-5,10-Methylenetetrahydrofolate; 5,10-Methylene-THF	C20H23N7O6	457.171	457.4399
+C00234	10-Formyltetrahydrofolate; 10-Formyl-THF	C20H23N7O7	473.1659	473.4393
+C00415	Dihydrofolate; Dihydrofolic acid; 7,8-Dihydrofolate; 7,8-Dihydrofolic acid; 7,8-Dihydropteroylglutamate	C19H21N7O6	443.1553	443.4133
+C00440	5-Methyltetrahydrofolate	C20H25N7O6	459.1866	459.4558
+C00445	5,10-Methenyltetrahydrofolate	C20H22N7O6	456.1632	456.432
+C00504	Folate; Pteroylglutamic acid; Folic acid	C19H19N7O6	441.1397	441.3975
+C00664	5-Formiminotetrahydrofolate; 5-Formimidoyltetrahydrofolate	C20H24N8O6	472.1819	472.4546
+C03479	Folinic acid; Leucovorin; 5-Formyltetrahydrofolate; L(-)-5-Formyl-5,6,7,8-tetrahydrofolic acid	C20H23N7O7	473.1659	473.4393

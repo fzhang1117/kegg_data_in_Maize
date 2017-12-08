@@ -1,0 +1,6 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00063	CTP; Cytidine 5'-triphosphate; Cytidine triphosphate	C9H16N3O14P3	482.9845	483.1563
+C00789	CDP-ribitol; CDP-L-ribitol; CDP 5-ester with D-ribitol	C14H25N3O15P2	537.0761	537.3069
+C01068	D-Ribitol 5-phosphate; Ribitol 5-phosphate; L-Ribitol 1-phosphate	C5H13O8P	232.0348	232.1257
+C02189	[Protein]-L-serine; Protein serine; Protein L-serine	C4H6N2O3R2	232.0348	232.1257
+C03862	Dolichyl phosphate D-mannose; Dolichyl D-mannosyl phosphate; Dolichyl beta-D-mannosyl phosphate	C26H47O9P(C5H8)n	232.0348	232.1257

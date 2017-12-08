@@ -1,0 +1,23 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00033	Acetate; Acetic acid; Ethanoic acid	C2H4O2	60.0211	60.052
+C00041	L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	C3H7NO2	89.0477	89.0932
+C00094	Sulfite; Sulfurous acid	H2SO3	81.9725	82.0791
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00227	Acetyl phosphate	C2H5O5P	139.9875	140.0319
+C00245	Taurine; 2-Aminoethanesulfonic acid; Aminoethylsulfonic acid	C2H7NO3S	125.0147	125.1469
+C00506	L-Cysteate; L-Cysteic acid; 3-Sulfoalanine; 2-Amino-3-sulfopropionic acid	C3H7NO5S	169.0045	169.1564
+C00519	Hypotaurine; 2-Aminoethanesulfinic acid	C2H7NO2S	109.0197	109.1475
+C00593	Sulfoacetaldehyde; 2-Sulfoacetaldehyde	C2H4O4S	123.983	124.1158
+C00606	3-Sulfino-L-alanine; L-Cysteinesulfinic acid; 3-Sulphino-L-alanine; 3-Sulfinoalanine	C3H7NO4S	153.0096	153.157
+C01678	Cysteamine; 2-Aminoethanethiol; beta-Aminoethanethiol; beta-Mercaptoethylamine; Mercaptamine; Thioethanolamine	C2H7NS	77.0299	77.1487
+C01959	Taurocyamine	C3H9N3O3S	167.0365	167.1869
+C03149	N-Phosphotaurocyamine; Taurocyamine phosphate; N(omega)-Phosphotaurocyamine	C3H10N3O6PS	247.0028	247.1668
+C05122	Taurocholate; Taurocholic acid; Cholyltaurine	C26H45NO7S	515.2917	515.703
+C05123	2-Hydroxyethanesulfonate; 2-Hydroxyethanesulfonic acid; 2-Hydroxyethane-1-sulfonic acid; Isethionic acid; Isethionate	C2H6O4S	125.9987	126.1316
+C05844	5-L-Glutamyl-taurine; 5-Glutamyl-taurine; Glutaurine	C7H14N2O6S	254.0573	254.2609
+C06735	Aminoacetaldehyde; 2-Aminoacetaldehyde	C2H5NO	59.0371	59.0672
+C14179	Sulfoacetate; Sulfoacetic acid	C2H4O5S	139.9779	140.1152

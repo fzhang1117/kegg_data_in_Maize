@@ -1,0 +1,34 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100274341	GRMZM2G143357	Zm00001d050567	K01652	EC2.2.1.6	Acetolactate synthase 2, chloroplastic
+100285396	GRMZM2G143008	Zm00001d016572	K01652	EC2.2.1.6	acetolactate synthase 1
+100279727	GRMZM2G077215	Zm00001d007288	K01653	EC2.2.1.6	uncharacterized LOC100279727
+100284799	GRMZM2G407044	Zm00001d051043	K01653	EC2.2.1.6	acetolactate synthase/ amino acid binding protein
+100381801	GRMZM2G007647	Zm00001d017168	K01653	EC2.2.1.6	Acetolactate synthase small subunit 1 chloroplastic
+100193695	GRMZM2G004382	Zm00001d044035	K00053	EC1.1.1.86	ketol-acid reductoisomerase
+103652503	-	Zm00001d009638	K00053	EC1.1.1.86	ketol-acid reductoisomerase, chloroplastic-like
+100273676	-	Zm00001d031929	K01687	EC4.2.1.9	Dihydroxy-acid dehydratase chloroplastic
+100384514	GRMZM2G014069	Zm00001d049929	K01687	EC4.2.1.9	Dihydroxy-acid dehydratase chloroplastic
+100283732	GRMZM2G010596	Zm00001d008976	K00606	EC2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+100191171	GRMZM5G876146	Zm00001d034866	K01918	EC6.3.2.1	Pantoate--beta-alanine ligase
+103633092	GRMZM2G104504	Zm00001d021297	K09680	EC2.7.1.33	pantothenate kinase 2
+100280926	GRMZM5G808624	Zm00001d044985	K09680	EC2.7.1.33	Pantothenate kinase family protein
+100193520	GRMZM2G008209	Zm00001d024421	K01922	EC6.3.2.51	phosphopantothenate--cysteine ligase
+100283870	GRMZM2G002173	Zm00001d050865	K01922	EC6.3.2.51	phosphopantothenate--cysteine ligase
+100194295	GRMZM2G407396	Zm00001d027805	K01598	EC4.1.1.36	putative phosphopantothenoylcysteine decarboxylase
+100192815	GRMZM2G127911	Zm00001d045021	K01598	EC4.1.1.36	phosphopantothenoylcysteine decarboxylase
+100284145	-	Zm00001d039450	K01598	EC4.1.1.36	phosphopantothenoylcysteine decarboxylase
+100282565	GRMZM2G071294	Zm00001d018946	K02201	EC2.7.7.3	Bifunctional coenzyme A synthase
+103626591	-	Zm00001d015182	K02201	EC2.7.7.3	phosphopantetheine adenylyltransferase-like
+100282561	GRMZM2G043819	Zm00001d032160	K00859	EC2.7.1.24	Dephospho-CoA kinase
+100501769	GRMZM2G102015	Zm00001d009260	K00859	EC2.7.1.24	Dephospho-CoA kinase
+100192899	GRMZM2G085827	Zm00001d027319	K06133	EC2.7.8.-	4-phosphopantetheinyl transferase sfp
+103655790	GRMZM2G171605	Zm00001d052437	K06133	EC2.7.8.-	L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like
+109945856	-	-	K06133	EC2.7.8.-	L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase-like
+100283367	GRMZM2G047347	Zm00001d002694	K00826	EC2.6.1.42	branched-chain-amino-acid aminotransferase
+100281255	GRMZM2G153536	Zm00001d028303	K00826	EC2.6.1.42	branched-chain-amino-acid aminotransferase
+100192912	GRMZM2G055899	-	K00826	EC2.6.1.42	uncharacterized LOC100192912
+100191754	GRMZM2G071208	Zm00001d029848	K00826	EC2.6.1.42	Branched-chain-amino-acid aminotransferase
+109941803	-	-	K00826	EC2.6.1.42	branched-chain-amino-acid aminotransferase 5, chloroplastic-like
+100274265	GRMZM2G181505	Zm00001d017966	K00207	EC1.3.1.2	Dihydropyrimidine dehydrogenase (NADP(+)) chloroplastic
+100272767	GRMZM2G020002	Zm00001d043152	K01464	EC3.5.2.2	Dihydropyrimidinase
+100283449	GRMZM2G077673	Zm00001d021506	K01431	EC3.5.1.6	beta alanine synthase 1

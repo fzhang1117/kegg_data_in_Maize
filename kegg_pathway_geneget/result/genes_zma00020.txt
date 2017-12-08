@@ -1,0 +1,90 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100194338	GRMZM2G064023	Zm00001d053685	K01647	EC2.3.3.1	Citrate synthase
+100280203	GRMZM2G063909	Zm00001d053684	K01647	EC2.3.3.1	uncharacterized LOC100280203
+100279573	GRMZM2G063851	Zm00001d015856	K01647	EC2.3.3.1	citrate synthase 1
+100381760	GRMZM2G033226	Zm00001d040603	K01648	EC2.3.3.8	uncharacterized LOC100381760
+100273868	GRMZM2G107082	Zm00001d048627	K01648	EC2.3.3.8	uncharacterized LOC100273868
+100282948	GRMZM2G034083	Zm00001d041593	K01648	EC2.3.3.8	ATP-citrate synthase
+103635086	GRMZM2G002416	Zm00001d009127	K01648	EC2.3.3.8	ATP-citrate synthase beta chain protein 1
+100281040	GRMZM5G858454	Zm00001d024952	K01681	EC4.2.1.3	aconitase 2
+103645290	GRMZM2G127429	-	K01681	EC4.2.1.3	putative aconitate hydratase, cytoplasmic
+103647708	GRMZM2G171707	Zm00001d006476	K01681	EC4.2.1.3	putative aconitate hydratase, cytoplasmic
+103646899	GRMZM2G467338	Zm00001d004564	K01681	EC4.2.1.3	putative aconitate hydratase, cytoplasmic
+100304315	GRMZM2G009808	Zm00001d048358	K01681	EC4.2.1.3	aconitase3
+100216599	GRMZM2G020801	Zm00001d049409	K01681	EC4.2.1.3	aconitase1
+100273695	GRMZM2G364988	Zm00001d015497	K01681	EC4.2.1.3	Aconitate hydratase 3 mitochondrial
+100304277	GRMZM2G176397	Zm00001d027558	K01681	EC4.2.1.3	Aconitate hydratase 1
+103632730	-	Zm00001d020428	K01681	EC4.2.1.3	putative aconitate hydratase, cytoplasmic
+100272371	GRMZM5G829778	Zm00001d039079	K00031	EC1.1.1.42	isocitrate dehydrogenase 2
+100274592	GRMZM2G432128	Zm00001d011487	K00031	EC1.1.1.42	uncharacterized LOC100274592
+100191657	GRMZM2G082581	Zm00001d003083	K00031	EC1.1.1.42	uncharacterized LOC100191657
+100217128	GRMZM2G033515	Zm00001d044021	K00031	EC1.1.1.42	seed maturation protein PM41
+103633296	-	Zm00001d021770	K00031	EC1.1.1.42	cytosolic isocitrate dehydrogenase [NADP]
+100191841	GRMZM2G018566	Zm00001d040438	K00030	EC1.1.1.41	Isocitrate dehydrogenase [NAD] catalytic subunit 5 mitochondrial
+100283574	GRMZM2G120857	Zm00001d008244	K00030	EC1.1.1.41	3-isopropylmalate dehydrogenase
+100272953	GRMZM2G116872	Zm00001d017091	K00030	EC1.1.1.41	uncharacterized LOC100272953
+100274026	GRMZM2G006672	Zm00001d050965	K00030	EC1.1.1.41	uncharacterized LOC100274026
+542698	GRMZM2G025366	Zm00001d025690	K00030	EC1.1.1.41	isocitrate dehydrogenase [NAD] regulatory subunit 1, mitochondrial
+100383579	GRMZM2G142863	Zm00001d003947	K00164	EC1.2.4.2	2-oxoglutarate dehydrogenase E1 component
+100383412	GRMZM2G151169	Zm00001d036328	K00164	EC1.2.4.2	uncharacterized LOC100383412
+100383847	GRMZM2G151041	Zm00001d025240	K00164	EC1.2.4.2	2-oxoglutarate dehydrogenase E1 component
+100280624	GRMZM2G079538	Zm00001d025258	K00658	EC2.3.1.61	dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+100284269	GRMZM5G807639	Zm00001d003923	K00658	EC2.3.1.61	dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+103650140	GRMZM2G462140	Zm00001d040721	K00382	EC1.8.1.4	dihydrolipoyl dehydrogenase 1, mitochondrial
+100383599	GRMZM2G073774	Zm00001d009779	K00382	EC1.8.1.4	uncharacterized LOC100383599
+100501719	GRMZM2G335657	Zm00001d009163	K00382	EC1.8.1.4	Dihydrolipoyl dehydrogenase
+100381818	GRMZM2G145595	Zm00001d009212	K00382	EC1.8.1.4	dihydrolipoyl dehydrogenase
+103631417	GRMZM2G159570	Zm00001d037554	K00382	EC1.8.1.4	dihydrolipoyl dehydrogenase 1, mitochondrial
+100216609	GRMZM2G072054	Zm00001d021908	K01899	EC6.2.1.5 6.2.1.4	succinyl-CoA ligase alpha-chain 2
+100283329	GRMZM2G039251	Zm00001d006667	K01899	EC6.2.1.5 6.2.1.4	succinyl-CoA ligase alpha-chain 2
+100284826	GRMZM2G064695	Zm00001d017258	K01900	EC6.2.1.5 6.2.1.4	succinyl-CoA ligase beta-chain
+100284286	-	Zm00001d051129	K01900	EC6.2.1.5 6.2.1.4	succinyl-CoA ligase beta-chain
+103629837	-	Zm00001d037006	K01900	EC6.2.1.5 6.2.1.4	succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial-like
+109939279	-	-	K01900	EC6.2.1.5 6.2.1.4	succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial-like
+100279930	GRMZM2G064799	Zm00001d018758	K00234	EC1.3.5.1	succinate dehydrogenase1
+100280324	GRMZM2G079888	Zm00001d007966	K00234	EC1.3.5.1	succinate dehydrogenase4
+103636824	GRMZM2G056912	Zm00001d008855	K00234	EC1.3.5.1	succinate dehydrogenase [ubiquinone] flavoprotein subunit 1, mitochondrial
+100216648	GRMZM2G134134	Zm00001d035136	K00235	EC1.3.5.1	succinate dehydrogenase7
+100502233	GRMZM2G302259	Zm00001d049649	K00235	EC1.3.5.1	iron sulfur subunit of succinate dehydrogenase and ribosomal protein S14 Precursor
+103639746	GRMZM2G023760	Zm00001d045148	K00235	EC1.3.5.1	succinate dehydrogenase [ubiquinone] iron-sulfur subunit 1, mitochondrial
+103653238	-	Zm00001d011333	K00235	EC1.3.5.1	succinate dehydrogenase [ubiquinone] iron-sulfur subunit 1, mitochondrial-like
+109945721	-	-	K00235	EC1.3.5.1	succinate dehydrogenase [ubiquinone] iron-sulfur subunit 1, mitochondrial-like
+100281355	GRMZM2G087651	Zm00001d032588	K00236	-	Succinate dehydrogenase subunit 3-2 mitochondrial
+100283351	GRMZM2G039542	Zm00001d013966	K00236	-	succinate dehydrogenase subunit 3
+100279871	GRMZM2G010823	Zm00001d029084	K01679	EC4.2.1.2	Fumarate hydratase 1 mitochondrial
+103633973	-	-	K01679	EC4.2.1.2	fumarate hydratase 2, chloroplastic-like
+103652742	GRMZM2G348729	Zm00001d048743	K01679	EC4.2.1.2	fumarate hydratase 1, mitochondrial-like
+103632485	-	-	K01679	EC4.2.1.2	fumarate hydratase 1, mitochondrial-like
+103634625	-	Zm00001d029088	K01679	EC4.2.1.2	fumarate hydratase 1, mitochondrial-like
+103648465	GRMZM2G101290	-	K00025	EC1.1.1.37	malate dehydrogenase, cytoplasmic
+542598	GRMZM2G415359	Zm00001d032695	K00025	EC1.1.1.37	malate dehydrogenase 5
+100280767	-	Zm00001d014030	K00025	EC1.1.1.37	malate dehydrogenase, cytoplasmic
+103633793	GRMZM2G035767	-	K00025	EC1.1.1.37	malate dehydrogenase, cytoplasmic
+100272900	GRMZM2G466833	Zm00001d044042	K00026	EC1.1.1.37	malate dehydrogenase3
+100273428	-	Zm00001d009640	K00026	EC1.1.1.37	uncharacterized LOC100273428
+100274264	GRMZM2G154595	Zm00001d039089	K00026	EC1.1.1.37	malate dehydrogenase 2
+100193663	GRMZM2G068455	Zm00001d050409	K00026	EC1.1.1.37	malate dehydrogenase
+100193743	GRMZM2G161245	Zm00001d032187	K00026	EC1.1.1.37	Malate dehydrogenase
+100193491	GRMZM2G077415	Zm00001d041243	K00026	EC1.1.1.37	putative malate dehydrogenase glyoxysomal
+100282134	GRMZM2G072744	-	K00026	EC1.1.1.37	malate dehydrogenase, glyoxysomal
+107305678	GRMZM2G141289	Zm00001d022229	K00026	EC1.1.1.37	Malate dehydrogenase chloroplastic
+100279748	GRMZM5G870932	Zm00001d047893	K01610	EC4.1.1.49	phosphoenolpyruvate carboxykinase homolog 2
+541622	GRMZM2G001696	Zm00001d028471	K01610	EC4.1.1.49	phosphoenolpyruvate carboxykinase
+109939179	-	Zm00001d008318	K01610	EC4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)-like
+100283889	GRMZM2G140150	Zm00001d017985	K00161	EC1.2.4.1	pyruvate dehydrogenase E1 component alpha subunit
+100272256	GRMZM2G027627	Zm00001d044748	K00161	EC1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha-1 mitochondrial
+100272834	GRMZM2G033894	Zm00001d004473	K00161	EC1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha-3 chloroplastic
+732791	GRMZM2G361693	Zm00001d052289	K00161	EC1.2.4.1	pyruvate dehydrogenase 1
+542483	GRMZM2G097226	Zm00001d006107	K00162	EC1.2.4.1	pyruvate dehydrogenase E1 beta subunit
+542607	GRMZM2G087552	Zm00001d021070	K00162	EC1.2.4.1	pyruvate dehydrogenase E1 beta subunit
+541705	GRMZM2G043198	-	K00162	EC1.2.4.1	pyruvate dehydrogenase 2
+100282233	GRMZM2G127546	Zm00001d033225	K00162	EC1.2.4.1	Pyruvate dehydrogenase E1 component subunit beta-3 chloroplastic
+100284103	GRMZM2G088565	Zm00001d000227	K00162	EC1.2.4.1	pyruvate dehydrogenase E1 component subunit beta
+541781	GRMZM2G015132	Zm00001d016365	K00627	EC2.3.1.12	dihydrolipoamide S-acetyltransferase
+100192900	GRMZM2G165176	Zm00001d041839	K00627	EC2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component 5 of pyruvate dehydrogenase complex chloroplastic
+100284493	GRMZM2G161969	Zm00001d053580	K00627	EC2.3.1.12	dihydrolipoamide S-acetyltransferase 1
+103644210	GRMZM2G082664	Zm00001d034531	K00627	EC2.3.1.12	dihydrolipoyllysine-residue acetyltransferase component 1 of pyruvate dehydrogenase complex, mitochondrial
+100274483	GRMZM2G036534	Zm00001d023606	K00627	EC2.3.1.12	dihydrolipoamide acetyl transferase
+100272519	GRMZM2G058702	Zm00001d032224	K00627	EC2.3.1.12	uncharacterized LOC100272519
+100279373	GRMZM2G117786	Zm00001d050383	K00627	EC2.3.1.12	uncharacterized LOC100279373
+100285796	GRMZM2G121200	-	K00627	EC2.3.1.12	dihydrolipoyllysine-residue acetyltransferase component of pyruvatedehydrogenase complex

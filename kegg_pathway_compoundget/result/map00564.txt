@@ -1,0 +1,53 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00040	Acyl-CoA; Acyl coenzyme A	C22H35N7O17P3SR	-	-
+C00084	Acetaldehyde; Ethanal	C2H4O	44.0262	44.0526
+C00093	sn-Glycerol 3-phosphate; Glycerophosphoric acid; D-Glycerol 1-phosphate	C3H9O6P	172.0137	172.0737
+C00111	Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	C3H7O6P	169.998	170.0578
+C00114	Choline; Bilineurine	C5H14NO	104.1075	104.1708
+C00157	Phosphatidylcholine; Lecithin; Phosphatidyl-N-trimethylethanolamine; 1,2-Diacyl-sn-glycero-3-phosphocholine; Choline phosphatide; 3-sn-Phosphatidylcholine	C10H18NO8PR2	104.1075	104.1708
+C00189	Ethanolamine; Aminoethanol; 2-Hydroxyethylamine	C2H7NO	61.0528	61.0831
+C00269	CDP-diacylglycerol; CDP-1,2-diacylglycerol; 1,2-Diacyl-sn-glycero-3-cytidine-5'-diphosphate	C14H19N3O15P2R2	61.0528	61.0831
+C00307	CDP-choline; Cytidine 5'-diphosphocholine; Citicoline	C14H26N4O11P2	488.1073	488.324
+C00344	Phosphatidylglycerol; 3-(3-sn-Phosphatidyl)glycerol; 3(3-Phosphatidyl-)glycerol; PtdGro	C8H13O10PR2	488.1073	488.324
+C00346	Ethanolamine phosphate; O-Phosphorylethanolamine; Phosphoethanolamine; O-Phosphoethanolamine	C2H8NO4P	141.0191	141.063
+C00350	Phosphatidylethanolamine; (3-Phosphatidyl)ethanolamine; (3-Phosphatidyl)-ethanolamine; Cephalin; O-(1-beta-Acyl-2-acyl-sn-glycero-3-phospho)ethanolamine; 1-Acyl-2-acyl-sn-glycero-3-phosphoethanolamine; L-1-Phosphatidylethanolamine	C7H12NO8PR2	141.0191	141.063
+C00416	Phosphatidate; Phosphatidic acid; 1,2-Diacyl-sn-glycerol 3-phosphate; 3-sn-Phosphatidate	C5H7O8PR2	141.0191	141.063
+C00513	CDP-glycerol	C12H21N3O13P2	477.055	477.255
+C00570	CDP-ethanolamine; Cytidine diphosphate ethanolamine	C11H20N4O11P2	446.0604	446.2442
+C00588	Choline phosphate; Phosphorylcholine; Phosphocholine; O-Phosphocholine	C5H15NO4P	184.0739	184.1507
+C00623	sn-Glycerol 1-phosphate; sn-Gro-1-P; L-Glycerol 1-phosphate	C3H9O6P	172.0137	172.0737
+C00641	1,2-Diacyl-sn-glycerol; 1,2-Diacylglycerol; L-1,2-Diacylglycerol	C5H6O5R2	172.0137	172.0737
+C00670	sn-Glycero-3-phosphocholine; Glycerophosphocholine	C8H21NO6P	258.1106	258.2292
+C00681	1-Acyl-sn-glycerol 3-phosphate; 2-Lysophosphatidate; Lysophosphatidate; Lysophosphatidic acid	C4H8O7PR	258.1106	258.2292
+C01194	1-Phosphatidyl-D-myo-inositol; 1-Phosphatidyl-1D-myo-inositol; 1-Phosphatidyl-myo-inositol; Phosphatidyl-1D-myo-inositol; (3-Phosphatidyl)-1-D-inositol; 1,2-Diacyl-sn-glycero-3-phosphoinositol; Phosphatidylinositol	C11H17O13PR2	258.1106	258.2292
+C01210	N-Methylethanolamine phosphate	C3H10NO4P	155.0347	155.0896
+C01233	sn-Glycero-3-phosphoethanolamine; Glycerophosphoethanolamine	C5H14NO6P	215.0559	215.1415
+C01241	Phosphatidyl-N-methylethanolamine	C8H14NO8PR2	215.0559	215.1415
+C01996	Acetylcholine; O-Acetylcholine	C7H16NO2	146.1181	146.2074
+C02737	Phosphatidylserine; Phosphatidyl-L-serine; 1,2-Diacyl-sn-glycerol 3-phospho-L-serine; 3-O-sn-Phosphatidyl-L-serine; O3-Phosphatidyl-L-serine; L-1-Phosphatidylserine	C8H12NO10PR2	146.1181	146.2074
+C03372	Acylglycerone phosphate; Dihydroxyacetone phosphate acyl ester; 1-Acyl-glycerone 3-phosphate	C4H6O7PR	146.1181	146.2074
+C03819	1-Acylglycerophosphoinositol; 1-Acyl-sn-glycero-3-phosphoinositol	C10H18O12PR	146.1181	146.2074
+C03872	L-Serine-phosphoethanolamine; Serine phosphoethanolamine	C5H13N2O6P	228.0511	228.1403
+C03892	Phosphatidylglycerophosphate; 1-(3-sn-Phosphatidyl)-sn-glycerol 3-phosphate; 3-(3-Phosphatidyl)-D-glycerol 1-phosphate; 1,2-Diacyl-sn-glycero-3-phospho-sn-glycerol 3'-phosphate	C8H14O13P2R2	228.0511	228.1403
+C03974	2-Acyl-sn-glycerol 3-phosphate	C4H8O7PR	228.0511	228.1403
+C04230	1-Acyl-sn-glycero-3-phosphocholine; 1-Acyl-sn-glycerol-3-phosphocholine; alpha-Acylglycerophosphocholine; 2-Lysolecithin; 2-Lysophosphatidylcholine; 1-Acylglycerophosphocholine	C9H20NO7PR	228.0511	228.1403
+C04233	2-Acyl-sn-glycero-3-phosphocholine; 2-Acylglycero-3-phosphocholine; 1-Lysophosphatidylcholine; 1-Lysolecithin; 3-Lysolecithin	C9H20NO7PR	228.0511	228.1403
+C04308	Phosphatidyl-N-dimethylethanolamine	C9H16NO8PR2	228.0511	228.1403
+C04438	1-Acyl-sn-glycero-3-phosphoethanolamine; L-2-Lysophosphatidylethanolamine	C6H13NO7PR	228.0511	228.1403
+C04590	3-(O-Geranylgeranyl)-sn-glycerol 1-phosphate	C23H41O6P	444.2641	444.5418
+C04638	2,3-Bis-O-(geranylgeranyl)glycerol 1-phosphate; 2,3-Bis-O-(geranylgeranyl)-sn-glycerol-1-phosphate; 2,3-Digeranylgeranyl sn-glycerol 1-phosphate	C43H73O6P	716.5145	717.0099
+C05973	2-Acyl-sn-glycero-3-phosphoethanolamine; L-1-Lysophosphatidylethanolamine; O-(2-Acyl-sn-glycero-3-phospho)-ethanolamine	C6H13NO7PR	716.5145	717.0099
+C05974	2-Acyl-sn-glycero-3-phosphoserine	C7H13NO9PR	716.5145	717.0099
+C05976	Aminoacyl-phosphatidylglycerol	C10H15NO11PR3	716.5145	717.0099
+C05980	Cardiolipin; Diphosphatidylglycerol; 1',3'-Bis(1,2-diacyl-sn-glycero-3-phospho)-sn-glycerol	C13H18O17P2R4	716.5145	717.0099
+C06771	Triethanolamine; Trolamine	C6H15NO3	149.1052	149.1882
+C06772	Diethanolamine	C4H11NO2	105.079	105.1356
+C13482	Phosphodimethylethanolamine	C4H12NO4P	169.0504	169.1161
+C18059	CDP-2,3-bis-O-(geranylgeranyl)-sn-glycerol	C52H85N3O13P2	1021.5558	1022.1911
+C18125	1-Acyl-sn-glycero-3-phosphoserine	C7H13NO9PR	1021.5558	1022.1911
+C18126	1-Acyl-sn-glycero-3-phosphoglycerol	C7H14O9PR	1021.5558	1022.1911
+C18129	Monolysocardiolipin; MLCL	C12H19O16P2R3	1021.5558	1022.1911
+C18168	Diacylglycerylhomoserine; DGHS	C9H13NO7R2	1021.5558	1022.1911
+C18169	Diacylglyceryl-N,N,N-trimethylhomoserine; DGTS	C12H19NO7R2	1021.5558	1022.1911
+C20466	2,3-Bis-O-(geranylgeranyl)-sn-glycero-1-phospho-L-serine	C46H78NO8P	803.5465	804.0872
+C20518	2,3-Bis-(O-phytanyl)-sn-glycerol 1-phosphate	C43H89O6P	732.6397	733.1369

@@ -1,0 +1,56 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00029	UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	C15H24N2O17P2	566.055	566.3018
+C00103	D-Glucose 1-phosphate; alpha-D-Glucose 1-phosphate; Cori ester; D-Glucose alpha-1-phosphate	C6H13O9P	260.0297	260.1358
+C00111	Glycerone phosphate; Dihydroxyacetone phosphate; 3-Hydroxy-2-oxopropyl phosphate	C3H7O6P	169.998	170.0578
+C00116	Glycerol; Glycerin; 1,2,3-Trihydroxypropane; 1,2,3-Propanetriol	C3H8O3	92.0473	92.0938
+C00167	UDP-glucuronate; UDPglucuronate; UDP-D-glucuronate; UDP-alpha-D-glucuronate	C15H22N2O18P2	580.0343	580.2853
+C00181	D-Xylose; Wood sugar	C5H10O5	150.0528	150.1299
+C00191	D-Glucuronate; Glucuronic acid; Glucuronate	C6H10O7	194.0427	194.1394
+C00199	D-Ribulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00204	2-Dehydro-3-deoxy-D-gluconate; 2-Keto-3-deoxy-D-gluconate	C6H10O6	178.0477	178.14
+C00231	D-Xylulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00259	L-Arabinose; L-Arabinopyranose	C5H10O5	150.0528	150.1299
+C00266	Glycolaldehyde; Hydroxyacetaldehyde	C2H4O2	60.0211	60.052
+C00309	D-Ribulose; D-erythro-2-Pentulose; D-Arabinoketose; D-Arabinulose; D-Riboketose	C5H10O5	150.0528	150.1299
+C00310	D-Xylulose; D-threo-Pentulose; D-Lyxulose	C5H10O5	150.0528	150.1299
+C00312	L-Xylulose; L-threo-Pentulose; L-Lyxulose	C5H10O5	150.0528	150.1299
+C00333	D-Galacturonate; D-Galacturonic acid	C6H10O7	194.0427	194.1394
+C00379	Xylitol	C5H12O5	152.0685	152.1458
+C00433	2,5-Dioxopentanoate; 2-Oxoglutarate semialdehyde	C5H6O4	130.0266	130.0987
+C00470	Pectate; Pectic acid; alpha-D-Polygalacturonic acid; Poly(1,4-alpha-D-galacturonate); Poly(1,4-alpha-D-galacturonate)(n); (1,4-alpha-D-Galacturonide)n; [(1->4)-alpha-D-Galacturonosyl]n; De-esterified pectin	C12H18O13(C6H8O6)n-2	130.0266	130.0987
+C00474	Ribitol; Adonitol	C5H12O5	152.0685	152.1458
+C00476	D-Lyxose	C5H10O5	150.0528	150.1299
+C00502	D-Xylonate	C5H10O6	166.0477	166.1293
+C00508	L-Ribulose; L-erythro-Pentulose; L-Arabinoketose; L-Arabinulose; L-Riboketose	C5H10O5	150.0528	150.1299
+C00514	D-Mannonate	C6H12O7	196.0583	196.1553
+C00532	L-Arabitol; L-Arabinol; L-Arabinitol; L-Lyxitol	C5H12O5	152.0685	152.1458
+C00558	D-Tagaturonate; D-Tagaturonic acid	C6H10O7	194.0427	194.1394
+C00618	3-Dehydro-L-gulonate	C6H10O7	194.0427	194.1394
+C00714	Pectin; Poly(1,4-alpha-D-galacturonide)	(C26H36O24)n	194.0427	194.1394
+C00789	CDP-ribitol; CDP-L-ribitol; CDP 5-ester with D-ribitol	C14H25N3O15P2	537.0761	537.3069
+C00800	L-Gulonate; L-Gulonic acid; Gulonate; Gulonic acid	C6H12O7	196.0583	196.1553
+C00817	D-Altronate	C6H12O7	196.0583	196.1553
+C00905	D-Fructuronate; D-Fructuronic acid	C6H10O7	194.0427	194.1394
+C01068	D-Ribitol 5-phosphate; Ribitol 5-phosphate; L-Ribitol 1-phosphate	C5H13O8P	232.0348	232.1257
+C01101	L-Ribulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C01508	L-Lyxose	C5H10O5	150.0528	150.1299
+C01904	D-Arabitol; D-Arabinitol; D-Arabinol; D-Lyxitol	C5H12O5	152.0685	152.1458
+C02266	D-Xylonolactone; D-Xylono-1,5-lactone	C5H8O5	148.0372	148.114
+C02273	Digalacturonate; Digalacturonic acid	C12H18O13	370.0747	370.2635
+C02426	L-Glyceraldehyde; L-2,3-Dihydroxypropionaldehyde; L-2,3-Dihydroxypropanal; L-Glycerose; L-Aldotriose	C3H6O3	90.0317	90.0779
+C03033	beta-D-Glucuronoside; O-beta-D-Glucuronoside; Glucuronide; beta-D-Glucuronide	C6H9O7R	90.0317	90.0779
+C03291	L-Xylulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C03826	2-Dehydro-3-deoxy-D-xylonate; 2-Dehydro-3-deoxy-D-arabinonate; 2-Dehydro-3-deoxy-D-pentonate; (4S)-4,5-Dihydroxy-2-oxopentanoate	C5H8O5	148.0372	148.114
+C04053	5-Dehydro-4-deoxy-D-glucuronate; 4-Deoxy-L-threo-5-hexosulose uronate	C6H8O6	176.0321	176.1241
+C04349	(4S)-4,6-Dihydroxy-2,5-dioxohexanoate; 3-Deoxy-D-glycero-2,5-hexodiulosonate; 2,5-Diketo-3-deoxy-D-gluconate	C6H8O6	176.0321	176.1241
+C04575	(4R,5S)-4,5,6-Trihydroxy-2,3-dioxohexanoate; 2,3-Diketo-L-gulonate	C6H8O7	192.027	192.1235
+C05385	D-Glucuronate 1-phosphate; 1-Phospho-alpha-D-glucuronate	C6H11O10P	274.009	274.1193
+C05411	L-Xylonate; L-Xylonic acid	C5H10O6	166.0477	166.1293
+C05412	L-Lyxonate; L-Lyxonic acid	C5H10O6	166.0477	166.1293
+C06118	4-(4-Deoxy-alpha-D-gluc-4-enuronosyl)-D-galacturonate; 4-(4-Deoxy-alpha-D-galact-4-enuronosyl)-D-galacturonate; Unsaturated digalacturonate	C12H16O12	352.0642	352.2482
+C06441	L-Xylulose 1-phosphate	C5H11O8P	230.0192	230.1098
+C14899	3-Dehydro-L-gulonate 6-phosphate	C6H11O10P	274.009	274.1193
+C15930	L-Galactonate; L-Galactonic acid	C6H12O7	196.0583	196.1553
+C20680	2-Dehydro-3-deoxy-L-galactonate; 2-Keto-3-deoxy-L-galactonate; L-threo-3-Deoxy-hexulosonate	C6H10O6	178.0477	178.14

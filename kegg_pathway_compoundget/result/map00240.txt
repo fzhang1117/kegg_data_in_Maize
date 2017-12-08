@@ -1,0 +1,67 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00015	UDP; Uridine 5'-diphosphate	C9H14N2O12P2	404.0022	404.1612
+C00029	UDP-glucose; UDPglucose; UDP-D-glucose; Uridine diphosphate glucose; UDP-alpha-D-glucose	C15H24N2O17P2	566.055	566.3018
+C00039	DNA; DNAn; DNAn+1; (Deoxyribonucleotide)n; (Deoxyribonucleotide)m; (Deoxyribonucleotide)n+m; Deoxyribonucleic acid	C10H17O8PR2(C5H8O5PR)n	566.055	566.3018
+C00046	RNA; RNAn; RNAn+1; RNA(linear); (Ribonucleotide)n; (Ribonucleotide)m; (Ribonucleotide)n+m; Ribonucleic acid	C10H18O13P2R2(C5H8O6PR)n	566.055	566.3018
+C00055	CMP; Cytidine-5'-monophosphate; Cytidylic acid	C9H14N3O8P	323.0519	323.1965
+C00063	CTP; Cytidine 5'-triphosphate; Cytidine triphosphate	C9H16N3O14P3	482.9845	483.1563
+C00064	L-Glutamine; L-2-Aminoglutaramic acid	C5H10N2O3	146.0691	146.1445
+C00075	UTP; Uridine 5'-triphosphate; Uridine triphosphate	C9H15N2O15P3	483.9685	484.1411
+C00086	Urea; Carbamide	CH4N2O	60.0324	60.0553
+C00099	beta-Alanine; 3-Aminopropionic acid; 3-Aminopropanoate	C3H7NO2	89.0477	89.0932
+C00105	UMP; Uridylic acid; Uridine monophosphate; Uridine 5'-monophosphate; 5'Uridylic acid	C9H13N2O9P	324.0359	324.1813
+C00106	Uracil	C4H4N2O2	112.0273	112.0868
+C00112	CDP; Cytidine 5'-diphosphate; Cytidine diphosphate	C9H15N3O11P2	403.0182	403.1764
+C00119	5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	C5H13O14P3	389.9518	390.0696
+C00169	Carbamoyl phosphate	CH4NO5P	140.9827	141.0199
+C00178	Thymine; 5-Methyluracil	C5H6N2O2	126.0429	126.1133
+C00214	Thymidine; Deoxythymidine	C10H14N2O5	242.0903	242.2286
+C00222	3-Oxopropanoate; Malonate semialdehyde	C3H4O3	88.016	88.0621
+C00239	dCMP; Deoxycytidylic acid; Deoxycytidine monophosphate; Deoxycytidylate; 2'-Deoxycytidine 5'-monophosphate	C9H14N3O7P	307.0569	307.1971
+C00295	Orotate; Orotic acid; Uracil-6-carboxylic acid	C5H4N2O4	156.0171	156.0963
+C00299	Uridine	C9H12N2O6	244.0695	244.2014
+C00337	(S)-Dihydroorotate; (S)-4,5-Dihydroorotate; L-Dihydroorotate; L-Dihydroorotic acid; Dihydro-L-orotic acid	C5H6N2O4	158.0328	158.1121
+C00363	dTDP; Deoxythymidine 5'-diphosphate	C10H16N2O11P2	402.0229	402.1884
+C00364	dTMP; Thymidine 5'-phosphate; Deoxythymidine 5'-phosphate; Thymidylic acid; 5'-Thymidylic acid; Thymidine monophosphate; Deoxythymidylic acid; Thymidylate	C10H15N2O8P	322.0566	322.2085
+C00365	dUMP; Deoxyuridylic acid; Deoxyuridine monophosphate; Deoxyuridine 5'-phosphate; 2'-Deoxyuridine 5'-phosphate	C9H13N2O8P	308.041	308.1819
+C00380	Cytosine	C4H5N3O	111.0433	111.102
+C00383	Malonate; Malonic acid; Propanedioic acid	C3H4O4	104.011	104.0615
+C00429	5,6-Dihydrouracil; Dihydro-2,4(1H,3H)-pyrimidinedione; Dihydrouracile; Dihydrouracil; 5,6-Dihydro-2,4-dihydroxypyrimidine; Hydrouracil; 2,4-Dioxotetrahydropyrimidine	C4H6N2O2	114.0429	114.1026
+C00438	N-Carbamoyl-L-aspartate	C5H8N2O5	176.0433	176.1274
+C00458	dCTP; Deoxycytidine 5'-triphosphate; Deoxycytidine triphosphate; 2'-Deoxycytidine 5'-triphosphate	C9H16N3O13P3	466.9896	467.1569
+C00459	dTTP; Deoxythymidine triphosphate; Deoxythymidine 5'-triphosphate; TTP	C10H17N2O14P3	481.9893	482.1683
+C00460	dUTP; 2'-Deoxyuridine 5'-triphosphate	C9H15N2O14P3	467.9736	468.1417
+C00475	Cytidine	C9H13N3O5	243.0855	243.2166
+C00526	Deoxyuridine; 2-Deoxyuridine; 2'-Deoxyuridine	C9H12N2O5	228.0746	228.202
+C00672	2-Deoxy-D-ribose 1-phosphate; 2-Deoxy-alpha-D-ribose 1-phosphate	C5H11O7P	214.0242	214.1104
+C00705	dCDP; 2'-Deoxycytidine diphosphate; 2'-Deoxycytidine 5'-diphosphate	C9H15N3O10P2	387.0233	387.177
+C00813	Barbiturate; Barbituric acid; Malonylurea	C4H4N2O3	128.0222	128.0862
+C00881	Deoxycytidine; 2'-Deoxycytidine	C9H13N3O4	227.0906	227.2172
+C01013	3-Hydroxypropanoate; 3-Hydroxypropanoic acid; 3-Hydroxypropionate; 3-Hydroxypropionic acid; Hydracrylic acid	C3H6O3	90.0317	90.0779
+C01103	Orotidine 5'-phosphate; Orotidylic acid	C10H13N2O11P	368.0257	368.1908
+C01168	Pseudouridine 5'-phosphate	C9H13N2O9P	324.0359	324.1813
+C01205	(R)-3-Amino-2-methylpropanoate; (R)-3-Aminoisobutyrate; D-3-Aminoisobutanoate; (R)-beta-Aminoisobutyrate	C4H9NO2	103.0633	103.1198
+C01346	dUDP; 2'-Deoxyuridine 5'-diphosphate	C9H14N2O11P2	388.0073	388.1618
+C01368	3'-UMP; Uridine 3'-monophosphate; Uridine 3'-phosphate	C9H13N2O9P	324.0359	324.1813
+C01563	Carbamate; Carbamic acid; Aminoformic acid	CH3NO2	61.0164	61.04
+C02067	Pseudouridine	C9H12N2O6	244.0695	244.2014
+C02170	Methylmalonate; Methylmalonic acid	C4H6O4	118.0266	118.088
+C02354	2',3'-Cyclic CMP	C9H12N3O7P	305.0413	305.1812
+C02355	2',3'-Cyclic UMP	C9H11N2O8P	306.0253	306.166
+C02376	5-Methylcytosine	C5H7N3O	125.0589	125.1286
+C02642	3-Ureidopropionate; 3-Ureidopropanoate; beta-Ureidopropionic acid; N-Carbamoyl-beta-alanine	C4H8N2O3	132.0535	132.1179
+C03997	5-Hydroxymethyldeoxycytidylate; 5-Hydroxymethyldeoxycytidylic acid; 2'-Deoxy-5-hydroxymethylcytidine 5'-phosphate	C10H16N3O8P	337.0675	337.2231
+C05281	5-Methylbarbiturate; 5-Methylbarbituric acid	C5H6N2O3	142.0378	142.1127
+C05822	3'-CMP; Cytidine 3'-phosphate	C9H14N3O8P	323.0519	323.1965
+C06198	P1,P4-Bis(5'-uridyl) tetraphosphate; UppppU	C18H26N4O23P4	789.9938	790.3071
+C11038	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate	C10H17N3O11P2	417.0338	417.203
+C11039	2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate	C10H18N3O14P3	497.0002	497.1829
+C15607	3-Oxo-3-ureidopropanoate; Malonuric acid	C4H6N2O4	146.0328	146.1014
+C20231	(Z)-3-Ureidoacrylate peracid; Ureidoperacrylic acid	C4H6N2O4	146.0328	146.1014
+C20249	(Z)-3-Peroxyaminoacrylate	C3H5NO3	103.0269	103.0767
+C20253	Aminoacrylate; (Z)-3-Aminoacrylate	C3H5NO2	87.032	87.0773
+C20254	Ureidoacrylate; (Z)-3-Ureidoacrylate	C4H6N2O3	130.0378	130.102
+C20846	3-Oxo-3-ureidoisobutyrate	C5H8N2O4	160.0484	160.128
+C21028	(R)-5,6-Dihydrothymine; (5R)-Dihydrothymine	C5H8N2O2	128.0586	128.1292
+C21029	(R)-3-Ureidoisobutyrate; (R)-N-Carbamyl-beta-aminoisobutyrate	C5H10N2O3	146.0691	146.1445
+C21031	DNA 5-hydroxymethylcytosine; 5-Hydroxymethylcytosine in DNA	C10H16N3O8P(C5H8O5PR)n(C5H8O5PR)n	146.0691	146.1445

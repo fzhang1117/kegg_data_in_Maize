@@ -1,0 +1,63 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00019	S-Adenosyl-L-methionine; S-Adenosylmethionine; AdoMet; SAM	C15H22N6O5S	398.1372	398.4374
+C00021	S-Adenosyl-L-homocysteine; S-Adenosylhomocysteine	C14H20N6O5S	384.1216	384.4108
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00041	L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	C3H7NO2	89.0477	89.0932
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00051	Glutathione; 5-L-Glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; gamma-L-Glutamyl-L-cysteinyl-glycine; GSH; Reduced glutathione	C10H17N3O6S	307.0838	307.3235
+C00059	Sulfate; Sulfuric acid	H2SO4	97.9674	98.0785
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00073	L-Methionine; Methionine; L-2-Amino-4methylthiobutyric acid	C5H11NO2S	149.051	149.2113
+C00094	Sulfite; Sulfurous acid	H2SO3	81.9725	82.0791
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00109	2-Oxobutanoate; 2-Ketobutyric acid; 2-Oxobutyric acid; 2-Oxobutyrate; 2-Oxobutanoic acid; alpha-Ketobutyric acid; alpha-Ketobutyrate	C4H6O3	102.0317	102.0886
+C00155	L-Homocysteine; L-2-Amino-4-mercaptobutyric acid; Homocysteine	C4H9NO2S	135.0354	135.1848
+C00170	5'-Methylthioadenosine; Methylthioadenosine; S-Methyl-5'-thioadenosine; 5-Methylthioadenosine; 5'-Deoxy-5'-(methylthio)adenosine; Thiomethyladenosine; MTA	C11H15N5O3S	297.0896	297.3335
+C00263	L-Homoserine; 2-Amino-4-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00283	Hydrogen sulfide; Hydrogen-sulfide; H2S; Sulfide	H2S	33.9877	34.0809
+C00320	Thiosulfate; Hyposulfite	HS2O3	112.9367	113.1361
+C00409	Methanethiol; Methylmercaptan	CH4S	48.0034	48.1075
+C00441	L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	C4H7NO3	117.0426	117.1033
+C00491	L-Cystine; L-Dicysteine; L-alpha-Diamino-beta-dithiolactic acid	C6H12N2O4S2	240.0238	240.3005
+C00506	L-Cysteate; L-Cysteic acid; 3-Sulfoalanine; 2-Amino-3-sulfopropionic acid	C3H7NO5S	169.0045	169.1564
+C00606	3-Sulfino-L-alanine; L-Cysteinesulfinic acid; 3-Sulphino-L-alanine; 3-Sulfinoalanine	C3H7NO4S	153.0096	153.157
+C00793	D-Cysteine; D-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00957	Mercaptopyruvate; 3-Mercaptopyruvic acid; 3-Mercaptopyruvate	C3H4O3S	119.9881	120.1271
+C00979	O-Acetyl-L-serine; O3-Acetyl-L-serine	C5H9NO4	147.0532	147.1293
+C01005	O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine	C3H8NO6P	185.0089	185.0725
+C01077	O-Acetyl-L-homoserine; O-Acetylhomoserine	C6H11NO4	161.0688	161.1558
+C01118	O-Succinyl-L-homoserine; O4-Succinyl-L-homoserine; O-Succinylhomoserine	C8H13NO6	219.0743	219.1919
+C01137	S-Adenosylmethioninamine; (5-Deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium; (5-Deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium cation; S-Adenosyl-(5')-3-methylthiopropylamine; S-Adenosyl 3-(methylthio)propylamine; Decarboxy-AdoMet	C14H23N6O3S	355.1552	355.4358
+C01180	4-Methylthio-2-oxobutanoic acid; 4-Methylthio-2-oxobutanoate; 2-Keto-4-methylthiobutyric acid; 2-Oxo-4-methylthiobutanoate; 2-Oxo-4-methylthiobutanoic acid	C5H8O3S	148.0194	148.1802
+C01234	1-Aminocyclopropane-1-carboxylate; 1-Aminocyclopropane-1-carboxylic acid	C4H7NO2	101.0477	101.1039
+C01817	L-Homocystine; Homocystine	C8H16N2O4S2	268.0551	268.3536
+C01962	Thiocysteine; S-Mercapto-L-cysteine; L-Thiocysteine	C3H7NO2S2	152.9918	153.2232
+C02218	Dehydroalanine; 2-Aminoacrylate; 2-Aminoprop-2-enoate	C3H5NO2	87.032	87.0773
+C02291	L-Cystathionine	C7H14N2O4S	222.0674	222.2621
+C02356	(S)-2-Aminobutanoate; (S)-2-Aminobutanoic acid; (S)-2-Aminobutyric acid	C4H9NO2	103.0633	103.1198
+C02989	L-Methionine S-oxide	C5H11NO3S	165.046	165.2107
+C03082	4-Phospho-L-aspartate; L-4-Aspartyl phosphate	C4H8NO7P	213.0038	213.0826
+C03089	5-Methylthio-D-ribose; S-Methyl-5-thio-D-ribose	C6H12O4S	180.0456	180.2221
+C03145	N-Formylmethionine; N-Formyl-L-methionine	C6H11NO3S	177.046	177.2214
+C03539	S-Ribosyl-L-homocysteine; S-D-Ribosyl-L-homocysteine; Ribose-5-S-homocysteine; S-Ribosylhomocysteine; S-(5-Deoxy-D-ribos-5-yl)-L-homocysteine	C9H17NO6S	267.0777	267.2994
+C04188	S-Methyl-5-thio-D-ribose 1-phosphate; S-Methyl-5-thio-alpha-D-ribose 1-phosphate; S-Methyl-5-thio-5-deoxy-D-ribose 1-phosphate	C6H13O7PS	260.012	260.202
+C04582	S-Methyl-5-thio-D-ribulose 1-phosphate	C6H13O7PS	260.012	260.202
+C05524	Aminoacyl-L-methionine	C6H13O7PS	260.012	260.202
+C05526	S-Glutathionyl-L-cysteine	C13H22N4O8S2	426.0879	426.4658
+C05527	3-Sulfinylpyruvate; 3-Sulfinopyruvate	C3H4O5S	151.9779	152.1259
+C05528	3-Sulfopyruvate; 3-Sulfopyruvic acid	C3H4O6S	167.9729	168.1253
+C05823	3-Mercaptolactate; L-3-Mercaptolactate; (R)-3-Mercaptolactate	C3H6O3S	122.0038	122.1429
+C05824	S-Sulfo-L-cysteine	C3H7NO5S2	200.9766	201.2214
+C06547	Ethylene	C2H4	28.0313	28.0532
+C08276	3-(Methylthio)propanoate; 3-(Methylthio)propionic acid; 3-Methylthiopropionate; 3-(Methylsulfanyl)propanoate	C4H8O2S	120.0245	120.1701
+C09306	Sulfur dioxide	SO2	63.9619	64.0638
+C11481	HSO3-; Hydrogen sulfite; Bisulfite	HSO3	80.9646	81.0711
+C11499	(S)-3-Sulfolactate; (2S)-3-Sulfolactate	C3H6O6S	169.9885	170.1411
+C11537	(2R)-3-Sulfolactate; (R)-3-Sulfolactate	C3H6O6S	169.9885	170.1411
+C15606	1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one	C6H10O3S	162.0351	162.2068
+C15650	2,3-Diketo-5-methylthiopentyl-1-phosphate; 5-(Methylthio)-2,3-dioxopentyl phosphate	C6H11O6PS	242.0014	242.1867
+C15651	2-Hydroxy-3-keto-5-methylthiopentenyl-1-phosphate; 2-Hydroxy-5-(methylthio)-3-oxopent-1-enyl phosphate	C6H11O6PS	242.0014	242.1867
+C18049	N-Acyl-L-homoserine lactone	C5H6NO3R	242.0014	242.1867
+C19787	5'-S-Methyl-5'-thioinosine; 5'-Deoxy-5'-methylthioinosine; S-Methyl-5'-thioinosine	C11H14N4O4S	298.0736	298.3183
+C21015	gamma-L-Glutamyl-L-2-aminobutyrate	C9H16N2O5	232.1059	232.2337
+C21016	Ophthalmate; gamma-L-Glutamyl-L-2-aminobutyrylglycine	C11H19N3O6	289.1274	289.2851

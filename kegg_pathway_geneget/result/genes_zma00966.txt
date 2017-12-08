@@ -1,0 +1,8 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100284902	GRMZM2G370852	Zm00001d015088	K01703	EC4.2.1.35 4.2.1.33	3-isopropylmalate dehydratase large subunit 2
+100193712	GRMZM2G010044	Zm00001d053960	K01703	EC4.2.1.35 4.2.1.33	3-isopropylmalate dehydratase large subunit
+103654943	GRMZM2G133988	Zm00001d053941	K01703	EC4.2.1.35 4.2.1.33	3-isopropylmalate dehydratase large subunit, chloroplastic
+103644042	GRMZM2G105185	-	K12153	EC1.14.14.40	tyrosine N-monooxygenase
+103626061	GRMZM2G178351	Zm00001d013753	K12153	EC1.14.14.40	tyrosine N-monooxygenase
+103626086	GRMZM2G011156	Zm00001d013818	K12153	EC1.14.14.40	tyrosine N-monooxygenase
+103638611	GRMZM2G138248	Zm00001d046334	K13027	EC1.14.14.36	tyrosine N-monooxygenase

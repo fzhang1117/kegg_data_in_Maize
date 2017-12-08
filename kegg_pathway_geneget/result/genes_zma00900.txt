@@ -1,0 +1,72 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+606484	GRMZM2G137151	Zm00001d038170	K01662	EC2.2.1.7	deoxy xylulose synthase 1
+100384006	GRMZM2G173641	Zm00001d045383	K01662	EC2.2.1.7	deoxy xylulose synthase3
+606430	GRMZM2G493395	Zm00001d019060	K01662	EC2.2.1.7	deoxy xylulose synthase 2
+542023	GRMZM2G056975	Zm00001d040163	K00099	EC1.1.1.267	dxr protein
+103634738	GRMZM2G036290	Zm00001d008427	K00099	EC1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase, chloroplastic
+100272499	GRMZM5G856881	Zm00001d042584	K00991	EC2.7.7.60	diphosphocytidyl methyl erythritol synthase1
+103636414	GRMZM2G172032	Zm00001d012197	K00991	EC2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, chloroplastic
+100282760	GRMZM5G859195	Zm00001d043182	K00919	EC2.7.1.148	cytidine methyl kinase1
+100284320	GRMZM2G118693	-	K01770	EC4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+100276918	-	Zm00001d017608	K01770	EC4.6.1.12	methyl erythritol cyclodiphosphate synthase2
+542690	GRMZM2G137409	Zm00001d017139	K03526	EC1.17.7.3 1.17.7.1	uncharacterized LOC542690
+100383164	GRMZM2G027059	-	K03527	EC1.17.7.4	lemon white1
+100274017	GRMZM5G860137	Zm00001d008432	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 2
+100282283	GRMZM5G866758	Zm00001d029416	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+101202696	GRMZM2G085474	Zm00001d031212	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+103640265	GRMZM5G830250	Zm00001d047224	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+103647599	-	Zm00001d006166	K01641	EC2.3.3.10	hydroxymethylglutaryl-CoA synthase
+100272824	-	Zm00001d021201	K01641	EC2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+100384769	GRMZM2G087207	Zm00001d027383	K01641	EC2.3.3.10	putative hydroxymethylglutaryl-CoA synthase family protein
+100285783	GRMZM2G106263	Zm00001d048494	K01641	EC2.3.3.10	hydroxymethylglutaryl-CoA synthase
+103644955	GRMZM2G043503	-	K00021	EC1.1.1.34	3-hydroxy-3-methylglutaryl-coenzyme A reductase-like
+100274191	GRMZM2G001645	Zm00001d020963	K00021	EC1.1.1.34	uncharacterized LOC100274191
+100383280	GRMZM2G135085	Zm00001d051626	K00021	EC1.1.1.34	uncharacterized LOC100383280
+100280335	GRMZM2G393337	Zm00001d052903	K00021	EC1.1.1.34	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+100191922	GRMZM2G058095	Zm00001d006040	K00021	EC1.1.1.34	3-hydroxy-3-methylglutaryl-coenzyme A reductase 2
+103627645	GRMZM2G136465	Zm00001d017826	K00021	EC1.1.1.34	3-hydroxy-3-methylglutaryl-coenzyme A reductase 1
+100384063	GRMZM2G019144	Zm00001d054037	K00869	EC2.7.1.36	Mevalonate kinase
+100279817	GRMZM2G074015	Zm00001d054008	K00869	EC2.7.1.36	Mevalonate kinase
+100282968	GRMZM2G030839	Zm00001d047906	K00938	EC2.7.4.2	phosphomevalonate kinase
+101060998	GRMZM2G019260	-	K00938	EC2.7.4.2	phosphomevalonate kinase
+103645978	-	Zm00001d002411	K01597	EC4.1.1.33	diphosphomevalonate decarboxylase MVD1, peroxisomal-like
+103643980	GRMZM2G396451	Zm00001d033945	K01597	EC4.1.1.33	diphosphomevalonate decarboxylase MVD2, peroxisomal
+100282878	GRMZM2G070351	Zm00001d018377	K01597	EC4.1.1.33	Diphosphomevalonate decarboxylase MVD2
+541901	GRMZM2G108285	-	K01823	EC5.3.3.2	uncharacterized LOC541901
+100502421	GRMZM2G145029	Zm00001d010274	K01823	EC5.3.3.2	uncharacterized LOC100502421
+103630362	GRMZM2G133082	Zm00001d038193	K01823	EC5.3.3.2	isopentenyl-diphosphate Delta-isomerase I
+100273420	GRMZM2G098569	Zm00001d043727	K00787	EC2.5.1.10 2.5.1.1	farnesyl diphosphate synthase3
+541903	GRMZM2G168681	Zm00001d009431	K00787	EC2.5.1.10 2.5.1.1	farnesyl pyrophosphate synthase 1
+100192004	GRMZM2G147721	Zm00001d011673	K00787	EC2.5.1.10 2.5.1.1	uncharacterized LOC100192004
+100279314	GRMZM2G014508	Zm00001d014367	K14066	EC2.5.1.1	decaprenyl-diphosphate synthase subunit 1
+103626280	GRMZM2G483889	Zm00001d014369	K14066	EC2.5.1.1	solanesyl-diphosphate synthase 1, mitochondrial
+100502542	GRMZM2G005909	Zm00001d017540	K13789	EC2.5.1.29 2.5.1.10 2.5.1.1	putative geranylgeranyl pyrophosphate synthase 4
+100502523	-	Zm00001d006678	K13789	EC2.5.1.29 2.5.1.10 2.5.1.1	putative geranylgeranyl pyrophosphate synthase 1
+100502524	GRMZM2G058404	Zm00001d008370	K13789	EC2.5.1.29 2.5.1.10 2.5.1.1	putative geranylgeranyl pyrophosphate synthase 3
+100502545	GRMZM2G102550	-	K13789	EC2.5.1.29 2.5.1.10 2.5.1.1	putative geranylgeranyl pyrophosphate synthase 2
+103653897	GRMZM2G004131	Zm00001d051416	K13789	EC2.5.1.29 2.5.1.10 2.5.1.1	heterodimeric geranylgeranyl pyrophosphate synthase small subunit, chloroplastic
+100191875	GRMZM2G112728	Zm00001d027694	K05356	EC2.5.1.85 2.5.1.84	Solanesyl diphosphate synthase 2 chloroplastic
+100282721	GRMZM2G163809	Zm00001d039142	K05356	EC2.5.1.85 2.5.1.84	prenyl transferase
+103653367	GRMZM2G115077	Zm00001d050159	K05356	EC2.5.1.85 2.5.1.84	probable solanesyl-diphosphate synthase 3, chloroplastic
+100193048	GRMZM2G007957	Zm00001d045159	K11778	EC2.5.1.87	Dehydrodolichyl diphosphate synthase 6
+100276550	-	-	K11778	EC2.5.1.87	uncharacterized LOC100276550
+100284572	GRMZM2G146437	Zm00001d012312	K11778	EC2.5.1.87	undecaprenyl pyrophosphate synthetase
+100285459	GRMZM2G058173	-	K11778	EC2.5.1.87	undecaprenyl pyrophosphate synthetase
+100283522	GRMZM2G054803	-	K11778	EC2.5.1.87	undecaprenyl pyrophosphate synthetase
+103638008	GRMZM2G093146	Zm00001d045163	K11778	EC2.5.1.87	26S protease regulatory subunit 6A homolog
+100283007	GRMZM2G105644	Zm00001d018034	K10960	EC1.3.1.111 1.3.1.83	geranylgeranyl hydrogenase1
+103649981	GRMZM2G419111	Zm00001d040356	K10960	EC1.3.1.111 1.3.1.83	geranylgeranyl diphosphate reductase, chloroplastic-like
+100273635	GRMZM2G703303	Zm00001d006118	K05955	EC2.5.1.59 2.5.1.58	protein farnesyltransferase/geranylgeranyltransferase type I alphasubunit
+100272584	GRMZM2G158562	Zm00001d043555	K05954	EC2.5.1.58	Protein farnesyltransferase subunit beta
+100192945	GRMZM2G123503	Zm00001d037967	K08658	EC3.4.22.-	CAAX prenyl protease 2
+100286144	GRMZM2G702159	Zm00001d017607	K06013	EC3.4.24.84	CAAX prenyl protease 1
+100192503	GRMZM5G813909	Zm00001d051457	K06013	EC3.4.24.84	uncharacterized LOC100192503
+100284671	GRMZM2G004320	Zm00001d042442	K00587	EC2.1.1.100	Protein-S-isoprenylcysteine O-methyltransferase
+100193534	GRMZM2G473976	Zm00001d044088	K15889	EC3.1.1.-	putative isoprenylcysteine alpha-carbonyl methylesterase ICMEL2
+103655501	-	-	K15889	EC3.1.1.-	probable isoprenylcysteine alpha-carbonyl methylesterase ICME
+103635372	GRMZM2G406177	Zm00001d009658	K15889	EC3.1.1.-	probable isoprenylcysteine alpha-carbonyl methylesterase ICME
+100280207	GRMZM2G439203	Zm00001d014727	K15889	EC3.1.1.-	uncharacterized LOC100280207
+103642227	-	Zm00001d026702	K05906	EC1.8.3.6 1.8.3.5	farnesylcysteine lyase
+100272889	GRMZM2G109589	Zm00001d027941	K15891	EC1.1.1.354	dihydroflavonol-4-reductase
+100191275	GRMZM2G046293	Zm00001d012459	K15892	EC2.7.1.216	uncharacterized LOC100191275
+541974	GRMZM2G049538	Zm00001d002351	K15793	EC3.1.7.6 4.2.3.47 4.2.3.49	terpene synthase 1

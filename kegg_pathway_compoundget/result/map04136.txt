@@ -1,0 +1,4 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00350	Phosphatidylethanolamine; (3-Phosphatidyl)ethanolamine; (3-Phosphatidyl)-ethanolamine; Cephalin; O-(1-beta-Acyl-2-acyl-sn-glycero-3-phospho)ethanolamine; 1-Acyl-2-acyl-sn-glycero-3-phosphoethanolamine; L-1-Phosphatidylethanolamine	C7H12NO8PR2	-	-
+C01194	1-Phosphatidyl-D-myo-inositol; 1-Phosphatidyl-1D-myo-inositol; 1-Phosphatidyl-myo-inositol; Phosphatidyl-1D-myo-inositol; (3-Phosphatidyl)-1-D-inositol; 1,2-Diacyl-sn-glycero-3-phosphoinositol; Phosphatidylinositol	C11H17O13PR2	-	-
+C04549	1-Phosphatidyl-1D-myo-inositol 3-phosphate; 1,2-Diacyl-sn-glycero-3-phospho-(1'-myo-inositol-3'-phosphate)	C11H18O16P2R2	-	-

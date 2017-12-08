@@ -1,0 +1,22 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+541707	GRMZM2G005990	Zm00001d007318	K13998	EC2.1.1.45 1.5.1.3	bifunctional dihydrofolate reductase-thymidylate synthase
+100286018	GRMZM2G139880	Zm00001d049188	K13998	EC2.1.1.45 1.5.1.3	Bifunctional dihydrofolate reductase-thymidylate synthase
+103644908	GRMZM2G421493	Zm00001d030396	K13998	EC2.1.1.45 1.5.1.3	bifunctional dihydrofolate reductase-thymidylate synthase-like
+103653497	GRMZM2G072608	Zm00001d050448	K13998	EC2.1.1.45 1.5.1.3	bifunctional dihydrofolate reductase-thymidylate synthase-like
+541944	GRMZM5G824944	-	K01938	EC6.3.4.3	formate--tetrahydrofolate ligase
+100286146	GRMZM2G113959	Zm00001d012247	K00600	EC2.1.2.1	uncharacterized LOC100286146
+103648431	-	-	K00600	EC2.1.2.1	serine hydroxymethyltransferase 4-like
+100192461	GRMZM2G078143	Zm00001d049234	K00600	EC2.1.2.1	uncharacterized LOC100192461
+100191532	GRMZM2G452630	Zm00001d042661	K00600	EC2.1.2.1	serine hydroxymethyltransferase
+100381786	GRMZM2G039238	Zm00001d030859	K00600	EC2.1.2.1	uncharacterized LOC100381786
+109939371	-	Zm00001d053678	K00600	EC2.1.2.1	serine hydroxymethyltransferase 1, mitochondrial-like
+109944989	-	Zm00001d040457	K00600	EC2.1.2.1	serine hydroxymethyltransferase 4-like
+100272448	GRMZM2G155626	Zm00001d003658	K00601	EC2.1.2.2	Phosphoribosylglycinamide formyltransferase chloroplastic
+103645947	GRMZM2G306374	Zm00001d002334	K00602	EC3.5.4.10 2.1.2.3	bifunctional purine biosynthesis protein PurH
+103641146	GRMZM2G368902	Zm00001d024301	K00602	EC3.5.4.10 2.1.2.3	bifunctional purine biosynthesis protein PurH
+100282733	GRMZM2G019437	Zm00001d043815	K00604	EC2.1.2.9	Methionyl-tRNA formyltransferase
+100279332	GRMZM5G876898	Zm00001d002258	K00605	EC2.1.2.10	Aminomethyltransferase
+100286111	GRMZM2G168281	Zm00001d048550	K01433	EC3.5.1.10	formyltetrahydrofolate deformylase
+541794	GRMZM2G347056	Zm00001d034602	K00297	EC1.5.1.20	uncharacterized LOC541794
+103647771	GRMZM5G807835	-	K01934	EC6.3.3.2	5-formyltetrahydrofolate cyclo-ligase, mitochondrial
+100192785	GRMZM2G001904	Zm00001d023534	K01934	EC6.3.3.2	5-formyltetrahydrofolate cyclo-ligase1

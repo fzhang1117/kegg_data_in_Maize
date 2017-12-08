@@ -1,0 +1,10 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00463	Indole; 2,3-Benzopyrrole	C8H7N	117.0578	117.1479
+C03506	Indoleglycerol phosphate; 1-C-(Indol-3-yl)glycerol 3-phosphate; (3-Indolyl)-glycerol phosphate; C1-(3-Indolyl)-glycerol 3-phosphate; (1S,2R)-1-C-(Indol-3-yl)glycerol 3-phosphate; Indole-3-glycerol phosphate	C11H14NO6P	287.0559	287.2057
+C04831	DIMBOA-glucoside; 2,4-Dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucoside; 2,4-Dihydroxy-7-methoxy-1,4-benzoxazin-3-one glucoside	C15H19NO10	373.1009	373.3121
+C11130	3-Hydroxyindolin-2-one; 1,3-Dihydro-3-hydroxy-2H-indol-2-one; Dioxindole	C8H7NO2	149.0477	149.1467
+C12312	Indolin-2-one	C8H7NO	133.0528	133.1473
+C15769	HBOA; 2-Hydroxy-1,4-benzoxazin-3-one	C8H7NO3	165.0426	165.1461
+C15770	DIBOA; 2,4-Dihydroxy-1,4-benzoxazin-3-one; 2,4-Dihydroxy-2H-1,4-benzoxazin-3(4H)-one	C8H7NO4	181.0375	181.1455
+C15772	DIBOA-glucoside; 2,4-Dihydroxy-1,4-benzoxazin-3-one glucoside	C14H17NO9	343.0903	343.2861
+C18062	TRIBOA-glucoside; 2,4,7-Trihydroxy-1,4-benzoxazin-3-one-glucoside; 2,4,7-Trihydroxy-2H-1,4-benzoxazin-3(4H)-one-glucoside	C14H17NO10	359.0852	359.2855

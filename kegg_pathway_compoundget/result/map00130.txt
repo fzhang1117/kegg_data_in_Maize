@@ -1,0 +1,91 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00156	4-Hydroxybenzoate; Hydroxybenzoic acid; 4-Hydroxybenzoic acid; Hydroxybenzenecarboxylic acid	C7H6O3	138.0317	138.1207
+C00223	p-Coumaroyl-CoA; 4-Coumaroyl-CoA; 4-Hydroxycinnamoyl-CoA	C30H42N7O18P3S	913.152	913.6769
+C00251	Chorismate; Chorismic acid; (3R,4R)-3-[(1-Carboxyethenyl)oxy]-4-hydroxycyclohexa-1,5-diene-1-carboxylate	C10H10O6	226.0477	226.1828
+C00341	Geranyl diphosphate	C10H20O7P2	314.0684	314.2091
+C00353	Geranylgeranyl diphosphate; Geranylgeranyl pyrophosphate; all-trans-Geranylgeranyl diphosphate; all-trans-Geranylgeranyl pyrophosphate; (2E,6E,10E)-3,7,11,15-Tetramethylhexadeca-2,6,10,14-tetraen-1-yl diphosphate	C20H36O7P2	450.1936	450.4432
+C00399	Ubiquinone; Coenzyme Q; CoQ; Q	C14H18O4(C5H8)n	450.1936	450.4432
+C00423	trans-Cinnamate; trans-Cinnamic acid; (E)-Cinnamate; (2E)-3-Phenylprop-2-enoate	C9H8O2	148.0524	148.1586
+C00544	Homogentisate; Homogentisic acid; 2,5-Dihydroxyphenylacetic acid; 2,5-Dihydroxyphenylacetate	C8H8O4	168.0423	168.1467
+C00811	4-Coumarate; p-Coumaric acid; trans-4-Hydroxycinnamate; trans-p-Hydroxycinnamate; 4-Hydroxycinnamic acid; 4-Hydroxycinnamate	C9H8O3	164.0473	164.158
+C00828	Menaquinone; Vitamin K2	C16H16O2(C5H8)n	164.0473	164.158
+C00885	Isochorismate; Isochorismic acid	C10H10O6	226.0477	226.1828
+C01179	3-(4-Hydroxyphenyl)pyruvate; 4-Hydroxyphenylpyruvate; p-Hydroxyphenylpyruvic acid	C9H8O4	180.0423	180.1574
+C01230	all-trans-Hexaprenyl diphosphate	C30H52O7P2	586.3188	586.6772
+C01967	Ubiquinone-9; Ubiquinone-45; Coenzyme Q(9)	C54H82O4	794.6213	795.2265
+C02059	Phylloquinone; Vitamin K1; Phytonadione; 2-Methyl-3-phytyl-1,4-naphthoquinone	C31H46O2	450.3498	450.6957
+C02477	alpha-Tocopherol; Vitamin E	C29H50O2	430.3811	430.7061
+C02483	gamma-Tocopherol	C28H48O2	416.3654	416.6795
+C02730	2-Succinylbenzoate; o-Succinylbenzoate; Succinylbenzoate	C11H10O5	222.0528	222.1941
+C02949	4-Hydroxybenzoyl-CoA	C28H40N7O18P3S	887.1363	887.6396
+C03160	2-Succinylbenzoyl-CoA; o-Succinylbenzoyl-CoA; Succinylbenzoyl-CoA; 4-(2-Carboxyphenyl)-4-oxobutanoyl-CoA	C32H44N7O20P3S	971.1575	971.7129
+C03313	Phylloquinol; Vitamin K1 hydroquinone; Phytonadiol	C31H48O2	452.3654	452.7116
+C03657	1,4-Dihydroxy-2-naphthoate; 1,4-Dihydroxy-2-naphthoic acid	C11H8O4	204.0423	204.1788
+C03672	3-(4-Hydroxyphenyl)lactate; 4-Hydroxyphenyllactate; p-Hydroxyphenyllactate; 2-Hydroxy-3-(4-hydroxyphenyl)propanoate	C9H10O4	182.0579	182.1733
+C03885	3-Nonaprenyl-4-hydroxybenzoate; Nonaprenyl-4-hydroxybenzoate	C52H78O3	750.5951	751.1739
+C03993	4-(beta-D-Glucosyloxy)benzoate; 4-Hydroxybenzoate-O-glucoside	C13H16O8	300.0845	300.2613
+C04145	all-trans-Nonaprenyl diphosphate; Solanesyl pyrophosphate; Solanesyl diphosphate	C45H76O7P2	790.5066	791.0283
+C04146	all-trans-Octaprenyl diphosphate; Farnesylfarnesylgeraniol	C40H68O7P2	722.444	722.9112
+C05200	3-Hexaprenyl-4,5-dihydroxybenzoate	C37H54O4	562.4022	562.8223
+C05313	3-Hexaprenyl-4-hydroxy-5-methoxybenzoate	C38H56O4	576.4179	576.8488
+C05427	Phytyl diphosphate	C20H42O7P2	456.2406	456.4908
+C05802	2-Hexaprenyl-6-methoxyphenol	C37H56O2	532.428	532.8393
+C05803	2-Hexaprenyl-6-methoxy-1,4-benzoquinone	C37H54O3	546.4073	546.8229
+C05804	2-Hexaprenyl-3-methyl-6-methoxy-1,4-benzoquinone	C38H56O3	560.4229	560.8494
+C05805	2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone	C38H56O4	576.4179	576.8488
+C05807	2-Polyprenylphenol	C11H14O(C5H8)n	576.4179	576.8488
+C05809	3-Octaprenyl-4-hydroxybenzoate; 4-Hydroxy-3-octaprenylbenzoate	C47H70O3	682.5325	683.0569
+C05810	2-Octaprenylphenol	C46H70O	638.5427	639.0474
+C05811	2-Octaprenyl-6-hydroxyphenol; 3-Octaprenylcatechol	C46H70O2	654.5376	655.0468
+C05812	2-Octaprenyl-6-methoxyphenol	C47H72O2	668.5532	669.0734
+C05813	2-Octaprenyl-6-methoxy-1,4-benzoquinone	C47H70O3	682.5325	683.0569
+C05814	2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone	C48H72O3	696.5481	697.0835
+C05815	2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone	C48H72O4	712.5431	713.0829
+C05817	(1R,6R)-6-Hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate; (1R,6R)-2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate; SHCHC	C11H12O6	240.0634	240.2094
+C05818	2-Demethylmenaquinone	C15H14O2(C5H8)n	240.0634	240.2094
+C05819	Menaquinol; Reduced menaquinone; Vitamin K2 hydroquinone; Reduced vitamin K2	C16H18O2(C5H8)n	240.0634	240.2094
+C05847	all-trans-Polyprenyl diphosphate; Polyisopentenylpyrophosphate; Polyisopentenyldiphosphate; trans-Polyisopentenyldiphosphate; Polyprenyl diphosphate	C5H12O7P2(C5H8)n	240.0634	240.2094
+C05848	4-Hydroxy-3-polyprenylbenzoate	C12H14O3(C5H8)n	240.0634	240.2094
+C05849	Vitamin K1 epoxide; (2,3-Epoxyphytyl)menaquinone; 2,3-Epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone; 2,3-Epoxyphylloquinone; 1a,7a-Dihydro-1a-methyl-7a-(3,7,11,15-tetramethyl-2-hexadecenyl)-naphth[2,3-b]oxirene-2,7-dione; Phylloquinone oxide; Phylloquinone epoxide; Phylloquinone-2,3-epoxide; Vitamin K1 2,3-epoxide; Vitamin K1 oxide	C31H46O3	466.3447	466.6951
+C06986	Spirodilactone	C11H8O4	204.0423	204.1788
+C10793	Geranylhydroquinone	C16H22O2	246.162	246.3447
+C13309	2-Phytyl-1,4-naphthoquinone; Demethylphylloquinone	C30H44O2	436.3341	436.6692
+C13425	3-Hexaprenyl-4-hydroxybenzoate; 3-Hexaprenyl-4-hydroxybenzoic acid	C37H54O3	546.4073	546.8229
+C14151	delta-Tocopherol	C27H46O2	402.3498	402.6529
+C14152	beta-Tocopherol	C28H48O2	416.3654	416.6795
+C14153	alpha-Tocotrienol	C29H44O2	424.3341	424.6585
+C14154	beta-Tocotrienol	C28H42O2	410.3185	410.6319
+C14155	gamma-Tocotrienol	C28H42O2	410.3185	410.6319
+C14156	delta-Tocotrienol	C27H40O2	396.3028	396.6053
+C15547	1,4-Dihydroxy-2-naphthoyl-CoA	C32H42N7O19P3S	953.1469	953.6977
+C15882	2-Methyl-6-phytylquinol; 2-Methyl-6-phytyl-1,4-hydroquinone; 2-Methyl-6-phytylbenzene-1,4-diol; 2-Methyl-6-phytyl-1,4-benzoquinol	C27H46O2	402.3498	402.6529
+C15883	2,3-Dimethyl-5-phytylquinol; 2,3-Dimethyl-5-phytyl-1,4-hydroquinone; 2,3-Dimethyl-6-phytylbenzene-1,4-diol	C28H48O2	416.3654	416.6795
+C16519	2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate; 5-Enolpyruvoyl-6-hydroxy-2-succinylcyclohex-3-ene-1-carboxylate	C14H16O9	328.0794	328.2714
+C16695	Plastoquinol-9; Plastoquinol A	C53H82O2	750.6315	751.217
+C16999	Futalosine	C19H18N4O7	414.1175	414.3688
+C17010	Dehypoxanthine futalosine	C14H16O7	296.0896	296.2726
+C17017	Cyclic dehypoxanthine futalosine	C14H14O7	294.074	294.2568
+C17018	1,4-Dihydroxy-6-naphthoate	C11H8O4	204.0423	204.1788
+C17412	Shikonin	C16H16O5	288.0998	288.2952
+C17432	all-trans-Decaprenyl diphosphate	C50H84O7P2	858.5692	859.1453
+C17551	2-Polyprenyl-6-hydroxyphenol; 3-Polyprenylcatechol	C11H14O2(C5H8)n	858.5692	859.1453
+C17552	2-Polyprenyl-6-methoxyphenol	C12H16O2(C5H8)n	858.5692	859.1453
+C17554	3-Polyprenyl-4,5-dihydroxybenzoate; 3,4-Dihydroxy-5-polyprenylbenzoate	C12H14O4(C5H8)n	858.5692	859.1453
+C17559	3-Polyprenyl-4-hydroxy-5-methoxybenzoate	C13H16O4(C5H8)n	858.5692	859.1453
+C17560	2-Polyprenyl-6-methoxy-1,4-benzoquinone	C12H14O3(C5H8)n	858.5692	859.1453
+C17561	2-Polyprenyl-3-methyl-6-methoxy-1,4-benzoquinone	C13H16O3(C5H8)n	858.5692	859.1453
+C17562	2-Polyprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone	C13H16O4(C5H8)n	858.5692	859.1453
+C17568	Ubiquinone-6; Coenzyme Q6	C39H58O4	590.4335	590.8754
+C17569	Ubiquinone-8; Coenzyme Q8	C49H74O4	726.5587	727.1095
+C17570	2-Methyl-6-solanyl-1,4-benzoquinol; 2-Methyl-6-nonaprenyl-benzene-1,4-diol; 2-Methyl-6-all-trans-nonaprenylbenzene-1,4-diol; 2-Methyl-6-solanesylbenzene-1,4-diol; MSBQ	C52H80O2	736.6158	737.1904
+C18131	Geranyl-hydroxybenzoate	C17H22O3	274.1569	274.3548
+C18132	3''-Hydroxy-geranylhydroquinone	C16H22O3	262.1569	262.3441
+C18133	Deoxyshikonin	C16H16O4	272.1049	272.2958
+C18134	Dihydroechinofuran	C16H18O3	258.1256	258.3123
+C18135	Dihydroshikonofuran	C16H20O3	260.1412	260.3282
+C20265	2,3-Epoxymenaquinone; Vitamin K2 2,3-epoxide	C16H16O3(C5H8)n	260.1412	260.3282
+C20737	6-Geranylgeranyl-2-methylbenzene-1,4-diol	C27H40O2	396.3028	396.6053
+C20738	6-Geranylgeranyl-2,3-dimethylbenzene-1,4-diol	C28H42O2	410.3185	410.6319
+C20772	3-[(1-Carboxyvinyl)oxy]benzoate; 3-[(1-Carboxyethenyl)oxy]benzoic acid	C10H8O5	208.0372	208.1675
+C20773	6-Amino-6-deoxyfutalosine	C19H19N5O6	413.1335	413.3841

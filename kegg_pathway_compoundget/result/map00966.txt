@@ -1,0 +1,76 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00073	L-Methionine; Methionine; L-2-Amino-4methylthiobutyric acid	C5H11NO2S	149.051	149.2113
+C00078	L-Tryptophan; Tryptophan; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid	C11H12N2O2	204.0899	204.2252
+C00079	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00123	L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	C6H13NO2	131.0946	131.1729
+C00141	3-Methyl-2-oxobutanoic acid; 3-Methyl-2-oxobutyric acid; 3-Methyl-2-oxobutanoate; 2-Oxo-3-methylbutanoate; 2-Oxoisovalerate; 2-Oxoisopentanoate; alpha-Ketovaline; 2-Ketovaline; 2-Keto-3-methylbutyric acid	C5H8O3	116.0473	116.1152
+C00183	L-Valine; 2-Amino-3-methylbutyric acid	C5H11NO2	117.079	117.1463
+C00233	4-Methyl-2-oxopentanoate; 2-Oxoisocaproate	C6H10O3	130.063	130.1418
+C00407	L-Isoleucine; 2-Amino-3-methylvaleric acid	C6H13NO2	131.0946	131.1729
+C00671	(S)-3-Methyl-2-oxopentanoic acid; (S)-3-Methyl-2-oxopentanoate; (3S)-3-Methyl-2-oxopentanoic acid; (3S)-3-Methyl-2-oxopentanoate	C6H10O3	130.063	130.1418
+C01069	Desulfoglucotropeolin	C14H19NO6S	329.0933	329.3688
+C01180	4-Methylthio-2-oxobutanoic acid; 4-Methylthio-2-oxobutanoate; 2-Keto-4-methylthiobutyric acid; 2-Oxo-4-methylthiobutanoate; 2-Oxo-4-methylthiobutanoic acid	C5H8O3S	148.0194	148.1802
+C02153	Glucotropaeolin; Glucotropeolin; Benzyl glucosinolate	C14H19NO9S2	409.0501	409.432
+C02937	Indole-3-acetaldehyde oxime; Indole-3-acetaldoxime; 3-Indoleacetaldoxime; (E)-Indol-3-ylacetaldoxime	C10H10N2O	174.0793	174.1992
+C03219	(E)-2-Methylpropanal oxime; (E)-Isobutyraldehyde oxime; (E)-Isobutanal oxime	C4H9NO	87.0684	87.1204
+C03719	Phenylacetothiohydroximate	C8H9NOS	167.0405	167.2282
+C04350	(E)-4-Hydroxyphenylacetaldehyde oxime; (E)-[4-Hydroxyphenylacetaldehyde oxime]	C8H9NO2	151.0633	151.1626
+C05837	Glucobrassicin; Indolylmethyl glucosinolate	C16H20N2O9S2	448.061	448.468
+C08401	Glucoberteroin; 5-Methylthiopentyl glucosinolate	C13H25NO9S3	435.0691	435.5339
+C08407	Glucocochlearin; 1-Methylpropyl glucosinolate	C11H21NO9S2	375.0658	375.4157
+C08409	Glucoerucin; 4-Methylthiobutyl glucosinolate	C12H23NO9S3	421.0535	421.5073
+C08412	Glucoiberverin; 3-Methylthiopropyl glucosinolate	C11H21NO9S3	407.0378	407.4807
+C08417	Gluconasturtiin; 2-Phenylethyl glucosinolate	C15H21NO9S2	423.0658	423.4585
+C08418	Glucoputranjivin; 1-Methylethyl glucosinolate	C10H19NO9S2	361.0501	361.3892
+C08426	Sinalbin; p-Hydroxybenzyl glucosinolate	C14H19NO10S2	425.045	425.4314
+C16516	Indolylmethylthiohydroximate	C10H10N2OS	206.0514	206.2642
+C16517	Indolylmethyl-desulfoglucosinolate	C16H20N2O6S	368.1042	368.4048
+C16518	S-(Indolylmethylthiohydroximoyl)-L-cysteine	C13H15N3O3S	293.0834	293.3415
+C17210	2-(2'-Methylthio)ethylmalic acid; 2-(2'-Methylthio)ethylmalate	C7H12O5S	208.0405	208.2322
+C17211	2-Oxo-5-methylthiopentanoic acid; 5-(Methylthio)-2-oxo-pentanoic acid	C6H10O3S	162.0351	162.2068
+C17212	3-(2'-Methylthio)ethylmalic acid; 3-(2'-Methylthio)ethylmalate	C7H12O5S	208.0405	208.2322
+C17213	Homomethionine; L-Homomethionine	C6H13NO2S	163.0667	163.2379
+C17214	2-(3'-Methylthio)propylmalic acid; 2-(3'-Methylthio)propylmalate	C8H14O5S	222.0562	222.2588
+C17215	3-(3'-Methylthio)propylmalic acid; 3-(3'-Methylthio)propylmalate	C8H14O5S	222.0562	222.2588
+C17216	2-Oxo-6-methylthiohexanoic acid; 6-(Methylthio)-2-oxo-hexanoic acid	C7H12O3S	176.0507	176.2334
+C17217	Dihomomethionine; L-Dihomomethionine	C7H15NO2S	177.0823	177.2645
+C17218	2-(4'-Methylthio)butylmalic acid; 2-(4'-Methylthio)butylmalate	C9H16O5S	236.0718	236.2853
+C17219	3-(4'-Methylthio)butylmalic acid; 3-(4'-Methylthio)butylmalate	C9H16O5S	236.0718	236.2853
+C17220	2-Oxo-7-methylthioheptanoic acid; 7-(Methylthio)-2-oxo-heptanoic acid	C8H14O3S	190.0664	190.26
+C17221	Trihomomethionine; L-Trihomomethionine; 2-Amino-7-(methylsulfanyl)heptanoic acid	C8H17NO2S	191.098	191.2911
+C17222	2-(5'-Methylthio)pentylmalic acid; 2-(5'-Methylthio)pentylmalate	C10H18O5S	250.0875	250.3119
+C17223	3-(5'-Methylthio)pentylmalic acid; 3-(5'-Methylthio)pentylmalate	C10H18O5S	250.0875	250.3119
+C17224	2-Oxo-8-methylthiooctanoic acid; 8-Methylthio-2-octanoic acid	C9H16O3S	204.082	204.2865
+C17225	Tetrahomomethionine; L-Tetrahomomethionine	C9H19NO2S	205.1137	205.3177
+C17226	2-(6'-Methylthio)hexylmalic acid; 2-(6'-Methylthio)hexylmalate	C11H20O5S	264.1031	264.3385
+C17227	3-(6'-Methylthio)hexylmalic acid; 3-(6'-Methylthio)hexylmalate	C11H20O5S	264.1031	264.3385
+C17228	2-Oxo-9-methylthiononanoic acid; 9-Methylthio-2-nonanoic acid	C10H18O3S	218.0977	218.3131
+C17229	Pentahomomethionine; L-Pentahomomethionine	C10H21NO2S	219.1293	219.3442
+C17230	2-(7'-Methylthio)heptylmalic acid; 2-(7'-Methylthio)heptylmalate	C12H22O5S	278.1188	278.3651
+C17231	3-(7'-Methylthio)heptylmalic acid; 3-(7'-Methylthio)heptylmalate	C12H22O5S	278.1188	278.3651
+C17232	2-Oxo-10-methylthiodecanoic acid; 10-Methylthio-2-decanoic acid	C11H20O3S	232.1133	232.3397
+C17233	Hexahomomethionine; L-Hexahomomethionine	C11H23NO2S	233.145	233.3708
+C17235	L-Homophenylalanine	C10H13NO2	179.0946	179.2157
+C17236	3-Phenylpropionaldoxim	C9H11NO	149.0841	149.1897
+C17237	S-(Phenylacetothiohydroximoyl)-L-cysteine	C11H14N2O3S	254.0725	254.3055
+C17238	S-(Hydroxyphenylacetothiohydroximoyl)-L-cysteine	C11H14N2O4S	270.0674	270.3049
+C17239	p-Hydroxyphenylacetothiohydroximate	C8H9NO2S	183.0354	183.2276
+C17240	p-Hydroxybenzyldesulphoglucosinolate; Desulfo-p-hydroxybenzylglucosinolate	C14H19NO7S	345.0882	345.3682
+C17241	4-Methylthiobutanaldoxime; (E)-4-(Methylthio)-butanaldoxime	C5H11NOS	133.0561	133.2119
+C17242	S-(4-Methylthiobutylthiohydroximoyl)-L-cysteine	C8H16N2O3S2	252.0602	252.3542
+C17243	4-Methylthiobutylthiohydroximate	C5H11NOS2	165.0282	165.2769
+C17244	3-Methylthiopropyl-desulfoglucosinolate	C11H21NO6S2	327.081	327.4175
+C17245	5-Methylthiopentanaldoxime; (E)-5-(Methylthio)pentanaldoxime	C6H13NOS	147.0718	147.2385
+C17246	6-Methylthiohexanaldoxime; (E)-6-(Methylthio)hexanaldoxime	C7H15NOS	161.0874	161.2651
+C17248	4-Methylthiobutyl-desulfoglucosinolate	C12H23NO6S2	341.0967	341.4441
+C17249	7-Methylthioheptanaldoxime; (E)-7-(Methylthio)heptanaldoxime; 7-(Methylsulfanyl)heptanal oxime	C8H17NOS	175.1031	175.2917
+C17250	Glucolesquerellin; 6-Methylthiohexyl glucosinolate	C14H27NO9S3	449.0848	449.5605
+C17251	8-Methylthiooctanaldoxime; (E)-8-(methylthio)octanaldoxime	C9H19NOS	189.1187	189.3183
+C17252	7-Methylthioheptyl glucosinolate	C15H29NO9S3	463.1004	463.5871
+C17253	9-Methylthiononanaldoxime; (E)-9-(Methylthio)nonanaldoxime	C10H21NOS	203.1344	203.3448
+C17254	8-Methylthiooctyl glucosinolate	C16H31NO9S3	477.1161	477.6136
+C17255	3-Methylbutyraldehyde oxime	C5H11NO	101.0841	101.1469
+C17256	2-Methylpropyl glucosinolate; Isobutyl glucosinolate	C11H21NO9S2	375.0658	375.4157
+C19491	(E)-2-Methylbutanal oxime	C5H11NO	101.0841	101.1469
+C19714	(E)-Phenylacetaldoxime; (E)-Phenylacetaldehyde oxime	C8H9NO	135.0684	135.1632

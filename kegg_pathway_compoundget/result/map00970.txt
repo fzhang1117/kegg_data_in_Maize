@@ -1,0 +1,53 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00037	Glycine; Aminoacetic acid; Gly	C2H5NO2	75.032	75.0666
+C00041	L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	C3H7NO2	89.0477	89.0932
+C00047	L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid	C6H14N2O2	146.1055	146.1876
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00062	L-Arginine; (S)-2-Amino-5-guanidinovaleric acid; L-Arg	C6H14N4O2	174.1117	174.201
+C00064	L-Glutamine; L-2-Aminoglutaramic acid	C5H10N2O3	146.0691	146.1445
+C00065	L-Serine; L-2-Amino-3-hydroxypropionic acid; L-3-Hydroxy-alanine; Serine	C3H7NO3	105.0426	105.0926
+C00073	L-Methionine; Methionine; L-2-Amino-4methylthiobutyric acid	C5H11NO2S	149.051	149.2113
+C00078	L-Tryptophan; Tryptophan; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid	C11H12N2O2	204.0899	204.2252
+C00079	L-Phenylalanine; (S)-alpha-Amino-beta-phenylpropionic acid	C9H11NO2	165.079	165.1891
+C00082	L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine	C9H11NO3	181.0739	181.1885
+C00097	L-Cysteine; L-2-Amino-3-mercaptopropionic acid	C3H7NO2S	121.0197	121.1582
+C00101	Tetrahydrofolate; 5,6,7,8-Tetrahydrofolate; Tetrahydrofolic acid; THF; (6S)-Tetrahydrofolate; (6S)-Tetrahydrofolic acid; (6S)-THFA	C19H23N7O6	445.171	445.4292
+C00123	L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine	C6H13NO2	131.0946	131.1729
+C00135	L-Histidine; (S)-alpha-Amino-1H-imidazole-4-propionic acid	C6H9N3O2	155.0695	155.1546
+C00148	L-Proline; 2-Pyrrolidinecarboxylic acid	C5H9NO2	115.0633	115.1305
+C00152	L-Asparagine; 2-Aminosuccinamic acid	C4H8N2O3	132.0535	132.1179
+C00183	L-Valine; 2-Amino-3-methylbutyric acid	C5H11NO2	117.079	117.1463
+C00188	L-Threonine; 2-Amino-3-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00234	10-Formyltetrahydrofolate; 10-Formyl-THF	C20H23N7O7	473.1659	473.4393
+C00407	L-Isoleucine; 2-Amino-3-methylvaleric acid	C6H13NO2	131.0946	131.1729
+C00886	L-Alanyl-tRNA; L-Alanyl-tRNA(Ala)	C13H22NO11PR2(C5H8O6PR)n	131.0946	131.1729
+C01005	O-Phospho-L-serine; L-O-Phosphoserine; 3-Phosphoserine; Dexfosfoserine	C3H8NO6P	185.0089	185.0725
+C01931	L-Lysyl-tRNA; L-Lysyl-tRNA(Lys)	C16H29N2O11PR2(C5H8O6PR)n	185.0089	185.0725
+C02047	L-Leucyl-tRNA; L-Leucyl-tRNA(Leu)	C21H32N6O11PR(C5H8O6PR)n	185.0089	185.0725
+C02163	L-Arginyl-tRNA(Arg); L-Arginyl-tRNA	C21H33N9O11PR(C5H8O6PR)n	185.0089	185.0725
+C02282	Glutaminyl-tRNA; L-Glutaminyl-tRNA(Gln); Glutaminyl-tRNA(Gln); Gln-tRNA(Gln)	C20H29N7O12PR(C5H8O6PR)n	185.0089	185.0725
+C02412	Glycyl-tRNA(Gly)	C12H20NO11PR2(C5H8O6PR)n	185.0089	185.0725
+C02430	L-Methionyl-tRNA; L-Methionyl-tRNA(Met)	C20H30N6O11PSR(C5H8O6PR)n	185.0089	185.0725
+C02553	L-Seryl-tRNA(Ser)	C13H22NO12PR2(C5H8O6PR)n	185.0089	185.0725
+C02554	L-Valyl-tRNA(Val)	C20H30N6O11PR(C5H8O6PR)n	185.0089	185.0725
+C02702	L-Prolyl-tRNA(Pro)	C15H24NO11PR2(C5H8O6PR)n	185.0089	185.0725
+C02839	L-Tyrosyl-tRNA(Tyr)	C24H30N6O12PR(C5H8O6PR)n	185.0089	185.0725
+C02984	L-Aspartyl-tRNA(Asp)	C14H22NO13PR2(C5H8O6PR)n	185.0089	185.0725
+C02987	L-Glutamyl-tRNA(Glu)	C20H28N6O13PR(C5H8O6PR)n	185.0089	185.0725
+C02988	L-Histidyl-tRNA(His)	C16H24N3O11PR2(C5H8O6PR)n	185.0089	185.0725
+C02992	L-Threonyl-tRNA(Thr)	C14H24NO12PR2(C5H8O6PR)n	185.0089	185.0725
+C03125	L-Cysteinyl-tRNA(Cys)	C18H26N6O11PSR(C5H8O6PR)n	185.0089	185.0725
+C03127	L-Isoleucyl-tRNA(Ile)	C21H32N6O11PR(C5H8O6PR)n	185.0089	185.0725
+C03294	N-Formylmethionyl-tRNA	C21H30N6O12PSR(C5H8O6PR)n	185.0089	185.0725
+C03402	L-Asparaginyl-tRNA(Asn); Asn-tRNA(Asn); Asparaginyl-tRNA(Asn)	C14H23N2O12PR2(C5H8O6PR)n	185.0089	185.0725
+C03511	L-Phenylalanyl-tRNA(Phe)	C19H26NO11PR2(C5H8O6PR)n	185.0089	185.0725
+C03512	L-Tryptophanyl-tRNA(Trp)	C26H31N7O11PR(C5H8O6PR)n	185.0089	185.0725
+C06112	L-Glutamyl-tRNA(Gln); Glu-tRNA(Gln); Glutamyl-tRNA(Gln)	C20H28N6O13PR(C5H8O6PR)n	185.0089	185.0725
+C06113	L-Aspartyl-tRNA(Asn); Asp-tRNA(Asn); Aspartyl-tRNA(Asn)	C14H22NO13PR2(C5H8O6PR)n	185.0089	185.0725
+C06481	L-Seryl-tRNA(Sec)	C13H22NO12PR2(C5H8O6PR)n	185.0089	185.0725
+C06482	L-Selenocysteinyl-tRNA(Sec)	C13H22NO11PSeR2(C5H8O6PR)n	185.0089	185.0725
+C16138	L-Pyrrolysine; Pyrrolysine	C12H21N3O3	255.1583	255.3134
+C16638	O-Phosphoseryl-tRNA(Sec)	C13H23NO15P2R2(C5H8O6PR)n	255.1583	255.3134
+C17022	O-Phosphoseryl-tRNA(Cys)	C13H23NO15P2R2(C5H8O6PR)n	255.1583	255.3134
+C17027	L-Pyrrolysyl-tRNA(Pyl)	C22H36N3O12PR2(C5H8O6PR)n	255.1583	255.3134

@@ -1,0 +1,29 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00014	Ammonia; NH3	NH3	17.0265	17.0305
+C00022	Pyruvate; Pyruvic acid; 2-Oxopropanoate; 2-Oxopropanoic acid; Pyroracemic acid	C3H4O3	88.016	88.0621
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00036	Oxaloacetate; Oxalacetic acid; Oxaloacetic acid; 2-Oxobutanedioic acid; 2-Oxosuccinic acid; keto-Oxaloacetate	C4H4O5	132.0059	132.0716
+C00041	L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	C3H7NO2	89.0477	89.0932
+C00042	Succinate; Succinic acid; Butanedionic acid; Ethylenesuccinic acid	C4H6O4	118.0266	118.088
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00064	L-Glutamine; L-2-Aminoglutaramic acid	C5H10N2O3	146.0691	146.1445
+C00122	Fumarate; Fumaric acid; trans-Butenedioic acid	C4H4O4	116.011	116.0722
+C00152	L-Asparagine; 2-Aminosuccinamic acid	C4H8N2O3	132.0535	132.1179
+C00158	Citrate; Citric acid; 2-Hydroxy-1,2,3-propanetricarboxylic acid; 2-Hydroxytricarballylic acid	C6H8O7	192.027	192.1235
+C00169	Carbamoyl phosphate	CH4NO5P	140.9827	141.0199
+C00232	Succinate semialdehyde; Succinic semialdehyde; 4-Oxobutanoate	C4H6O3	102.0317	102.0886
+C00334	4-Aminobutanoate; 4-Aminobutanoic acid; 4-Aminobutyrate; 4-Aminobutyric acid; gamma-Aminobutyric acid; GABA	C4H9NO2	103.0633	103.1198
+C00352	D-Glucosamine 6-phosphate; D-Glucosamine phosphate	C6H14NO8P	259.0457	259.151
+C00402	D-Aspartate; D-Aspartic acid	C4H7NO4	133.0375	133.1027
+C00438	N-Carbamoyl-L-aspartate	C5H8N2O5	176.0433	176.1274
+C00940	2-Oxoglutaramate; 2-Oxoglutaramic acid; alpha-Ketoglutaramate; 2-Ketoglutaramate	C5H7NO4	145.0375	145.1134
+C01042	N-Acetyl-L-aspartate; N-Acetyl-L-aspartic acid	C6H9NO5	175.0481	175.1394
+C02362	2-Oxosuccinamate; 2-Oxosuccinamic acid; gamma-Aminooxaloacetate; Oxaloacetamide	C4H5NO4	131.0219	131.0868
+C03090	5-Phosphoribosylamine; 5-Phospho-beta-D-ribosylamine; 5-Phospho-D-ribosylamine; 5-Phosphoribosyl-1-amine	C5H12NO7P	229.0351	229.125
+C03406	N-(L-Arginino)succinate; 2-(Nomega-L-Arginino)succinate; L-Argininosuccinate; L-Argininosuccinic acid; L-Arginosuccinic acid	C10H18N4O6	290.1226	290.2731
+C03794	N6-(1,2-Dicarboxyethyl)-AMP; N6-(1,2-Dicarboxyethyl)AMP; Adenylosuccinate; Adenylosuccinic acid	C14H18N5O11P	463.074	463.2934
+C03912	(S)-1-Pyrroline-5-carboxylate; L-1-Pyrroline-5-carboxylate; 1-Pyrroline-5-carboxylate	C5H7NO2	113.0477	113.1146
+C12270	N-Acetylaspartylglutamate; NAAG; Isospaglumic acid; N-Acetyl-L-aspartyl-L-glutamate	C11H16N2O8	304.0907	304.2533
+C20775	beta-Citryl-L-glutamate; beta-Citrylglutamate	C11H15NO10	321.0696	321.2375
+C20776	N-Acetylaspartylglutamylglutamate; N-Acetyl-L-aspartyl-L-glutamyl-L-glutamate; NAAG2	C16H23N3O11	433.1333	433.3673

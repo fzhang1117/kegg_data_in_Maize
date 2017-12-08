@@ -1,0 +1,28 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00017	Protein	C2H4NO2R(C2H2NOR)n	-	-
+C00041	L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine	C3H7NO2	89.0477	89.0932
+C01528	Hydrogen selenide; Selenide	H2Se	81.9322	80.9759
+C02535	Dimethyl selenide	C2H6Se	109.9635	109.029
+C05172	Selenophosphoric acid; Selenophosphate	H3PO3Se	161.8985	160.9558
+C05335	L-Selenomethionine	C5H11NO2Se	196.9955	196.1063
+C05336	Selenomethionyl-tRNA(Met)	C20H30N6O11PSeR(C5H8O6PR)n	196.9955	196.1063
+C05684	Selenite	SeO3	127.9013	126.9582
+C05686	Adenylylselenate; Adenosine-5'-phosphoselenate	C10H14N5O10PSe	474.9644	474.1794
+C05688	L-Selenocysteine	C3H7NO2Se	168.9642	168.0532
+C05689	Se-Methyl-L-selenocysteine	C4H9NO2Se	182.9799	182.0798
+C05690	Se-Methylselenomethionine	C6H14NO2Se	212.019	211.1409
+C05695	gamma-Glutamyl-Se-methylselenocysteine; 5-L-Glutamyl-Se-methylselenocysteine	C9H16N2O5Se	312.0224	311.1937
+C05697	Selenate; Selenic acid	H2SeO4	145.9118	144.9735
+C05698	Selenohomocysteine	C4H9NO2Se	182.9799	182.0798
+C05699	L-Selenocystathionine	C7H14N2O4Se	270.0119	269.1571
+C05703	Methaneselenol; Methylselenol	CH4Se	95.9478	95.0025
+C06481	L-Seryl-tRNA(Sec)	C13H22NO12PR2(C5H8O6PR)n	95.9478	95.0025
+C06482	L-Selenocysteinyl-tRNA(Sec)	C13H22NO11PSeR2(C5H8O6PR)n	95.9478	95.0025
+C16638	O-Phosphoseryl-tRNA(Sec)	C13H23NO15P2R2(C5H8O6PR)n	95.9478	95.0025
+C18870	Selenodiglutathione; GSSeSG	C20H32N6O12S2Se	692.0685	691.5911
+C18871	Glutathioselenol; GSSeH	C10H17N3O6SSe	387.0003	386.2835
+C18872	Trimethylselenonium	C3H9Se	124.9869	124.0636
+C18893	1-Methylseleno-N-acetyl-D-galactosamine	C9H17NO5Se	299.0272	298.195
+C18902	Methylselenic acid; Methylseleninate	CH4O2Se	127.9377	127.0013
+C18904	Methylselenopyruvate; beta-Methylselenopyruvate	C4H6O3Se	181.9482	181.0486
+C18905	Methylselenocysteine Se-oxide; Methylselenocysteine selenooxide	C4H9NO3Se	198.9748	198.0792

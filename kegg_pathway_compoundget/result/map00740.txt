@@ -1,0 +1,21 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00016	FAD; Flavin adenine dinucleotide	C27H33N9O15P2	785.1571	785.5497
+C00044	GTP; Guanosine 5'-triphosphate	C10H16N5O14P3	522.9907	523.1804
+C00061	FMN; Riboflavin-5-phosphate; Flavin mononucleotide	C17H21N4O9P	456.1046	456.3438
+C00199	D-Ribulose 5-phosphate	C5H11O8P	230.0192	230.1098
+C00255	Riboflavin; Lactoflavin; 7,8-Dimethyl-10-ribitylisoalloxazine; Vitamin B2	C17H20N4O6	376.1383	376.3639
+C00474	Ribitol; Adonitol	C5H12O5	152.0685	152.1458
+C01007	Reduced riboflavin	C17H22N4O6	378.1539	378.3798
+C01268	5-Amino-6-(5'-phosphoribosylamino)uracil; 5-Amino-6-(ribosylamino)-2,4-(1H,3H)-pyrimidinedione 5'-phosphate; 5-Amino-6-(5-phosphoribosylamino)uracil	C9H15N4O9P	354.0577	354.2106
+C01304	2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one; 2,5-Diamino-6-(1-D-ribosylamino)pyrimidin-4(3H)-one 5'-phosphate	C9H16N5O8P	353.0736	353.2258
+C01352	FADH2	C27H35N9O15P2	787.1728	787.5656
+C01727	Lumichrome; 7,8-Dimethylalloxazine	C12H10N4O2	242.0804	242.2334
+C01847	Reduced FMN; FMNH2	C17H23N4O9P	458.1203	458.3597
+C03114	Dimethylbenzimidazole; 5,6-Dimethylbenzimidazole	C9H10N2	146.0844	146.1891
+C04332	6,7-Dimethyl-8-(D-ribityl)lumazine	C13H18N4O6	326.1226	326.3052
+C04454	5-Amino-6-(5'-phospho-D-ribitylamino)uracil; 5-Amino-2,6-dioxy-4-(5'-phospho-D-ribitylamino)pyrimidine; 5-Amino-6-(5-phospho-D-ribitylamino)uracil	C9H17N4O9P	356.0733	356.2264
+C04732	5-Amino-6-(1-D-ribitylamino)uracil; 5-Amino-6-(D-ribitylamino)uracil; 6-(1-D-Ribitylamino)-5-amino-2,4-dihydroxypyrimidine; 6-(1-D-Ribitylamino)-5-aminouracil; 4-(1-D-Ribitylamino)-5-amino-2,6-dihydroxypyrimidine	C9H16N4O6	276.107	276.2465
+C05995	7-Hydroxy-6-methyl-8-ribityllumazine; 7-Oxolumazine; 6-Methyl-7-oxo-8-ribityllumazine	C12H16N4O7	328.1019	328.278
+C15556	L-3,4-Dihydroxybutan-2-one 4-phosphate; 1-Deoxy-L-glycero-tetrulose 4-phosphate; 2-Hydroxy-3-oxobutyl phosphate	C4H9O6P	184.0137	184.0844
+C15563	2-Amino-5-formylamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one	C10H16N5O9P	381.0686	381.2359
+C18910	2,5-Diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one; 2,5-Diamino-6-(1-D-ribitylamino)pyrimidin-4(3H)-one 5'-phosphate	C9H18N5O8P	355.0893	355.2417

@@ -1,0 +1,51 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00083	Malonyl-CoA; Malonyl coenzyme A	C24H38N7O19P3S	853.1156	853.5803
+C00154	Palmitoyl-CoA; Hexadecanoyl-CoA	C37H66N7O17P3S	1005.3449	1005.9429
+C00229	Acyl-carrier protein; ACP; [Acyl-carrier protein]; Holo-[acyl-carrier protein]	HSR	1005.3449	1005.9429
+C00249	Hexadecanoic acid; Hexadecanoate; Hexadecylic acid; Palmitic acid; Palmitate; Cetylic acid	C16H32O2	256.2402	256.4241
+C00712	(9Z)-Octadecenoic acid; (Z)-Octadec-9-enoic acid; Oleate; Oleic acid	C18H34O2	282.2559	282.4614
+C01203	Oleoyl-[acyl-carrier protein]; Octadecenoyl-[acyl-carrier protein]; Octadecenoyl-[acp]	C18H33OSR	282.2559	282.4614
+C01209	Malonyl-[acyl-carrier protein]; Malonyl-[acp]	C3H3O3SR	282.2559	282.4614
+C01530	Octadecanoic acid; Stearate; Stearic acid	C18H36O2	284.2715	284.4772
+C01571	Decanoic acid; Decanoate; Decylic acid; n-Capric acid	C10H20O2	172.1463	172.2646
+C02679	Dodecanoic acid; Dodecanoate; Dodecylcarboxylate; Lauric acid	C12H24O2	200.1776	200.3178
+C03939	Acetyl-[acyl-carrier protein]	C2H3OSR	200.1776	200.3178
+C04088	Octadecanoyl-[acyl-carrier protein]; Stearoyl-[acyl-carrier protein]	C18H35OSR	200.1776	200.3178
+C04180	cis-Dec-3-enoyl-[acp]; cis-Dec-3-enoyl-[acyl-carrier protein]; cis-3-Decenoyl-[acyl-carrier protein]	C10H17OSR	200.1776	200.3178
+C04246	But-2-enoyl-[acyl-carrier protein]	C4H5OSR	200.1776	200.3178
+C04618	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]; (R)-3-Hydroxybutanoyl-[acyl-carrier protein]	C4H7O2SR	200.1776	200.3178
+C04619	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]; (R)-3-Hydroxydecanoyl-[acyl-carrier protein]	C10H19O2SR	200.1776	200.3178
+C04620	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]; (R)-3-Hydroxyoctanoyl-[acyl-carrier protein]	C8H15O2SR	200.1776	200.3178
+C04633	(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]; (R)-3-Hydroxypalmitoyl-[acyl-carrier protein]; (3R)-3-Hydroxyhexadecanoyl-[acyl-carrier protein]; (R)-3-Hydroxyhexadecanoyl-[acyl-carrier protein]	C16H31O2SR	200.1776	200.3178
+C04688	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]; (R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]; beta-Hydroxymyristyl-[acyl-carrier protein]; HMA	C14H27O2SR	200.1776	200.3178
+C05223	Dodecanoyl-[acyl-carrier protein]; Dodecanoyl-[acp]; Lauroyl-[acyl-carrier protein]	C12H23OSR	200.1776	200.3178
+C05744	Acetoacetyl-[acp]; Acetoacetyl-[acyl-carrier protein]	C4H5O2SR	200.1776	200.3178
+C05745	Butyryl-[acp]; Butyryl-[acyl-carrier protein]; Butanoyl-[acp]	C4H7OSR	200.1776	200.3178
+C05746	3-Oxohexanoyl-[acp]; 3-Oxohexanoyl-[acyl-carrier protein]	C6H9O2SR	200.1776	200.3178
+C05747	(R)-3-Hydroxyhexanoyl-[acp]; (R)-3-Hydroxyhexanoyl-[acyl-carrier protein]; D-3-Hydroxyhexanoyl-[acp]; D-3-Hydroxyhexanoyl-[acyl-carrier protein]	C6H11O2SR	200.1776	200.3178
+C05748	trans-Hex-2-enoyl-[acp]; trans-Hex-2-enoyl-[acyl-carrier protein]; (2E)-Hexenoyl-[acp]	C6H9OSR	200.1776	200.3178
+C05749	Hexanoyl-[acp]; Hexanoyl-[acyl-carrier protein]	C6H11OSR	200.1776	200.3178
+C05750	3-Oxooctanoyl-[acp]; 3-Oxooctanoyl-[acyl-carrier protein]	C8H13O2SR	200.1776	200.3178
+C05751	trans-Oct-2-enoyl-[acp]; trans-Oct-2-enoyl-[acyl-carrier protein]; Oct-2-enoyl-[acyl-carrier protein]; 2-Octenoyl-[acyl-carrier protein]; (2E)-Octenoyl-[acp]	C8H13OSR	200.1776	200.3178
+C05752	Octanoyl-[acp]; Octanoyl-[acyl-carrier protein]	C8H15OSR	200.1776	200.3178
+C05753	3-Oxodecanoyl-[acp]; 3-Oxodecanoyl-[acyl-carrier protein]	C10H17O2SR	200.1776	200.3178
+C05754	trans-Dec-2-enoyl-[acp]; trans-Dec-2-enoyl-[acyl-carrier protein]; trans-2-Decenoyl-[acyl-carrier protein]; (2E)-Decenoyl-[acp]	C10H17OSR	200.1776	200.3178
+C05755	Decanoyl-[acp]; Decanoyl-[acyl-carrier protein]	C10H19OSR	200.1776	200.3178
+C05756	3-Oxododecanoyl-[acp]; 3-Oxododecanoyl-[acyl-carrier protein]	C12H21O2SR	200.1776	200.3178
+C05757	(R)-3-Hydroxydodecanoyl-[acp]; (R)-3-Hydroxydodecanoyl-[acyl-carrier protein]; D-3-Hydroxydodecanoyl-[acp]; D-3-Hydroxydodecanoyl-[acyl-carrier protein]	C12H23O2SR	200.1776	200.3178
+C05758	trans-Dodec-2-enoyl-[acp]; trans-Dodec-2-enoyl-[acyl-carrier protein]; (2E)-Dodecenoyl-[acp]	C12H21OSR	200.1776	200.3178
+C05759	3-Oxotetradecanoyl-[acp]; 3-Oxotetradecanoyl-[acyl-carrier protein]	C14H25O2SR	200.1776	200.3178
+C05760	trans-Tetradec-2-enoyl-[acp]; trans-Tetradec-2-enoyl-[acyl-carrier protein]; (2E)-Tetradecenoyl-[acp]	C14H25OSR	200.1776	200.3178
+C05761	Tetradecanoyl-[acp]; Tetradecanoyl-[acyl-carrier protein]; Myristoyl-[acyl-carrier protein]	C14H27OSR	200.1776	200.3178
+C05762	3-Oxohexadecanoyl-[acp]; 3-Oxohexadecanoyl-[acyl-carrier protein]	C16H29O2SR	200.1776	200.3178
+C05763	trans-Hexadec-2-enoyl-[acp]; trans-Hexadec-2-enoyl-[acyl-carrier protein]; (2E)-Hexadecenoyl-[acp]	C16H29OSR	200.1776	200.3178
+C05764	Hexadecanoyl-[acp]; Hexadecanoyl-[acyl-carrier protein]; Palmitoyl-[acyl-carrier protein]	C16H31OSR	200.1776	200.3178
+C06423	Octanoic acid; Caprylic acid; Octylic acid	C8H16O2	144.115	144.2114
+C06424	Tetradecanoic acid; Tetradecanoate; Myristic acid	C14H28O2	228.2089	228.3709
+C08362	(9Z)-Hexadecenoic acid; Palmitoleic acid; cis-9-Hexadecenoic acid; (9Z)-Hexadec-9-enoate	C16H30O2	254.2246	254.4082
+C16219	3-Oxostearoyl-[acp]; 3-Oxooctadecanoyl-[acp]; beta-Ketostearoyl-[acp]; 3-Ketostearoyl-[acp]	C18H33O2SR	254.2246	254.4082
+C16220	(R)-3-Hydroxyoctadecanoyl-[acp]; (R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]; (R)-3-Hydroxystearoyl-[acp]; (R)-3-Hydroxystearoyl-[acyl-carrier protein]	C18H35O2SR	254.2246	254.4082
+C16221	(2E)-Octadecenoyl-[acp]; trans-Octadec-2-enoyl-[acp]	C18H33OSR	254.2246	254.4082
+C16520	Hexadecenoyl-[acyl-carrier protein]; (9Z)-Hexadec-9-enoyl-[acyl-carrier protein]	C16H29OSR	254.2246	254.4082
+C20794	n-7 Unsaturated acyl-[acyl-carrier protein]; omega-7 Fatty acyl-[acyl-carrier protein]	C10H17OSR(C2H4)n	254.2246	254.4082

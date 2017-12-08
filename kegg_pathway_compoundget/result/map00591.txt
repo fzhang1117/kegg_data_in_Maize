@@ -1,0 +1,29 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00157	Phosphatidylcholine; Lecithin; Phosphatidyl-N-trimethylethanolamine; 1,2-Diacyl-sn-glycero-3-phosphocholine; Choline phosphatide; 3-sn-Phosphatidylcholine	C10H18NO8PR2	-	-
+C00219	Arachidonate; Arachidonic acid; (5Z,8Z,11Z,14Z)-Icosatetraenoic acid; cis-5,8,11,14-Eicosatetraenoic acid	C20H32O2	304.2402	304.4669
+C01595	Linoleate; Linoleic acid; (9Z,12Z)-Octadecadienoic acid; 9-cis,12-cis-Octadecadienoate; 9-cis,12-cis-Octadecadienoic acid	C18H32O2	280.2402	280.4455
+C03242	(8Z,11Z,14Z)-Icosatrienoic acid; Dihomo-gamma-linolenic acid; (Z,Z,Z)-8,11,14-Eicosatrienoic acid; (Z,Z,Z)-8,11,14-Icosatrienoic acid; (Z,Z,Z)-8,11,14-Eicosatrienoate; (Z,Z,Z)-8,11,14-Icosatrienoate; 8,11,14-Eicosatrienoate; 8,11,14-Icosatrienoate	C20H34O2	306.2559	306.4828
+C04056	9-cis,11-trans-Octadecadienoate; (9Z,11E)-Octadecadienoic acid	C18H32O2	280.2402	280.4455
+C04717	(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid; (9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoate; 13(S)-HPODE; 13S-Hydroperoxy-9Z,11E-octadecadienoic acid	C18H32O4	312.2301	312.4443
+C06426	(6Z,9Z,12Z)-Octadecatrienoic acid; 6,9,12-Octadecatrienoic acid; gamma-Linolenic acid; Gamolenic acid	C18H30O2	278.2246	278.4296
+C07289	Crepenynate; (9Z)-Octadec-9-en-12-ynoate; (Z)-9-Octadecen-12-ynoic acid; Crepenynic acid	C18H30O2	278.2246	278.4296
+C07338	(9Z,12Z)-(11S)-11-Hydroperoxyoctadeca-9,12-dienoic acid; (9Z,12Z)-(11S)-11-Hydroperoxyoctadeca-9,12-dienoate	C18H32O4	312.2301	312.4443
+C07354	(7S,8S)-DiHODE; (9Z,12Z)-(7S,8S)-Dihydroxyoctadeca-9,12-dienoic acid; (7S,8S,9Z,12Z)-7,8-Dihydroxyoctadeca-9,12-dienoate	C18H32O4	312.2301	312.4443
+C14762	13(S)-HODE; (13S)-Hydroxyoctadecadienoic acid; (9Z,11E)-(13S)-13-Hydroxyoctadeca-9,11-dienoic acid	C18H32O3	296.2351	296.4449
+C14765	13-OxoODE; 13-KODE; (9Z,11E)-13-Oxooctadeca-9,11-dienoic acid	C18H30O3	294.2195	294.429
+C14766	9-OxoODE; 9-KODE; (10E,12Z)-9-Oxooctadeca-10,12-dienoic acid	C18H30O3	294.2195	294.429
+C14767	9(S)-HODE; (9S)-Hydroxyoctadecadienoic acid; (10E,12Z)-(9S)-9-Hydroxyoctadeca-10,12-dienoic acid	C18H32O3	296.2351	296.4449
+C14825	9(10)-EpOME; (9R,10S)-(12Z)-9,10-Epoxyoctadecenoic acid	C18H32O3	296.2351	296.4449
+C14826	12(13)-EpOME; (12R,13S)-(9Z)-12,13-Epoxyoctadecenoic acid	C18H32O3	296.2351	296.4449
+C14827	9(S)-HPODE; 9(S)-HPOD; (10E,12Z)-(9S)-9-Hydroperoxyoctadeca-10,12-dienoic acid; (9S,10E,12Z)-9-Hydroperoxy-10,12-octadecadienoate	C18H32O4	312.2301	312.4443
+C14828	9,10-DHOME; 9,10-DHOA; (12Z)-9,10-Dihydroxyoctadec-12-enoic acid	C18H34O4	314.2457	314.4602
+C14829	12,13-DHOME; 12,13-DHOA; (9Z)-12,13-Dihydroxyoctadec-9-enoic acid	C18H34O4	314.2457	314.4602
+C14831	8(R)-HPODE; (9Z,12Z)-(8R)-8-Hydroperoxyoctadeca-9,12-dienoic acid; (8R,9Z,12Z)-8-Hydroperoxyoctadeca-9,12-dienoate	C18H32O4	312.2301	312.4443
+C14832	12,13-Epoxy-9-hydroxy-10-octadecenoate; 12(R),13(S)-Epoxy-9(S)-hydroxy-10(E)-octadecenoic acid; (10E)-(9S,12R,13S)-12,13-Epoxy-9-hydroxyoctadec-10-enoic acid	C18H32O4	312.2301	312.4443
+C14833	9,12,13-TriHOME; 9(S),12(S),13(S)-Trihydroxy-10(E)-octadecenoic acid; (10E)-(9S,12S,13S)-9,12,13-Trihydroxyoctadec-10-enoic acid	C18H34O5	330.2406	330.4596
+C14834	9,10-Epoxy-13-hydroxy-11-octadecenoate; (11E)-9,10-Epoxyoctadecenoic acid	C18H32O4	312.2301	312.4443
+C14835	9,10,13-TriHOME; 9,10,13-Trihydroxyoctadec-11-enoic acid; (11E)-9,10,13-Trihydroxyoctadec-11-enoic acid	C18H34O5	330.2406	330.4596
+C14836	9,10-12,13-Diepoxyoctadecanoate; 9,10-12,13-Diepoxyoctadecanoic acid	C18H32O4	312.2301	312.4443
+C14837	9,10-Dihydroxy-12,13-epoxyoctadecanoate; 9,10-Dihydroxy-12,13-epoxyoctadecanoic acid	C18H34O5	330.2406	330.4596
+C19937	(8E,10R,12Z)-10-Hydroperoxy-8,12-octadecadienoate	C18H32O4	312.2301	312.4443
+C20186	5S,8R-DiHODE; (5S,8R)-DiHODE; (5S,8R,9Z,12Z)-5,8-Dihydroxyoctadeca-9,12-dienoate	C18H32O4	312.2301	312.4443

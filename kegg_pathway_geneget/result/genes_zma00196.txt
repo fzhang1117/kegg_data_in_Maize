@@ -1,0 +1,30 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100281791	GRMZM2G092311	Zm00001d015385	K08907	-	chlorophyll a-b binding protein 6A
+100283212	GRMZM2G036880	-	K08907	-	chlorophyll a-b binding protein 6A
+100273427	GRMZM2G117412	Zm00001d005814	K08908	-	Photosystem I chlorophyll a/b-binding protein 6 chloroplastic
+100191715	GRMZM2G038519	Zm00001d006663	K08908	-	chlorophyll a-b binding protein
+100282512	GRMZM2G072280	Zm00001d021906	K08908	-	chlorophyll a-b binding protein
+100282214	GRMZM2G010884	Zm00001d046786	K08909	-	chlorophyll a-b binding protein 8
+100284001	GRMZM2G153184	-	K08910	-	uncharacterized LOC100284001
+100280410	GRMZM2G160268	Zm00001d050403	K08910	-	chlorophyll a-b binding protein 4
+100281795	GRMZM2G103101	Zm00001d018157	K08911	-	light harvesting complex a/b protein4
+100281248	-	-	K08912	-	chlorophyll a-b binding protein 2
+100282054	GRMZM2G104549	-	K08912	-	chlorophyll a-b binding protein 2
+542530	GRMZM2G155216	Zm00001d009589	K08912	-	light harvesting chlorophyll a/b binding protein 3
+100274453	GRMZM2G351977	Zm00001d011285	K08912	-	light harvesting chlorophyll a/b binding protein1
+103651575	GRMZM2G120619	Zm00001d044396	K08912	-	chlorophyll a-b binding protein of LHCII type 1
+103651577	-	Zm00001d044401	K08912	-	chlorophyll a-b binding protein of LHCII type 1-like
+103651578	GRMZM2G104549	Zm00001d044402	K08912	-	chlorophyll a-b binding protein of LHCII type 1-like
+100193833	GRMZM2G402936	Zm00001d039040	K08912	-	light harvesting complex mesophyll 7
+100281879	GRMZM2G414192	Zm00001d033132	K08913	-	chlorophyll a-b binding protein
+103643653	GRMZM2G018627	Zm00001d033136	K08913	-	chlorophyll a-b binding protein, chloroplastic
+100284154	GRMZM2G057281	-	K08914	-	chlorophyll a-b binding protein of LHCII type III
+100216729	-	Zm00001d006587	K08915	-	Chlorophyll a-b binding protein CP29.1 chloroplastic
+542478	GRMZM2G033885	Zm00001d021763	K08915	-	photosystem II subunit29
+542320	-	Zm00001d048998	K08916	-	chlorophyll a/b-binding apoprotein CP26 precursor
+542716	GRMZM2G149428	Zm00001d007267	K08916	-	light harvesting chlorophyll a/b binding protein 5
+100273752	GRMZM2G039996	Zm00001d001857	K08917	-	uncharacterized LOC100273752
+100282021	-	Zm00001d032051	K08917	-	chlorophyll a-b binding protein CP24
+542321	GRMZM2G092427	Zm00001d026599	K08917	-	light harvesting chlorophyll a/b binding protein 6
+109944964	-	Zm00001d040012	K08917	-	chlorophyll a-b binding protein CP24 10B, chloroplastic-like
+100274085	GRMZM2G131489	Zm00001d020002	K14172	-	Chlorophyll A-B binding family protein

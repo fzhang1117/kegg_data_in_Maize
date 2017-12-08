@@ -1,0 +1,5 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00426	Dermatan sulfate	(C14H18NO11R3)n	-	-
+C00573	Keratan sulfate; Kerato sulfate; Keratan 6'-sulfate; Keratan; Kerato 6'-sulfate	(C28H46N2O29S3)n	-	-
+C00634	Chondroitin 4-sulfate; Chondroitin sulfate A; Chondroitin 4'-sulfate	(C14H21NO14S)n	-	-
+C00925	Heparan sulfate; Heparitin sulfate; Heparin sulfate; Heparin monosulfate	(C12H15NO10(R1)(R2)3)n	-	-

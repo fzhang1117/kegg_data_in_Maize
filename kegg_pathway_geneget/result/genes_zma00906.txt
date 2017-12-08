@@ -1,0 +1,49 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+542686	GRMZM2G149317	Zm00001d012394	K02291	EC2.5.1.99 2.5.1.32	phytoene synthase 2
+100136882	GRMZM2G300348	Zm00001d036345	K02291	EC2.5.1.99 2.5.1.32	yellow endosperm 1
+109940986	-	Zm00001d021410	K02291	EC2.5.1.99 2.5.1.32	phytoene synthase 2, chloroplastic-like
+542329	GRMZM2G410515	-	K02293	EC1.3.5.5	phytoene desaturase
+103650644	-	-	K02293	EC1.3.5.5	phytoene dehydrogenase, chloroplastic/chromoplastic-like
+103633372	GRMZM2G357734	-	K02293	EC1.3.5.5	phytoene dehydrogenase, chloroplastic/chromoplastic-like
+100194203	GRMZM2G011746	Zm00001d023655	K15744	EC5.2.1.12	15-cis-zeta-carotene isomerase, chloroplastic
+542604	GRMZM2G454928	Zm00001d019124	K00514	EC1.3.5.6	zeta carotene desaturase candidate
+100281747	GRMZM2G108457	Zm00001d052932	K09835	EC5.2.1.13	carotenoid isomerase
+100281663	GRMZM2G106531	-	K09835	EC5.2.1.13	carotenoid isomerase 2
+100383002	GRMZM5G849107	Zm00001d015651	K06443	EC5.5.1.19	pink scutellum 1
+100280448	-	-	K06444	EC5.5.1.18	lycopene epsilon cyclase 1
+103631225	GRMZM2G090051	Zm00001d027443	K15746	EC1.14.13.129	beta-carotene 3-hydroxylase, chloroplastic
+732775	GRMZM2G164318	Zm00001d002589	K15746	EC1.14.13.129	beta-carotene hydroxylase
+732825	GRMZM2G152135	Zm00001d026056	K15746	EC1.14.13.129	beta-carotene hydroxylase
+100281693	GRMZM2G382534	Zm00001d048469	K15746	EC1.14.13.129	beta-carotene hydroxylase
+100273156	-	-	K15746	EC1.14.13.129	uncharacterized LOC100273156
+103627895	GRMZM5G837869	Zm00001d018488	K15747	EC1.14.-.-	protein LUTEIN DEFICIENT 5, chloroplastic
+103637620	GRMZM2G143202	-	K09837	EC1.14.99.45	carotene epsilon-monooxygenase, chloroplastic
+100285076	GRMZM2G127139	Zm00001d003512	K09838	EC1.14.15.21	zeaxanthin epoxidase
+103641704	GRMZM2G136344	Zm00001d025544	K09838	EC1.14.15.21	zeaxanthin epoxidase, chloroplastic
+100281366	GRMZM2G027219	Zm00001d004021	K09839	EC1.23.5.1	violaxanthin de-epoxidase
+732819	GRMZM2G014392	Zm00001d033222	K09840	EC1.13.11.51	viviparous14
+100281391	GRMZM2G417954	Zm00001d018819	K09840	EC1.13.11.51	viviparous-14
+100281136	GRMZM5G858784	Zm00001d041319	K09840	EC1.13.11.51	viviparous-14
+103648268	GRMZM2G408158	Zm00001d007876	K09840	EC1.13.11.51	9-cis-epoxycarotenoid dioxygenase 1, chloroplastic-like
+103652265	-	Zm00001d042076	K09840	EC1.13.11.51	9-cis-epoxycarotenoid dioxygenase 1, chloroplastic-like
+103626043	GRMZM5G838285	Zm00001d013689	K09840	EC1.13.11.51	9-cis-epoxycarotenoid dioxygenase 1, chloroplastic-like
+103632443	-	Zm00001d019813	K09840	EC1.13.11.51	9-cis-epoxycarotenoid dioxygenase 1, chloroplastic-like
+103642321	-	Zm00001d023690	K09840	EC1.13.11.51	9-cis-epoxycarotenoid dioxygenase 1, chloroplastic
+103634160	-	-	K09840	EC1.13.11.51	9-cis-epoxycarotenoid dioxygenase 1, chloroplastic-like
+103634451	GRMZM2G330848	-	K09840	EC1.13.11.51	9-cis-epoxycarotenoid dioxygenase 1, chloroplastic
+100383768	-	Zm00001d033377	K09840	EC1.13.11.51	uncharacterized LOC100383768
+103627610	GRMZM2G150363	Zm00001d017766	K09840	EC1.13.11.51	zeaxanthin 7,8(7',8')-cleavage dioxygenase, chromoplastic
+100501454	GRMZM2G110192	Zm00001d051556	K09840	EC1.13.11.51	nine-cis-epoxycarotenoid dioxygenase6
+100501444	GRMZM2G407181	-	K09840	EC1.13.11.51	9-cis-epoxycarotenoid dioxygenase 1, chloroplastic-like
+100282128	GRMZM2G332976	Zm00001d013015	K09841	EC1.1.1.288	short chain alcohol dehydrogenase 1
+103631977	GRMZM2G044469	-	K09842	EC1.2.3.14	indole-3-acetaldehyde oxidase-like
+100384384	GRMZM2G326250	Zm00001d019376	K09842	EC1.2.3.14	uncharacterized LOC100384384
+103647484	GRMZM2G002142	-	K09843	EC1.14.13.93	abscisic acid 8'-hydroxylase 3
+103653298	GRMZM2G105954	Zm00001d050021	K09843	EC1.14.13.93	abscisic acid 8'-hydroxylase 3-like
+100274595	GRMZM2G126505	Zm00001d051554	K09843	EC1.14.13.93	putative cytochrome P450 superfamily protein
+100191697	GRMZM2G065928	Zm00001d020717	K09843	EC1.14.13.93	abscisic acid 8'-hydroxylase4
+100383693	GRMZM2G179147	Zm00001d017762	K09843	EC1.14.13.93	putative cytochrome P450 superfamily protein
+103648116	GRMZM2G158175	Zm00001d007549	K17911	EC5.2.1.14	beta-carotene isomerase D27, chloroplastic-like
+100277925	GRMZM2G116461	Zm00001d007560	K17911	EC5.2.1.14	uncharacterized LOC100277925
+100502521	GRMZM2G158657	-	K17912	EC1.13.11.68	carotenoid cleavage dioxygenase
+100502522	GRMZM2G446858	Zm00001d043442	K17913	EC1.13.11.70 1.13.11.69	carotenoid cleavage dioxygenase

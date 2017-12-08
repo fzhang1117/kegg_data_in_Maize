@@ -1,0 +1,48 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00025	L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate	C5H9NO4	147.0532	147.1293
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00119	5-Phospho-alpha-D-ribose 1-diphosphate; 5-Phosphoribosyl diphosphate; 5-Phosphoribosyl 1-pyrophosphate; PRPP	C5H13O14P3	389.9518	390.0696
+C00135	L-Histidine; (S)-alpha-Amino-1H-imidazole-4-propionic acid	C6H9N3O2	155.0695	155.1546
+C00386	Carnosine; Nalpha-(beta-alanyl)-L-histidine	C9H14N4O3	226.1066	226.2325
+C00388	Histamine; 1H-Imidazole-4-ethanamine; 2-(4-Imidazolyl)ethylamine	C5H9N3	111.0796	111.1451
+C00439	N-Formimino-L-glutamate; N-Formimidoyl-L-glutamate	C6H10N2O4	174.0641	174.1546
+C00785	Urocanate; Urocanic acid	C6H6N2O2	138.0429	138.124
+C00860	L-Histidinol	C6H11N3O	141.0902	141.171
+C01044	N-Formyl-L-aspartate	C5H7NO5	161.0324	161.1128
+C01045	N-Formyl-L-glutamate	C6H9NO5	175.0481	175.1394
+C01100	L-Histidinol phosphate	C6H12N3O4P	221.0565	221.1509
+C01152	N(pi)-Methyl-L-histidine; N-pros-Methyl-L-histidine; 3-Methylhistidine; 1-Methylhistidine	C7H11N3O2	169.0851	169.1811
+C01262	beta-Alanyl-N(pi)-methyl-L-histidine; Anserine	C10H16N4O3	240.1222	240.259
+C01267	3-(Imidazol-4-yl)-2-oxopropyl phosphate; Imidazole-acetol phosphate	C6H9N2O5P	220.0249	220.1198
+C01929	L-Histidinal	C6H9N3O	139.0746	139.1552
+C02739	1-(5-Phospho-D-ribosyl)-ATP; Phosphoribosyl-ATP; N1-(5-Phospho-D-ribosyl)-ATP; 1-(5-Phosphoribosyl)-ATP; 1-(5-Phospho-beta-D-ribosyl)-ATP	C15H25N5O20P4	719.0043	719.2755
+C02741	Phosphoribosyl-AMP; N1-(5-Phospho-D-ribosyl)-AMP; 1-(5-Phosphoribosyl)-AMP; 1-(5-Phospho-beta-D-ribosyl)-AMP	C15H23N5O14P2	559.0717	559.3157
+C02835	Imidazole-4-acetate; Imidazoleacetic acid; 4-Imidazoleacetate	C5H6N2O2	126.0429	126.1133
+C03277	Imidazol-5-yl-pyruvate; 3-(Imidazol-5-yl)pyruvate; Imidazole pyruvate; Imidazole pyruvic acid	C6H6N2O3	154.0378	154.1234
+C03409	N-Formimino-L-aspartate; N-Formimidoyl-L-aspartate	C5H8N2O4	160.0484	160.128
+C03680	4-Imidazolone-5-propanoate; 4-Imidazolone-5-propionic acid; 4,5-Dihydro-4-oxo-5-imidazolepropanoate	C6H8N2O3	156.0535	156.1393
+C04437	1-(5-Phosphoribosyl)imidazole-4-acetate	C10H15N2O9P	338.0515	338.2079
+C04666	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate; D-erythro-Imidazole-glycerol 3-phosphate; D-erythro-Imidazole-glycerol phosphate	C6H11N2O6P	238.0355	238.1351
+C04677	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide; 5'-Phosphoribosyl-5-amino-4-imidazolecarboxamide; 5'-Phospho-ribosyl-5-amino-4-imidazole carboxamide; AICAR; 5-Aminoimidazole-4-carboxamide ribotide; 5-Phosphoribosyl-4-carbamoyl-5-aminoimidazole; 5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	C9H15N4O8P	338.0628	338.2112
+C04896	5-(5-Phospho-D-ribosylaminoformimino)-1-(5-phosphoribosyl)-imidazole-4-carboxamide; N-(5'-Phospho-D-ribosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide; N-(5'-Phosphoribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4-imidazolecarboxamide; Phosphoribosyl-formimino-AICAR-phosphate; 1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide; 1-(5-Phospho-beta-D-ribosyl)-5-[(5-phospho-beta-D-ribosylamino)methylideneamino]imidazole-4-carboxamide	C15H25N5O15P2	577.0822	577.331
+C04916	N-(5'-Phospho-D-1'-ribulosylformimino)-5-amino-1-(5''-phospho-D-ribosyl)-4-imidazolecarboxamide; 5-[(5-Phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide; Phosphoribulosyl-formimino-AICAR-phosphate; 5-[(5-Phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamide	C15H25N5O15P2	577.0822	577.331
+C05127	N-Methylhistamine; 1-Methylhistamine; 1-Methyl-4-(2-aminoethyl)imidazole; Ntau-Methylhistamine	C6H11N3	125.0953	125.1716
+C05130	Imidazole-4-acetaldehyde; Imidazole acetaldehyde	C5H6N2O	110.048	110.1139
+C05131	(1-Ribosylimidazole)-4-acetate	C10H14N2O6	258.0852	258.228
+C05133	4-Imidazolone-5-acetate; Imidazolone acetate; (5-Hydroxyimidazole)-4-acetate; 5-Hydroxy-4-imidazoleacetate	C5H6N2O3	142.0378	142.1127
+C05135	4-(beta-Acetylaminoethyl)imidazole; N-Acetylhistamine	C7H11N3O	153.0902	153.1817
+C05565	Hydantoin-5-propionate; Hydantoin-propionate	C6H8N2O4	172.0484	172.1387
+C05568	Imidazole lactate; Imidazole lactic acid; 2-Hydroxy-3-(1H-imidazol-5-yl)-propanoic acid	C6H8N2O3	156.0535	156.1393
+C05570	Ergothioneine	C9H16N3O2S	230.0963	230.3072
+C05571	Thiourocanic acid	C6H6N2O2S	170.015	170.189
+C05572	4-Oxoglutaramate; 4-Ketoglutaramate	C5H7NO4	145.0375	145.1134
+C05575	Hercynine; Nalpha,Nalpha,Nalpha-Trimethyl-L-histidine	C9H16N3O2	198.1243	198.2422
+C05827	Methylimidazole acetaldehyde; 1-Methylimidazole-4-acetaldehyde; Methylimidazoleacetaldehyde	C6H8N2O	124.0637	124.1405
+C05828	Methylimidazoleacetic acid; Tele-methylimidazoleacetic acid; 1-Methyl-4-imidazoleacetic acid; 1-Methylimidazole-4-acetate; Methylimidazoleacetate	C6H8N2O2	140.0586	140.1399
+C05829	N-Carbamyl-L-glutamate; Carglumic acid	C6H10N2O5	190.059	190.154
+C16673	Isoglutamine; 4,5-Diamino-5-oxopentanoic acid; DL-Isoglutamine	C5H10N2O3	146.0691	146.1445
+C16674	Formylisoglutamine; DL-Formylisoglutamine	C6H10N2O4	174.0641	174.1546
+C20522	Dihydrourocanate; Deaminohistidine; 3-(1H-Imidazol-4-yl)propanoate	C6H8N2O2	140.0586	140.1399
+C20994	S-(Hercyn-2-yl)-L-cysteine S-oxide	C12H21N4O5S	333.1233	333.3839
+C20995	gamma-L-Glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide	C17H28N5O8S	462.1659	462.4979

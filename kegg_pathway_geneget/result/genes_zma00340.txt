@@ -1,0 +1,29 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100193253	GRMZM2G068862	Zm00001d020908	K00765	EC2.4.2.17	ATP phosphoribosyltransferase 2 chloroplastic
+100284200	GRMZM2G082214	Zm00001d008238	K11755	EC3.5.4.19 3.6.1.31	histidine biosynthesis bifunctional protein hisIE
+100284229	GRMZM2G022252	Zm00001d038142	K01814	EC5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase chloroplastic
+100286090	GRMZM2G036543	Zm00001d029548	K01814	EC5.3.1.16	uncharacterized LOC100286090
+103645686	GRMZM2G017299	-	K01663	EC4.1.3.- 2.4.2.-	imidazole glycerol phosphate synthase hisHF, chloroplastic
+100501537	-	-	K01663	EC4.1.3.- 2.4.2.-	Rho GTPase activation protein (RhoGAP) with PH domain
+103640234	-	Zm00001d047084	K01663	EC4.1.3.- 2.4.2.-	uncharacterized LOC103640234
+103628484	-	Zm00001d016012	K01663	EC4.1.3.- 2.4.2.-	imidazole glycerol phosphate synthase hisHF, chloroplastic-like
+103631363	-	Zm00001d037287	K01663	EC4.1.3.- 2.4.2.-	imidazole glycerol phosphate synthase hisHF, chloroplastic-like
+100194281	GRMZM2G094255	Zm00001d002296	K01693	EC4.2.1.19	Imidazoleglycerol-phosphate dehydratase 1 chloroplastic
+100191987	GRMZM2G170595	Zm00001d017802	K00817	EC2.6.1.9	histidinol-phosphate aminotransferase
+100280816	GRMZM2G029731	Zm00001d008310	K18649	EC3.1.3.15 3.1.3.93 3.1.3.25	inositol-1-monophosphatase
+103638278	-	-	K18649	EC3.1.3.15 3.1.3.93 3.1.3.25	bifunctional phosphatase IMPL2, chloroplastic-like
+100284964	GRMZM2G058584	Zm00001d034343	K00013	EC1.1.1.23	uncharacterized LOC100284964
+103627258	GRMZM2G451314	Zm00001d016720	K01590	EC4.1.1.22	histidine decarboxylase-like
+103653609	-	Zm00001d050694	K01590	EC4.1.1.22	serine decarboxylase 1
+100281700	GRMZM2G060800	Zm00001d000116	K00128	EC1.2.1.3	aldehyde dehydrogenase, dimeric NADP-preferring
+732806	GRMZM2G058675	Zm00001d045706	K00128	EC1.2.1.3	restorer of fertility 2
+100284774	GRMZM2G155502	Zm00001d025958	K00128	EC1.2.1.3	aldehyde dehydrogenase 3B1
+100382449	GRMZM2G118800	Zm00001d004731	K00128	EC1.2.1.3	Aldehyde dehydrogenase
+542567	GRMZM2G125268	Zm00001d051754	K00128	EC1.2.1.3	aldehyde dehydrogenase 2
+100285809	GRMZM2G103546	Zm00001d023580	K00128	EC1.2.1.3	aldehyde dehydrogenase, dimeric NADP-preferring
+100280692	GRMZM2G169458	Zm00001d017418	K00128	EC1.2.1.3	uncharacterized LOC100280692
+103646581	-	Zm00001d003983	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1
+100282748	GRMZM2G130440	Zm00001d005818	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1
+103641646	-	Zm00001d025417	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1-like
+103653517	-	Zm00001d050495	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1-like
+103634912	-	Zm00001d008814	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1-like

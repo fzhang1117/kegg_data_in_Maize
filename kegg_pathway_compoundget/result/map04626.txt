@@ -1,0 +1,6 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00027	Hydrogen peroxide; H2O2; Oxydol	H2O2	34.0055	34.0147
+C00076	Calcium cation; Ca2+; Calcium(2+); Calcium ion	Ca	39.9626	40.078
+C00533	Nitric oxide; NO; Nitrogen monoxide	NO	29.998	30.0061
+C00704	O2.-; Superoxide anion; O2-	O2	31.9898	31.9988
+C16844	Hydroxyl radical; Hydrogen oxide	OH	17.0027	17.0073

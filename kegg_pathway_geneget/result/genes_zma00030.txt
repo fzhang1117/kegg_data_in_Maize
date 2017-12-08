@@ -1,0 +1,78 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100281592	GRMZM2G140614	Zm00001d020771	K01810	EC5.3.1.9	glucose-6-phosphate isomerase
+100382805	GRMZM2G076075	Zm00001d005925	K01810	EC5.3.1.9	Glucose-6-phosphate isomerase 1 chloroplastic
+542313	GRMZM2G065083	Zm00001d034256	K01810	EC5.3.1.9	phosphohexose isomerase 1
+100284317	GRMZM2G130230	Zm00001d003252	K00036	EC1.1.1.363 1.1.1.49	glucose-6-phosphate 1-dehydrogenase, cytoplasmic isoform
+100383421	GRMZM2G031107	Zm00001d017119	K00036	EC1.1.1.363 1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+100383765	-	-	K00036	EC1.1.1.363 1.1.1.49	glucose-6-phosphate 1-dehydrogenase
+100304292	GRMZM2G056099	-	K00036	EC1.1.1.363 1.1.1.49	glucose-6-phosphate 1-dehydrogenase
+100279290	GRMZM2G177077	Zm00001d025015	K00036	EC1.1.1.363 1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+100285593	GRMZM2G122126	-	K01057	EC3.1.1.31	6-phosphogluconolactonase
+100285062	GRMZM2G136918	Zm00001d022077	K01057	EC3.1.1.31	putative 6-phosphogluconolactonase 1
+100285843	GRMZM2G148769	Zm00001d006185	K01057	EC3.1.1.31	6-phosphogluconolactonase
+100282975	GRMZM2G074946	Zm00001d029525	K01057	EC3.1.1.31	putative 6-phosphogluconolactonase 1
+100856973	GRMZM2G440208	Zm00001d049187	K00033	EC1.1.1.343 1.1.1.44	6-phosphogluconate dehydrogenase, decarboxylating
+541699	GRMZM2G145715	Zm00001d042184	K00033	EC1.1.1.343 1.1.1.44	NADPH producing dehydrogenase of the oxidative pentose phosphate pathway
+541700	GRMZM2G127798	Zm00001d035925	K00033	EC1.1.1.343 1.1.1.44	6-phosphogluconate dehydrogenase 2
+100283478	GRMZM2G083102	Zm00001d021050	K01783	EC5.1.3.1	ribulose-phosphate 3-epimerase
+100282201	GRMZM2G178960	Zm00001d048324	K01783	EC5.1.3.1	ribulose-phosphate 3-epimerase
+100274365	GRMZM2G026807	Zm00001d027841	K01783	EC5.1.3.1	Ribulose-phosphate 3-epimerase
+103646666	GRMZM2G010494	Zm00001d004171	K00615	EC2.2.1.1	transketolase, chloroplastic-like
+100279513	GRMZM2G033208	Zm00001d045451	K00615	EC2.2.1.1	uncharacterized LOC100279513
+103640190	-	Zm00001d046962	K00615	EC2.2.1.1	transketolase, chloroplastic-like
+100284307	-	Zm00001d042282	K00616	EC2.2.1.2	transaldolase 2
+100192890	GRMZM2G139550	Zm00001d049560	K00616	EC2.2.1.2	Aldolase superfamily protein
+100284080	GRMZM2G134256	Zm00001d011965	K00616	EC2.2.1.2	Aldolase-type TIM barrel family protein
+100285676	GRMZM2G104070	Zm00001d030701	K01807	EC5.3.1.6	ribose-5-phosphate isomerase
+100284771	GRMZM2G456086	-	K01807	EC5.3.1.6	uncharacterized LOC100284771
+100285298	GRMZM5G874903	Zm00001d013135	K01807	EC5.3.1.6	ribose-5-phosphate isomerase
+100284292	GRMZM5G891282	Zm00001d052482	K01807	EC5.3.1.6	ribose-5-phosphate isomerase
+100283465	GRMZM2G035599	-	K01807	EC5.3.1.6	ribose-5-phosphate isomerase
+103655139	-	-	K01807	EC5.3.1.6	probable ribose-5-phosphate isomerase 2
+103626247	-	-	K01807	EC5.3.1.6	probable ribose-5-phosphate isomerase 2
+100283183	GRMZM2G007630	Zm00001d011526	K00852	EC2.7.1.15	ribokinase
+542358	GRMZM2G023289	Zm00001d033746	K01835	EC5.4.2.2	phosphoglucomutase 2
+542721	GRMZM2G109383	Zm00001d013428	K01835	EC5.4.2.2	phosphoglucomutase 1
+103651489	GRMZM2G025854	Zm00001d044211	K01835	EC5.4.2.2	phosphoglucomutase, chloroplastic
+103631243	-	Zm00001d036664	K01835	EC5.4.2.2	phosphoglucomutase, cytoplasmic 2-like
+103631244	GRMZM2G519811	Zm00001d036666	K01835	EC5.4.2.2	phosphoglucomutase, cytoplasmic 2-like
+100272744	GRMZM2G038791	Zm00001d015115	K00948	EC2.7.6.1	EC synthetase
+100279628	GRMZM2G180863	Zm00001d046742	K00948	EC2.7.6.1	Ribose-phosphate pyrophosphokinase
+542583	GRMZM2G035268	Zm00001d050428	K00131	EC1.2.1.9	glyceraldehyde-3-phosphate deHaseN1
+100382228	GRMZM2G300258	Zm00001d050155	K00851	EC2.7.1.12	P-loop containing nucleoside triphosphate hydrolase superfamily protein
+103644539	-	Zm00001d028395	K01623	EC4.1.2.13	fructose-bisphosphate aldolase 3, chloroplastic-like
+100286050	GRMZM2G089365	Zm00001d040084	K01623	EC4.1.2.13	fructose-bisphosphate aldolase
+100272845	GRMZM2G155253	Zm00001d053015	K01623	EC4.1.2.13	Fructose-bisphosphate aldolase
+103648726	-	Zm00001d003968	K01623	EC4.1.2.13	fructose-bisphosphate aldolase 3, chloroplastic-like
+100273196	GRMZM2G046284	Zm00001d023559	K01623	EC4.1.2.13	Fructose-bisphosphate aldolase
+542261	GRMZM2G057823	Zm00001d042453	K01623	EC4.1.2.13	aldolase 1
+100274515	GRMZM2G345493	-	K01623	EC4.1.2.13	uncharacterized LOC100274515
+100272913	GRMZM2G066024	Zm00001d012103	K01623	EC4.1.2.13	fructose-bisphosphate aldolase cytoplasmic isozyme
+103653043	-	-	K01623	EC4.1.2.13	fructose-bisphosphate aldolase 3, chloroplastic-like
+100502020	GRMZM2G069195	Zm00001d008491	K01623	EC4.1.2.13	fructose-bisphosphate aldolase 3, chloroplastic
+103653987	-	Zm00001d051622	K01623	EC4.1.2.13	fructose-bisphosphate aldolase 3, chloroplastic-like
+100284739	GRMZM2G322953	Zm00001d010172	K03841	EC3.1.3.11	fructose-1,6-bisphosphatase, cytosolic
+100273700	GRMZM5G836250	Zm00001d042727	K03841	EC3.1.3.11	uncharacterized LOC100273700
+100216767	GRMZM2G306732	Zm00001d028562	K03841	EC3.1.3.11	Fructose-1,6-bisphosphatase
+100281068	GRMZM2G095287	Zm00001d046942	K03841	EC3.1.3.11	fructose-1,6-bisphosphatase
+103631224	-	Zm00001d036552	K03841	EC3.1.3.11	fructose-1,6-bisphosphatase, cytosolic-like
+100281464	GRMZM5G879882	Zm00001d043563	K00850	EC2.7.1.11	6-phosphofructokinase
+100280694	GRMZM2G009591	Zm00001d033002	K00850	EC2.7.1.11	pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+103647427	GRMZM2G127717	Zm00001d005756	K00850	EC2.7.1.11	ATP-dependent 6-phosphofructokinase 5, chloroplastic
+100279231	GRMZM2G139360	Zm00001d032172	K00850	EC2.7.1.11	ATP-dependent 6-phosphofructokinase 5 chloroplastic
+100285548	GRMZM2G443985	Zm00001d045326	K00850	EC2.7.1.11	6-phosphofructokinase
+100192478	GRMZM2G080375	Zm00001d008816	K00850	EC2.7.1.11	ATP-dependent 6-phosphofructokinase 4 chloroplastic
+100281688	-	Zm00001d010375	K00850	EC2.7.1.11	6-phosphofructokinase 2
+100191982	-	Zm00001d025659	K00850	EC2.7.1.11	ATP-dependent 6-phosphofructokinase 2
+100281585	-	-	K00850	EC2.7.1.11	6-phosphofructokinase 2
+103629493	GRMZM5G816636	Zm00001d036206	K00850	EC2.7.1.11	ATP-dependent 6-phosphofructokinase 7
+103630633	GRMZM2G004932	Zm00001d038775	K00850	EC2.7.1.11	ATP-dependent 6-phosphofructokinase 6
+103630144	GRMZM2G401970	Zm00001d037910	K00850	EC2.7.1.11	ATP-dependent 6-phosphofructokinase 6
+100193340	GRMZM2G123371	Zm00001d017830	K00895	EC2.7.1.90	uncharacterized LOC100193340
+100382182	GRMZM2G059151	Zm00001d037278	K00895	EC2.7.1.90	ppi-phosphofructokinase
+100191851	GRMZM2G450163	Zm00001d032386	K00895	EC2.7.1.90	uncharacterized LOC100191851
+100282190	-	Zm00001d044754	K00895	EC2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta 2
+100280449	GRMZM2G042502	Zm00001d051629	K00895	EC2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha 2
+101027252	GRMZM2G314094	Zm00001d045919	K00895	EC2.7.1.90	pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha
+103632535	GRMZM2G409131	-	K00895	EC2.7.1.90	pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha
+103652493	-	Zm00001d043564	K00895	EC2.7.1.90	pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit alpha-like

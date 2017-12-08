@@ -1,0 +1,33 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100274017	GRMZM5G860137	Zm00001d008432	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 2
+100282283	GRMZM5G866758	Zm00001d029416	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+101202696	GRMZM2G085474	Zm00001d031212	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+103640265	GRMZM5G830250	Zm00001d047224	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+100191282	GRMZM2G106250	Zm00001d012590	K00074	EC1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+100381655	GRMZM2G098875	Zm00001d047981	K01580	EC4.1.1.15	Glutamate decarboxylase 1
+100273302	GRMZM2G355906	Zm00001d003522	K01580	EC4.1.1.15	Pyridoxal phosphate (PLP)-dependent transferase superfamily protein
+100284551	GRMZM2G101069	Zm00001d003531	K01580	EC4.1.1.15	Glutamate decarboxylase
+100284394	GRMZM2G017110	Zm00001d031749	K01580	EC4.1.1.15	glutamate decarboxylase
+100191549	GRMZM5G826838	Zm00001d033805	K01580	EC4.1.1.15	Glutamate decarboxylase 1
+103645944	GRMZM5G817886	Zm00001d002326	K16871	EC2.6.1.96	gamma-aminobutyrate transaminase 1, mitochondrial
+100286148	GRMZM2G108125	Zm00001d026293	K16871	EC2.6.1.96	aminotransferase y4uB
+100282236	GRMZM2G093900	Zm00001d049380	K16871	EC2.6.1.96	aminotransferase y4uB
+103626684	GRMZM2G346693	Zm00001d015445	K16871	EC2.6.1.96	probable gamma-aminobutyrate transaminase 3, mitochondrial
+103631410	-	Zm00001d037507	K16871	EC2.6.1.96	probable gamma-aminobutyrate transaminase 3, mitochondrial
+103632117	-	Zm00001d019161	K16871	EC2.6.1.96	gamma-aminobutyrate transaminase 1, mitochondrial-like
+103626685	-	Zm00001d015444	K16871	EC2.6.1.96	probable gamma-aminobutyrate transaminase 3, mitochondrial
+100280779	GRMZM2G128114	Zm00001d015404	K17761	EC1.2.1.24	succinate semialdehyde dehydrogenase
+100284047	GRMZM2G119482	Zm00001d053776	K17761	EC1.2.1.24	succinate semialdehyde dehydrogenase
+100282207	GRMZM2G153984	Zm00001d050810	K18121	EC1.1.1.- 1.1.1.79	2-hydroxy-3-oxopropionate reductase
+103651518	GRMZM5G848696	Zm00001d044267	K18121	EC1.1.1.- 1.1.1.79	glyoxylate/succinic semialdehyde reductase 2, chloroplastic
+103647599	-	Zm00001d006166	K01641	EC2.3.3.10	hydroxymethylglutaryl-CoA synthase
+100272824	-	Zm00001d021201	K01641	EC2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+100384769	GRMZM2G087207	Zm00001d027383	K01641	EC2.3.3.10	putative hydroxymethylglutaryl-CoA synthase family protein
+100285783	GRMZM2G106263	Zm00001d048494	K01641	EC2.3.3.10	hydroxymethylglutaryl-CoA synthase
+100193689	GRMZM2G175071	Zm00001d008271	K01640	EC4.1.3.4	hydroxymethylglutaryl-CoA lyase
+100283677	GRMZM2G095141	Zm00001d052444	K01640	EC4.1.3.4	uncharacterized LOC100283677
+100274341	GRMZM2G143357	Zm00001d050567	K01652	EC2.2.1.6	Acetolactate synthase 2, chloroplastic
+100285396	GRMZM2G143008	Zm00001d016572	K01652	EC2.2.1.6	acetolactate synthase 1
+100279727	GRMZM2G077215	Zm00001d007288	K01653	EC2.2.1.6	uncharacterized LOC100279727
+100284799	GRMZM2G407044	Zm00001d051043	K01653	EC2.2.1.6	acetolactate synthase/ amino acid binding protein
+100381801	GRMZM2G007647	Zm00001d017168	K01653	EC2.2.1.6	Acetolactate synthase small subunit 1 chloroplastic

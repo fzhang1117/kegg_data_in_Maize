@@ -1,0 +1,107 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00083	Malonyl-CoA; Malonyl coenzyme A	C24H38N7O19P3S	853.1156	853.5803
+C00136	Butanoyl-CoA; Butyryl-CoA	C25H42N7O17P3S	837.1571	837.624
+C00154	Palmitoyl-CoA; Hexadecanoyl-CoA	C37H66N7O17P3S	1005.3449	1005.9429
+C00229	Acyl-carrier protein; ACP; [Acyl-carrier protein]; Holo-[acyl-carrier protein]	HSR	1005.3449	1005.9429
+C00249	Hexadecanoic acid; Hexadecanoate; Hexadecylic acid; Palmitic acid; Palmitate; Cetylic acid	C16H32O2	256.2402	256.4241
+C00332	Acetoacetyl-CoA; Acetoacetyl coenzyme A; 3-Acetoacetyl-CoA	C25H40N7O18P3S	851.1363	851.6075
+C00412	Stearoyl-CoA; Stearyl-CoA; Stearyl coenzyme A	C39H70N7O17P3S	1033.3762	1033.9961
+C00510	Oleoyl-CoA; (9Z)-Octadecenoyl-CoA	C39H68N7O17P3S	1031.3605	1031.9802
+C00877	Crotonoyl-CoA; Crotonyl-CoA; 2-Butenoyl-CoA; trans-But-2-enoyl-CoA; But-2-enoyl-CoA; (E)-But-2-enoyl-CoA	C25H40N7O17P3S	835.1414	835.6081
+C01144	(S)-3-Hydroxybutanoyl-CoA; (S)-3-Hydroxybutyryl-CoA	C25H42N7O18P3S	853.152	853.6234
+C01203	Oleoyl-[acyl-carrier protein]; Octadecenoyl-[acyl-carrier protein]; Octadecenoyl-[acp]	C18H33OSR	853.152	853.6234
+C01209	Malonyl-[acyl-carrier protein]; Malonyl-[acp]	C3H3O3SR	853.152	853.6234
+C01832	Lauroyl-CoA; Lauroyl coenzyme A; Dodecanoyl-CoA	C33H58N7O17P3S	949.2823	949.8366
+C01944	Octanoyl-CoA	C29H50N7O17P3S	893.2197	893.7303
+C02041	Eicosanoyl-CoA; Icosanoyl-CoA; Arachidoyl-CoA	C41H74N7O17P3S	1061.4075	1062.0492
+C02050	Linoleoyl-CoA; (9Z,12Z)-Octadecadienoyl-CoA	C39H66N7O17P3S	1029.3449	1029.9643
+C02249	Arachidonyl-CoA; Arachidonoyl-CoA; (5Z,8Z,11Z,14Z)-Icosatetraenoyl-CoA	C41H66N7O17P3S	1053.3449	1053.9857
+C02593	Tetradecanoyl-CoA; Myristoyl-CoA	C35H62N7O17P3S	977.3136	977.8898
+C02990	L-Palmitoylcarnitine	C23H45NO4	399.3349	399.6077
+C03035	gamma-Linolenoyl-CoA	C39H64N7O17P3S	1027.3292	1027.9484
+C03221	2-trans-Dodecenoyl-CoA; (2E)-Dodec-2-enoyl-CoA; (2E)-Dodecenoyl-CoA	C33H56N7O17P3S	947.2666	947.8207
+C03595	8,11,14-Eicosatrienoyl-CoA; 8,11,14-Icosatrienoyl-CoA; (8Z,11Z,14Z)-Icosatrienoyl-CoA; (8Z,11Z,14Z)-Icosa-8,11,14-trienoyl-CoA	C41H68N7O17P3S	1055.3605	1056.0016
+C03939	Acetyl-[acyl-carrier protein]	C2H3OSR	1055.3605	1056.0016
+C04088	Octadecanoyl-[acyl-carrier protein]; Stearoyl-[acyl-carrier protein]	C18H35OSR	1055.3605	1056.0016
+C04246	But-2-enoyl-[acyl-carrier protein]	C4H5OSR	1055.3605	1056.0016
+C04618	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]; (R)-3-Hydroxybutanoyl-[acyl-carrier protein]	C4H7O2SR	1055.3605	1056.0016
+C04619	(3R)-3-Hydroxydecanoyl-[acyl-carrier protein]; (R)-3-Hydroxydecanoyl-[acyl-carrier protein]	C10H19O2SR	1055.3605	1056.0016
+C04620	(3R)-3-Hydroxyoctanoyl-[acyl-carrier protein]; (R)-3-Hydroxyoctanoyl-[acyl-carrier protein]	C8H15O2SR	1055.3605	1056.0016
+C04633	(3R)-3-Hydroxypalmitoyl-[acyl-carrier protein]; (R)-3-Hydroxypalmitoyl-[acyl-carrier protein]; (3R)-3-Hydroxyhexadecanoyl-[acyl-carrier protein]; (R)-3-Hydroxyhexadecanoyl-[acyl-carrier protein]	C16H31O2SR	1055.3605	1056.0016
+C04688	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]; (R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]; beta-Hydroxymyristyl-[acyl-carrier protein]; HMA	C14H27O2SR	1055.3605	1056.0016
+C05223	Dodecanoyl-[acyl-carrier protein]; Dodecanoyl-[acp]; Lauroyl-[acyl-carrier protein]	C12H23OSR	1055.3605	1056.0016
+C05258	(S)-3-Hydroxyhexadecanoyl-CoA	C37H66N7O18P3S	1021.3398	1021.9423
+C05259	3-Oxopalmitoyl-CoA; 3-Ketopalmitoyl-CoA; 3-Oxohexadecanoyl-CoA	C37H64N7O18P3S	1019.3241	1019.9264
+C05260	(S)-3-Hydroxytetradecanoyl-CoA	C35H62N7O18P3S	993.3085	993.8892
+C05261	3-Oxotetradecanoyl-CoA	C35H60N7O18P3S	991.2928	991.8733
+C05262	(S)-3-Hydroxydodecanoyl-CoA	C33H58N7O18P3S	965.2772	965.836
+C05263	3-Oxododecanoyl-CoA	C33H56N7O18P3S	963.2615	963.8201
+C05264	(S)-Hydroxydecanoyl-CoA; (S)-3-Hydroxydecanoyl-CoA	C31H54N7O18P3S	937.2459	937.7828
+C05265	3-Oxodecanoyl-CoA	C31H52N7O18P3S	935.2302	935.767
+C05266	(S)-3-Hydroxyoctanoyl-CoA; (S)-3-Hydroxycapryloyl-CoA; (S)-Hydroxyoctanoyl-CoA	C29H50N7O18P3S	909.2146	909.7297
+C05267	3-Oxooctanoyl-CoA	C29H48N7O18P3S	907.1989	907.7138
+C05268	(S)-Hydroxyhexanoyl-CoA; (S)-3-Hydroxyhexanoyl-CoA	C27H46N7O18P3S	881.1833	881.6765
+C05269	3-Oxohexanoyl-CoA; 3-Ketohexanoyl-CoA	C27H44N7O18P3S	879.1676	879.6606
+C05270	Hexanoyl-CoA	C27H46N7O17P3S	865.1884	865.6771
+C05271	trans-Hex-2-enoyl-CoA; (2E)-Hexenoyl-CoA	C27H44N7O17P3S	863.1727	863.6612
+C05272	trans-Hexadec-2-enoyl-CoA; trans-2-Hexadecenoyl-CoA; (2E)-Hexadecenoyl-CoA	C37H64N7O17P3S	1003.3292	1003.927
+C05273	trans-Tetradec-2-enoyl-CoA; (2E)-Tetradecenoyl-CoA	C35H60N7O17P3S	975.2979	975.8739
+C05274	Decanoyl-CoA	C31H54N7O17P3S	921.251	921.7834
+C05275	trans-Dec-2-enoyl-CoA; (2E)-Decenoyl-CoA	C31H52N7O17P3S	919.2353	919.7676
+C05276	trans-Oct-2-enoyl-CoA; (2E)-Octenoyl-CoA	C29H48N7O17P3S	891.204	891.7144
+C05744	Acetoacetyl-[acp]; Acetoacetyl-[acyl-carrier protein]	C4H5O2SR	891.204	891.7144
+C05745	Butyryl-[acp]; Butyryl-[acyl-carrier protein]; Butanoyl-[acp]	C4H7OSR	891.204	891.7144
+C05746	3-Oxohexanoyl-[acp]; 3-Oxohexanoyl-[acyl-carrier protein]	C6H9O2SR	891.204	891.7144
+C05747	(R)-3-Hydroxyhexanoyl-[acp]; (R)-3-Hydroxyhexanoyl-[acyl-carrier protein]; D-3-Hydroxyhexanoyl-[acp]; D-3-Hydroxyhexanoyl-[acyl-carrier protein]	C6H11O2SR	891.204	891.7144
+C05748	trans-Hex-2-enoyl-[acp]; trans-Hex-2-enoyl-[acyl-carrier protein]; (2E)-Hexenoyl-[acp]	C6H9OSR	891.204	891.7144
+C05749	Hexanoyl-[acp]; Hexanoyl-[acyl-carrier protein]	C6H11OSR	891.204	891.7144
+C05750	3-Oxooctanoyl-[acp]; 3-Oxooctanoyl-[acyl-carrier protein]	C8H13O2SR	891.204	891.7144
+C05751	trans-Oct-2-enoyl-[acp]; trans-Oct-2-enoyl-[acyl-carrier protein]; Oct-2-enoyl-[acyl-carrier protein]; 2-Octenoyl-[acyl-carrier protein]; (2E)-Octenoyl-[acp]	C8H13OSR	891.204	891.7144
+C05752	Octanoyl-[acp]; Octanoyl-[acyl-carrier protein]	C8H15OSR	891.204	891.7144
+C05753	3-Oxodecanoyl-[acp]; 3-Oxodecanoyl-[acyl-carrier protein]	C10H17O2SR	891.204	891.7144
+C05754	trans-Dec-2-enoyl-[acp]; trans-Dec-2-enoyl-[acyl-carrier protein]; trans-2-Decenoyl-[acyl-carrier protein]; (2E)-Decenoyl-[acp]	C10H17OSR	891.204	891.7144
+C05755	Decanoyl-[acp]; Decanoyl-[acyl-carrier protein]	C10H19OSR	891.204	891.7144
+C05756	3-Oxododecanoyl-[acp]; 3-Oxododecanoyl-[acyl-carrier protein]	C12H21O2SR	891.204	891.7144
+C05757	(R)-3-Hydroxydodecanoyl-[acp]; (R)-3-Hydroxydodecanoyl-[acyl-carrier protein]; D-3-Hydroxydodecanoyl-[acp]; D-3-Hydroxydodecanoyl-[acyl-carrier protein]	C12H23O2SR	891.204	891.7144
+C05758	trans-Dodec-2-enoyl-[acp]; trans-Dodec-2-enoyl-[acyl-carrier protein]; (2E)-Dodecenoyl-[acp]	C12H21OSR	891.204	891.7144
+C05759	3-Oxotetradecanoyl-[acp]; 3-Oxotetradecanoyl-[acyl-carrier protein]	C14H25O2SR	891.204	891.7144
+C05760	trans-Tetradec-2-enoyl-[acp]; trans-Tetradec-2-enoyl-[acyl-carrier protein]; (2E)-Tetradecenoyl-[acp]	C14H25OSR	891.204	891.7144
+C05761	Tetradecanoyl-[acp]; Tetradecanoyl-[acyl-carrier protein]; Myristoyl-[acyl-carrier protein]	C14H27OSR	891.204	891.7144
+C05762	3-Oxohexadecanoyl-[acp]; 3-Oxohexadecanoyl-[acyl-carrier protein]	C16H29O2SR	891.204	891.7144
+C05763	trans-Hexadec-2-enoyl-[acp]; trans-Hexadec-2-enoyl-[acyl-carrier protein]; (2E)-Hexadecenoyl-[acp]	C16H29OSR	891.204	891.7144
+C05764	Hexadecanoyl-[acp]; Hexadecanoyl-[acyl-carrier protein]; Palmitoyl-[acyl-carrier protein]	C16H31OSR	891.204	891.7144
+C16160	Linoleoyl-[acyl-carrier protein]; Linoleoyl-ACP; (9Z,12Z)-Octadecadienoyl-[acyl-carrier protein]; (9Z,12Z)-Octadecadienoyl-ACP	C18H31OSR	891.204	891.7144
+C16161	alpha-Linolenoyl-ACP; alpha-Linolenoyl-[acyl-carrier protein]; (9Z,12Z,15Z)-Octadecatrienoyl-ACP; (9Z,12Z,15Z)-Octadecatrienoyl-[acyl-carrier protein]	C18H29OSR	891.204	891.7144
+C16162	(9Z,12Z,15Z)-Octadecatrienoyl-CoA; alpha-Linolenoyl-CoA	C39H64N7O17P3S	1027.3292	1027.9484
+C16163	(6Z,9Z,12Z,15Z)-Octadecatetraenoyl-CoA; Stearidonoyl-CoA	C39H62N7O17P3S	1025.3136	1025.9326
+C16164	(8Z,11Z,14Z,17Z)-Icosatetraenoyl-CoA; (8Z,11Z,14Z,17Z)-Icosa-8,11,14,17-tetraenoyl-CoA	C41H66N7O17P3S	1053.3449	1053.9857
+C16165	(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoyl-CoA; (5Z,8Z,11Z,14Z,17Z)-Icosa-5,8,11,14,17-pentaenoyl-CoA	C41H64N7O17P3S	1051.3292	1051.9698
+C16166	(7Z,10Z,13Z,16Z,19Z)-Docosapentaenoyl-CoA	C43H68N7O17P3S	1079.3605	1080.023
+C16167	(9Z,12Z,15Z,18Z,21Z)-Tetracosapentaenoyl-CoA	C45H72N7O17P3S	1107.3918	1108.0762
+C16168	(6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahexaenoyl-CoA	C45H70N7O17P3S	1105.3762	1106.0603
+C16169	(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoyl-CoA	C43H66N7O17P3S	1077.3449	1078.0071
+C16170	(7Z,10Z,13Z,16Z)-Docosatetraenoyl-CoA	C43H70N7O17P3S	1081.3762	1082.0389
+C16171	(9Z,12Z,15Z,18Z)-Tetracosatetraenoyl-CoA	C45H74N7O17P3S	1109.4075	1110.092
+C16172	(6Z,9Z,12Z,15Z,18Z)-Tetracosapentaenoyl-CoA	C45H72N7O17P3S	1107.3918	1108.0762
+C16173	(4Z,7Z,10Z,13Z,16Z)-Docosapentaenoyl-CoA	C43H68N7O17P3S	1079.3605	1080.023
+C16179	(11Z,14Z,17Z)-Icosatrienoyl-CoA; (11Z,14Z,17Z)-Icosa-11,14,17-trienoyl-CoA	C41H68N7O17P3S	1055.3605	1056.0016
+C16180	(11Z,14Z)-Icosadienoyl-CoA; (11Z,14Z)-Icosa-11,14-dienoyl-CoA	C41H70N7O17P3S	1057.3762	1058.0175
+C16216	3-Oxostearoyl-CoA; 3-Oxooctadecanoyl-CoA; beta-Ketostearoyl-CoA; 3-Ketostearoyl-CoA	C39H68N7O18P3S	1047.3554	1047.9796
+C16217	3-Hydroxyoctadecanoyl-CoA; 3-Hydroxystearoyl-CoA; beta-Hydroxystearoyl-CoA	C39H70N7O18P3S	1049.3711	1049.9955
+C16218	(2E)-Octadecenoyl-CoA; trans-Octadec-2-enoyl-CoA	C39H68N7O17P3S	1031.3605	1031.9802
+C16219	3-Oxostearoyl-[acp]; 3-Oxooctadecanoyl-[acp]; beta-Ketostearoyl-[acp]; 3-Ketostearoyl-[acp]	C18H33O2SR	1031.3605	1031.9802
+C16220	(R)-3-Hydroxyoctadecanoyl-[acp]; (R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]; (R)-3-Hydroxystearoyl-[acp]; (R)-3-Hydroxystearoyl-[acyl-carrier protein]	C18H35O2SR	1031.3605	1031.9802
+C16221	(2E)-Octadecenoyl-[acp]; trans-Octadec-2-enoyl-[acp]	C18H33OSR	1031.3605	1031.9802
+C16374	(2E,6Z,9Z,12Z,15Z,18Z,21Z)-Tetracosahepta-2,6,9,12,15,18,21-enoyl-CoA	C45H68N7O17P3S	1103.3605	1104.0444
+C16375	(6Z,9Z,12Z,15Z,18Z,21Z)-3-Hydroxytetracosahexa-6,9,12,15,18,21-enoyl-CoA	C45H70N7O18P3S	1121.3711	1122.0597
+C16376	(6Z,9Z,12Z,15Z,18Z,21Z)-3-Oxotetracosahexa-6,9,12,15,18,21-enoyl-CoA	C45H68N7O18P3S	1119.3554	1120.0438
+C16387	(2E,6Z,9Z,12Z,15Z,18Z)-Tetracosahexa-2,6,9,12,15,18-enoyl-CoA	C45H70N7O17P3S	1105.3762	1106.0603
+C16388	(6Z,9Z,12Z,15Z,18Z)-3-Hydroxytetracosapenta-6,9,12,15,18-enoyl-CoA	C45H72N7O18P3S	1123.3867	1124.0756
+C16389	(6Z,9Z,12Z,15Z,18Z)-3-Oxotetracosapenta-6,9,12,15,18-enoyl-CoA	C45H70N7O18P3S	1121.3711	1122.0597
+C16528	Docosanoyl-CoA; Behenoyl-CoA	C43H78N7O17P3S	1089.4388	1090.1024
+C16529	Tetracosanoyl-CoA; Lignoceroyl-CoA	C45H82N7O17P3S	1117.4701	1118.1556
+C16530	Icosenoyl-CoA; Eicosenoyl-CoA; (11Z)-Icosenoyl-CoA; (11Z)-Eicosenoyl-CoA	C41H72N7O17P3S	1059.3918	1060.0334
+C16531	Docosenoyl-CoA; (13Z)-Docosenoyl-CoA	C43H76N7O17P3S	1087.4231	1088.0865
+C16532	Tetracosenoyl-CoA; Nervonoyl-CoA; (15Z)-Tetracosenoyl-CoA	C45H80N7O17P3S	1115.4544	1116.1397
+C16645	(13Z,16Z)-Docosadi-13,16-enoyl-CoA	C43H74N7O17P3S	1085.4075	1086.0706

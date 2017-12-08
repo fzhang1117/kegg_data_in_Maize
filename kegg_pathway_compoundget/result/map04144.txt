@@ -1,0 +1,7 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00035	GDP; Guanosine 5'-diphosphate; Guanosine diphosphate	C10H15N5O11P2	443.0243	443.2005
+C00044	GTP; Guanosine 5'-triphosphate	C10H16N5O14P3	522.9907	523.1804
+C04549	1-Phosphatidyl-1D-myo-inositol 3-phosphate; 1,2-Diacyl-sn-glycero-3-phospho-(1'-myo-inositol-3'-phosphate)	C11H18O16P2R2	522.9907	523.1804
+C04637	1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate; 1-Phosphatidyl-1D-myo-inositol 4,5-bisphosphate; Phosphatidyl-myo-inositol 4,5-bisphosphate; Phosphatidylinositol-4,5-bisphosphate; 1,2-Diacyl-sn-glycero-3-phospho-(1'-myo-inositol-4',5'-bisphosphate)	C11H19O19P3R2	522.9907	523.1804
+C05981	Phosphatidylinositol-3,4,5-trisphosphate; 1-Phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate; 1,2-Diacyl-sn-glycero-3-phospho-(1'-myo-inositol-3',4',5'-bisphosphate)	C11H20O22P4R2	522.9907	523.1804
+C11556	1-Phosphatidyl-1D-myo-inositol 3,5-bisphosphate; 1,2-Diacyl-sn-glycero-3-phospho-(1'-myo-inositol-3',5'-bisphosphate)	C11H19O19P3R2	522.9907	523.1804

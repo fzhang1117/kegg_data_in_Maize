@@ -1,0 +1,70 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00223	p-Coumaroyl-CoA; 4-Coumaroyl-CoA; 4-Hydroxycinnamoyl-CoA	C30H42N7O18P3S	913.152	913.6769
+C00323	Caffeoyl-CoA; (2E)-3-(3,4-Dihydroxyphenyl)prop-2-enoyl-CoA	C30H42N7O19P3S	929.1469	929.6763
+C00389	Quercetin; 3,3',4,5,7-Pentahydroxyflavone; 3,5,7,3',4'-Pentahydroxyflavone	C15H10O7	302.0427	302.2357
+C00406	Feruloyl-CoA; trans-Feruloyl-CoA	C31H44N7O19P3S	943.1626	943.7028
+C00509	Naringenin; 4',5,7-Trihydroxyflavanone; (2S)-Naringenin; (-)-(2S)-Naringenin	C15H12O5	272.0685	272.2528
+C00540	Cinnamoyl-CoA; S-(Cinnamoyl) coenzyme A	C30H42N7O17P3S	897.1571	897.6775
+C00852	Chlorogenate; Chlorogenic acid; Caffeoyl quinic acid; trans-5-O-Caffeoyl-D-quinate	C16H18O9	354.0951	354.3087
+C00974	Dihydrokaempferol; Aromadendrin; (+)-Dihydrokaempferol; (+)-Aromadendrin	C15H12O6	288.0634	288.2522
+C01378	Fustin; 2,3-Dihydrofisetin	C15H12O6	288.0634	288.2522
+C01460	Vitexin; Apigenin 8-C-glucoside	C21H20O10	432.1056	432.3775
+C01477	Apigenin; 4',5,7-Trihydroxyflavone; 5,7,4'-Trihydroxyflavone	C15H10O5	270.0528	270.2369
+C01514	Luteolin; 3',4',5,7-Tetrahydroxyflavone; 5,7,3',4'-Tetrahydroxyflavone	C15H10O6	286.0477	286.2363
+C01617	Taxifolin; Dihydroquercetin; (+)-Dihydroquercetin; (+)-Taxifolin; trans-Dihydroquercetin	C15H12O7	304.0583	304.2516
+C01709	Hesperetin; 3',5,7-Trihydroxy-4'-methoxyflavanone	C16H14O6	302.079	302.2788
+C02906	Dihydromyricetin; Ampelopsin; (+)-Dihydromyricetin; (+)-Ampelopsin	C15H12O8	320.0532	320.251
+C02947	4-Coumaroylshikimate; trans-5-O-(4-Coumaroyl)shikimate	C16H16O7	320.0896	320.294
+C03648	cis-3,4-Leucopelargonidin	C15H14O6	290.079	290.2681
+C05631	Eriodictyol	C15H12O6	288.0634	288.2522
+C05903	Kaempferol; 3,4',5,7-Tetrahydroxyflavone; 3,5,7-Trihydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one; 5,7,4'-Trihydroxyflavonol; C.I. 75640; Indigo yellow; Kaempherol; Kempferol; Nimbecetin; Pelargidenolon; Populnetin; Rhamnolutein; Rhamnolutin; Robigenin; Swartziol; Trifolitin	C15H10O6	286.0477	286.2363
+C05904	Pelargonidin; 3,5,7-Trihydroxy-2-(4-hydroxyphenyl)benzopyrylium chloride; 3,4',5,7-Tetrahydroxyflavylium chloride; Pelargonidin chloride; Pelargonidol chloride	C15H11O5	271.0606	271.2448
+C05905	Cyanidin; 3,3',4',5,7-Pentahydroxyflavylium chloride; Chlorure de 3,3',4',5,7-pentahydroxyflavylium; 3,3',4',5,7-Pentahydroxyflavyliumchlorid; 2-(3,4-Dihydroxyphenyl)-3,5,7-trihydroxy-1-benzopyrylium chloride; 3,3',4',5,7-Pentahydroxy-2-phenylbenzopyrylium chloride; Cyanidin chloride; Cyanidine; Cyanidol; Cyanidol chloride; IdB 1027	C15H11O6	287.0556	287.2442
+C05906	Leucocyanidin; 2-(3,4-Dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,4,5,7-tetrol; 3,3',4,4',5,7-Flavanhexol; 3,4-Cyanidiol; Leucoanthocyanidol; Leucocianidol; Leucocyanidol; Leukocyanidine; Procyanidol; Resivit; 2,3-trans-3,4-cis-Leucocyanidin	C15H14O7	306.074	306.2675
+C05907	Luteoforol; 3-Deoxyleucocyanidin	C15H14O6	290.079	290.2681
+C05908	Delphinidin; 3,5,7-Trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyrylium chloride; Chlorure de 3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyrylium; 3,5,7-Trihydroxy-2-(3,4,5-trihydroxyphenyl)benzopyryliumchlorid; 3,3',4',5,5',7-Hexahydroxy-2-phenylbenzopyrylium chloride; 3,3',4',5,5',7-Hexahydroxyflavylium chloride; Delfinidol chloride; Delphinidin chloride; Delphinidine; Delphinidol; Ephdine; IdB 1056	C15H11O7	303.0505	303.2436
+C05909	Leucodelphinidin	C15H14O8	322.0689	322.2669
+C05911	Pentahydroxyflavanone; Dihydrotricetin	C15H12O7	304.0583	304.2516
+C06561	Naringenin chalcone; 2',4,4',6'-Tetrahydroxychalcone; Isosalipurpol; Chalconaringenin	C15H12O5	272.0685	272.2528
+C06562	(+)-Catechin; D-Catechin; Cyanidanol; (2R-trans)-2-(3,4-Dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,5,7-triol; (2R,3S)-Catechin; (2R,3S)-(+)-Catechin; Cianidanol	C15H14O6	290.079	290.2681
+C08578	Butein	C15H12O5	272.0685	272.2528
+C08650	Isoliquiritigenin	C15H12O4	256.0736	256.2534
+C09099	Naringenin 7-O-beta-D-glucoside; Prunin	C21H22O10	434.1213	434.3934
+C09320	Afzelechin; 3,5,7,4'-Tetrahydroxyflavan	C15H14O5	274.0841	274.2687
+C09614	Butin; (-)-Butin; 7,3',4'-Trihydroxyflavanone	C15H12O5	272.0685	272.2528
+C09727	(-)-Epicatechin	C15H14O6	290.079	290.2681
+C09736	Fisetinidol-4beta-ol; (-)-Mollisacacidin; Fisetinin-3,4-diol; 5-Deoxyleucocyanidin	C15H14O6	290.079	290.2681
+C09751	Garbanzol; 3,7,4'-Trihydroxyflavanone	C15H12O5	272.0685	272.2528
+C09756	Homoeriodictyol; Eriodictyol 3'-methyl ether	C16H14O6	302.079	302.2788
+C09762	Liquiritigenin; 7,4'-Dihydroxyflavanone	C15H12O4	256.0736	256.2534
+C09789	Naringin; Naringenin 7-O-neohesperidoside; Naringenin 7-O-[alpha-L-rhamnosyl-(1->2)-beta-D-glucoside]	C27H32O14	580.1792	580.5346
+C09806	Neohesperidin; Hesperetin 7-O-neohesperidoside	C28H34O15	610.1898	610.5606
+C09826	Pinobanksin; 3,5,7-Trihydroxyflavanone	C15H12O5	272.0685	272.2528
+C09827	Pinocembrin; 5,7-Dihydroxyflavanone	C15H12O4	256.0736	256.2534
+C10028	Chrysin; 5,7-Dihydroxyflavone	C15H10O4	254.0579	254.2375
+C10044	Galangin; 3,5,7-Trihydroxyflavone	C15H10O5	270.0528	270.2369
+C10107	Myricetin; 3,5,7,3',4',5'-Hexahydroxyflavone	C15H10O8	318.0376	318.2351
+C10192	Tricetin; 5,7,3',4',5'-Pentahydroxyflavone	C15H10O7	302.0427	302.2357
+C10434	5-O-Caffeoylshikimic acid	C16H16O8	336.0845	336.2934
+C12123	7,4'-Dihydroxyflavone	C15H10O4	254.0579	254.2375
+C12124	Apiforol	C15H14O5	274.0841	274.2687
+C12127	(+)-Gallocatechin; Gallocatechol	C15H14O7	306.074	306.2675
+C12128	(-)-Epiafzelechin; epi-Afzelechin	C15H14O5	274.0841	274.2687
+C12136	(-)-Epigallocatechin; Epigallocatechol	C15H14O7	306.074	306.2675
+C12208	p-Coumaroyl quinic acid; trans-5-O-(4-Coumaroyl)-D-quinate	C16H18O8	338.1002	338.3093
+C15525	Eriodictyol chalcone; 2',3,4,4',6'-Pentahydroxychalcone	C15H12O6	288.0634	288.2522
+C16404	Pinocembrin chalcone	C15H12O4	256.0736	256.2534
+C16405	Homoeriodictyol chalcone	C16H14O6	302.079	302.2788
+C16406	Phlorizin chalcone; Chalcone 2'-O-glucoside	C21H22O10	434.1213	434.3934
+C16407	2',4,4',6'-Tetrahydroxychalcone 4'-O-glucoside; THC 4'-glucoside; Chalconaringenin 4'-glucoside; 2',4,4',6'-Tetrahydroxychalcone 4'-O-beta-D-glucoside	C21H22O10	434.1213	434.3934
+C16408	2',3,4,4',6'-Peptahydroxychalcone 4'-O-glucoside; PHC 4'-O-glucoside; 2',3,4,4',6'-Pentahydroxychalcone 4'-O-beta-D-glucoside	C21H22O11	450.1162	450.3928
+C16409	Aureusidin 6-O-glucoside; Aureusidin 6-O-beta-D-glucoside	C21H20O11	448.1006	448.3769
+C16410	Bracteatin 6-O-glucoside; Bracteatin 6-O-beta-D-glucoside	C21H20O12	464.0955	464.3763
+C16415	5-Deoxyleucopelargonidin	C15H14O5	274.0841	274.2687
+C16416	Desmethylxanthohumol	C20H20O5	340.1311	340.3698
+C16417	Xanthohumol	C21H22O5	354.1467	354.3964
+C16418	Pinobanksin 3-O-acetate	C17H14O6	314.079	314.2895
+C16419	Pinostrobin	C16H14O4	270.0892	270.28
+C16422	Hesperetin 7-O-glucoside	C22H24O11	464.1319	464.4194
+C16492	8-C-Glucosylnaringenin	C21H22O10	434.1213	434.3934
+C21492	4'-O-Methylxanthohumol	C22H24O5	368.1624	368.423

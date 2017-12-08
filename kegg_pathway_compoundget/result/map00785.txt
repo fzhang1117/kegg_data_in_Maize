@@ -1,0 +1,7 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C05752	Octanoyl-[acp]; Octanoyl-[acyl-carrier protein]	C8H15OSR	-	-
+C16236	Protein N6-(octanoyl)lysine	C8H16NOR	-	-
+C16237	Protein N6-(lipoyl)lysine; [Lipoyl-carrier protein]-N6-(lipoyl)lysine	C8H14NOS2R	-	-
+C16238	Lipoyl-AMP	C18H26N5O8PS2	535.096	535.5315
+C16239	Lipoyl-[acp]; Lipoyl-[acyl carrier protein]; Lipoyl-ACP	C8H13OS3R	535.096	535.5315
+C16241	(R)-Lipoate; (R)-Lipoic acid; (R)-(+)-Lipoate; R-(+)-Lipoic acid; 1,2-Dithiolane-3R-pentanoic acid	C8H14O2S2	206.0435	206.3256

@@ -1,0 +1,175 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100384700	GRMZM2G083689	Zm00001d029133	K12882	-	nuclear cap-binding protein subunit 1
+100280855	GRMZM2G034804	Zm00001d051065	K12883	-	Nuclear cap-binding protein subunit 2
+100283725	GRMZM2G052341	Zm00001d017193	K12883	-	uncharacterized LOC100283725
+103646424	GRMZM2G380361	Zm00001d003611	K14328	-	regulator of nonsense transcripts UPF3
+103641667	GRMZM2G139419	Zm00001d025461	K14328	-	regulator of nonsense transcripts UPF3-like
+100283928	GRMZM5G817255	Zm00001d010901	K12876	-	RNA-binding (RRM/RBD/RNP motifs) family protein
+100283893	GRMZM2G072671	Zm00001d034578	K12876	-	RNA-binding protein 8A
+100280761	GRMZM5G803275	Zm00001d024787	K12876	-	RNA-binding protein 8A
+100280575	GRMZM5G847100	Zm00001d049723	K12877	-	uncharacterized LOC100280575
+100279432	GRMZM2G542994	Zm00001d035019	K12877	-	protein mago nashi
+732749	GRMZM2G018947	Zm00001d051840	K13025	EC3.6.4.13	RH2 protein-like
+103627913	GRMZM2G133764	Zm00001d018542	K13025	EC3.6.4.13	DEAD-box ATP-dependent RNA helicase 2
+100381502	GRMZM2G060669	Zm00001d053919	K14324	-	histone deacetylase complex subunit SAP18
+100194333	GRMZM2G064988	Zm00001d015058	K14324	-	histone deacetylase complex subunit SAP18
+100283191	GRMZM5G810275	Zm00001d033646	K13114	-	pinin/SDK/memA/ protein conserved region containing protein
+100191788	GRMZM2G102475	Zm00001d013485	K13114	-	putative pinin_SDK_memA domain family protein
+103635858	GRMZM2G113139	Zm00001d029352	K12875	-	formin-like protein 5
+100381870	GRMZM2G151387	Zm00001d047191	K12875	-	Putative SAP DNA-binding domain family protein isoform 1
+100502129	GRMZM2G427408	Zm00001d022198	K12875	-	SAP domain-containing protein
+103636269	GRMZM2G133926	Zm00001d011828	K14325	-	serine/arginine-rich splicing factor SR45-like
+103650711	GRMZM2G060540	Zm00001d042040	K14325	-	serine/arginine-rich splicing factor SR45-like
+100193488	GRMZM2G140352	Zm00001d019234	K12881	-	THO complex subunit 4B
+100279524	GRMZM2G157329	Zm00001d028655	K12881	-	THO complex subunit 4
+100280157	GRMZM2G171921	Zm00001d050357	K12881	-	THO complex subunit 4C
+100272743	GRMZM2G166780	Zm00001d047794	K12881	-	THO complex subunit 4B
+100280336	GRMZM2G054468	Zm00001d037352	K12881	-	THO complex subunit 4
+100278324	GRMZM2G019251	-	K12881	-	uncharacterized LOC100278324
+100384654	GRMZM2G088218	Zm00001d011149	K12812	EC3.6.4.13	uncharacterized LOC100384654
+100273717	GRMZM5G892645	Zm00001d009761	K12812	EC3.6.4.13	spliceosome RNA helicase BAT1
+100283795	GRMZM2G143655	Zm00001d028513	K14294	-	PYM protein
+100273358	GRMZM2G180558	Zm00001d047876	K14294	-	partner of Y14-MAGO
+109939403	-	-	K13171	-	PWI domain-containing protein C825.05c-like
+100304415	GRMZM2G057646	Zm00001d028579	K13171	-	splicing factor PWI domain-containing protein
+103646942	-	Zm00001d004669	K13917	EC3.6.1.- 2.7.7.50	mRNA-capping enzyme
+100193629	GRMZM2G171410	Zm00001d002961	K00565	EC2.1.1.56	uncharacterized LOC100193629
+100283589	GRMZM2G042398	Zm00001d033708	K00565	EC2.1.1.56	mRNA
+103627789	GRMZM2G130555	-	K00565	EC2.1.1.56	mRNA cap guanine-N7 methyltransferase 2
+100285979	-	Zm00001d037200	K14396	-	polyadenylate-binding protein 2
+100283584	GRMZM2G082198	Zm00001d044869	K14396	-	polyadenylate-binding protein 2
+100194063	GRMZM5G862331	Zm00001d018112	K14396	-	Polyadenylate-binding protein 3
+100282115	GRMZM2G108919	Zm00001d052198	K14396	-	polyadenylate-binding protein 2
+103628586	GRMZM2G030259	-	K14396	-	polyadenylate-binding protein 2
+103638439	GRMZM2G009624	Zm00001d030359	K14396	-	polyadenylate-binding protein 2-like
+103640921	-	Zm00001d023775	K14396	-	polyadenylate-binding protein 3-like
+100282369	GRMZM2G074787	Zm00001d026647	K14397	-	DNA mismatch repair protein MSH3
+100273812	GRMZM2G058966	Zm00001d001787	K14397	-	Pre-mRNA cleavage factor Im 25 kDa subunit 2
+100280946	GRMZM2G118104	Zm00001d050266	K14397	-	cleavage and polyadenylation specificity factor 5
+103641415	GRMZM2G475495	Zm00001d031280	K14398	-	cleavage and polyadenylation specificity factor subunit 6
+103641426	GRMZM2G107163	-	K14398	-	cleavage and polyadenylation specificity factor subunit 6
+100285931	GRMZM5G835810	Zm00001d028920	K14376	EC2.7.7.19	Nuclear poly(A) polymerase 3
+103641974	-	Zm00001d031424	K14376	EC2.7.7.19	nuclear poly(A) polymerase 1
+103646013	GRMZM2G032554	Zm00001d002505	K14376	EC2.7.7.19	nuclear poly(A) polymerase 4
+103643777	GRMZM2G068024	Zm00001d033448	K14376	EC2.7.7.19	nuclear poly(A) polymerase 1
+100382126	GRMZM2G109009	Zm00001d036977	K14376	EC2.7.7.19	uncharacterized LOC100382126
+100274408	GRMZM2G470461	Zm00001d022535	K14376	EC2.7.7.19	Nuclear poly(A) polymerase 3
+100280371	GRMZM2G049329	Zm00001d053559	K14376	EC2.7.7.19	Nuclear poly(A) polymerase 2
+103639211	GRMZM2G051896	Zm00001d047607	K14376	EC2.7.7.19	nuclear poly(A) polymerase 3-like
+100278989	GRMZM6G009976	Zm00001d046255	K14376	EC2.7.7.19	nuclear poly(A) polymerase 4
+109945226	-	Zm00001d044377	K14376	EC2.7.7.19	nuclear poly(A) polymerase 1-like
+100284798	GRMZM2G038588	Zm00001d053591	K14399	EC2.7.1.78	pre-mRNA cleavage complex II protein Clp1
+103647268	GRMZM2G466560	Zm00001d005350	K14400	-	ENTH/VHS family protein
+100280286	GRMZM2G012761	Zm00001d000023	K14400	-	uncharacterized LOC100280286
+103653026	GRMZM2G007734	Zm00001d049442	K14400	-	polyadenylation and cleavage factor homolog 4-like
+103632446	GRMZM2G142168	Zm00001d019856	K14400	-	ENTH/VHS family protein
+103648775	GRMZM2G118697	Zm00001d004153	K14401	-	probable cleavage and polyadenylation specificity factor subunit 1
+100285191	GRMZM2G036050	Zm00001d044552	K14402	-	Cleavage and polyadenylation specificity factor subunit 2
+100285156	GRMZM2G083346	Zm00001d012831	K14403	EC3.1.27.-	cleavage and polyadenylation specificity factor, 73 kDa subunit
+100279987	GRMZM2G422649	Zm00001d034876	K14403	EC3.1.27.-	Cleavage and polyadenylation specificity factor subunit 3-I
+100217067	GRMZM5G885529	Zm00001d043108	K14404	-	hypothetical protein
+103626282	GRMZM2G126197	Zm00001d014378	K14404	-	zinc finger CCCH domain-containing protein 45
+103629640	GRMZM2G049027	Zm00001d036594	K14404	-	zinc finger CCCH domain-containing protein 45
+100381986	GRMZM5G881296	Zm00001d042091	K15542	-	WD repeat-containing protein 33
+100273578	GRMZM2G032260	Zm00001d002504	K14962	-	Set1 complex component swd2
+100285923	GRMZM2G079723	Zm00001d038877	K14962	-	set1 complex component swd2
+100280358	GRMZM2G022120	Zm00001d018642	K14962	-	Transducin/WD40 repeat-like superfamily protein
+100285399	GRMZM2G168752	Zm00001d009430	K14962	-	set1 complex component swd2
+103634267	GRMZM2G160237	Zm00001d028568	K06269	EC3.1.3.16	serine/threonine-protein phosphatase PP1
+103645410	-	-	K06269	EC3.1.3.16	serine/threonine-protein phosphatase PP1-like
+103649451	-	-	K06269	EC3.1.3.16	serine/threonine-protein phosphatase PP1-like
+100216757	GRMZM2G016930	Zm00001d045213	K06269	EC3.1.3.16	putative serine/threonine protein phosphatase superfamily protein
+100191199	GRMZM2G041822	Zm00001d036285	K06269	EC3.1.3.16	putative serine/threonine protein phosphatase superfamily protein
+100272981	GRMZM2G053199	Zm00001d047835	K06269	EC3.1.3.16	Serine/threonine-protein phosphatase PP1 isozyme 2
+542269	GRMZM2G112240	Zm00001d051898	K06269	EC3.1.3.16	ser/thr protein phosphatase 1
+100217163	GRMZM2G470452	Zm00001d032076	K06269	EC3.1.3.16	Serine/threonine-protein phosphatase
+100283013	GRMZM2G390076	Zm00001d018503	K06269	EC3.1.3.16	uncharacterized LOC100283013
+100282306	GRMZM2G120202	Zm00001d009181	K06269	EC3.1.3.16	serine/threonine-protein phosphatase PP1
+100284227	GRMZM5G899390	Zm00001d037601	K06269	EC3.1.3.16	serine/threonine-protein phosphatase PP1
+103635487	GRMZM2G137286	Zm00001d009844	K06269	EC3.1.3.16	serine/threonine-protein phosphatase PP1
+103655836	-	-	K06269	EC3.1.3.16	serine/threonine-protein phosphatase PP1-like
+103627018	-	-	K06269	EC3.1.3.16	serine/threonine-protein phosphatase PP1-like
+109943262	-	-	K06269	EC3.1.3.16	uncharacterized LOC109943262
+100273452	GRMZM2G006806	Zm00001d041884	K15544	EC3.1.3.16	Ssu72-like family protein
+100192488	GRMZM2G024051	Zm00001d034054	K14406	-	Cleavage stimulation factor subunit 50
+100304208	GRMZM2G096480	Zm00001d053041	K14407	-	Cleavage stimulating factor 64
+100272317	GRMZM2G174919	Zm00001d004779	K14407	-	ribosomal protein L7
+100278777	-	Zm00001d038093	K14408	-	uncharacterized LOC100278777
+103651305	GRMZM2G466139	Zm00001d043775	K06100	-	hypothetical protein
+103633605	GRMZM2G086937	Zm00001d022586	K06100	-	symplekin
+100280293	GRMZM2G167505	Zm00001d014058	K14411	-	Heterogeneous nuclear ribonucleoprotein 1
+103647784	GRMZM2G014400	Zm00001d006704	K14411	-	heterogeneous nuclear ribonucleoprotein 1
+103645636	GRMZM2G456186	Zm00001d034200	K14411	-	heterogeneous nuclear ribonucleoprotein 1
+103645637	GRMZM2G430461	-	K14411	-	heterogeneous nuclear ribonucleoprotein 1
+100193201	GRMZM2G060977	Zm00001d011885	K14411	-	heterogeneous nuclear ribonucleoprotein 27C
+100279976	GRMZM2G022313	Zm00001d021950	K14411	-	RNA-binding (RRM/RBD/RNP motifs) family protein
+100382683	-	Zm00001d032739	K14411	-	Heterogeneous nuclear ribonucleoprotein 1
+100216861	GRMZM2G162954	Zm00001d019086	K14411	-	RNA-binding (RRM/RBD/RNP motifs) family protein
+100285224	GRMZM2G030902	Zm00001d042133	K14411	-	heterogeneous nuclear ribonucleoprotein 27C
+100192067	GRMZM2G042343	Zm00001d007839	K14411	-	Ribonucleoprotein like protein
+103631917	GRMZM2G006071	Zm00001d018730	K14411	-	DAZ-associated protein 1
+103632085	GRMZM2G013065	Zm00001d019079	K14411	-	heterogeneous nuclear ribonucleoprotein 1
+100383296	GRMZM2G346701	Zm00001d019084	K14411	-	uncharacterized LOC100383296
+100285420	GRMZM2G352129	Zm00001d003106	K13126	-	uncharacterized LOC100285420
+100282980	GRMZM2G143870	Zm00001d019898	K13126	-	plastid-specific 30S ribosomal protein 2
+100381794	not found	not found	K13126	-	not found
+100383542	GRMZM2G055018	Zm00001d046487	K13126	-	uncharacterized LOC100383542
+100381531	-	Zm00001d019824	K13126	-	Polyadenylate-binding protein 2
+103641822	GRMZM2G013619	Zm00001d025801	K13126	-	polyadenylate-binding protein 2
+103639307	GRMZM2G412075	Zm00001d047790	K13126	-	polyadenylate-binding protein 7
+100285172	GRMZM2G452026	Zm00001d013481	K03265	-	eukaryotic peptide chain release factor subunit 1-1
+100281195	GRMZM2G045720	Zm00001d037868	K03265	-	eukaryotic peptide chain release factor subunit 1-1
+100272775	GRMZM2G090274	Zm00001d006725	K03265	-	eukaryotic peptide chain release factor subunit 1-1
+103646667	GRMZM2G028313	Zm00001d004172	K03267	-	eukaryotic peptide chain release factor GTP-binding subunit ERF3A
+100384492	GRMZM5G801457	Zm00001d025100	K03267	-	eukaryotic peptide chain release factor GTP-binding subunit ERF3A
+103638036	-	Zm00001d045252	K14326	EC3.6.4.-	regulator of nonsense transcripts 1 homolog
+103625702	-	Zm00001d012802	K14326	EC3.6.4.-	regulator of nonsense transcripts 1 homolog
+103627442	GRMZM2G042173	Zm00001d017303	K14327	-	regulator of nonsense transcripts UPF2-like
+103643975	GRMZM2G033135	Zm00001d033935	K08873	EC2.7.11.1	serine/threonine-protein kinase SMG1
+100278146	GRMZM2G018775	Zm00001d005502	K14409	-	Protein SMG7
+100283820	GRMZM2G382077	Zm00001d032989	K04382	EC3.1.3.16	PP2Ac-4 - Phosphatase 2A isoform 4 belonging to family 2
+100191189	GRMZM2G420926	Zm00001d048336	K04382	EC3.1.3.16	Serine/threonine-protein phosphatase
+100282302	GRMZM2G108355	Zm00001d013047	K04382	EC3.1.3.16	Serine/threonine-protein phosphatase
+100191902	GRMZM2G133464	Zm00001d016378	K04382	EC3.1.3.16	Serine/threonine-protein phosphatase
+100272765	GRMZM2G119546	Zm00001d046369	K04382	EC3.1.3.16	putative serine/threonine protein phosphatase superfamily protein
+100273101	GRMZM2G038195	Zm00001d053589	K04382	EC3.1.3.16	putative serine/threonine protein phosphatase superfamily protein
+100282834	GRMZM2G112793	Zm00001d027826	K04382	EC3.1.3.16	PP2Ac-5 - Phosphatase 2A isoform 5 belonging to family 2
+100381284	GRMZM2G062394	Zm00001d034517	K04382	EC3.1.3.16	putative serine/threonine protein phosphatase superfamily protein
+100272642	-	Zm00001d036949	K04382	EC3.1.3.16	uncharacterized LOC100272642
+103644573	-	Zm00001d028604	K04382	EC3.1.3.16	serine/threonine-protein phosphatase PP1 isozyme 1-like
+732740	GRMZM2G164352	Zm00001d036031	K03456	-	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform
+100283785	GRMZM2G102858	Zm00001d046506	K03456	-	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform
+103638140	GRMZM2G122135	Zm00001d045482	K03456	-	serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform-like
+100383125	GRMZM2G142334	Zm00001d044393	K04354	-	Serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B beta isoform
+100191991	GRMZM2G165418	Zm00001d046214	K04354	-	serine/threonine protein phosphatase regulatory subunit Bbeta isoform
+100193694	GRMZM2G069631	Zm00001d053565	K04354	-	Serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B beta isoform
+100191387	GRMZM2G164185	Zm00001d011282	K04354	-	Serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B beta isoform
+100383610	GRMZM5G881044	Zm00001d017215	K04354	-	Serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B beta isoform
+109939829	-	-	K04354	-	serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B beta isoform-like
+103627289	-	-	K04354	-	serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B beta isoform-like
+103643458	GRMZM2G148323	Zm00001d032708	K11583	-	serine/threonine protein phosphatase 2A regulatory subunit B''beta
+100384234	GRMZM2G040094	Zm00001d053702	K11583	-	Serine/threonine protein phosphatase 2A regulatory subunit B''alpha
+100282304	GRMZM2G050800	-	K11583	-	phosphatase subunit g4-1
+100279229	GRMZM2G080083	Zm00001d015665	K11583	-	Serine/threonine protein phosphatase 2A regulatory subunit B''alpha
+100382292	-	Zm00001d003796	K11583	-	putative serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit TON2
+103641393	GRMZM2G083459	Zm00001d024857	K11583	-	probable serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit TON2
+103626168	GRMZM2G104254	Zm00001d014037	K11583	-	probable serine/threonine protein phosphatase 2A regulatory subunit B''delta
+103632474	-	Zm00001d019912	K11583	-	probable serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit TON2
+100282594	GRMZM2G181104	Zm00001d038944	K11584	-	Serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' iota isoform
+100280472	GRMZM2G003607	Zm00001d033370	K11584	-	Serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' beta isoform
+732821	GRMZM2G369912	Zm00001d034817	K11584	-	protein phosphatase 2A regulatory subunit B'
+103647628	GRMZM2G108991	Zm00001d006254	K11584	-	serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' alpha isoform
+103646298	GRMZM2G093720	Zm00001d003256	K11584	-	serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' theta isoform
+100273799	GRMZM2G028637	Zm00001d039625	K11584	-	Serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' iota isoform
+100501635	GRMZM2G058525	Zm00001d025714	K11584	-	Serine/threonine protein phosphatase 2A 59 kDa regulatory subunit B' eta isoform
+100382877	GRMZM2G106141	Zm00001d019363	K11584	-	Serine/threonine protein phosphatase 2A 59 kDa regulatory subunit B' eta isoform
+100279734	GRMZM2G049127	Zm00001d049642	K11584	-	Serine/threonine protein phosphatase 2A 59 kDa regulatory subunit B' eta isoform
+100279581	GRMZM2G013465	Zm00001d009500	K11584	-	uncharacterized LOC100279581
+100281610	GRMZM2G161222	Zm00001d013544	K11584	-	Serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' beta isoform
+103628994	GRMZM2G009661	Zm00001d035140	K11584	-	serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' theta isoform
+103652482	-	Zm00001d043447	K11584	-	serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' theta isoform-like
+103630073	GRMZM2G044442	Zm00001d037626	K11584	-	serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' iota isoform
+103647325	GRMZM2G147885	Zm00001d005501	K11584	-	serine/threonine protein phosphatase 2A 57 kDa regulatory subunit B' theta isoform-like
+103645758	GRMZM2G084252	Zm00001d001827	K14416	-	HBS1-like protein
+103642014	GRMZM2G458283	Zm00001d026213	K14416	-	HBS1-like protein
+103645815	GRMZM2G044011	Zm00001d001983	K06965	-	protein PELOTA 1

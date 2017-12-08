@@ -1,0 +1,36 @@
+ENTRY	NAME	FORMULA	EXACT_MASS	MOL_WEIGHT
+C00024	Acetyl-CoA; Acetyl coenzyme A	C23H38N7O17P3S	809.1258	809.5708
+C00026	2-Oxoglutarate; Oxoglutaric acid; 2-Ketoglutaric acid; alpha-Ketoglutaric acid	C5H6O5	146.0215	146.0981
+C00047	L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid	C6H14N2O2	146.1055	146.1876
+C00049	L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp	C4H7NO4	133.0375	133.1027
+C00263	L-Homoserine; 2-Amino-4-hydroxybutyric acid	C4H9NO3	119.0582	119.1192
+C00322	2-Oxoadipate; 2-Oxoadipic acid	C6H8O5	160.0372	160.1247
+C00441	L-Aspartate 4-semialdehyde; Aspartate beta-semialdehyde; L-Aspartic 4-semialdehyde	C4H7NO3	117.0426	117.1033
+C00449	N6-(L-1,3-Dicarboxypropyl)-L-lysine; Saccharopine; L-Saccharopine; N-[(S)-5-Amino-5-carboxypentyl]-L-glutamic acid	C11H20N2O6	276.1321	276.2863
+C00666	LL-2,6-Diaminoheptanedioate; LL-2,6-Diaminopimelate; LL-2,6-Diaminopimelic acid	C7H14N2O4	190.0954	190.1971
+C00680	meso-2,6-Diaminoheptanedioate; meso-2,6-Diaminopimelate; meso-2,6-Diaminopimelic acid; meso-Diaminoheptanedioate	C7H14N2O4	190.0954	190.1971
+C00956	L-2-Aminoadipate; L-alpha-Aminoadipate; L-alpha-Aminoadipic acid; L-2-Aminoadipic acid; L-2-Aminohexanedioate	C6H11NO4	161.0688	161.1558
+C01251	(R)-2-Hydroxybutane-1,2,4-tricarboxylate; Homocitrate; Homocitric acid; 3-Hydroxy-3-carboxyadipic acid; (R)-2-Hydroxy-1,2,4-butanetricarboxylic acid	C7H10O7	206.0427	206.1501
+C03082	4-Phospho-L-aspartate; L-4-Aspartyl phosphate	C4H8NO7P	213.0038	213.0826
+C03871	L-2-Amino-6-oxoheptanedioate; L-2-Amino-6-oxopimelate	C7H11NO5	189.0637	189.1659
+C03972	2,3,4,5-Tetrahydrodipicolinate; Delta1-Piperidine-2,6-dicarboxylate; L-2,3,4,5-Tetrahydrodipicolinate; (S)-2,3,4,5-Tetrahydropyridine-2,6-dicarboxylate	C7H9NO4	171.0532	171.1507
+C04002	(Z)-But-1-ene-1,2,4-tricarboxylate; Homo-cis-aconitate; cis-Homoaconitate; (Z)-1,2,4-But-1-enetricarboxylic acid	C7H8O6	188.0321	188.1348
+C04076	L-2-Aminoadipate 6-semialdehyde; 2-Aminoadipate 6-semialdehyde; L-Allysine; Allysine; (S)-2-Amino-6-oxohexanoate	C6H11NO3	145.0739	145.1564
+C04390	N6-Acetyl-LL-2,6-diaminoheptanedioate; N2-Acetyl-LL-2,6-diaminoheptanedioate; N6-Acetyl-LL-2,6-diaminopimelate; N2-Acetyl-LL-2,6-diaminopimelate; N6-Acetyl-L-2,6-diaminoheptanedioate; N6-Acetyl-L-2,6-diaminopimelate; N-Acetyl-LL-2,6-diaminoheptanedioate	C9H16N2O5	232.1059	232.2337
+C04421	N-Succinyl-LL-2,6-diaminoheptanedioate; N-Succinyl-LL-2,6-diaminopimelate; N-Succinyl-L-2,6-diaminoheptanedioate; N-Succinyl-L-2,6-diaminopimelate	C11H18N2O7	290.1114	290.2698
+C04462	N-Succinyl-2-L-amino-6-oxoheptanedioate; N-Succinyl-L-2-amino-6-oxoheptanedioate; N-Succinyl-L-2-amino-6-oxopimelate; N-Succinyl-2-amino-6-oxo-L-pimelic acid; N-Succinyl-epsilon-keto-L-aminopimelic acid; (S)-2-(Succinylamino)-6-oxoheptanedioate	C11H15NO8	289.0798	289.2387
+C04877	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate; UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptanedioate; UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptanedioate; UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate; UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diamino-heptanedioate	C35H55N7O26P2	1051.2672	1051.79
+C04882	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine; UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine; UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine	C41H65N9O28P2	1193.3414	1193.9458
+C05535	alpha-Aminoadipoyl-S-acyl enzyme; Aminoadip.-S	C6H10NO3SR	1193.3414	1193.9458
+C05539	N-Acetyl-L-2-amino-6-oxopimelate; L-2-Acetamido-6-oxoheptanedioate; L-2-Acetamido-6-oxopimelate	C9H13NO6	231.0743	231.2026
+C05560	L-2-Aminoadipate adenylate; 5-Adenylyl-2-aminoadipate; alpha-Aminoadipoyl-C6-AMP	C16H23N6O10P	490.1213	490.3618
+C05662	Homoisocitrate; 3-Carboxy-2-hydroxyadipate; (-)-1-Hydroxy-1,2,4-butanetricarboxylate; (1R,2S)-1-Hydroxybutane-1,2,4-tricarboxylate; (-)-threo-Homoisocitrate	C7H10O7	206.0427	206.1501
+C16138	L-Pyrrolysine; Pyrrolysine	C12H21N3O3	255.1583	255.3134
+C19886	LysW-gamma-L-alpha-aminoadipate; [LysW]-L-2-aminoadipate; [Lysine-biosynthesis-protein LysW]-C-terminal-gamma-(L-2-aminoadip-2-yl)-L-glutamate	C11H17N2O7R	255.1583	255.3134
+C19887	LysW-gamma-L-alpha-aminoadipyl 6-phosphate	C11H18N2O10PR	255.1583	255.3134
+C19888	LysW-gamma-L-alpha-aminoadipate 6-semialdehyde	C11H17N2O6R	255.1583	255.3134
+C19889	LysW-gamma-L-lysine	C11H20N3O5R	255.1583	255.3134
+C20258	(2S,4S)-4-Hydroxy-2,3,4,5-tetrahydrodipicolinate; (2S,4S)-4-Hydroxy-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate; HTPA	C7H9NO5	187.0481	187.1501
+C20277	(2R,3R)-3-Methylornithine; (3R)-3-Methyl-D-ornithine	C6H14N2O2	146.1055	146.1876
+C20278	(2R,3R)-3-Methylornithinyl-N6-lysine	C12H26N4O3	274.2005	274.3598
+C20279	(2R,3R)-3-Methylglutamyl-5-semialdehyde-N6-lysine	C12H23N3O4	273.1689	273.3287

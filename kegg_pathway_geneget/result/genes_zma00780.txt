@@ -1,0 +1,24 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100193451	GRMZM2G124335	Zm00001d006866	K09458	EC2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase II chloroplastic
+100383498	GRMZM2G152105	Zm00001d047255	K09458	EC2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase II chloroplastic
+100274137	GRMZM2G007757	Zm00001d015816	K09458	EC2.3.1.179	putative beta-ketoacyl synthase family protein
+100279707	GRMZM2G012863	Zm00001d045027	K09458	EC2.3.1.179	uncharacterized LOC100279707
+100280304	GRMZM2G072205	Zm00001d022144	K09458	EC2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase II chloroplastic
+100279917	-	-	K09458	EC2.3.1.179	uncharacterized LOC100279917
+100285342	-	-	K00059	EC1.1.1.100	uncharacterized LOC100285342
+100277126	-	-	K00059	EC1.1.1.100	uncharacterized LOC100277126
+103646607	GRMZM2G351023	Zm00001d004042	K00059	EC1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase 4-like
+100284513	-	-	K00059	EC1.1.1.100	estradiol 17-beta-dehydrogenase 8
+100273168	GRMZM2G099696	Zm00001d025201	K00059	EC1.1.1.100	fatty acid biosynthesis 1
+100285462	-	-	K00059	EC1.1.1.100	versicolorin reductase
+100274506	GRMZM2G043602	Zm00001d016550	K00059	EC1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase chloroplastic
+103631989	-	-	K00059	EC1.1.1.100	short-chain type dehydrogenase/reductase-like
+100283232	GRMZM2G055667	Zm00001d010180	K02372	EC4.2.1.59	beta-hydroxyacyl-ACP dehydratase
+100273566	GRMZM2G024482	Zm00001d049351	K02372	EC4.2.1.59	uncharacterized LOC100273566
+100193519	GRMZM2G070422	Zm00001d049975	K00208	EC1.3.1.10 1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] chloroplastic
+100192829	GRMZM2G079256	Zm00001d019926	K00208	EC1.3.1.10 1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] chloroplastic
+100191565	GRMZM2G110932	Zm00001d026689	K00652	EC2.3.1.47	8-amino-7-oxononanoate synthase
+100382888	GRMZM2G102156	Zm00001d024159	K19562	EC2.6.1.62 6.3.3.3	Bifunctional dethiobiotin synthetase/78-diamino-pelargonic acid aminotransferase mitochondrial
+100283818	GRMZM2G095400	Zm00001d052702	K01012	EC2.8.1.6	biotin synthase
+100194297	GRMZM2G452523	Zm00001d031691	K01012	EC2.8.1.6	uncharacterized LOC100194297
+103626660	GRMZM2G032280	Zm00001d015344	K01942	EC6.3.4.15 6.3.4.11 6.3.4.10 6.3.4.9	biotin--protein ligase 2

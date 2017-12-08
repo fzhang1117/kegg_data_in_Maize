@@ -1,0 +1,61 @@
+Entrez_id	Maize_v3	Maize_v4	KO	EC	Gene_description
+100283367	GRMZM2G047347	Zm00001d002694	K00826	EC2.6.1.42	branched-chain-amino-acid aminotransferase
+100281255	GRMZM2G153536	Zm00001d028303	K00826	EC2.6.1.42	branched-chain-amino-acid aminotransferase
+100192912	GRMZM2G055899	-	K00826	EC2.6.1.42	uncharacterized LOC100192912
+100191754	GRMZM2G071208	Zm00001d029848	K00826	EC2.6.1.42	Branched-chain-amino-acid aminotransferase
+109941803	-	-	K00826	EC2.6.1.42	branched-chain-amino-acid aminotransferase 5, chloroplastic-like
+100191513	GRMZM2G088689	Zm00001d023694	K00166	EC1.2.4.4	2-oxoisovalerate dehydrogenase subunit alpha 2 mitochondrial
+100273293	GRMZM2G037614	Zm00001d007892	K00167	EC1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta 1 mitochondrial
+100283617	GRMZM2G033644	Zm00001d040670	K09699	EC2.3.1.168	dihydrolipoyllysine-residue acetyltransferase component of pyruvatedehydrogenase complex
+103650140	GRMZM2G462140	Zm00001d040721	K00382	EC1.8.1.4	dihydrolipoyl dehydrogenase 1, mitochondrial
+100383599	GRMZM2G073774	Zm00001d009779	K00382	EC1.8.1.4	uncharacterized LOC100383599
+100501719	GRMZM2G335657	Zm00001d009163	K00382	EC1.8.1.4	Dihydrolipoyl dehydrogenase
+100381818	GRMZM2G145595	Zm00001d009212	K00382	EC1.8.1.4	dihydrolipoyl dehydrogenase
+103631417	GRMZM2G159570	Zm00001d037554	K00382	EC1.8.1.4	dihydrolipoyl dehydrogenase 1, mitochondrial
+100502333	GRMZM2G001297	Zm00001d007158	K00249	EC1.3.8.7	putative acyl-CoA dehydrogenase IBR3
+100382372	GRMZM2G052630	Zm00001d010970	K00253	EC1.3.8.4	uncharacterized LOC100382372
+100217040	GRMZM2G381051	Zm00001d035475	K00253	EC1.3.8.4	isovaleryl-CoA dehydrogenase
+100192501	GRMZM5G848768	Zm00001d018487	K07513	EC2.3.1.16	acetyl-CoA C-acyltransferase-like protein
+103653241	-	Zm00001d049882	K07513	EC2.3.1.16	3-ketoacyl-CoA thiolase 2, peroxisomal-like
+100193233	-	-	K07513	EC2.3.1.16	uncharacterized LOC100193233
+100274263	GRMZM2G110201	Zm00001d014093	K07513	EC2.3.1.16	uncharacterized LOC100274263
+100283686	-	Zm00001d021132	K05605	EC3.1.2.4	CHY1
+100283920	GRMZM2G042818	Zm00001d043490	K05605	EC3.1.2.4	3-hydroxyisobutyryl-CoA hydrolase/ catalytic
+100283469	GRMZM2G181227	Zm00001d023779	K05605	EC3.1.2.4	CHY1
+103649476	GRMZM2G115630	Zm00001d007732	K05605	EC3.1.2.4	probable 3-hydroxyisobutyryl-CoA hydrolase 3
+103648212	GRMZM2G034153	Zm00001d007726	K05605	EC3.1.2.4	probable 3-hydroxyisobutyryl-CoA hydrolase 3
+103648215	GRMZM2G000092	-	K05605	EC3.1.2.4	3-hydroxyisobutyryl-CoA hydrolase 1
+100382650	GRMZM2G107741	Zm00001d029860	K05605	EC3.1.2.4	3-hydroxyisobutyryl-CoA hydrolase-like protein 2 mitochondrial
+100272777	GRMZM2G047564	Zm00001d046456	K05605	EC3.1.2.4	3-hydroxyisobutyryl-CoA hydrolase-like protein 3 mitochondrial
+100283587	GRMZM2G014813	Zm00001d014383	K00020	EC1.1.1.31	3-hydroxyisobutyrate dehydrogenase
+100274311	GRMZM2G001898	Zm00001d019054	K00140	EC1.2.1.27 1.2.1.18	uncharacterized LOC100274311
+100281700	GRMZM2G060800	Zm00001d000116	K00128	EC1.2.1.3	aldehyde dehydrogenase, dimeric NADP-preferring
+732806	GRMZM2G058675	Zm00001d045706	K00128	EC1.2.1.3	restorer of fertility 2
+100284774	GRMZM2G155502	Zm00001d025958	K00128	EC1.2.1.3	aldehyde dehydrogenase 3B1
+100382449	GRMZM2G118800	Zm00001d004731	K00128	EC1.2.1.3	Aldehyde dehydrogenase
+542567	GRMZM2G125268	Zm00001d051754	K00128	EC1.2.1.3	aldehyde dehydrogenase 2
+100285809	GRMZM2G103546	Zm00001d023580	K00128	EC1.2.1.3	aldehyde dehydrogenase, dimeric NADP-preferring
+100280692	GRMZM2G169458	Zm00001d017418	K00128	EC1.2.1.3	uncharacterized LOC100280692
+103646581	-	Zm00001d003983	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1
+100282748	GRMZM2G130440	Zm00001d005818	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1
+103641646	-	Zm00001d025417	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1-like
+103653517	-	Zm00001d050495	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1-like
+103634912	-	Zm00001d008814	K14085	EC1.2.1.3 1.2.1.8 1.2.1.31	aldehyde dehydrogenase family 7 member A1-like
+100282439	GRMZM2G460078	Zm00001d043376	K18660	EC6.2.1.-	Long-chain-fatty-acid-CoA ligase-like protein
+103631778	GRMZM2G124353	Zm00001d027861	K00827	EC2.6.1.40 2.6.1.44	alanine--glyoxylate aminotransferase 2 homolog 1, mitochondrial
+100384690	GRMZM2G107739	Zm00001d038460	K00827	EC2.6.1.40 2.6.1.44	uncharacterized LOC100384690
+100279249	GRMZM2G030571	Zm00001d029083	K00827	EC2.6.1.40 2.6.1.44	uncharacterized LOC100279249
+103652550	GRMZM2G010211	Zm00001d043951	K00827	EC2.6.1.40 2.6.1.44	alanine--glyoxylate aminotransferase 2 homolog 3, mitochondrial-like
+100280665	GRMZM2G019926	Zm00001d031013	K01968	EC6.4.1.4	methylcrotonoyl-CoA carboxylase subunit alpha
+100281617	GRMZM2G702490	Zm00001d050336	K01969	EC6.4.1.4	Methylcrotonoyl-CoA carboxylase beta chain mitochondrial
+100284299	GRMZM2G094655	Zm00001d017459	K05607	EC4.2.1.18	methylglutaconyl-CoA hydratase
+100193689	GRMZM2G175071	Zm00001d008271	K01640	EC4.1.3.4	hydroxymethylglutaryl-CoA lyase
+100283677	GRMZM2G095141	Zm00001d052444	K01640	EC4.1.3.4	uncharacterized LOC100283677
+100274017	GRMZM5G860137	Zm00001d008432	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 2
+100282283	GRMZM5G866758	Zm00001d029416	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+101202696	GRMZM2G085474	Zm00001d031212	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+103640265	GRMZM5G830250	Zm00001d047224	K00626	EC2.3.1.9	acetyl-CoA acetyltransferase, cytosolic 1
+103647599	-	Zm00001d006166	K01641	EC2.3.3.10	hydroxymethylglutaryl-CoA synthase
+100272824	-	Zm00001d021201	K01641	EC2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+100384769	GRMZM2G087207	Zm00001d027383	K01641	EC2.3.3.10	putative hydroxymethylglutaryl-CoA synthase family protein
+100285783	GRMZM2G106263	Zm00001d048494	K01641	EC2.3.3.10	hydroxymethylglutaryl-CoA synthase
